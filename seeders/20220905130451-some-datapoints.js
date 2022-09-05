@@ -18,6 +18,8 @@ module.exports = {
         xCoordinate: -0.0799211,
         name: "Fake Museum",
         category: "museum",
+        createdAt: new Date(),
+        updatedAt: new Date(),
       },
       {
         locationId: 1,
@@ -25,6 +27,8 @@ module.exports = {
         xCoordinate: -0.0799211,
         name: "Fake Museum",
         category: "museum",
+        createdAt: new Date(),
+        updatedAt: new Date(),
       },
       {
         locationId: 1,
@@ -32,6 +36,8 @@ module.exports = {
         xCoordinate: -0.0799211,
         name: "Fake Museum",
         category: "museum",
+        createdAt: new Date(),
+        updatedAt: new Date(),
       },
       {
         locationId: 1,
@@ -39,6 +45,8 @@ module.exports = {
         xCoordinate: -0.0799211,
         name: "Fake Museum",
         category: "museum",
+        createdAt: new Date(),
+        updatedAt: new Date(),
       },
     ]);
   },
