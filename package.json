@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Atubak/vacation-finder-backend#readme",
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "pg": "^8.8.0",
     "sequelize": "^6.21.4",
     "sequelize-cli": "^6.4.1"
