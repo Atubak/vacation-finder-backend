@@ -1,0 +1,6347 @@
+[
+  {
+    "item": "http://www.wikidata.org/entity/Q45107",
+    "itemLabel": "Angelina",
+    "geo": [
+      2.32808333,
+      48.86516667
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q83463",
+    "itemLabel": "Caffè Fiorio",
+    "geo": [
+      7.688097222,
+      45.069394444
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q119168",
+    "itemLabel": "Café Kranzler",
+    "geo": [
+      13.3308,
+      52.5042
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q181729",
+    "itemLabel": "Grand Café",
+    "geo": [
+      10.73933333,
+      59.91377778
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q228926",
+    "itemLabel": "Coffe Baum",
+    "geo": [
+      12.3729,
+      51.3411
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q269481",
+    "itemLabel": "Café Prückel",
+    "geo": [
+      16.3804,
+      48.2076
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q315379",
+    "itemLabel": "Romanisches Café",
+    "geo": [
+      13.3345,
+      52.5053
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q521045",
+    "itemLabel": "Café Slavia",
+    "geo": [
+      14.413258,
+      50.08182
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q575012",
+    "itemLabel": "Antico Caffè Greco",
+    "geo": [
+      12.481436,
+      41.905558
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q624311",
+    "itemLabel": "Arabisches Café",
+    "geo": [
+      6.7825,
+      51.2192
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q641473",
+    "itemLabel": "Café de Fornos, Madrid",
+    "geo": [
+      -3.699533,
+      40.417981
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q652299",
+    "itemLabel": "Café des Westens",
+    "geo": [
+      13.331,
+      52.504
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q672804",
+    "itemLabel": "Jama Michalika",
+    "geo": [
+      19.94094167,
+      50.06413333
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q701982",
+    "itemLabel": "Café Mayer",
+    "geo": [
+      17.10843333,
+      48.14322778
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q751293",
+    "itemLabel": "Café Procope",
+    "geo": [
+      2.33875,
+      48.853055555
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q759261",
+    "itemLabel": "Auermühle",
+    "geo": [
+      6.88111,
+      51.3067
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q785041",
+    "itemLabel": "Café Gondrée",
+    "geo": [
+      -0.274972222,
+      49.242416666
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q881270",
+    "itemLabel": "Café Josty",
+    "geo": [
+      13.3736,
+      52.51
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q919751",
+    "itemLabel": "The Bitter End",
+    "geo": [
+      -73.9992,
+      40.7283
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q960610",
+    "itemLabel": "Caffè Florian",
+    "geo": [
+      12.338208333,
+      45.433675
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1018198",
+    "itemLabel": "Button's Coffee House",
+    "geo": [
+      -0.1217,
+      51.51235
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1025502",
+    "itemLabel": "Cafe Kies",
+    "geo": [
+      11.6682,
+      52.0697
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1025546",
+    "itemLabel": "Paszkowski",
+    "geo": [
+      11.2539,
+      43.7718
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1025547",
+    "itemLabel": "Caffè Giubbe Rosse",
+    "geo": [
+      11.253975,
+      43.77115
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1025549",
+    "itemLabel": "Caffè Tommaseo",
+    "geo": [
+      13.769095,
+      45.651323
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1025570",
+    "itemLabel": "Kavárna Arco",
+    "geo": [
+      14.43243056,
+      50.08713333
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1025571",
+    "itemLabel": "Café Bauer",
+    "geo": [
+      8.67854,
+      50.1133
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1025572",
+    "itemLabel": "Café Bauer",
+    "geo": [
+      13.3891,
+      52.5167
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1025574",
+    "itemLabel": "Café Bazar",
+    "geo": [
+      13.0439,
+      47.8019
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1025575",
+    "itemLabel": "Café Bauer",
+    "geo": [
+      12.3779,
+      51.3358
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1025576",
+    "itemLabel": "Café Bonorand",
+    "geo": [
+      12.3688,
+      51.3481
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1025589",
+    "itemLabel": "Café Donnersberg",
+    "geo": [
+      13.7407,
+      51.0592
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1025594",
+    "itemLabel": "Cafe Einstein Stammhaus",
+    "geo": [
+      13.354732,
+      52.502105
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1025595",
+    "itemLabel": "Café Einstein Unter den Linden",
+    "geo": [
+      13.386,
+      52.5172
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1025601",
+    "itemLabel": "Café Felsche",
+    "geo": [
+      12.3797,
+      51.3393
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1025608",
+    "itemLabel": "Café Gijón",
+    "geo": [
+      -3.692364,
+      40.422242
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1025611",
+    "itemLabel": "Café Guerbois",
+    "geo": [
+      2.326773251,
+      48.884457597
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1025612",
+    "itemLabel": "Q1025612",
+    "geo": [
+      7.54984,
+      50.3447
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1025613",
+    "itemLabel": "Café Hausberg",
+    "geo": [
+      13.8728,
+      51.014
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1025615",
+    "itemLabel": "Cafe Hélms",
+    "geo": [
+      13.4001,
+      52.5161
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1025619",
+    "itemLabel": "Cafe Jasmin",
+    "geo": [
+      11.563694444,
+      48.15
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1025623",
+    "itemLabel": "Café Keese",
+    "geo": [
+      9.96639,
+      53.55014
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1025630",
+    "itemLabel": "Q1025630",
+    "geo": [
+      8.66237,
+      50.118
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1025633",
+    "itemLabel": "Café Luitpold",
+    "geo": [
+      11.575,
+      48.143
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1025644",
+    "itemLabel": "Café Mozart",
+    "geo": [
+      13.0426,
+      47.8002
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1025648",
+    "itemLabel": "Q1025648",
+    "geo": [
+      10.5355,
+      52.2632
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1025650",
+    "itemLabel": "Café Novelty",
+    "geo": [
+      -5.663711,
+      40.965329
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1025653",
+    "itemLabel": "Café Orient",
+    "geo": [
+      8.21912,
+      50.0957
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1025660",
+    "itemLabel": "Café Reale",
+    "geo": [
+      13.7425,
+      51.0531
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1025667",
+    "itemLabel": "Café Stefanie",
+    "geo": [
+      11.5767,
+      48.1478
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1025671",
+    "itemLabel": "Q1025671",
+    "geo": [
+      14.28722222,
+      48.30444444
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1025674",
+    "itemLabel": "Café Tortoni",
+    "geo": [
+      -58.378306099,
+      -34.608789305
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1025676",
+    "itemLabel": "Café Wildau",
+    "geo": [
+      13.6504,
+      52.907
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1025680",
+    "itemLabel": "Zemanova kavárna",
+    "geo": [
+      16.613444444,
+      49.197597222
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1025684",
+    "itemLabel": "Café de Oriente",
+    "geo": [
+      -3.711603,
+      40.417736
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1025686",
+    "itemLabel": "Café de Flore",
+    "geo": [
+      2.3325,
+      48.853889
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1025693",
+    "itemLabel": "Café de la Régence",
+    "geo": [
+      2.342579,
+      48.859863
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1092410",
+    "itemLabel": "Cinema Condes",
+    "geo": [
+      -9.141739,
+      38.716717
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1099873",
+    "itemLabel": "Q1099873",
+    "geo": [
+      19.062304499,
+      47.504295894
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1127356",
+    "itemLabel": "Ladó Café",
+    "geo": [
+      19.067998,
+      47.49746
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1147912",
+    "itemLabel": "Les Deux Magots",
+    "geo": [
+      2.333056,
+      48.853889
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1434050",
+    "itemLabel": "Flugzeugcafé Preußisch Oldendorf",
+    "geo": [
+      8.097718,
+      52.09691
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1441258",
+    "itemLabel": "Closerie des Lilas",
+    "geo": [
+      2.33604,
+      48.8401
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1590621",
+    "itemLabel": "Haus Vaterland",
+    "geo": [
+      13.3772,
+      52.5081
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1737363",
+    "itemLabel": "Scottish Café",
+    "geo": [
+      24.03245278,
+      49.83572222
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1915088",
+    "itemLabel": "Q1915088",
+    "geo": [
+      5.910425,
+      51.982171
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1977544",
+    "itemLabel": "Neon",
+    "geo": [
+      23.72864444,
+      37.98460556
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2075141",
+    "itemLabel": "Q2075141",
+    "geo": [
+      4.71167,
+      52.01183
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2153460",
+    "itemLabel": "Ring-Café",
+    "geo": [
+      12.3804,
+      51.3359
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2168610",
+    "itemLabel": "Rothe Mühle",
+    "geo": [
+      10.8153,
+      51.8606
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2256413",
+    "itemLabel": "Q2256413",
+    "geo": [
+      12.3675,
+      51.3494
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2287307",
+    "itemLabel": "De Bogt fen Guné, Franeker",
+    "geo": [
+      5.53823,
+      53.1862
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2328585",
+    "itemLabel": "Q2328585",
+    "geo": [
+      3.727361,
+      51.048778
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2334312",
+    "itemLabel": "Municipal House",
+    "geo": [
+      14.42824,
+      50.08762
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2335251",
+    "itemLabel": "Dorpsstraat 17, Ouderkerk aan den IJssel",
+    "geo": [
+      4.634297,
+      51.935569
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2382361",
+    "itemLabel": "Café de la Gare",
+    "geo": [
+      2.3524656,
+      48.8573719
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2458137",
+    "itemLabel": "Grote Markt 42 (Groningen)",
+    "geo": [
+      6.56758,
+      53.21813
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2461154",
+    "itemLabel": "Q2461154",
+    "geo": [
+      4.289008,
+      51.489928
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2547006",
+    "itemLabel": "Café A Brasileira",
+    "geo": [
+      -9.142047,
+      38.710692
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2593762",
+    "itemLabel": "Café des 2 Moulins",
+    "geo": [
+      2.33361111,
+      48.88493056
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2739545",
+    "itemLabel": "Pedrocchi Café",
+    "geo": [
+      11.87722222,
+      45.40777778
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2782675",
+    "itemLabel": "Neues Haus (Hannover)",
+    "geo": [
+      9.753295,
+      52.37743
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2836371",
+    "itemLabel": "Fru Petersens Café",
+    "geo": [
+      14.99739,
+      55.13655
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2845894",
+    "itemLabel": "Motte Montferland",
+    "geo": [
+      6.242358,
+      51.895814
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2892984",
+    "itemLabel": "Babington's tea room",
+    "geo": [
+      12.4823,
+      41.906
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2932912",
+    "itemLabel": "Caffè Aragno",
+    "geo": [
+      12.479983,
+      41.902443
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2932914",
+    "itemLabel": "Gilli",
+    "geo": [
+      11.2543,
+      43.7719
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2932919",
+    "itemLabel": "Caffè Gambrinus, Naples",
+    "geo": [
+      14.248444444,
+      40.836722222
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2932926",
+    "itemLabel": "Caffè Quadri",
+    "geo": [
+      12.33806,
+      45.43442
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2932940",
+    "itemLabel": "Café Bibent",
+    "geo": [
+      1.44341,
+      43.6038
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2932968",
+    "itemLabel": "Tortoni",
+    "geo": [
+      2.336917,
+      48.87162
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2932969",
+    "itemLabel": "Café Voltaire",
+    "geo": [
+      2.338881,
+      48.850072
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2932974",
+    "itemLabel": "café de Buci",
+    "geo": [
+      2.33847,
+      48.8538
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2932977",
+    "itemLabel": "Café Zimmermann",
+    "geo": [
+      12.3751,
+      51.3418
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2932985",
+    "itemLabel": "Café de la Paix",
+    "geo": [
+      -1.1522,
+      46.1626
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2932993",
+    "itemLabel": "Café des Phares",
+    "geo": [
+      2.36826,
+      48.8536
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2932996",
+    "itemLabel": "Café du Cadran",
+    "geo": [
+      2.33257,
+      48.869
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2932997",
+    "itemLabel": "Café du Croissant",
+    "geo": [
+      2.34328,
+      48.8692
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3208231",
+    "itemLabel": "Café A Brasileira",
+    "geo": [
+      -8.609297,
+      41.1469533
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3208239",
+    "itemLabel": "Café Majestic",
+    "geo": [
+      -8.606553,
+      41.147169
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3208551",
+    "itemLabel": "Café A Brasileira",
+    "geo": [
+      -8.423536,
+      41.550858
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3211300",
+    "itemLabel": "La Palette",
+    "geo": [
+      2.33687,
+      48.8554
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3257512",
+    "itemLabel": "Lloyd's Coffee House",
+    "geo": [
+      -0.087,
+      51.5125
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3643086",
+    "itemLabel": "Bottegone",
+    "geo": [
+      11.255675,
+      43.77356944
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3649592",
+    "itemLabel": "Q3649592",
+    "geo": [
+      9.32679167,
+      44.31595833
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3649595",
+    "itemLabel": "Q3649595",
+    "geo": [
+      13.778955,
+      45.64773
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3649612",
+    "itemLabel": "Q3649612",
+    "geo": [
+      7.681118,
+      45.062182
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3949256",
+    "itemLabel": "Santa Tecla (club)",
+    "geo": [
+      9.1929388,
+      45.46259135
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4405171",
+    "itemLabel": "Saigon Café",
+    "geo": [
+      30.348333333,
+      59.932444444
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4711938",
+    "itemLabel": "College Street Coffee House",
+    "geo": [
+      88.36179722,
+      22.57615
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4857936",
+    "itemLabel": "Bar Italia",
+    "geo": [
+      -0.1313484,
+      51.5133868
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4985436",
+    "itemLabel": "Buena Vista Cafe",
+    "geo": [
+      -122.420782,
+      37.806528
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4989606",
+    "itemLabel": "Café De Unie",
+    "geo": [
+      4.4725,
+      51.91917
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5015241",
+    "itemLabel": "Cabaret Concert Theatre",
+    "geo": [
+      -118.2824,
+      34.0938
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5017146",
+    "itemLabel": "Caffe Mediterraneum",
+    "geo": [
+      -122.258,
+      37.8656
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5017150",
+    "itemLabel": "Caffe Reggio",
+    "geo": [
+      -74.0003,
+      40.7303
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5017151",
+    "itemLabel": "Caffe Trieste",
+    "geo": [
+      -122.407,
+      37.7987
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5017189",
+    "itemLabel": "Caffè Lavena",
+    "geo": [
+      12.33848,
+      45.43457
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5017199",
+    "itemLabel": "Caffé Vita Coffee Roasting Company",
+    "geo": [
+      -122.31902,
+      47.614004
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5017216",
+    "itemLabel": "Café Allegro",
+    "geo": [
+      -122.313,
+      47.6585
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5017237",
+    "itemLabel": "Café Comercial",
+    "geo": [
+      -3.70205556,
+      40.42863889
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5017239",
+    "itemLabel": "Café Hafa",
+    "geo": [
+      -5.8218,
+      35.7915
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5293466",
+    "itemLabel": "Don Saltero's",
+    "geo": [
+      -0.1661,
+      51.4839
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5307746",
+    "itemLabel": "Drinkmore Cafe",
+    "geo": [
+      -122.326,
+      47.6206
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5327835",
+    "itemLabel": "East Beach Cafe",
+    "geo": [
+      -0.532491,
+      50.8029
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5468805",
+    "itemLabel": "Forest Café",
+    "geo": [
+      -3.1899,
+      55.9461
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5473046",
+    "itemLabel": "Forum Cafeteria",
+    "geo": [
+      -93.2732,
+      44.9775
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5563355",
+    "itemLabel": "Giolitti",
+    "geo": [
+      12.47733,
+      41.90107
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5599342",
+    "itemLabel": "Great House Barn",
+    "geo": [
+      -2.562,
+      53.62
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5739055",
+    "itemLabel": "La Giralda",
+    "geo": [
+      -58.387319,
+      -34.60373
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5739134",
+    "itemLabel": "Q5739134",
+    "geo": [
+      -3.59817,
+      37.1723
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5739141",
+    "itemLabel": "Q5739141",
+    "geo": [
+      -3.70253611,
+      40.416625
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5739144",
+    "itemLabel": "Café de Pombo (Madrid, Spain)",
+    "geo": [
+      -3.703275,
+      40.41602222
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5739155",
+    "itemLabel": "Café Suizo",
+    "geo": [
+      -3.69964722,
+      40.4176
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5739159",
+    "itemLabel": "Q5739159",
+    "geo": [
+      -3.70240278,
+      40.41707778
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5739192",
+    "itemLabel": "Café de García",
+    "geo": [
+      -58.510737,
+      -34.606394
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5739208",
+    "itemLabel": "Q5739208",
+    "geo": [
+      -3.70226389,
+      40.41684722
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5782924",
+    "itemLabel": "Confitería Ideal",
+    "geo": [
+      -58.379831,
+      -34.603935
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5939175",
+    "itemLabel": "Peter Café Sport",
+    "geo": [
+      -28.6267818,
+      38.5295513
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5946116",
+    "itemLabel": "Cafe Naderi",
+    "geo": [
+      51.416555555,
+      35.694722222
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5946853",
+    "itemLabel": "Aladren Jewelry",
+    "geo": [
+      -0.88068,
+      41.65465
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5954426",
+    "itemLabel": "Queen's Lane Coffee House",
+    "geo": [
+      -1.25044,
+      51.7527
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5964968",
+    "itemLabel": "La Puerto Rico",
+    "geo": [
+      -58.372363,
+      -34.610371
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5979239",
+    "itemLabel": "Los 36 Billares",
+    "geo": [
+      -58.384356,
+      -34.60914
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6098442",
+    "itemLabel": "Ivar Matlaus",
+    "geo": [
+      10.42201389,
+      63.43835278
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6436508",
+    "itemLabel": "Krazy Kat Klub",
+    "geo": [
+      -77.031,
+      38.904
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6467706",
+    "itemLabel": "Labworth Café",
+    "geo": [
+      0.59459,
+      51.5118
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6553463",
+    "itemLabel": "Café Las Violetas",
+    "geo": [
+      -58.420856,
+      -34.611148
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6581803",
+    "itemLabel": "Café California",
+    "geo": [
+      34.77361111,
+      32.07952778
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6586732",
+    "itemLabel": "Café Rowell",
+    "geo": [
+      34.77375,
+      32.08033333
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6757577",
+    "itemLabel": "Café Groppi",
+    "geo": [
+      31.238122,
+      30.0476341
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6757577",
+    "itemLabel": "Café Groppi",
+    "geo": [
+      31.238122,
+      30.047634111
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6866455",
+    "itemLabel": "Café Riche",
+    "geo": [
+      31.238229,
+      30.046938
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6880607",
+    "itemLabel": "Q6880607",
+    "geo": [
+      34.76725,
+      32.078361111
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6901928",
+    "itemLabel": "Monorail Espresso",
+    "geo": [
+      -122.335,
+      47.6111
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6906244",
+    "itemLabel": "Montreal, arts interculturels",
+    "geo": [
+      -73.576216666,
+      45.511502777
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7006839",
+    "itemLabel": "New Deal Cafe",
+    "geo": [
+      -76.87653,
+      39.00135
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7009192",
+    "itemLabel": "Lorenz Cafe",
+    "geo": [
+      34.766305,
+      32.059114
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7024318",
+    "itemLabel": "Q7024318",
+    "geo": [
+      34.77288889,
+      32.07136111
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7102558",
+    "itemLabel": "Original Pantry Cafe",
+    "geo": [
+      -118.26292,
+      34.046397
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7140615",
+    "itemLabel": "Partisan Coffee House",
+    "geo": [
+      -0.13382,
+      51.5148
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7171806",
+    "itemLabel": "Pete's Eats Cafe",
+    "geo": [
+      -4.1271,
+      53.1215
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7304105",
+    "itemLabel": "Red Emma's",
+    "geo": [
+      -76.614225,
+      39.29890556
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7305267",
+    "itemLabel": "Red and Black Cafe",
+    "geo": [
+      -122.653,
+      45.5204
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7458172",
+    "itemLabel": "Seward Community Cafe",
+    "geo": [
+      -93.241155,
+      44.962596
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7721614",
+    "itemLabel": "The Cat's Whisker",
+    "geo": [
+      -0.138611,
+      51.5121
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7758051",
+    "itemLabel": "The Premises Studios",
+    "geo": [
+      -0.0715833,
+      51.5312
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7759129",
+    "itemLabel": "The Quorum",
+    "geo": [
+      -90.0592,
+      29.9631
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7802817",
+    "itemLabel": "Tilley's",
+    "geo": [
+      149.124,
+      -35.2519
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7930350",
+    "itemLabel": "Villa Hannala",
+    "geo": [
+      25.4375,
+      65.029722222
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8073520",
+    "itemLabel": "Zoka Coffee Roaster & Tea Company",
+    "geo": [
+      -122.373,
+      47.6556
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9018816",
+    "itemLabel": "Bar La Perla",
+    "geo": [
+      -58.405538,
+      -34.609824
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9199780",
+    "itemLabel": "Czuły Barbarzyńca",
+    "geo": [
+      21.0272,
+      52.2386
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9672601",
+    "itemLabel": "Q9672601",
+    "geo": [
+      -9.1401849,
+      38.7143009
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9672613",
+    "itemLabel": "Q9672613",
+    "geo": [
+      -43.17745,
+      -22.9339177
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9672628",
+    "itemLabel": "Café Vianna",
+    "geo": [
+      -8.42335,
+      41.55134167
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9672655",
+    "itemLabel": "Café Águias de Ouro",
+    "geo": [
+      -7.58708,
+      38.842515
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q10326949",
+    "itemLabel": "Café Martinho da Arcada",
+    "geo": [
+      -9.135888,
+      38.708699
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q10439352",
+    "itemLabel": "Q10439352",
+    "geo": [
+      18.03136111,
+      59.333
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q10654620",
+    "itemLabel": "Rialto",
+    "geo": [
+      18.05594444,
+      59.34386111
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q10707851",
+    "itemLabel": "Tysta Mari",
+    "geo": [
+      18.0617,
+      59.3289
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q10940854",
+    "itemLabel": "Tianma Tea House",
+    "geo": [
+      121.512,
+      25.054
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q11087103",
+    "itemLabel": "Palác Elektra",
+    "geo": [
+      18.2877534,
+      49.8340256
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q11240392",
+    "itemLabel": "Q11240392",
+    "geo": [
+      139.760888888,
+      35.670722222
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q11316176",
+    "itemLabel": "Tazza D'Oro",
+    "geo": [
+      -79.9188,
+      40.4747
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q11330452",
+    "itemLabel": "Berg",
+    "geo": [
+      139.70107,
+      35.69184
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q11619945",
+    "itemLabel": "Q11619945",
+    "geo": [
+      142.360833333,
+      43.338055555
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q11857235",
+    "itemLabel": "Q11857235",
+    "geo": [
+      24.93778889,
+      60.16475278
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q11910489",
+    "itemLabel": "Cafè Monumental",
+    "geo": [
+      2.156925,
+      41.39850556
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12029033",
+    "itemLabel": "Café Era",
+    "geo": [
+      16.6192,
+      49.2106
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12244698",
+    "itemLabel": "El Fishawy café",
+    "geo": [
+      31.262265,
+      30.04746
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12305023",
+    "itemLabel": "Q12305023",
+    "geo": [
+      12.53219,
+      55.67718
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12305024",
+    "itemLabel": "Café Bernina",
+    "geo": [
+      12.5746,
+      55.6786
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12305026",
+    "itemLabel": "Café Hack",
+    "geo": [
+      10.211,
+      56.1562
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12305029",
+    "itemLabel": "Café Ketchup",
+    "geo": [
+      12.5805,
+      55.6803
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12305030",
+    "itemLabel": "Café Sommersko",
+    "geo": [
+      12.5791,
+      55.6806
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12305031",
+    "itemLabel": "Q12305031",
+    "geo": [
+      12.5747,
+      55.704
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12305035",
+    "itemLabel": "Q12305035",
+    "geo": [
+      10.0329,
+      56.4606
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12317164",
+    "itemLabel": "Holte Havn",
+    "geo": [
+      12.4685,
+      55.8099
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12321302",
+    "itemLabel": "Q12321302",
+    "geo": [
+      36.7136,
+      -1.345
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12331890",
+    "itemLabel": "Q12331890",
+    "geo": [
+      10.211519444,
+      56.156102777
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12333557",
+    "itemLabel": "Ris Ras Filliongongong",
+    "geo": [
+      10.212253564,
+      56.158422293
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12364649",
+    "itemLabel": "Q12364649",
+    "geo": [
+      24.7053,
+      59.3827
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12367212",
+    "itemLabel": "Q12367212",
+    "geo": [
+      26.721094,
+      58.380443
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12408523",
+    "itemLabel": "Café Kassit",
+    "geo": [
+      34.77366667,
+      32.08102778
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12770318",
+    "itemLabel": "Lví dvůr",
+    "geo": [
+      14.3985928,
+      50.0929036
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12842023",
+    "itemLabel": "Q12842023",
+    "geo": [
+      49.842295,
+      40.367663
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12879005",
+    "itemLabel": "Athénée Athens",
+    "geo": [
+      23.7359,
+      37.9772
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12879006",
+    "itemLabel": "Q12879006",
+    "geo": [
+      14.42766,
+      50.082407
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12879008",
+    "itemLabel": "Café Imperial, Prague",
+    "geo": [
+      14.432861,
+      50.089867
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12879009",
+    "itemLabel": "Café Louvre, Prague",
+    "geo": [
+      14.418599,
+      50.082014
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12879009",
+    "itemLabel": "Café Louvre, Prague",
+    "geo": [
+      14.41888905,
+      50.08194351
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q14704654",
+    "itemLabel": "Lake McDonald Lodge Coffee Shop",
+    "geo": [
+      -113.876435,
+      48.617683
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q14850075",
+    "itemLabel": "De Seinpost",
+    "geo": [
+      4.27579,
+      52.10915
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q14906517",
+    "itemLabel": "Caffè degli Specchi",
+    "geo": [
+      13.76832222,
+      45.6502
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q14955993",
+    "itemLabel": "Q14955993",
+    "geo": [
+      24.6996,
+      59.3805
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q15108545",
+    "itemLabel": "Café Corso (Salzburg)",
+    "geo": [
+      13.0490144,
+      47.8005488
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q15221133",
+    "itemLabel": "Freud",
+    "geo": [
+      -1.26478,
+      51.75946
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q15272240",
+    "itemLabel": "Regency Café",
+    "geo": [
+      -0.132195,
+      51.494001
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q15272755",
+    "itemLabel": "Café Pushkin",
+    "geo": [
+      37.6037872,
+      55.7623118
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q15857030",
+    "itemLabel": "Café New York",
+    "geo": [
+      19.07055556,
+      47.49833333
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q15911268",
+    "itemLabel": "Taichung Shiyakusho",
+    "geo": [
+      120.67906944,
+      24.13843889
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q15945188",
+    "itemLabel": "Café de la paix (Valréas)",
+    "geo": [
+      4.98786,
+      44.3832
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q15945588",
+    "itemLabel": "Café Milani",
+    "geo": [
+      8.67972222,
+      50.11416667
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q15980263",
+    "itemLabel": "ascii",
+    "geo": [
+      13.72316,
+      51.02515
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q16128428",
+    "itemLabel": "Q16128428",
+    "geo": [
+      44.3875,
+      33.34333333
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q16141820",
+    "itemLabel": "Café A Brasileira",
+    "geo": [
+      -8.42889578,
+      40.20865542
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q16412643",
+    "itemLabel": "Maiasmokk",
+    "geo": [
+      24.745475,
+      59.43816667
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q16534580",
+    "itemLabel": "Caffè Gnocchi",
+    "geo": [
+      9.207616,
+      45.464901
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q16535985",
+    "itemLabel": "Bar Britanico",
+    "geo": [
+      -58.371075,
+      -34.62521
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q16627189",
+    "itemLabel": "Caffè Bardi",
+    "geo": [
+      10.311,
+      43.5479
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q16861591",
+    "itemLabel": "Blue Barber Shop",
+    "geo": [
+      130.368166,
+      32.791547
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q16896241",
+    "itemLabel": "Original Starbucks",
+    "geo": [
+      -122.34261,
+      47.61013
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q17123948",
+    "itemLabel": "Q17123948",
+    "geo": [
+      12.998753,
+      50.258418
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q17131199",
+    "itemLabel": "Café du Rhône",
+    "geo": [
+      4.841,
+      45.7581
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q17144463",
+    "itemLabel": "Tango Café",
+    "geo": [
+      -79.923155,
+      40.429588
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q17228156",
+    "itemLabel": "Café Paulista",
+    "geo": [
+      139.761484,
+      35.668087
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q17228157",
+    "itemLabel": "Café Lion",
+    "geo": [
+      139.765009,
+      35.670776
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q17291689",
+    "itemLabel": "Oostelijke Handelskade 44, Amsterdam",
+    "geo": [
+      4.93629,
+      52.37398
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q17305044",
+    "itemLabel": "Le Café Marly",
+    "geo": [
+      2.33561,
+      48.86176
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q17310692",
+    "itemLabel": "Café Weinberg",
+    "geo": [
+      13.732222,
+      51.016111
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q17511523",
+    "itemLabel": "La Giaconda",
+    "geo": [
+      -0.129567,
+      51.5151
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q17526214",
+    "itemLabel": "Mol's Coffee House",
+    "geo": [
+      -3.52994,
+      50.7234
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q17535078",
+    "itemLabel": "Cafe Blanchfleur",
+    "geo": [
+      1.15734,
+      52.0592
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q17570278",
+    "itemLabel": "Dumfries, 24 Castle Street",
+    "geo": [
+      -3.61343,
+      55.0708
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q17793524",
+    "itemLabel": "Edinburgh, 70 - 71 Princes Street, Edinburgh Cafe",
+    "geo": [
+      -3.19596,
+      55.9524
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q17805789",
+    "itemLabel": "Tayport, 36 William Street, Tayport Cafe",
+    "geo": [
+      -2.88147,
+      56.4485
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q17809803",
+    "itemLabel": "Edinburgh, Cramond, 4, 5 Riverside, Cramond Cafe",
+    "geo": [
+      -3.30072,
+      55.9797
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q17838909",
+    "itemLabel": "Dunkeld, Atholl Street, Atholl Cafe",
+    "geo": [
+      -3.5854,
+      56.5662
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q17854092",
+    "itemLabel": "Lewis, Callanish, Tea Rooms",
+    "geo": [
+      -6.74496,
+      58.1988
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q18018939",
+    "itemLabel": "Q18018939",
+    "geo": [
+      2.337295,
+      48.853898
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q18018940",
+    "itemLabel": "Café Resi",
+    "geo": [
+      11.330915,
+      50.980059
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q18160553",
+    "itemLabel": "Lisboa Patisserie",
+    "geo": [
+      -0.207475,
+      51.5223
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q18214244",
+    "itemLabel": "Café des Aveugles",
+    "geo": [
+      2.33879396,
+      48.865935395
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q18648895",
+    "itemLabel": "Cereal Killer Cafe",
+    "geo": [
+      -0.0716,
+      51.52391
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q18660427",
+    "itemLabel": "Lahnajärven rest area",
+    "geo": [
+      23.7012425,
+      60.3721549
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q18808434",
+    "itemLabel": "Café Fantasy",
+    "geo": [
+      41.625361,
+      41.650074
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q18814015",
+    "itemLabel": "Q18814015",
+    "geo": [
+      6.81341,
+      53.37256
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q18913085",
+    "itemLabel": "Cafe Regatta",
+    "geo": [
+      24.911725,
+      60.180161111
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q19278981",
+    "itemLabel": "Krudttønden",
+    "geo": [
+      12.57466,
+      55.70542
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q19703159",
+    "itemLabel": "Café Âncora d'Ouro",
+    "geo": [
+      -8.616552,
+      41.146846
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q19945491",
+    "itemLabel": "Café le Sébastopol (Granges-sur-Lot)",
+    "geo": [
+      0.465555555,
+      44.376666666
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q19962124",
+    "itemLabel": "Q19962124",
+    "geo": [
+      10.53063,
+      52.26604
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q20057632",
+    "itemLabel": "Q20057632",
+    "geo": [
+      16.59555,
+      49.1995278
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q20083774",
+    "itemLabel": "Café des chiens blancs",
+    "geo": [
+      4.3641,
+      47.8431
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q20424692",
+    "itemLabel": "Shabandar Cafe",
+    "geo": [
+      44.38805556,
+      33.34027778
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q20502824",
+    "itemLabel": "Q20502824",
+    "geo": [
+      34.77511389,
+      32.101275
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q20650556",
+    "itemLabel": "Marienhöhe",
+    "geo": [
+      7.138388888,
+      53.707027777
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q20754278",
+    "itemLabel": "Café Brant (Strasbourg)",
+    "geo": [
+      7.761793,
+      48.585931
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q20755448",
+    "itemLabel": "Q20755448",
+    "geo": [
+      14.4313889,
+      50.0772222
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q20859660",
+    "itemLabel": "Café Iruña",
+    "geo": [
+      -2.92854722,
+      43.26261111
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q20908817",
+    "itemLabel": "Café de Madrid",
+    "geo": [
+      -3.7005,
+      40.41689722
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q20908818",
+    "itemLabel": "Café Lion d'Or",
+    "geo": [
+      -3.698925,
+      40.41795
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q20908859",
+    "itemLabel": "Café Barbieri",
+    "geo": [
+      -3.70098611,
+      40.40929722
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q21015636",
+    "itemLabel": "Café La Granja",
+    "geo": [
+      -2.92714333,
+      43.26157639
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q21027207",
+    "itemLabel": "Café de la mairie de Château-Gontier",
+    "geo": [
+      -0.7073,
+      47.827
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q21592188",
+    "itemLabel": "British Coffee House",
+    "geo": [
+      -0.1299,
+      51.5074
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q21639014",
+    "itemLabel": "Lutheran Church of Saint Piter houses",
+    "geo": [
+      30.323153,
+      59.936113
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q21656696",
+    "itemLabel": "Café Amokka",
+    "geo": [
+      12.5806,
+      55.69581
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q21658059",
+    "itemLabel": "Le Pont traversé",
+    "geo": [
+      2.331799053,
+      48.848557195
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q21710338",
+    "itemLabel": "Café Stærkodder",
+    "geo": [
+      12.5920868,
+      55.6736157
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q21855744",
+    "itemLabel": "Café Nick",
+    "geo": [
+      12.58244,
+      55.67803
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q21855761",
+    "itemLabel": "Kanal Cafeen",
+    "geo": [
+      12.57666,
+      55.6744
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q21917313",
+    "itemLabel": "Café Dan Turèll",
+    "geo": [
+      12.58155,
+      55.6815
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q21936663",
+    "itemLabel": "Café Klaptræet",
+    "geo": [
+      12.57358,
+      55.68228
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q22330084",
+    "itemLabel": "Cafe Mondegar",
+    "geo": [
+      72.832126,
+      18.924158
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q22674527",
+    "itemLabel": "Café Continental",
+    "geo": [
+      9.738532,
+      52.374181
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q22920960",
+    "itemLabel": "3 rue Étienne-Marcel, Paris",
+    "geo": [
+      2.350556,
+      48.863611
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q22920962",
+    "itemLabel": "91 rue Saint-Denis - 79 rue Rambuteau, Paris",
+    "geo": [
+      2.349444,
+      48.862222
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q22921176",
+    "itemLabel": "Café-Bar, 143 rue Saint-Denis",
+    "geo": [
+      2.350278,
+      48.864444
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q22921255",
+    "itemLabel": "105 rue du Temple, Paris",
+    "geo": [
+      2.3575,
+      48.862222
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q22922068",
+    "itemLabel": "Bistrot du Peintre",
+    "geo": [
+      2.3775,
+      48.853333
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q22922156",
+    "itemLabel": "Aviatic Bar",
+    "geo": [
+      2.292933,
+      48.835687
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q22922166",
+    "itemLabel": "Hôtel Eiffel Seine",
+    "geo": [
+      2.288889,
+      48.854444
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q22922207",
+    "itemLabel": "Le Petit Rétro",
+    "geo": [
+      2.285,
+      48.869167
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q22922282",
+    "itemLabel": "Q22922282",
+    "geo": [
+      2.337222,
+      48.8825
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q22922519",
+    "itemLabel": "Marteau House",
+    "geo": [
+      2.696346,
+      48.401585
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q22923145",
+    "itemLabel": "Café Saint-Rémy",
+    "geo": [
+      2.7045,
+      48.8216
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q22933238",
+    "itemLabel": "Café américain",
+    "geo": [
+      3.3322444,
+      46.5679583
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q22933275",
+    "itemLabel": "Grand café de Moulins",
+    "geo": [
+      3.3308028,
+      46.5644056
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q22952862",
+    "itemLabel": "Brasserie du Commerce",
+    "geo": [
+      6.02528,
+      47.23861
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q22953990",
+    "itemLabel": "Café Plana",
+    "geo": [
+      2.7294,
+      43.2845
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q22959617",
+    "itemLabel": "Café des Arcades",
+    "geo": [
+      5.550853,
+      48.887316
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q22964940",
+    "itemLabel": "Q22964940",
+    "geo": [
+      4.1061,
+      47.4245
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q22967002",
+    "itemLabel": "Café des Arts",
+    "geo": [
+      5.7522,
+      44.8195
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q22975911",
+    "itemLabel": "Café de la Bourse",
+    "geo": [
+      4.297038,
+      46.952175
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q22976852",
+    "itemLabel": "Q22976852",
+    "geo": [
+      3.0393,
+      43.368
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q22979866",
+    "itemLabel": "Q22979866",
+    "geo": [
+      3.217026,
+      50.701819
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q22979867",
+    "itemLabel": "Q22979867",
+    "geo": [
+      3.219372,
+      50.699706
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q22986648",
+    "itemLabel": "Cavaillon - immeuble place clos",
+    "geo": [
+      5.03606,
+      43.83492
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q22996252",
+    "itemLabel": "Restaurant",
+    "geo": [
+      6.3611,
+      47.3518
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q22997366",
+    "itemLabel": "Q22997366",
+    "geo": [
+      0.090139,
+      48.43125
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q22997697",
+    "itemLabel": "Café de la Loge de Salses-le-Château",
+    "geo": [
+      2.919505,
+      42.8340796
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q24025888",
+    "itemLabel": "Blue Willow Café",
+    "geo": [
+      -112.0733964,
+      33.5066764
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q24025889",
+    "itemLabel": "Fair Trade Café",
+    "geo": [
+      -112.0743067,
+      33.4594583
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q24041846",
+    "itemLabel": "Q24041846",
+    "geo": [
+      13.378761,
+      52.552417
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q24170561",
+    "itemLabel": "Ruche verrière",
+    "geo": [
+      4.448111111,
+      50.431277777
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q24229388",
+    "itemLabel": "St. Oberholz",
+    "geo": [
+      13.40178,
+      52.52946
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q24341266",
+    "itemLabel": "Café de l'Òpera",
+    "geo": [
+      2.173766666,
+      41.380908333
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q24877394",
+    "itemLabel": "Q24877394",
+    "geo": [
+      14.4189592,
+      50.0824519
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q24941343",
+    "itemLabel": "Caffè Martini",
+    "geo": [
+      9.189972,
+      45.467223
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q25489624",
+    "itemLabel": "Café Margoa",
+    "geo": [
+      35.103333333,
+      32.801722222
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q25491276",
+    "itemLabel": "Q25491276",
+    "geo": [
+      34.788361111,
+      31.23725
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q25507781",
+    "itemLabel": "Q25507781",
+    "geo": [
+      24.498690349,
+      58.374012729
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q26317832",
+    "itemLabel": "23 And 25, Eastcheap Ec3",
+    "geo": [
+      -0.08413273,
+      51.51081813
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q26484238",
+    "itemLabel": "Cafe Royal",
+    "geo": [
+      -1.191955,
+      54.47031
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q26491330",
+    "itemLabel": "Cafe 89",
+    "geo": [
+      -2.714464,
+      52.055453
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q26504502",
+    "itemLabel": "Jireh House",
+    "geo": [
+      -1.499666,
+      50.705849
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q26505230",
+    "itemLabel": "Cafe Bar",
+    "geo": [
+      -2.883016,
+      53.568335
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q26532709",
+    "itemLabel": "Route 2",
+    "geo": [
+      -3.464336,
+      50.681274
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q26556142",
+    "itemLabel": "Wetton Mill Cafe",
+    "geo": [
+      -1.858758,
+      53.102098
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q26584384",
+    "itemLabel": "The Dalesman Cafe",
+    "geo": [
+      -2.10596,
+      53.983289
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q26585145",
+    "itemLabel": "30 and 31, High Street",
+    "geo": [
+      -3.031028,
+      52.203156
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q26591608",
+    "itemLabel": "The Painswick Pooch",
+    "geo": [
+      -2.194114,
+      51.786512
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q26602506",
+    "itemLabel": "Bramblewick Cafe",
+    "geo": [
+      -0.532487,
+      54.430443
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q26659969",
+    "itemLabel": "Cafe On Lakeside Approximately 20 Metres West Of Boathouse Adjacent To Lakeside Inn",
+    "geo": [
+      -3.005117,
+      53.653725
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q26674873",
+    "itemLabel": "Stockport Museum in Vernon Park",
+    "geo": [
+      -2.141436,
+      53.411953
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q26774277",
+    "itemLabel": "Café Nimrod",
+    "geo": [
+      12.714416666,
+      50.009694444
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q26794408",
+    "itemLabel": "Café Nicola (Lisbon)",
+    "geo": [
+      -9.13971,
+      38.713034
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q26818514",
+    "itemLabel": "Café Nutid",
+    "geo": [
+      12.57139,
+      55.67979
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q26912693",
+    "itemLabel": "Café Katz",
+    "geo": [
+      12.57513,
+      55.67597
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q27602995",
+    "itemLabel": "Q27602995",
+    "geo": [
+      4.2289,
+      47.2792
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q27671572",
+    "itemLabel": "Din nye ven",
+    "geo": [
+      12.567280555,
+      55.678830555
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q27927511",
+    "itemLabel": "Pressed",
+    "geo": [
+      -75.70534,
+      45.40703
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q27981116",
+    "itemLabel": "Café Amalie",
+    "geo": [
+      12.50267,
+      55.77088
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q28031563",
+    "itemLabel": "Q28031563",
+    "geo": [
+      16.2424,
+      47.8127
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q28403115",
+    "itemLabel": "Café Terminus",
+    "geo": [
+      2.325538201,
+      48.875631208
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q28405732",
+    "itemLabel": "Jean Cocteau Cinema",
+    "geo": [
+      -105.946666666,
+      35.685
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q28494431",
+    "itemLabel": "Le Rostand",
+    "geo": [
+      2.340274786,
+      48.847803157
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q28495864",
+    "itemLabel": "Les Deux Garçons",
+    "geo": [
+      5.450477777,
+      43.527094444
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q28656899",
+    "itemLabel": "Q28656899",
+    "geo": [
+      4.895417,
+      52.368056
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q28791184",
+    "itemLabel": "Q28791184",
+    "geo": [
+      10.012777777,
+      53.558888888
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q28804296",
+    "itemLabel": "SOJO",
+    "geo": [
+      139.72338,
+      35.7083
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q28804296",
+    "itemLabel": "SOJO",
+    "geo": [
+      139.723423,
+      35.708267
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q29482555",
+    "itemLabel": "Former Assembly Room and Market House, Conrad House",
+    "geo": [
+      -2.6744617,
+      51.642042
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q29482557",
+    "itemLabel": "6&7 Beaufort Square",
+    "geo": [
+      -2.6745094,
+      51.64233
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q29482559",
+    "itemLabel": "9, Beaufort Square, Chepstow",
+    "geo": [
+      -2.6749592,
+      51.642453
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q29484649",
+    "itemLabel": "Aber Cafe, Smithfield Street",
+    "geo": [
+      -3.8847636,
+      52.743853
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q29502904",
+    "itemLabel": "Caffi'r Cyfnod",
+    "geo": [
+      -3.597559,
+      52.910716
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q29503397",
+    "itemLabel": "Caffi Maes",
+    "geo": [
+      -4.2753348,
+      53.13977
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q30038525",
+    "itemLabel": "Q30038525",
+    "geo": [
+      10.41312,
+      45.22077
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q30063711",
+    "itemLabel": "Summer café in the Spa Park in Jastrzębie-Zdrój",
+    "geo": [
+      18.56731,
+      49.9503
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q30146310",
+    "itemLabel": "Gut Wulfshagen",
+    "geo": [
+      10.0151995,
+      54.3891992
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q31086378",
+    "itemLabel": "Villa Ullas",
+    "geo": [
+      25.134849,
+      60.200499
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q31522697",
+    "itemLabel": "Props",
+    "geo": [
+      12.56,
+      55.6877
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q31786861",
+    "itemLabel": "Coffeehouse Union",
+    "geo": [
+      14.53675,
+      50.6844244
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q31862961",
+    "itemLabel": "Riegrova 25",
+    "geo": [
+      14.47723,
+      48.97848
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q33310955",
+    "itemLabel": "Q33310955",
+    "geo": [
+      14.5570089,
+      50.9526664
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q34349702",
+    "itemLabel": "House Gespinstmarkt 29",
+    "geo": [
+      9.61554,
+      47.78176
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q37737924",
+    "itemLabel": "Fuggergasse 2",
+    "geo": [
+      11.708904,
+      47.344831
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q37831718",
+    "itemLabel": "Q37831718",
+    "geo": [
+      16.366978,
+      48.194242
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q37839663",
+    "itemLabel": "Cortisches Kaffeehaus",
+    "geo": [
+      16.360933,
+      48.206854
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q38027879",
+    "itemLabel": "Q38027879",
+    "geo": [
+      13.094279,
+      47.68258
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q38191479",
+    "itemLabel": "Q38191479",
+    "geo": [
+      15.8791836,
+      49.2162517
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q38281267",
+    "itemLabel": "Brinkmann",
+    "geo": [
+      4.63615,
+      52.38167
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q40310164",
+    "itemLabel": "56, Corn Street",
+    "geo": [
+      -2.59336,
+      51.45469
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41149379",
+    "itemLabel": "Café Granja El Henar",
+    "geo": [
+      -3.69721111,
+      40.41827778
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41322761",
+    "itemLabel": "Café",
+    "geo": [
+      10.66712,
+      49.97178
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41793044",
+    "itemLabel": "Q41793044",
+    "geo": [
+      8.810025,
+      53.072665
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q42614489",
+    "itemLabel": "Literaturnoye Kafe",
+    "geo": [
+      30.318249,
+      59.936557
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q46637335",
+    "itemLabel": "Le Domjohn Bar",
+    "geo": [
+      4.997427,
+      45.839067
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q46719869",
+    "itemLabel": "Scheltema",
+    "geo": [
+      4.890391666,
+      52.372083333
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q46999655",
+    "itemLabel": "restaurant du Midi",
+    "geo": [
+      4.998539,
+      45.839311
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q47052870",
+    "itemLabel": "Penguin",
+    "geo": [
+      35.093741,
+      33.006499
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q47117291",
+    "itemLabel": "Die Kiste",
+    "geo": [
+      13.6094,
+      52.5361
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q47437961",
+    "itemLabel": "Q47437961",
+    "geo": [
+      -3.70200556,
+      40.41723611
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q47471773",
+    "itemLabel": "Q47471773",
+    "geo": [
+      -3.694025,
+      40.42371111
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q47472245",
+    "itemLabel": "Q47472245",
+    "geo": [
+      -3.702691944,
+      40.429246944
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q47490581",
+    "itemLabel": "Q47490581",
+    "geo": [
+      -3.69146944,
+      40.41978889
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q47497985",
+    "itemLabel": "Kino & Café am Ufer",
+    "geo": [
+      13.373489,
+      52.551176
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q47502518",
+    "itemLabel": "Q47502518",
+    "geo": [
+      -3.69183611,
+      40.42316389
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q49348237",
+    "itemLabel": "Hauptstraße 64",
+    "geo": [
+      14.664808,
+      50.895778
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q50805115",
+    "itemLabel": "Café des Délices",
+    "geo": [
+      10.351344,
+      36.870069
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q51616732",
+    "itemLabel": "Q51616732",
+    "geo": [
+      12.50355,
+      55.77071
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q51844440",
+    "itemLabel": "Casa Piccola, Vienna",
+    "geo": [
+      16.360762,
+      48.201753
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q52158829",
+    "itemLabel": "L’Anticafé, Lyon",
+    "geo": [
+      4.83539,
+      45.76616
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q53228380",
+    "itemLabel": "Veletržní kino",
+    "geo": [
+      16.5825106,
+      49.1893019
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q53673342",
+    "itemLabel": "Alsur Café, Llúria",
+    "geo": [
+      2.17132,
+      41.39101
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q55023990",
+    "itemLabel": "Zeman's café and sweet-shop",
+    "geo": [
+      16.611779661,
+      49.193093803
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q55061771",
+    "itemLabel": "Maracay Coffee",
+    "geo": [
+      13.38373,
+      52.50362
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q55078453",
+    "itemLabel": "Fazer commercial",
+    "geo": [
+      24.94787488,
+      60.16854505
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q55078453",
+    "itemLabel": "Fazer commercial",
+    "geo": [
+      24.9477958,
+      60.1686365
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q55121647",
+    "itemLabel": "Cervecería Alemana, Madrid",
+    "geo": [
+      -3.700513888,
+      40.414622222
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q55154854",
+    "itemLabel": "Restaurante Pelicano",
+    "geo": [
+      -15.57808,
+      11.85906
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q55638015",
+    "itemLabel": "Y Service Station and Cafe",
+    "geo": [
+      -98.97972222,
+      35.4825
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q55695850",
+    "itemLabel": "Q55695850",
+    "geo": [
+      12.58928,
+      55.74975
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q55759152",
+    "itemLabel": "Cafe Welling",
+    "geo": [
+      4.877266666,
+      52.355972222
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q55865230",
+    "itemLabel": "Q55865230",
+    "geo": [
+      11.45329,
+      49.20378
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q55966225",
+    "itemLabel": "Truth Coffee",
+    "geo": [
+      18.422694444,
+      -33.928222222
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q56050281",
+    "itemLabel": "The Africa Cafe",
+    "geo": [
+      18.4155453,
+      -33.920539
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q56085053",
+    "itemLabel": "Clayton Hotel Birmingham",
+    "geo": [
+      -1.890718709,
+      52.480968
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q56085075",
+    "itemLabel": "Clayton Hotel Belfast",
+    "geo": [
+      -5.930481,
+      54.59299
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q56244744",
+    "itemLabel": "Café Shakespeare & Company",
+    "geo": [
+      2.34719,
+      48.85246
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q56244998",
+    "itemLabel": "Cafe Mig og Annie",
+    "geo": [
+      12.50427,
+      55.76968
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q56350199",
+    "itemLabel": "Plażowa",
+    "geo": [
+      21.042794444,
+      52.237861111
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q56405834",
+    "itemLabel": "Corso-Café",
+    "geo": [
+      9.73823,
+      52.37478
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q56557751",
+    "itemLabel": "Talgarten-Lichtspiele",
+    "geo": [
+      8.72575,
+      47.5017
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q56599533",
+    "itemLabel": "Q56599533",
+    "geo": [
+      5.0008,
+      47.266
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q56599588",
+    "itemLabel": "Grand Hôtel Le Broussy",
+    "geo": [
+      2.5722,
+      44.3474
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q56620473",
+    "itemLabel": "Oak Cafe, 11 Bank Street, Mid Calder",
+    "geo": [
+      -3.4807523,
+      55.892486
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q56629484",
+    "itemLabel": "Volcano Cafe, 62, 64 Crossgate, Cupar",
+    "geo": [
+      -3.0117528,
+      56.317815
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q56635425",
+    "itemLabel": "Lido Cafe, 10-12 Gordon Street, Huntly",
+    "geo": [
+      -2.7868175,
+      57.446727
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q56642929",
+    "itemLabel": "Colinatrum",
+    "geo": [
+      -8.42831,
+      41.54598
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q56647569",
+    "itemLabel": "The Central Cafe, 17 George Street, Whithorn",
+    "geo": [
+      -4.4152005,
+      54.733888
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q56695398",
+    "itemLabel": "Cafe Herzoghof",
+    "geo": [
+      16.35554,
+      48.06864
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q56759840",
+    "itemLabel": "Chai Thung Coffee",
+    "geo": [
+      100.6943925,
+      14.0033923
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q56826635",
+    "itemLabel": "Confitería Castelar",
+    "geo": [
+      -58.382712,
+      -34.609477
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q57065928",
+    "itemLabel": "Big Bites Cafe",
+    "geo": [
+      103.764361111,
+      1.456555555
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q58172679",
+    "itemLabel": "Café Grundmann",
+    "geo": [
+      12.369416666,
+      51.325111111
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q58213334",
+    "itemLabel": "Paviljoen De Posbank",
+    "geo": [
+      6.021833333,
+      52.029416666
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q58395126",
+    "itemLabel": "Q58395126",
+    "geo": [
+      8.70239,
+      54.322893
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q58481453",
+    "itemLabel": "Pellegrini's Espresso Bar",
+    "geo": [
+      144.971194444,
+      -37.811722222
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q58930687",
+    "itemLabel": "Livresse",
+    "geo": [
+      6.14259,
+      46.196463
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q59247001",
+    "itemLabel": "Q59247001",
+    "geo": [
+      4.356,
+      43.8376
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q59957759",
+    "itemLabel": "Old Village Cafe",
+    "geo": [
+      0.0166706,
+      51.379399
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q60038178",
+    "itemLabel": "Former Picture House Cinema",
+    "geo": [
+      -0.203097,
+      54.088995
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q60221065",
+    "itemLabel": "GONZO",
+    "geo": [
+      12.54377,
+      55.69293
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q60441312",
+    "itemLabel": "Caffè Pasticceria Balzola",
+    "geo": [
+      8.17205,
+      44.00559
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q60640483",
+    "itemLabel": "Captain + Stoker",
+    "geo": [
+      -121.891679,
+      36.5994
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q60733138",
+    "itemLabel": "Bavaria-Varieté",
+    "geo": [
+      7.14587,
+      51.25525
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q60797030",
+    "itemLabel": "Tivoli",
+    "geo": [
+      9.74753,
+      52.3749
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q60807925",
+    "itemLabel": "Stadsschaal",
+    "geo": [
+      2.7224,
+      50.85521
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q60813858",
+    "itemLabel": "Café Retiro",
+    "geo": [
+      -58.375004,
+      -34.5916651
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q60907195",
+    "itemLabel": "Frøken Friis",
+    "geo": [
+      12.50458,
+      55.77659
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q61396366",
+    "itemLabel": "Café Tuljak",
+    "geo": [
+      24.806697222,
+      59.448436111
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q61418337",
+    "itemLabel": "Bevar's",
+    "geo": [
+      12.56201,
+      55.68844
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q61463454",
+    "itemLabel": "Barcode Cafe",
+    "geo": [
+      91.824358,
+      22.365184
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q61740349",
+    "itemLabel": "Krispy Kreme",
+    "geo": [
+      -115.175078,
+      36.098837
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q61758980",
+    "itemLabel": "Café Vettro",
+    "geo": [
+      -115.176674,
+      36.108276
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q61759147",
+    "itemLabel": "ARIA Patisserie",
+    "geo": [
+      -115.176582,
+      36.107352
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q63038952",
+    "itemLabel": "Kleinkunstbühne Viktoria Luise",
+    "geo": [
+      10.52562,
+      52.26274
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q63063857",
+    "itemLabel": "Q63063857",
+    "geo": [
+      12.909888888,
+      50.238166666
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q63168650",
+    "itemLabel": "Paludan Bog & Café",
+    "geo": [
+      12.57322,
+      55.68052
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q63253420",
+    "itemLabel": "Esperanto restaurant and cafe in Białystok",
+    "geo": [
+      23.15833,
+      53.13234
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q63349559",
+    "itemLabel": "Sülüklü Inn",
+    "geo": [
+      40.23744,
+      37.91157
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q63392036",
+    "itemLabel": "Zætteberg Coffee & Wine",
+    "geo": [
+      12.504,
+      55.77159
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q64176579",
+    "itemLabel": "Cafe Engel",
+    "geo": [
+      8.86958,
+      54.93429
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q64224622",
+    "itemLabel": "Café des Oiseaux",
+    "geo": [
+      5.15983,
+      48.77354
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q64358034",
+    "itemLabel": "One House Bakery",
+    "geo": [
+      -122.1571111,
+      38.0515532
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q65062524",
+    "itemLabel": "Two Dollar Radio Headquarters",
+    "geo": [
+      -82.98291,
+      39.940623
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q65095488",
+    "itemLabel": "Cafe Eden",
+    "geo": [
+      103.199694,
+      13.103051
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q65230564",
+    "itemLabel": "Q65230564",
+    "geo": [
+      141.559166666,
+      43.113583333
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q65356760",
+    "itemLabel": "Café Tramvaj",
+    "geo": [
+      14.426669,
+      50.081972
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q65552587",
+    "itemLabel": "Q65552587",
+    "geo": [
+      10.39253,
+      55.3972
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q65665536",
+    "itemLabel": "Starbucks Reserve Roastery Tokyo",
+    "geo": [
+      139.69267,
+      35.64917
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q65677719",
+    "itemLabel": "Café Pudding",
+    "geo": [
+      7.89999,
+      53.79321
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q66591506",
+    "itemLabel": "Cafe Holberg no 19",
+    "geo": [
+      12.5904,
+      55.67866
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q66680665",
+    "itemLabel": "Q66680665",
+    "geo": [
+      49.374747222,
+      53.475683333
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q66725315",
+    "itemLabel": "Zalencentrum Theothorne",
+    "geo": [
+      6.10108,
+      52.05176
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q66813849",
+    "itemLabel": "Café Aliança (Faro)",
+    "geo": [
+      -7.934628,
+      37.016125
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q66814985",
+    "itemLabel": "Café Central",
+    "geo": [
+      -8.684326171,
+      39.235618591
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q66816045",
+    "itemLabel": "Mercado Velho de Machico",
+    "geo": [
+      -16.764128,
+      32.717878
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q66913377",
+    "itemLabel": "Sunrise Coffeehouse",
+    "geo": [
+      103.196349,
+      13.10255
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q66942093",
+    "itemLabel": "Igreja de São João das Donas",
+    "geo": [
+      -8.42884,
+      40.2108
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q67375962",
+    "itemLabel": "Caffè Platti",
+    "geo": [
+      7.674594,
+      45.064655
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q67508978",
+    "itemLabel": "Cristallo",
+    "geo": [
+      10.2251417,
+      43.8925271
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q67941242",
+    "itemLabel": "Nurmijärvi Museum Cafe",
+    "geo": [
+      24.80876,
+      60.458845
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q68290696",
+    "itemLabel": "Horchatería de Santa Catalina",
+    "geo": [
+      -0.37613,
+      39.47406
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q68324649",
+    "itemLabel": "Café und Technisches Rathaus",
+    "geo": [
+      8.403333333,
+      49.009361111
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q68606671",
+    "itemLabel": "Market House",
+    "geo": [
+      -117.918844,
+      33.8109
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q68806227",
+    "itemLabel": "Jolly Holiday Bakery Cafe",
+    "geo": [
+      -117.919366,
+      33.811599
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q72726588",
+    "itemLabel": "Eden-Arkadia",
+    "geo": [
+      12.37958,
+      51.33515
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q73501916",
+    "itemLabel": "Q73501916",
+    "geo": [
+      23.74148,
+      37.98996
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q74581860",
+    "itemLabel": "Café Muttern",
+    "geo": [
+      18.063277777,
+      59.332197222
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q75380563",
+    "itemLabel": "Fiddler, Fifer & Practical Cafe",
+    "geo": [
+      -117.919354,
+      33.807947
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q75468697",
+    "itemLabel": "Schmoozies!",
+    "geo": [
+      -117.917658,
+      33.807745
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q75612315",
+    "itemLabel": "Le Café neuf",
+    "geo": [
+      5.685987,
+      45.760335
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q75683454",
+    "itemLabel": "Pacific Wharf Café",
+    "geo": [
+      -117.920097,
+      33.8059
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q76064077",
+    "itemLabel": "Mint Julep Bar",
+    "geo": [
+      -117.92162,
+      33.811202
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q77994056",
+    "itemLabel": "River Cottage Cafe",
+    "geo": [
+      175.145588,
+      -40.768772
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q78366989",
+    "itemLabel": "Cafè Espanyol",
+    "geo": [
+      2.16945,
+      41.375111111
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q79684482",
+    "itemLabel": "Banx Cafe Bar",
+    "geo": [
+      -3.525798655,
+      50.462889547
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q79755835",
+    "itemLabel": "Bäckerei Schmidl, Dürnstein",
+    "geo": [
+      15.520606,
+      48.395089
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q80307238",
+    "itemLabel": "Otonari Stand and Works",
+    "geo": [
+      139.711473,
+      35.751472
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q81440566",
+    "itemLabel": "Demens Café",
+    "geo": [
+      9.444286111,
+      55.502122222
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q81638232",
+    "itemLabel": "BABY TAPI",
+    "geo": [
+      135.49838889,
+      34.67230556
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q83617420",
+    "itemLabel": "TAPISTA",
+    "geo": [
+      139.70369444,
+      35.64813889
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q84256583",
+    "itemLabel": "Handsome Her",
+    "geo": [
+      144.961244,
+      -37.772935
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q84603118",
+    "itemLabel": "Q84603118",
+    "geo": [
+      13.363055555,
+      52.497638888
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q85851957",
+    "itemLabel": "Specs' Twelve Adler Museum Cafe",
+    "geo": [
+      -122.405993888,
+      37.797658055
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q87429859",
+    "itemLabel": "Café Belén",
+    "geo": [
+      -3.696694444,
+      40.42425
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q88383283",
+    "itemLabel": "Pink Cloud",
+    "geo": [
+      135.436944444,
+      34.668138888
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q88403235",
+    "itemLabel": "Café au Lion d'Or",
+    "geo": [
+      2.39603,
+      48.80344
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q88719003",
+    "itemLabel": "Café de la Station",
+    "geo": [
+      2.54225,
+      48.82361
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q88965315",
+    "itemLabel": "Café Zum süßen Löchle",
+    "geo": [
+      7.87404,
+      48.34162
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q89132014",
+    "itemLabel": "Valkyrien Restaurant",
+    "geo": [
+      10.7167,
+      59.92946
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q90360840",
+    "itemLabel": "Dawson Saloon",
+    "geo": [
+      -98.20223,
+      32.219577
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q91013264",
+    "itemLabel": "The Loovre",
+    "geo": [
+      -2.006796,
+      55.770599
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q92310300",
+    "itemLabel": "Q92310300",
+    "geo": [
+      4.495788787,
+      46.744722174
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q92310340",
+    "itemLabel": "Q92310340",
+    "geo": [
+      4.513872577,
+      46.758984386
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q92310463",
+    "itemLabel": "Q92310463",
+    "geo": [
+      4.578839009,
+      46.807461468
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q92310656",
+    "itemLabel": "Q92310656",
+    "geo": [
+      4.967551565,
+      46.877819218
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q92310736",
+    "itemLabel": "Q92310736",
+    "geo": [
+      4.68017284,
+      46.890320066
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q92310986",
+    "itemLabel": "Q92310986",
+    "geo": [
+      5.286974278,
+      46.920302435
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q92311089",
+    "itemLabel": "Q92311089",
+    "geo": [
+      5.240367301,
+      46.956079233
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q92311097",
+    "itemLabel": "Q92311097",
+    "geo": [
+      5.172287986,
+      46.956566242
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q93932210",
+    "itemLabel": "Breads On Oak",
+    "geo": [
+      -90.134927,
+      29.95104
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q94142816",
+    "itemLabel": "10-11 Westmoreland Street, Dublin",
+    "geo": [
+      -6.2595,
+      53.346
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q94143709",
+    "itemLabel": "Bewley's Café",
+    "geo": [
+      -6.2604,
+      53.34168
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q95693837",
+    "itemLabel": "Q95693837",
+    "geo": [
+      10.56684722,
+      47.13696906
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q95969377",
+    "itemLabel": "Modigliani Traditional Coffeehouse & Meze",
+    "geo": [
+      22.942178,
+      40.635914
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q96146826",
+    "itemLabel": "Q96146826",
+    "geo": [
+      4.83148,
+      45.77667
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q96474837",
+    "itemLabel": "Café Verona",
+    "geo": [
+      26.09946014,
+      44.443045091
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q96476702",
+    "itemLabel": "Q96476702",
+    "geo": [
+      17.715111111,
+      59.383805555
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q96972280",
+    "itemLabel": "Q96972280",
+    "geo": [
+      10.92685457,
+      47.29834952
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q97284998",
+    "itemLabel": "U Volbrechtů",
+    "geo": [
+      14.476944444,
+      48.976388888
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q97287199",
+    "itemLabel": "Marionettentheater im Stadtgarten",
+    "geo": [
+      10.88715,
+      48.36056
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q97754608",
+    "itemLabel": "Hoppes Café og Bar",
+    "geo": [
+      12.57783,
+      55.67793
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q97872336",
+    "itemLabel": "Senso Art Gallery Cafe",
+    "geo": [
+      103.763527777,
+      1.456444444
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q97924790",
+    "itemLabel": "Fantova kavárna",
+    "geo": [
+      14.4353381,
+      50.0831286
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q98059164",
+    "itemLabel": "Q98059164",
+    "geo": [
+      -6.298409203,
+      36.534730024
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q98624905",
+    "itemLabel": "Café Engelhardtstraße 20 in Fürth",
+    "geo": [
+      10.99591335,
+      49.473640167
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q98642649",
+    "itemLabel": "7 Gramm",
+    "geo": [
+      11.969912,
+      51.485444
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q98643545",
+    "itemLabel": "Café",
+    "geo": [
+      12.878107485,
+      47.723355036
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q98740092",
+    "itemLabel": "Café Maria-Ward-Straße 1k in München",
+    "geo": [
+      11.500299266,
+      48.162691033
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q98957757",
+    "itemLabel": "Café de Unie",
+    "geo": [
+      4.48066,
+      51.91987
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q98969070",
+    "itemLabel": "Edifício do Café Palladium",
+    "geo": [
+      -9.142895,
+      38.716218
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q99517078",
+    "itemLabel": "Niqiu Space",
+    "geo": [
+      102.927388888,
+      1.850555555
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q99521249",
+    "itemLabel": "Q99521249",
+    "geo": [
+      -7.431954,
+      39.290864
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q99736102",
+    "itemLabel": "Qahwat Badran",
+    "geo": [
+      35.10685,
+      31.52466
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q100250471",
+    "itemLabel": "Coffeelatte",
+    "geo": [
+      14.334352,
+      51.761048
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q100387201",
+    "itemLabel": "Da Capo",
+    "geo": [
+      14.333336,
+      51.760528
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q100397016",
+    "itemLabel": "Matheson Cafe",
+    "geo": [
+      169.9704453,
+      -43.4476334
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q100772555",
+    "itemLabel": "Café Apolo",
+    "geo": [
+      -16.908805555,
+      32.647833333
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q100772991",
+    "itemLabel": "Golden Gate Grand Café",
+    "geo": [
+      -16.909611111,
+      32.64775
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q101152297",
+    "itemLabel": "Café Baba",
+    "geo": [
+      -5.81154,
+      35.78781
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q101153876",
+    "itemLabel": "Gran Café de Paris",
+    "geo": [
+      -5.8126051,
+      35.7811246
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q101252465",
+    "itemLabel": "Bemböle Coffeehouse",
+    "geo": [
+      24.6735,
+      60.2227
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q101542078",
+    "itemLabel": "Thermopolium",
+    "geo": [
+      18.069111111,
+      59.325777777
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q101567389",
+    "itemLabel": "Nokkalan Majakka",
+    "geo": [
+      24.755,
+      60.148
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q102368861",
+    "itemLabel": "Pied Cow Coffeehouse",
+    "geo": [
+      -122.63138,
+      45.51636
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q103801636",
+    "itemLabel": "Güntherska",
+    "geo": [
+      17.638305555,
+      59.857833333
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q103841597",
+    "itemLabel": "La Java",
+    "geo": [
+      5.992208596,
+      49.226922154
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q103844498",
+    "itemLabel": "Le Consulat",
+    "geo": [
+      2.339878303,
+      48.887066541
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q103845316",
+    "itemLabel": "La Bonne Franquette",
+    "geo": [
+      2.33984855,
+      48.887171834
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q104144782",
+    "itemLabel": "Coffee Time (Portland, Oregon)",
+    "geo": [
+      -122.6942,
+      45.528
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q104156006",
+    "itemLabel": "Southeast Grind",
+    "geo": [
+      -122.6524,
+      45.501
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q104376981",
+    "itemLabel": "1988's Florist Cafe",
+    "geo": [
+      102.567638888,
+      2.046361111
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q104819512",
+    "itemLabel": "URSA mtl",
+    "geo": [
+      -73.602748201,
+      45.522858835
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q104869803",
+    "itemLabel": "Vienna Café",
+    "geo": [
+      -0.1246,
+      51.5173
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q105192885",
+    "itemLabel": "Cardiff MADE",
+    "geo": [
+      -3.167617656,
+      51.495674854
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q105201933",
+    "itemLabel": "Café Annast",
+    "geo": [
+      11.57818,
+      48.14292
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q105317140",
+    "itemLabel": "Miyama Omoshiro Noumin Club",
+    "geo": [
+      135.620070618,
+      35.304608258
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q105359901",
+    "itemLabel": "Q105359901",
+    "geo": [
+      28.664288,
+      55.522171
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q105675420",
+    "itemLabel": "Q105675420",
+    "geo": [
+      14.634124,
+      47.171716
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q105709975",
+    "itemLabel": "Oscar Bergs konditori",
+    "geo": [
+      18.068638888,
+      59.330777777
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q105710716",
+    "itemLabel": "Q105710716",
+    "geo": [
+      12.42716965,
+      47.52151571
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q105748589",
+    "itemLabel": "Q105748589",
+    "geo": [
+      18.073166666,
+      59.334166666
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q105949455",
+    "itemLabel": "Mammy's coffee",
+    "geo": [
+      136.891318411,
+      35.176134376
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q105973768",
+    "itemLabel": "Q105973768",
+    "geo": [
+      11.77270377,
+      47.39220295
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q105979435",
+    "itemLabel": "Q105979435",
+    "geo": [
+      11.77222147,
+      47.39200211
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q106362263",
+    "itemLabel": "Skyline Queenstown",
+    "geo": [
+      168.656235328,
+      -45.028549234
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q106420412",
+    "itemLabel": "SHRUB Coop",
+    "geo": [
+      -3.2044775,
+      55.9456931
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q106494229",
+    "itemLabel": "Q106494229",
+    "geo": [
+      21.026131,
+      52.218946
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q106638297",
+    "itemLabel": "Sylvis Döttrar",
+    "geo": [
+      19.233957,
+      57.96789
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q106687725",
+    "itemLabel": "Silver Club & Café",
+    "geo": [
+      -115.14798066,
+      36.185894869
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q107129387",
+    "itemLabel": "Good Seed Coffee Roasters",
+    "geo": [
+      -120.1414914,
+      34.5961871
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q107401952",
+    "itemLabel": "Harvey's Gourmet Donut Bar",
+    "geo": [
+      -122.456206149,
+      38.293241438
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q107421358",
+    "itemLabel": "Ihana Kahvila (Nihti)",
+    "geo": [
+      24.97185,
+      60.177905555
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q107607706",
+    "itemLabel": "Wiener Straße 4, Friesach",
+    "geo": [
+      14.406156,
+      46.951032
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q107985196",
+    "itemLabel": "Serra Doce",
+    "geo": [
+      -74.35676,
+      40.71703
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q108104072",
+    "itemLabel": "Emil-Erlenmeyer-Forum 7",
+    "geo": [
+      11.72431,
+      48.39833
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q108179858",
+    "itemLabel": "Binnenpad 68,  8355BV  Giethoorn",
+    "geo": [
+      6.0899,
+      52.72057
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q108188049",
+    "itemLabel": "Q108188049",
+    "geo": [
+      9.90232,
+      53.72139
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q108330656",
+    "itemLabel": "Café Kröpcke",
+    "geo": [
+      9.739126,
+      52.3741382
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q108688297",
+    "itemLabel": "Holanka Bar",
+    "geo": [
+      9.003161787,
+      48.708436526
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q108688314",
+    "itemLabel": "Q108688314",
+    "geo": [
+      8.986027836,
+      48.728433163
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q108688327",
+    "itemLabel": "Ingrids Café",
+    "geo": [
+      8.970578312,
+      48.722052799
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q108688343",
+    "itemLabel": "´s Café",
+    "geo": [
+      9.001080393,
+      48.709017071
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q108697944",
+    "itemLabel": "Die Drei Billardcafé und Sportsbar",
+    "geo": [
+      9.029565453,
+      48.702559896
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q108741922",
+    "itemLabel": "Le Café Richelieu",
+    "geo": [
+      2.336204341,
+      48.861637964
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q108772756",
+    "itemLabel": "Pavillon des Canaux",
+    "geo": [
+      2.378684577,
+      48.887435511
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q108781645",
+    "itemLabel": "Aux Tours de Notre-Dame",
+    "geo": [
+      2.349433111,
+      48.853630384
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q108810944",
+    "itemLabel": "Le Pavillon du Lac",
+    "geo": [
+      2.381009755,
+      48.880771824
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q108842367",
+    "itemLabel": "Theater Cafe",
+    "geo": [
+      136.914006767,
+      35.182284304
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q108878343",
+    "itemLabel": "Q108878343",
+    "geo": [
+      7.085604362,
+      48.025528239
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q108884947",
+    "itemLabel": "Fährhaus Niederkleveez",
+    "geo": [
+      10.493864,
+      54.158023
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q108900093",
+    "itemLabel": "Au Clairon des Chasseurs",
+    "geo": [
+      2.341127709,
+      48.886536584
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q108905070",
+    "itemLabel": "France Pastry",
+    "geo": [
+      51.4003274,
+      35.700848
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109042700",
+    "itemLabel": "Le Brébant",
+    "geo": [
+      2.343390846,
+      48.871619307
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109051044",
+    "itemLabel": "The Lodge",
+    "geo": [
+      -119.845110658,
+      39.372071299
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109188768",
+    "itemLabel": "Salamander Cafe",
+    "geo": [
+      7.461370435,
+      9.076885025
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109189676",
+    "itemLabel": "Vintage Cafè",
+    "geo": [
+      7.480448,
+      9.083589
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109190554",
+    "itemLabel": "Café de vie",
+    "geo": [
+      7.483207067,
+      9.099058097
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109191679",
+    "itemLabel": "Bijou Cafe",
+    "geo": [
+      7.471035765,
+      9.071920961
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109191864",
+    "itemLabel": "xara cafe",
+    "geo": [
+      7.488635,
+      8.997105
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109192242",
+    "itemLabel": "PinkSugar Café",
+    "geo": [
+      7.4894987,
+      9.0849642
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109192616",
+    "itemLabel": "Sodic Garden",
+    "geo": [
+      7.390444,
+      9.091435
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109192838",
+    "itemLabel": "Sisi Bole",
+    "geo": [
+      7.46317,
+      9.075942
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109193069",
+    "itemLabel": "Habil Café",
+    "geo": [
+      7.4853924,
+      9.0815672
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109193069",
+    "itemLabel": "Habil Café",
+    "geo": [
+      7.4416639,
+      10.5313035
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109193628",
+    "itemLabel": "Nosta Cafe",
+    "geo": [
+      7.47861326,
+      9.06987741
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109194495",
+    "itemLabel": "Café Bufana",
+    "geo": [
+      7.497701,
+      9.076833
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109195233",
+    "itemLabel": "Dunes Cafe",
+    "geo": [
+      7.485068,
+      9.083939
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109196778",
+    "itemLabel": "House Forty Three",
+    "geo": [
+      7.500438,
+      9.077855
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109196792",
+    "itemLabel": "Metro Cafe & Grill",
+    "geo": [
+      7.46294883,
+      9.074432077
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109196835",
+    "itemLabel": "Hugs and Mugs Cafe",
+    "geo": [
+      7.4978492,
+      9.0767633
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109197954",
+    "itemLabel": "Grounded Cafe",
+    "geo": [
+      7.4705232,
+      9.0773453
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109198357",
+    "itemLabel": "Ohlalacious Cafe",
+    "geo": [
+      7.473791,
+      9.061132
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109198924",
+    "itemLabel": "Coco Cafe",
+    "geo": [
+      7.4160498,
+      9.0733538
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109201310",
+    "itemLabel": "Bunna Cafe",
+    "geo": [
+      7.485286,
+      9.067592
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109221250",
+    "itemLabel": "Bronz Cafe Gwarinpa",
+    "geo": [
+      7.381971,
+      9.116998
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109222758",
+    "itemLabel": "Hashtag Cafe and Bar",
+    "geo": [
+      7.462483,
+      9.060207
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109223212",
+    "itemLabel": "The Woodhouse Bar & Restaurant",
+    "geo": [
+      7.41483,
+      9.0696
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109223387",
+    "itemLabel": "Crossover Restaurant",
+    "geo": [
+      7.478278,
+      9.075854
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109223636",
+    "itemLabel": "The Hungryman Restaurant",
+    "geo": [
+      7.485647,
+      9.070696
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109223731",
+    "itemLabel": "Salt Cafe & Grill",
+    "geo": [
+      7.4881894,
+      9.0694123
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109229777",
+    "itemLabel": "Munlot Café",
+    "geo": [
+      7.414811,
+      9.107005
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109231091",
+    "itemLabel": "The Cube Café",
+    "geo": [
+      7.500835,
+      9.084201
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109231153",
+    "itemLabel": "Café Flour",
+    "geo": [
+      7.4759391,
+      9.0900568
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109231363",
+    "itemLabel": "Cake Hut Cafe",
+    "geo": [
+      7.490402,
+      9.068294
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109231545",
+    "itemLabel": "Levels Cafe",
+    "geo": [
+      7.498797,
+      9.086159
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109231576",
+    "itemLabel": "Kiosque (Abuja)",
+    "geo": [
+      7.484604,
+      9.028119
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109231824",
+    "itemLabel": "Bleu café",
+    "geo": [
+      7.480871,
+      9.068739
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109232292",
+    "itemLabel": "Maison The Cafe",
+    "geo": [
+      7.4875053,
+      9.0723585
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109232362",
+    "itemLabel": "Ur Cafe",
+    "geo": [
+      7.4786876,
+      9.0541094
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109232440",
+    "itemLabel": "Ventures park co-work spaces",
+    "geo": [
+      7.475027,
+      9.090746
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109232462",
+    "itemLabel": "Crow's Cafe",
+    "geo": [
+      7.3890825,
+      9.0657214
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109233837",
+    "itemLabel": "Diovisio Cafe",
+    "geo": [
+      7.4165698,
+      9.0795734
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109235684",
+    "itemLabel": "Relais cafe",
+    "geo": [
+      7.512186,
+      9.048896
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109248934",
+    "itemLabel": "Ketchup Cafe",
+    "geo": [
+      7.462607081,
+      9.079309474
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109250567",
+    "itemLabel": "AFRICAFE",
+    "geo": [
+      7.4062014,
+      9.1169594
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109252444",
+    "itemLabel": "BluCabana Restaurant & Cafe",
+    "geo": [
+      7.436501,
+      9.081284
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109268331",
+    "itemLabel": "Waffle Way",
+    "geo": [
+      7.5001509,
+      9.0775052
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109269878",
+    "itemLabel": "Everything But Coffee",
+    "geo": [
+      7.479519,
+      9.069757
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109269909",
+    "itemLabel": "A'binchis Café",
+    "geo": [
+      7.475391,
+      9.074586
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109285643",
+    "itemLabel": "Hootas Place Abuja",
+    "geo": [
+      7.480943,
+      9.068866
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109287047",
+    "itemLabel": "Strobrié By Joanne",
+    "geo": [
+      7.4839785,
+      9.0329194
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109289997",
+    "itemLabel": "UrbanLoft Cafe & Bar",
+    "geo": [
+      7.466737,
+      9.072214
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109294225",
+    "itemLabel": "The Milk Shop (Abuja)",
+    "geo": [
+      7.5006477,
+      9.0852477
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109329621",
+    "itemLabel": "Savoy",
+    "geo": [
+      14.4744,
+      48.9725
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109349914",
+    "itemLabel": "La Mouette Rieuse",
+    "geo": [
+      2.361276698,
+      48.85680034
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109352245",
+    "itemLabel": "Regus - Abuja",
+    "geo": [
+      7.475279,
+      9.04907
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109352245",
+    "itemLabel": "Regus - Abuja",
+    "geo": [
+      7.499530818,
+      9.053272819
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109353160",
+    "itemLabel": "Librairie L'instant",
+    "geo": [
+      2.285770576,
+      48.842519113
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109380269",
+    "itemLabel": "Q109380269",
+    "geo": [
+      -8.406552684,
+      43.35048741
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109444565",
+    "itemLabel": "Edifício do Café Colonial",
+    "geo": [
+      -8.807986,
+      39.743
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109629308",
+    "itemLabel": "Bistrot Jutard",
+    "geo": [
+      4.830873782,
+      45.774567693
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109731289",
+    "itemLabel": "Le Renard Café",
+    "geo": [
+      2.351422779,
+      48.846281785
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109772974",
+    "itemLabel": "Think Coffee · 123 4th Ave",
+    "geo": [
+      -73.989688,
+      40.733063
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109796908",
+    "itemLabel": "Cafe Dimanche",
+    "geo": [
+      7.47910845,
+      9.069046058
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109796924",
+    "itemLabel": "Cube Cafe",
+    "geo": [
+      7.500828697,
+      9.084396667
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109848806",
+    "itemLabel": "Q109848806",
+    "geo": [
+      18.140555555,
+      59.248055555
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q110238836",
+    "itemLabel": "Milch- und Kaffeegarten zu Reudnitz",
+    "geo": [
+      12.400852777,
+      51.336811111
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q110264422",
+    "itemLabel": "Boris & Horton · 195 Avenue A, New York, NY 10009",
+    "geo": [
+      -73.983645,
+      40.7292874
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q110357714",
+    "itemLabel": "Canada House",
+    "geo": [
+      12.408619444,
+      51.335961111
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q110358021",
+    "itemLabel": "Stoffelch",
+    "geo": [
+      12.408619444,
+      51.335961111
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q110440505",
+    "itemLabel": "Kindlers",
+    "geo": [
+      9.14542654,
+      49.352564563
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q110453306",
+    "itemLabel": "Q110453306",
+    "geo": [
+      0.866674729,
+      41.5195874
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q110488923",
+    "itemLabel": "Le Boudoir",
+    "geo": [
+      29.90134,
+      31.19537
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q110497525",
+    "itemLabel": "Délices Patisserie",
+    "geo": [
+      29.899485,
+      31.200088
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q110497577",
+    "itemLabel": "Trianon 1905",
+    "geo": [
+      29.900027,
+      31.200473
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q110545275",
+    "itemLabel": "Café Vola",
+    "geo": [
+      9.450641859,
+      49.569112782
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q110545481",
+    "itemLabel": "Q110545481",
+    "geo": [
+      9.324683746,
+      49.520757317
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q110652823",
+    "itemLabel": "Flywheel Coffee Roasters · 672 Stanyan St, San Francisco, CA 94117",
+    "geo": [
+      -122.4534826,
+      37.769625
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q110653215",
+    "itemLabel": "Café Campana",
+    "geo": [
+      2.326178402,
+      48.860295023
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q110947616",
+    "itemLabel": "Q110947616",
+    "geo": [
+      14.4315,
+      50.049888888
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q111049230",
+    "itemLabel": "Alpha Coffee",
+    "geo": [
+      -111.79219,
+      40.61901
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q111049246",
+    "itemLabel": "Beans & Brews Coffee House",
+    "geo": [
+      -111.82398,
+      40.62432
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q111049271",
+    "itemLabel": "Java Jo's",
+    "geo": [
+      -111.8339,
+      40.62538
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q111308751",
+    "itemLabel": "AutoCamping",
+    "geo": [
+      15.294062,
+      52.332482
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q111364117",
+    "itemLabel": "Q111364117",
+    "geo": [
+      9.325775858,
+      49.522251733
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q111398756",
+    "itemLabel": "Starbucks Reserve Roastery",
+    "geo": [
+      -122.328194444,
+      47.614027777
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q111439936",
+    "itemLabel": "Cafe Tiamo",
+    "geo": [
+      115.813274104,
+      -31.974661303
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q111521431",
+    "itemLabel": "Café de la Paix",
+    "geo": [
+      29.90237,
+      31.20306
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q111521717",
+    "itemLabel": "Brazilian Coffee Stores",
+    "geo": [
+      29.89943,
+      31.19975
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q111522326",
+    "itemLabel": "Lail",
+    "geo": [
+      29.9035,
+      31.2019
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q111523046",
+    "itemLabel": "ElMashrabia Roof Cafe",
+    "geo": [
+      29.90276,
+      31.20225
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q111635271",
+    "itemLabel": "Café Piper",
+    "geo": [
+      24.984783333,
+      60.142141666
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q111691972",
+    "itemLabel": "Cilantro",
+    "geo": [
+      29.90755,
+      31.20855
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q111708672",
+    "itemLabel": "Q111708672",
+    "geo": [
+      9.129254216,
+      49.345029344
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q111785233",
+    "itemLabel": "Q111785233",
+    "geo": [
+      14.9079972,
+      50.4156108
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q111953762",
+    "itemLabel": "Q111953762",
+    "geo": [
+      9.367704754,
+      49.583204694
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q112091828",
+    "itemLabel": "Q112091828",
+    "geo": [
+      19.66586,
+      48.32965
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q112211024",
+    "itemLabel": "Q112211024",
+    "geo": [
+      -102.2993802,
+      21.8804192
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q112308855",
+    "itemLabel": "Konditori Kampanilen",
+    "geo": [
+      11.932027777,
+      57.698555555
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q112659651",
+    "itemLabel": "Cafe gallery Kinone",
+    "geo": [
+      135.504777274,
+      34.70845677
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q112704275",
+    "itemLabel": "L’Apéro Bistrot",
+    "geo": [
+      29.90134,
+      31.19537
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q113004897",
+    "itemLabel": "Kafé Zenit",
+    "geo": [
+      11.931611111,
+      57.697694444
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q113238024",
+    "itemLabel": "Färjenäs Café",
+    "geo": [
+      11.900983,
+      57.69541
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q113238589",
+    "itemLabel": "Bertilssons Stuga",
+    "geo": [
+      12.086286,
+      57.685234
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q113327739",
+    "itemLabel": "Postane, Beyoğlu",
+    "geo": [
+      28.9741,
+      41.02506
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q113329850",
+    "itemLabel": "The Mutchmor and Providence Peace Cafe",
+    "geo": [
+      -82.269348144,
+      45.673274993
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q113495855",
+    "itemLabel": "Rocket House",
+    "geo": [
+      1.304048,
+      52.93116
+    ],
+    "category": "coffeeHouse"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q113631616",
+    "itemLabel": "Q113631616",
+    "geo": [
+      9.326377538,
+      49.521909948
+    ],
+    "category": "coffeeHouse"
+  }
+]
