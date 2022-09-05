@@ -13,6 +13,12 @@ module.exports = (sequelize, DataTypes) => {
         through: "userLocations",
         foreignKey: "locationId",
       });
+
+      location.hasMany(models.comment, {
+        foreignKey: "locationId",
+      });
+
+      location.hasMany(models.datapoint, { foreignKey: "locationId" });
     }
   }
   location.init(
