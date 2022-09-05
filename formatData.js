@@ -1,5 +1,7 @@
 const fs = require("fs");
 
+//taking data from wikidata and formatting it to have a category prop and turning the coordinate prop into an array
+
 //get the names of all jsonfiles in rawdata folder
 const listOfFiles = fs.readdirSync("./data/rawData", { withFileTypes: false });
 //take off extension
