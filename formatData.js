@@ -15,21 +15,35 @@ pureNames.forEach((fileName) => {
   const rawData = fs.readFileSync(`./data/rawData/${fileName}.json`);
   const parsedRawData = JSON.parse(rawData);
 
-  const formatted = parsedRawData.map((el) => {
+  const formatted = parsedRawData.map(({ geo, itemLabel, item }) => {
+    const coordinates = geo
+      .slice(6)
+      .slice(0, -1)
+      .split(" ")
+      .map((coordinate) => parseFloat(coordinate));
+
     return {
-      ...el,
-      category: fileName,
-      geo: el.geo
-        .slice(6)
-        .slice(0, -1)
-        .split(" ")
-        .map((coordinate) => parseFloat(coordinate)),
+      wikiId: item.slice(31),
+      name: itemLabel,
+      cat: fileName,
+      long: coordinates[0],
+      lat: coordinates[1],
     };
   });
 
-  console.log(fileName, formatted.length);
+  //remove duplicates
+  const dubs = [];
 
-  const stringifiedData = JSON.stringify(formatted, null, 2);
+  const noDubs = formatted.filter((loc) => {
+    const dub = dubs.includes(loc.wikiId);
+    if (dub) return false;
+    dubs.push(loc.wikiId);
+    return true;
+  });
+
+  console.log(fileName, noDubs.length);
+
+  const stringifiedData = JSON.stringify(noDubs, null, 2);
   fs.writeFileSync(`./data/formattedData/${fileName}.json`, stringifiedData);
 });
 
