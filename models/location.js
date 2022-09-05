@@ -20,6 +20,8 @@ module.exports = (sequelize, DataTypes) => {
       closestTown: DataTypes.STRING,
       region: DataTypes.STRING,
       country: DataTypes.STRING,
+      xCoordinate: DataTypes.FLOAT,
+      yCoordinate: DataTypes.FLOAT,
     },
     {
       sequelize,
