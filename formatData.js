@@ -26,7 +26,7 @@ pureNames.forEach((fileName) => {
       wikiId: item.slice(31),
       name: itemLabel,
       cat: fileName,
-      long: coordinates[0],
+      lon: coordinates[0],
       lat: coordinates[1],
     };
   });
