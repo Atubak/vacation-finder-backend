@@ -1,11 +1,19 @@
+// import * as fs from "fs";
 const fs = require("fs");
-
-//import all .json files
+// import rangeCalculator from "./helperFunctions/rangeCalculator.js";
+const rangeCalculator = require("./helperFunctions/rangeCalculator");
+// import * as data from "./data/formattedData/index.js";
 const data = {};
 const dir = "./data/formattedData/";
+
 fs.readdirSync(dir).forEach(function (file) {
   data[file.replace(/\.json$/, "")] = require(dir + file);
 });
+
+console.log(data.circus);
+
+//cant use below code anymore bc of modules but might be useful later
+//import all .json files
 
 //the console.log lists all the .json files that are imported
 //access a specific .json by specifying a property of data
@@ -24,9 +32,7 @@ function locationFinder(...categories) {
     return data[a].length - data[b].length;
   });
 
-  //set the range for a valid location result. 5x5 km?
-  //1km in latidude degrees: 0.00901, 1 degree latitude: 111km
-  //1km in longtitude degrees: 0.00901 , 1 degree longtitude: 111km at the equator
+  console.log(rangeCalculator(45, 1));
 
   //for each data point of the smallest category, take a coordinate that is 2.5km to the north and east
   //take another one to the south and west and you have a 5x5km area
