@@ -17,7 +17,7 @@ function rangeCalculator(lat, long) {
   //north east and south west to get the corners of the range
   const bearing = [45, -135];
   //distance in meters, 2500^2 + 2500^2 = 12500, √12500 = 3535.53m line to each bearing
-  const distance = 353553;
+  const distance = 3535;
   //initial point
   const point1 = new LatLon(lat, long);
 
@@ -25,7 +25,7 @@ function rangeCalculator(lat, long) {
   bearing.forEach((brng, index) => {
     const point2 = point1.destinationPoint(distance, brng);
 
-    //delete the extra datum prop
+    //delete the datum prop that comes with LatLon object since I don't need it
     delete point2.datum;
 
     range[`coordinate${index + 1}`] = point2;
