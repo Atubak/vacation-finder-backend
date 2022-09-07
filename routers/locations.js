@@ -16,6 +16,15 @@ router.get("/example", (req, res, next) => {
   }
 });
 
-//make a post endpoint that
+//make a post endpoint that recieves an array of categories in the body
+router.post("/", (req, res, next) => {
+  const categories = req.body.categories;
+
+  try {
+    res.json(locationFinder(categories));
+  } catch (e) {
+    next(e.message);
+  }
+});
 
 module.exports = router;
