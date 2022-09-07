@@ -10,7 +10,7 @@ fs.readdirSync(dir).forEach(function (file) {
 //this console.log lists all the .json files that are imported with their length
 //access a specific .json by specifying a property of data
 //e.g. data.circus
-Object.keys(data).forEach((dat) => console.log(dat, data[dat].length));
+// Object.keys(data).forEach((dat) => console.log(dat, data[dat].length));
 
 //function that makes rangeBoxes to find datapoints in
 function rangeBoxer(leastLengthCat) {
@@ -77,7 +77,7 @@ function dataPointInserter(allRanges, categoryDataName) {
 
 //the main function that this app depends on. It would have to be called by the server and its arguments should be each category that was chosen
 function locationFinder(...categories) {
-  console.log(categories);
+  console.log("categories selected:", categories);
   //sort the categories by amount of datapoints
   //it should only use the minimum amount of data points for speed and efficiency
   //so the smallest category should be taken first since there won't be a succesful result if
@@ -85,7 +85,7 @@ function locationFinder(...categories) {
   const orderedCategories = [...categories].sort((a, b) => {
     return data[a].length - data[b].length;
   });
-  console.log("orderedCategories", orderedCategories);
+  // console.log("orderedCategories", orderedCategories);
 
   //array of all ranges in which to search for datapoints
   //uses the 0th element to use the rarest category
@@ -104,39 +104,29 @@ function locationFinder(...categories) {
       rangesWithDataPoints.length
     );
 
-    //if datapointinsert returns the category name, quit the loop
+    //if datapointinsert returns the category name, make rangesWithDataPoints a string and quit the loop
     if (rangesWithDataPoints.length === 0) {
-      console.log(
-        `had to abort search bc there are no areas of this size that have a ${cat}`
-      );
+      rangesWithDataPoints = `had to abort search because there are no areas of this size that have a ${cat}`;
       return false;
     }
     return true;
   });
   //repeat the previous block until all categories have been checked
 
-  console.log(
-    "final array length of ranges with all accumulated categories:",
-    // rangesWithDataPoints.length
-    JSON.stringify(rangesWithDataPoints, null, 2)
-  );
-  console.log(
-    "first range length in final array:",
-    rangesWithDataPoints[0]?.dataPoints?.length || rangesWithDataPoints
-  );
+  return rangesWithDataPoints;
 }
 
-console.log(
-  locationFinder(
-    "hikingTrail",
-    "cinema",
-    "coffeeHouse",
-    "restaurant",
-    "museum",
-    "hotel",
-    "beach",
-    "waterPark"
-  )
-);
+module.exports = locationFinder;
+
+// console.log(
+//   locationFinder(
+//     "hikingTrail",
+//     "cinema",
+//     "restaurant",
+//     "museum",
+//     "hotel",
+//     "coffeeHouse"
+//   )
+// );
 
 //FINISHED WITH THIS FUNCTION AND NOW I CAN ACTUALLY GIVE THE USER WHATEVER THEY WANT HEHEHE

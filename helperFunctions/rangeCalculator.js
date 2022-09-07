@@ -16,7 +16,7 @@ function rangeCalculator(lat, long) {
   const range = {};
   //north east and south west to get the corners of the range
   const bearing = [45, -135];
-  //distance in meters, 2500^2 + 2500^2 = 12500, √12500 = 3535.53m line to each bearing
+  // 5x5km: distance in meters, 2500^2 + 2500^2 = 12500, √12500 = 3535.53m line to each bearing
   const distance = 3535;
   //initial point
   const point1 = new LatLon(lat, long);
