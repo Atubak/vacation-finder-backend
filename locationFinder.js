@@ -26,8 +26,14 @@ function rangeBoxer(leastLengthCat) {
   return rangeBoxes;
 }
 
+//array of all ranges in which to search for datapoints
+//TESTING WITH CIRCUS
+const circusRangeBoxArr = rangeBoxer("circus");
+
 //function that takes the rangebox array and the datapoints of a single category and adds a datapoint into the object if it falls inside of the rangebox
 function dataPointInserter(allRanges, categoryDataName) {
+  console.log(`now doing ${categoryDataName}...`);
+
   //thiscatdata is an array of all datapoints in one category
   const thisCatData = data[`${categoryDataName}`];
 
@@ -54,18 +60,24 @@ function dataPointInserter(allRanges, categoryDataName) {
       }
     });
 
+    //take out the range if there hasn't been a datapoint added to it this round
     //if any range doesnt have the category data name in its range.dataPoints prop array, filter out the range
-    return range.dataPoints?.every((datP) => datP.cat === categoryDataName);
+    return range.dataPoints?.some((datP) => datP.cat === categoryDataName);
   });
 
   console.log(`finish inserting ${categoryDataName}`);
+
   //when all ranges have been checked, return the new rangesArray
+  // OR
+  //if a category is a bottleneck that doesnt have any datapoint that goes into any range
+  //take the name of that category and return it instead of the actual array
+
   return newRangesArray;
 }
 
 //the main function that this app depends on. It would have to be called by the server and its arguments should be each category that was chosen
 function locationFinder(...categories) {
-  //   console.log(categories);
+  console.log(categories);
   //sort the categories by amount of datapoints
   //it should only use the minimum amount of data points for speed and efficiency
   //so the smallest category should be taken first since there won't be a succesful result if
@@ -84,26 +96,47 @@ function locationFinder(...categories) {
   //this way ranges will always have a datapoints array in the first iteration
   let rangesWithDataPoints = rangeBoxArr;
 
-  orderedCategories.forEach((cat) => {
-    console.log(`now doing ${cat}...`);
-
+  orderedCategories.every((cat) => {
     rangesWithDataPoints = dataPointInserter(rangesWithDataPoints, cat);
 
     console.log(
       `rangesWithDataPoints length after ${cat}:`,
       rangesWithDataPoints.length
     );
+
+    //if datapointinsert returns the category name, quit the loop
+    if (rangesWithDataPoints.length === 0) {
+      console.log(
+        `had to abort search bc there are no areas of this size that have a ${cat}`
+      );
+      return false;
+    }
+    return true;
   });
+  //repeat the previous block until all categories have been checked
 
   console.log(
     "final array length of ranges with all accumulated categories:",
-    rangesWithDataPoints.length
-    // JSON.stringify(rangesWithDataPoints, null, 2)
+    // rangesWithDataPoints.length
+    JSON.stringify(rangesWithDataPoints, null, 2)
   );
-
-  //I THINK IT WORKS but there is something going wrong when looping over to the next category
-  //repeat the previous block until all categories have been checked
-  //solution could be to just loop over locationfinder func so that it always works
+  console.log(
+    "first range length in final array:",
+    rangesWithDataPoints[0]?.dataPoints?.length || rangesWithDataPoints
+  );
 }
 
-console.log(locationFinder("hikingTrail"));
+console.log(
+  locationFinder(
+    "hikingTrail",
+    "cinema",
+    "coffeeHouse",
+    "restaurant",
+    "museum",
+    "hotel",
+    "beach",
+    "waterPark"
+  )
+);
+
+//FINISHED WITH THIS FUNCTION AND NOW I CAN ACTUALLY GIVE THE USER WHATEVER THEY WANT HEHEHE
