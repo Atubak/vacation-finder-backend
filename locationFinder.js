@@ -26,10 +26,6 @@ function rangeBoxer(leastLengthCat) {
   return rangeBoxes;
 }
 
-//array of all ranges in which to search for datapoints
-//TESTING WITH CIRCUS
-const circusRangeBoxArr = rangeBoxer("circus");
-
 //function that takes the rangebox array and the datapoints of a single category and adds a datapoint into the object if it falls inside of the rangebox
 function dataPointInserter(allRanges, categoryDataName) {
   console.log(`now doing ${categoryDataName}...`);
@@ -67,27 +63,22 @@ function dataPointInserter(allRanges, categoryDataName) {
 
   console.log(`finish inserting ${categoryDataName}`);
 
-  //when all ranges have been checked, return the new rangesArray
-  // OR
-  //if a category is a bottleneck that doesnt have any datapoint that goes into any range
-  //take the name of that category and return it instead of the actual array
-
   return newRangesArray;
 }
 
 //the main function that this app depends on. It would have to be called by the server and its arguments should be each category that was chosen
+//it takes any number of strings
 function locationFinder(...categories) {
   console.log("categories selected:", categories);
   //sort the categories by amount of datapoints
   //it should only use the minimum amount of data points for speed and efficiency
-  //so the smallest category should be taken first since there won't be a succesful result if
-  //that isn't included
+  //so the smallest category should be taken first since there won't be a succesful result if that isn't included
   const orderedCategories = [...categories].sort((a, b) => {
     return data[a].length - data[b].length;
   });
   // console.log("orderedCategories", orderedCategories);
 
-  //array of all ranges in which to search for datapoints
+  //make an array of all ranges in which to search for datapoints
   //uses the 0th element to use the rarest category
   const rangeBoxArr = rangeBoxer(orderedCategories[0]);
 
@@ -111,22 +102,8 @@ function locationFinder(...categories) {
     }
     return true;
   });
-  //repeat the previous block until all categories have been checked
 
   return rangesWithDataPoints;
 }
 
 module.exports = locationFinder;
-
-// console.log(
-//   locationFinder(
-//     "hikingTrail",
-//     "cinema",
-//     "restaurant",
-//     "museum",
-//     "hotel",
-//     "coffeeHouse"
-//   )
-// );
-
-//FINISHED WITH THIS FUNCTION AND NOW I CAN ACTUALLY GIVE THE USER WHATEVER THEY WANT HEHEHE
