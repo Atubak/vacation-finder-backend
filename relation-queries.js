@@ -10,3 +10,7 @@ async function userAndLocation() {
 }
 
 userAndLocation();
+
+const locationFinder = require("./locationFinder");
+
+console.log(locationFinder("circus", "beach"));

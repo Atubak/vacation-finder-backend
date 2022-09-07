@@ -1,43 +1,109 @@
 const fs = require("fs");
+const rangeCalculator = require("./helperFunctions/rangeCalculator");
 
-//import all .json files
+//import all .json files into data
 const data = {};
 const dir = "./data/formattedData/";
 fs.readdirSync(dir).forEach(function (file) {
   data[file.replace(/\.json$/, "")] = require(dir + file);
 });
-
-//the console.log lists all the .json files that are imported
+//this console.log lists all the .json files that are imported with their length
 //access a specific .json by specifying a property of data
-//e.g. data.bar
-// console.log(Object.keys(data));
+//e.g. data.circus
+// Object.keys(data).forEach((dat) => console.log(dat, data[dat].length));
 
-//the function would have to be called by the server and its arguments should be each category that was chosen
-function locationFinder(...categories) {
-  //   console.log(categories);
-
-  //sort the categories by amount of datapoints
-  //it should only use the minimum amount of data points for speed and efficiency
-  //so the smallest category should be taken first since there won't be a succesful result if
-  //that isn't included
-  const orderedCategories = [...categories].sort((a, b) => {
-    return data[a].length - data[b].length;
+//function that makes rangeBoxes to find datapoints in
+function rangeBoxer(leastLengthCat) {
+  //for the first category, make a range box within which to find the other categories
+  //coordinate1 is the northeast point of the range
+  //coordinate2 is the southwest point of the range
+  //to have the complete range box, take the lat of c1 + lon of c2 AND lat of c2 + lon of c1
+  //range box is hardcoded to 5x5km
+  const rangeBoxes = data[`${leastLengthCat}`].map((dataPoint) => {
+    return rangeCalculator(dataPoint.lat, dataPoint.lon);
   });
 
-  //set the range for a valid location result. 5x5 km?
-  //1km in latidude degrees: 0.00901, 1 degree latitude: 111km
-  //1km in longtitude degrees: 0.00901 , 1 degree longtitude: 111km at the equator
+  return rangeBoxes;
+}
 
-  //for each data point of the smallest category, take a coordinate that is 2.5km to the north and east
-  //take another one to the south and west and you have a 5x5km area
-  //make an object for each range
+//function that takes the rangebox array and the datapoints of a single category and adds a datapoint into the object if it falls inside of the rangebox
+function dataPointInserter(allRanges, categoryDataName) {
+  console.log(`now doing ${categoryDataName}...`);
 
-  //for the next category, check whether there is any datapoint within any range from the last category
+  //thiscatdata is an array of all datapoints in one category
+  const thisCatData = data[`${categoryDataName}`];
+
   //if a datapoint is inside, add it to the object and save it for the next round
   //if a datapoint is NOT inside any range, leave it out
   //any range that did not receive a new datapoint in this round will also be left out
 
-  //repeat the previous block until all categories have been checked
+  const newRangesArray = allRanges.filter((range, index) => {
+    // console.log(`range being checked: ${index + 1}th`);
+    //for each datapoint check if its inside the given range
+    //if its inside, add it to the range.dataPoints prop
+    // if its not, do nothing
+    thisCatData.forEach((dataP) => {
+      if (
+        dataP.lat <= range.coordinate1.lat &&
+        dataP.lon <= range.coordinate1.lon &&
+        dataP.lat >= range.coordinate2.lat &&
+        dataP.lon >= range.coordinate2.lon
+      ) {
+        //if range.dataPoints does not exist, make it and put in the dataP
+        range.dataPoints
+          ? (range.dataPoints = [...range.dataPoints, dataP])
+          : (range.dataPoints = [dataP]);
+      }
+    });
+
+    //take out the range if there hasn't been a datapoint added to it this round
+    //if any range doesnt have the category data name in its range.dataPoints prop array, filter out the range
+    return range.dataPoints?.some((datP) => datP.cat === categoryDataName);
+  });
+
+  console.log(`finish inserting ${categoryDataName}`);
+
+  return newRangesArray;
 }
 
-console.log(locationFinder("cinema", "bar", "circus"));
+//the main function that this app depends on. It would have to be called by the server and its arguments should be each category that was chosen
+//it takes any number of strings
+function locationFinder(...categories) {
+  console.log("categories selected:", categories);
+  //sort the categories by amount of datapoints
+  //it should only use the minimum amount of data points for speed and efficiency
+  //so the smallest category should be taken first since there won't be a succesful result if that isn't included
+  const orderedCategories = [...categories].sort((a, b) => {
+    return data[a].length - data[b].length;
+  });
+  // console.log("orderedCategories", orderedCategories);
+
+  //make an array of all ranges in which to search for datapoints
+  //uses the 0th element to use the rarest category
+  const rangeBoxArr = rangeBoxer(orderedCategories[0]);
+
+  //for each category, check whether there is any datapoint within any range
+  //including the original category that was used to create the range in the first place
+  //this way ranges will always have a datapoints array in the first iteration
+  let rangesWithDataPoints = rangeBoxArr;
+
+  orderedCategories.every((cat) => {
+    rangesWithDataPoints = dataPointInserter(rangesWithDataPoints, cat);
+
+    console.log(
+      `rangesWithDataPoints length after ${cat}:`,
+      rangesWithDataPoints.length
+    );
+
+    //if datapointinsert returns the category name, make rangesWithDataPoints a string and quit the loop
+    if (rangesWithDataPoints.length === 0) {
+      rangesWithDataPoints = `had to abort search because there are no areas of this size that have a ${cat}`;
+      return false;
+    }
+    return true;
+  });
+
+  return rangesWithDataPoints;
+}
+
+module.exports = locationFinder;
