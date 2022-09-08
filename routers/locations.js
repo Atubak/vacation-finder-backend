@@ -2,6 +2,11 @@
 const { Router } = require("express");
 const locationFinder = require("../locationFinder");
 
+//reading filenames from datafolder
+const allCategories = fs
+  .readdirSync("./data/formattedData")
+  .map((cat) => cat.replace(/\.json$/, ""));
+
 //db models
 
 //initialise router

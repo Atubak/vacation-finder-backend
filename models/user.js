@@ -24,7 +24,11 @@ module.exports = (sequelize, DataTypes) => {
       name: DataTypes.STRING,
       email: DataTypes.STRING,
       password: DataTypes.STRING,
-      imgUrl: DataTypes.STRING,
+      imgUrl: {
+        type: DataTypes.STRING,
+        defaultValue:
+          "https://i.pinimg.com/originals/6a/7b/0b/6a7b0b15659ff7b51efa21ab9d5f49da.jpg",
+      },
     },
     {
       sequelize,
