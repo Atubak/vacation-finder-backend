@@ -1,23 +1,23 @@
 "use strict";
 module.exports = {
   async up(queryInterface, Sequelize) {
-    await queryInterface.createTable("datapoints", {
+    await queryInterface.createTable("dataPoints", {
       id: {
         allowNull: false,
         autoIncrement: true,
         primaryKey: true,
         type: Sequelize.INTEGER,
       },
-      xCoordinate: {
+      lon: {
         type: Sequelize.FLOAT,
       },
-      yCoordinate: {
+      lat: {
         type: Sequelize.FLOAT,
       },
       name: {
         type: Sequelize.STRING,
       },
-      category: {
+      cat: {
         type: Sequelize.STRING,
       },
       createdAt: {
@@ -31,6 +31,6 @@ module.exports = {
     });
   },
   async down(queryInterface, Sequelize) {
-    await queryInterface.dropTable("datapoints");
+    await queryInterface.dropTable("dataPoints");
   },
 };

@@ -6,11 +6,11 @@ async function userAndLocation() {
     include: { model: locationModel },
   });
 
-  console.log(user.toJSON());
+  console.log(JSON.stringify(user, null, 2));
 }
 
 userAndLocation();
 
 const locationFinder = require("./locationFinder");
 
-console.log(locationFinder("circus", "beach"));
+// console.log(locationFinder("circus", "beach"));
