@@ -81,11 +81,23 @@ router.post("/", (req, res, next) => {
 
 //endpoint that takes a location and adds it to a user's favorites list
 router.post("/favorites", authMiddleWare, async (req, res, next) => {
-  const { dataPoints, info } = req.body.location;
+  const { dataPoints, info, id } = req.body.location;
 
   const { user } = req;
   console.log(user.id);
   try {
+    //if the user already has the location in their favorites list, take it out the list
+    if (!user.locations.every((loc) => loc.id !== id)) {
+      await dataPointModel.destroy({ where: { locationId: id } });
+      await locationModel.destroy({ where: { id } });
+
+      const userWithLocs = await userModel.findByPk(user.id, {
+        include: { model: locationModel, attributes: ["id"] },
+      });
+      delete userWithLocs.dataValues["password"];
+      return res.send({ userWithLocs, msg: "deleted" });
+    }
+
     //make a new location instance
     const fav = await locationModel.create({
       info,
@@ -106,14 +118,19 @@ router.post("/favorites", authMiddleWare, async (req, res, next) => {
       })
     );
 
-    //return the user instance with location id's included
+    //return the user instance with location id's included and the newly added location
     const userWithLocs = await userModel.findByPk(user.id, {
       include: { model: locationModel, attributes: ["id"] },
     });
     delete userWithLocs.dataValues["password"];
-    res.json(userWithLocs);
+
+    const locWithDataPoints = await locationModel.findByPk(fav.id, {
+      include: { model: dataPointModel },
+    });
+
+    res.json({ userWithLocs, locWithDataPoints, msg: "added" });
   } catch (e) {
-    next(e);
+    next(e.message);
   }
 });
 
