@@ -56,7 +56,7 @@ router.post("/", (req, res, next) => {
     if (allLocations.length > 5) {
       let randomLocationsArr = [];
       let choices = [];
-      for (let i = 0; i < 5; i++) {
+      for (let i = 0; i < 1; i++) {
         let newChoiceMade = false;
         while (!newChoiceMade) {
           const randomLocationIndex = Math.floor(
@@ -106,12 +106,12 @@ router.post("/favorites", authMiddleWare, async (req, res, next) => {
       })
     );
 
-    //return the added location
-    const addedLoc = await locationModel.findByPk(fav.id, {
-      include: { model: dataPointModel },
+    //return the user instance with location id's included
+    const userWithLocs = await userModel.findByPk(user.id, {
+      include: { model: locationModel, attributes: ["id"] },
     });
-
-    res.json(addedLoc);
+    delete userWithLocs.dataValues["password"];
+    res.json(userWithLocs);
   } catch (e) {
     next(e);
   }
