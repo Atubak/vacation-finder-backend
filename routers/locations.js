@@ -2,6 +2,13 @@
 const { Router } = require("express");
 const locationFinder = require("../locationFinder");
 const fs = require("fs");
+const authMiddleWare = require("../auth/middleware");
+
+//models
+const locationModel = require("../models").location;
+const dataPointModel = require("../models").dataPoint;
+const userModel = require("../models").user;
+const userLocationModel = require("../models").userLocation;
 
 //reading filenames from datafolder
 const allCategories = fs
@@ -46,10 +53,10 @@ router.post("/", (req, res, next) => {
     if (typeof allLocations === "string") return res.json(allLocations);
 
     //if the results are many, take only 10 random results and send it back
-    if (allLocations.length > 10) {
+    if (allLocations.length > 5) {
       let randomLocationsArr = [];
       let choices = [];
-      for (let i = 0; i < 10; i++) {
+      for (let i = 0; i < 5; i++) {
         let newChoiceMade = false;
         while (!newChoiceMade) {
           const randomLocationIndex = Math.floor(
@@ -69,6 +76,44 @@ router.post("/", (req, res, next) => {
     res.json(allLocations);
   } catch (e) {
     next(e.message);
+  }
+});
+
+//endpoint that takes a location and adds it to a user's favorites list
+router.post("/favorites", authMiddleWare, async (req, res, next) => {
+  const { dataPoints, info } = req.body.location;
+
+  const { user } = req;
+  console.log(user.id);
+  try {
+    //make a new location instance
+    const fav = await locationModel.create({
+      info,
+      lon: dataPoints[0].lon,
+      lat: dataPoints[0].lat,
+    });
+
+    //add the relation to the user
+    await userLocationModel.create({
+      userId: user.id,
+      locationId: fav.id,
+    });
+
+    //insert the datapoints into the db
+    await dataPointModel.bulkCreate(
+      dataPoints.map((dataP) => {
+        return { ...dataP, locationId: fav.id };
+      })
+    );
+
+    //return the added location
+    const addedLoc = await locationModel.findByPk(fav.id, {
+      include: { model: dataPointModel },
+    });
+
+    res.json(addedLoc);
+  } catch (e) {
+    next(e);
   }
 });
 

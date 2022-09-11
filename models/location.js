@@ -18,16 +18,14 @@ module.exports = (sequelize, DataTypes) => {
         foreignKey: "locationId",
       });
 
-      location.hasMany(models.datapoint, { foreignKey: "locationId" });
+      location.hasMany(models.dataPoint, { foreignKey: "locationId" });
     }
   }
   location.init(
     {
-      closestTown: DataTypes.STRING,
-      region: DataTypes.STRING,
-      country: DataTypes.STRING,
-      xCoordinate: DataTypes.FLOAT,
-      yCoordinate: DataTypes.FLOAT,
+      info: DataTypes.STRING,
+      lon: DataTypes.FLOAT,
+      lat: DataTypes.FLOAT,
     },
     {
       sequelize,

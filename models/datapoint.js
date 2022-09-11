@@ -1,7 +1,7 @@
 "use strict";
 const { Model } = require("sequelize");
 module.exports = (sequelize, DataTypes) => {
-  class datapoint extends Model {
+  class dataPoint extends Model {
     /**
      * Helper method for defining associations.
      * This method is not a part of Sequelize lifecycle.
@@ -9,19 +9,21 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       // define association here
-      datapoint.belongsTo(models.location, { foreignKey: "locationId" });
+      dataPoint.belongsTo(models.location, { foreignKey: "locationId" });
     }
   }
-  datapoint.init(
+  dataPoint.init(
     {
-      xCoordinate: DataTypes.FLOAT,
-      yCoordinate: DataTypes.FLOAT,
+      lon: DataTypes.FLOAT,
+      lat: DataTypes.FLOAT,
       name: DataTypes.STRING,
+      wikiId: DataTypes.STRING,
+      cat: DataTypes.STRING,
     },
     {
       sequelize,
-      modelName: "datapoint",
+      modelName: "dataPoint",
     }
   );
-  return datapoint;
+  return dataPoint;
 };

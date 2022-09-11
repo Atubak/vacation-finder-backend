@@ -8,19 +8,14 @@ module.exports = {
         primaryKey: true,
         type: Sequelize.INTEGER,
       },
-      closestTown: {
+      info: {
         type: Sequelize.STRING,
       },
-      region: {
-        type: Sequelize.STRING,
-      },
-      country: {
-        type: Sequelize.STRING,
-      },
-      xCoordinate: {
+
+      lon: {
         type: Sequelize.FLOAT,
       },
-      yCoordinate: {
+      lat: {
         type: Sequelize.FLOAT,
       },
       createdAt: {
