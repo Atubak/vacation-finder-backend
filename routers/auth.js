@@ -7,6 +7,10 @@ const { SALT_ROUNDS } = require("../config/constants");
 
 const router = new Router();
 
+//models
+const locationModel = require("../models").location;
+const dataPointModel = require("../models").dataPoint;
+
 //login
 router.post("/login", async (req, res, next) => {
   try {
@@ -18,7 +22,13 @@ router.post("/login", async (req, res, next) => {
         .send({ message: "Please provide both email and password" });
     }
 
-    const user = await User.findOne({ where: { email } });
+    const user = await User.findOne({
+      where: { email },
+      include: {
+        model: locationModel,
+        include: { model: dataPointModel },
+      },
+    });
 
     if (!user || !bcrypt.compareSync(password, user.password)) {
       return res.status(400).send({
