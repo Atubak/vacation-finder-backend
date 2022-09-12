@@ -17,6 +17,16 @@ module.exports = (sequelize, DataTypes) => {
       user.hasMany(models.comment, {
         foreignKey: "userId",
       });
+      user.belongsToMany(models.user, {
+        through: "userFollowingUsers",
+        as: "followedUser",
+        foreignKey: "followed",
+      });
+      user.belongsToMany(models.user, {
+        through: "userFollowingUsers",
+        as: "followingUser",
+        foreignKey: "following",
+      });
     }
   }
   user.init(
