@@ -29,6 +29,7 @@ module.exports = (sequelize, DataTypes) => {
         defaultValue:
           "https://i.pinimg.com/originals/6a/7b/0b/6a7b0b15659ff7b51efa21ab9d5f49da.jpg",
       },
+      description: DataTypes.TEXT,
     },
     {
       sequelize,

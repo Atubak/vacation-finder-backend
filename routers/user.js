@@ -15,6 +15,23 @@ router.patch("/pic", authMiddleWare, async (req, res, next) => {
       { where: { id: user.id } }
     );
     if (addImg) return res.send("success");
+    res.send("something went wrong adding a picture");
+  } catch (e) {
+    next(e);
+  }
+});
+
+router.patch("/descr", authMiddleWare, async (req, res, next) => {
+  const { user } = req;
+  const { description } = req.body;
+  try {
+    const addDescr = await userModel.update(
+      { description },
+      { where: { id: user.id } }
+    );
+
+    if (addDescr) return res.send("success");
+    res.send("something went wrong adding a description");
   } catch (e) {
     next(e);
   }
