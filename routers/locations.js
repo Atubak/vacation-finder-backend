@@ -172,7 +172,10 @@ router.get(`/:locationId/users`, async (req, res, next) => {
   const { locationId } = req.params;
   console.log(locationId);
   try {
-    const allUsers = await userLocationModel.findAll({ where: { locationId } });
+    const allUsers = await userLocationModel.findAll({
+      where: { locationId },
+      include: { model: userModel },
+    });
     // console.log(allUsers);
     res.json(allUsers);
   } catch (e) {
