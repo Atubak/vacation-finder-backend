@@ -8,14 +8,14 @@ module.exports = {
         primaryKey: true,
         type: Sequelize.INTEGER,
       },
-      followed: {
+      followee: {
         type: Sequelize.INTEGER,
         references: {
           model: "users",
           key: "id",
         },
       },
-      following: {
+      follower: {
         type: Sequelize.INTEGER,
         references: {
           model: "users",

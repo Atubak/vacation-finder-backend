@@ -21,6 +21,7 @@ async function auth(req, res, next) {
         model: locationModel,
         include: { model: dataPointModel },
       },
+      include: "followedUser",
     });
     if (!user) {
       return res.status(404).send({ message: "User does not exist" });

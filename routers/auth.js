@@ -28,6 +28,7 @@ router.post("/login", async (req, res, next) => {
         model: locationModel,
         include: { model: dataPointModel },
       },
+      // include: "followedUser",
     });
 
     if (!user || !bcrypt.compareSync(password, user.password)) {

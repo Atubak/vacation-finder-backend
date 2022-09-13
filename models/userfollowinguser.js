@@ -10,19 +10,19 @@ module.exports = (sequelize, DataTypes) => {
     static associate(models) {
       // define association here
       userFollowingUser.belongsTo(models.user, {
-        as: "followedUser",
-        foreignKey: "followed",
+        as: "followingUser",
+        foreignKey: "followee",
       });
       userFollowingUser.belongsTo(models.user, {
-        as: "followingUser",
-        foreignKey: "following",
+        as: "followedUser",
+        foreignKey: "follower",
       });
     }
   }
   userFollowingUser.init(
     {
-      followed: DataTypes.INTEGER,
-      following: DataTypes.INTEGER,
+      followee: DataTypes.INTEGER,
+      follower: DataTypes.INTEGER,
     },
     {
       sequelize,
@@ -31,3 +31,5 @@ module.exports = (sequelize, DataTypes) => {
   );
   return userFollowingUser;
 };
+
+//HAVE TO SWITCH FOLLOWEE AND FOLLOWER

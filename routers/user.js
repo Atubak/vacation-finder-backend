@@ -21,6 +21,7 @@ router.patch("/pic", authMiddleWare, async (req, res, next) => {
   }
 });
 
+//endpoint to add a description
 router.patch("/descr", authMiddleWare, async (req, res, next) => {
   const { user } = req;
   const { description } = req.body;
@@ -36,5 +37,14 @@ router.patch("/descr", authMiddleWare, async (req, res, next) => {
     next(e);
   }
 });
+
+// router.get("/following", authMiddleWare, async (req, res, next) => {
+//     const {user} = req;
+//     try {
+
+//     } catch (e) {
+//         next(e);
+//     }
+// })
 
 module.exports = router;
