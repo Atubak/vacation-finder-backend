@@ -38,13 +38,18 @@ router.patch("/descr", authMiddleWare, async (req, res, next) => {
   }
 });
 
-// router.get("/following", authMiddleWare, async (req, res, next) => {
-//     const {user} = req;
-//     try {
+//endpoint that gives a user object to be displayed
+router.get("/:id", async (req, res, next) => {
+  const { id } = req.params;
 
-//     } catch (e) {
-//         next(e);
-//     }
-// })
+  try {
+    const user = await userModel.findByPk(id, {
+      include: { all: true, nested: true },
+    });
+    res.json(user);
+  } catch (e) {
+    next(e);
+  }
+});
 
 module.exports = router;

@@ -24,11 +24,7 @@ router.post("/login", async (req, res, next) => {
 
     const user = await User.findOne({
       where: { email },
-      include: {
-        model: locationModel,
-        include: { model: dataPointModel },
-      },
-      // include: "followedUser",
+      include: { all: true, nested: true },
     });
 
     if (!user || !bcrypt.compareSync(password, user.password)) {

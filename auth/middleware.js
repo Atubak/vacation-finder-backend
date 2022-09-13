@@ -17,12 +17,9 @@ async function auth(req, res, next) {
   try {
     const data = toData(auth[1]);
     const user = await User.findByPk(data.userId, {
-      include: {
-        model: locationModel,
-        include: { model: dataPointModel },
-      },
-      include: "followedUser",
+      include: { all: true, nested: true },
     });
+    console.log("middleware: ", user.dataValues);
     if (!user) {
       return res.status(404).send({ message: "User does not exist" });
     }
