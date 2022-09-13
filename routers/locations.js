@@ -86,6 +86,10 @@ router.post("/favorites", authMiddleWare, async (req, res, next) => {
   const { user } = req;
   console.log(user.id);
   try {
+    //if the user has no locations property, make one. happens when a fresh account  tries to add a favorite
+    if (!user.locations) {
+      user.locations = [];
+    }
     //if the user already has the location in their favorites list, take it out the list
     if (!user.locations.every((loc) => loc.id !== id)) {
       await dataPointModel.destroy({ where: { locationId: id } });
