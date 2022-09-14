@@ -113,10 +113,7 @@ router.post("/favorites", authMiddleWare, async (req, res, next) => {
 
       //return the user instance with location id's included and the newly added location
       const userWithLocs = await userModel.findByPk(user.id, {
-        include: {
-          model: locationModel,
-          include: { model: dataPointModel },
-        },
+        include: { all: true, nested: true },
       });
       delete userWithLocs.dataValues["password"];
 
@@ -150,10 +147,7 @@ router.post("/favorites", authMiddleWare, async (req, res, next) => {
 
     //return the user instance with location id's included and the newly added location
     const userWithLocs = await userModel.findByPk(user.id, {
-      include: {
-        model: locationModel,
-        include: { model: dataPointModel },
-      },
+      include: { all: true, nested: true },
     });
     delete userWithLocs.dataValues["password"];
 
