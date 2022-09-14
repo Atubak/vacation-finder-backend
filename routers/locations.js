@@ -52,8 +52,10 @@ router.post("/", (req, res, next) => {
     //if the result of locationFinder is a string that means there is no valid location with all categories
     if (typeof allLocations === "string") return res.json(allLocations);
 
+    const resultsAmt = allLocations.length;
+
     //if the results are many, take only 10 random results and send it back
-    if (allLocations.length > 5) {
+    if (resultsAmt > 5) {
       let randomLocationsArr = [];
       let choices = [];
       for (let i = 0; i < 1; i++) {
@@ -70,10 +72,10 @@ router.post("/", (req, res, next) => {
       }
       randomLocationsArr = choices.map((choice) => allLocations[choice]);
 
-      return res.json(randomLocationsArr);
+      return res.json({ randomLocationsArr, resultsAmt });
     }
 
-    res.json(allLocations);
+    res.json({ randomLocationsArr: allLocations, resultsAmt });
   } catch (e) {
     next(e.message);
   }
@@ -81,7 +83,8 @@ router.post("/", (req, res, next) => {
 
 //endpoint that takes a location and adds it to a user's favorites list
 router.post("/favorites", authMiddleWare, async (req, res, next) => {
-  const { dataPoints, info, id } = req.body.location;
+  const { dataPoints, info, id, country_code } = req.body.location;
+  console.log(country_code);
 
   const { user } = req;
   console.log("locations id:", id);
@@ -128,6 +131,7 @@ router.post("/favorites", authMiddleWare, async (req, res, next) => {
     //make a new location instance
     const fav = await locationModel.create({
       info,
+      country_code,
       lon: dataPoints[0].lon,
       lat: dataPoints[0].lat,
     });
