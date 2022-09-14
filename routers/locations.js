@@ -75,7 +75,7 @@ router.post("/", (req, res, next) => {
       return res.json({ randomLocationsArr, resultsAmt });
     }
 
-    res.json(allLocations);
+    res.json({ randomLocationsArr: allLocations, resultsAmt });
   } catch (e) {
     next(e.message);
   }
