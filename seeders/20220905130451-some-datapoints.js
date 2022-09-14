@@ -11,7 +11,7 @@ module.exports = {
      *   isBetaMember: false
      * }], {});
      */
-    await queryInterface.bulkInsert("datapoints", [
+    await queryInterface.bulkInsert("dataPoints", [
       {
         locationId: 1,
         lat: 51.5070989,

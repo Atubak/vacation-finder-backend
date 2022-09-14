@@ -84,20 +84,50 @@ router.post("/favorites", authMiddleWare, async (req, res, next) => {
   const { dataPoints, info, id } = req.body.location;
 
   const { user } = req;
-  console.log(user.id);
+  console.log("locations id:", id);
   try {
+    //if the user has no locations property, make one. happens when a fresh account  tries to add a favorite
+    if (!user.locations) {
+      user.locations = [];
+    }
     //if the user already has the location in their favorites list, take it out the list
     if (!user.locations.every((loc) => loc.id !== id)) {
-      await dataPointModel.destroy({ where: { locationId: id } });
-      await locationModel.destroy({ where: { id } });
+      await userLocationModel.destroy({ where: { userId: user.id } });
 
       const userWithLocs = await userModel.findByPk(user.id, {
-        include: { model: locationModel, attributes: ["id"] },
+        include: { model: locationModel, include: { model: dataPointModel } },
       });
       delete userWithLocs.dataValues["password"];
       return res.send({ userWithLocs, msg: "deleted" });
     }
 
+    ////////////////////////
+    //not dry but not sure how to manage it otherwise
+    //if the location already is in the database, dont create a whole new location instance, just add the relation
+    if (id) {
+      //add the relation to the user
+      await userLocationModel.create({
+        userId: user.id,
+        locationId: id,
+      });
+
+      //return the user instance with location id's included and the newly added location
+      const userWithLocs = await userModel.findByPk(user.id, {
+        include: {
+          model: locationModel,
+          include: { model: dataPointModel },
+        },
+      });
+      delete userWithLocs.dataValues["password"];
+
+      const locWithDataPoints = await locationModel.findByPk(id, {
+        include: { model: dataPointModel },
+      });
+
+      return res.json({ userWithLocs, locWithDataPoints, msg: "added" });
+    }
+
+    /////////////////////////////
     //make a new location instance
     const fav = await locationModel.create({
       info,
@@ -120,7 +150,10 @@ router.post("/favorites", authMiddleWare, async (req, res, next) => {
 
     //return the user instance with location id's included and the newly added location
     const userWithLocs = await userModel.findByPk(user.id, {
-      include: { model: locationModel, attributes: ["id"] },
+      include: {
+        model: locationModel,
+        include: { model: dataPointModel },
+      },
     });
     delete userWithLocs.dataValues["password"];
 
@@ -131,6 +164,23 @@ router.post("/favorites", authMiddleWare, async (req, res, next) => {
     res.json({ userWithLocs, locWithDataPoints, msg: "added" });
   } catch (e) {
     next(e.message);
+  }
+});
+
+///////////////////////////
+//endpoint that retrieves all users that have favorited this particular location
+router.get(`/:locationId/users`, async (req, res, next) => {
+  const { locationId } = req.params;
+  console.log(locationId);
+  try {
+    const allUsers = await userLocationModel.findAll({
+      where: { locationId },
+      include: { model: userModel },
+    });
+    // console.log(allUsers);
+    res.json(allUsers);
+  } catch (e) {
+    next(e);
   }
 });
 
