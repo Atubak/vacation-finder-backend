@@ -63,7 +63,16 @@ router.patch(`/add`, authMiddleWare, async (req, res, next) => {
       await userFollowingUserModel.destroy({
         where: { follower: user.id, followee: addedUser },
       });
-      return res.json("deleted");
+
+      const newUserPage = await userModel.findByPk(addedUser, {
+        include: { all: true, nested: true },
+      });
+
+      const newProfile = await userModel.findByPk(user.id, {
+        include: { all: true, nested: true },
+      });
+
+      return res.json({ msg: "deleted", newUserPage, newProfile });
     }
 
     await userFollowingUserModel.create({
@@ -71,9 +80,16 @@ router.patch(`/add`, authMiddleWare, async (req, res, next) => {
       follower: user.id,
     });
 
-    const newAddedUser = await userModel.findByPk(addedUser);
+    //need both the new userpage and the profile object since we need to compare them on the client side
+    const newUserPage = await userModel.findByPk(addedUser, {
+      include: { all: true, nested: true },
+    });
 
-    res.json(newAddedUser);
+    const newProfile = await userModel.findByPk(user.id, {
+      include: { all: true, nested: true },
+    });
+
+    res.json({ msg: "added", newUserPage, newProfile });
   } catch (e) {
     next(e.message);
   }
