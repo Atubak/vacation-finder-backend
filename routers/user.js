@@ -1,6 +1,7 @@
 const { Router } = require("express");
 const authMiddleWare = require("../auth/middleware");
 const userModel = require("../models").user;
+const userFollowingUserModel = require("../models").userFollowingUser;
 
 const router = Router();
 
@@ -49,6 +50,32 @@ router.get("/:id", async (req, res, next) => {
     res.json(user);
   } catch (e) {
     next(e);
+  }
+});
+
+//toggle user-user relations
+router.patch(`/add`, authMiddleWare, async (req, res, next) => {
+  const { addedUser } = req.body;
+  const { user } = req;
+  try {
+    //if the user already follows this user, stop following them
+    if (!user.followedUser.every((el) => el.id !== addedUser)) {
+      await userFollowingUserModel.destroy({
+        where: { follower: user.id, followee: addedUser },
+      });
+      return res.json("deleted");
+    }
+
+    await userFollowingUserModel.create({
+      followee: addedUser,
+      follower: user.id,
+    });
+
+    const newAddedUser = await userModel.findByPk(addedUser);
+
+    res.json(newAddedUser);
+  } catch (e) {
+    next(e.message);
   }
 });
 

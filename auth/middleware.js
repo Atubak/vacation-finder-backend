@@ -19,7 +19,7 @@ async function auth(req, res, next) {
     const user = await User.findByPk(data.userId, {
       include: { all: true, nested: true },
     });
-    console.log("middleware: ", user.dataValues);
+
     if (!user) {
       return res.status(404).send({ message: "User does not exist" });
     }
