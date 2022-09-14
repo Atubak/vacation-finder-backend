@@ -57,12 +57,15 @@ router.post("/signup", async (req, res) => {
       name,
     });
 
-    console.log(newUser.dataValues);
-    delete newUser.dataValues["password"]; // don't send back the password hash
-
     const token = toJWT({ userId: newUser.id });
 
-    res.status(201).json({ token, user: newUser.dataValues });
+    const newUserIncludingAll = await User.findByPk(newUser.id, {
+      include: { all: true, nested: true },
+    });
+
+    delete newUserIncludingAll.dataValues["password"]; // don't send back the password hash
+
+    res.status(201).json({ token, user: newUserIncludingAll.dataValues });
   } catch (error) {
     if (error.name === "SequelizeUniqueConstraintError") {
       return res
