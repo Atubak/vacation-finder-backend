@@ -83,7 +83,8 @@ router.post("/", (req, res, next) => {
 
 //endpoint that takes a location and adds it to a user's favorites list
 router.post("/favorites", authMiddleWare, async (req, res, next) => {
-  const { dataPoints, info, id } = req.body.location;
+  const { dataPoints, info, id, country_code } = req.body.location;
+  console.log(country_code);
 
   const { user } = req;
   console.log("locations id:", id);
@@ -130,6 +131,7 @@ router.post("/favorites", authMiddleWare, async (req, res, next) => {
     //make a new location instance
     const fav = await locationModel.create({
       info,
+      country_code,
       lon: dataPoints[0].lon,
       lat: dataPoints[0].lat,
     });
