@@ -101,7 +101,12 @@ router.post("/favorites", authMiddleWare, async (req, res, next) => {
         include: { model: locationModel, include: { model: dataPointModel } },
       });
       delete userWithLocs.dataValues["password"];
-      return res.send({ userWithLocs, msg: "deleted" });
+
+      const locWithDataPoints = await locationModel.findByPk(id, {
+        include: { all: true, nested: true },
+      });
+
+      return res.send({ locWithDataPoints, userWithLocs, msg: "deleted" });
     }
 
     ////////////////////////
@@ -121,7 +126,7 @@ router.post("/favorites", authMiddleWare, async (req, res, next) => {
       delete userWithLocs.dataValues["password"];
 
       const locWithDataPoints = await locationModel.findByPk(id, {
-        include: { model: dataPointModel },
+        include: { all: true, nested: true },
       });
 
       return res.json({ userWithLocs, locWithDataPoints, msg: "added" });
