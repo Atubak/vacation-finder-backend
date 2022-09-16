@@ -1,0 +1,3026 @@
+[
+  {
+    "wikiId": "Q6913255",
+    "name": "Morongo Casino, Resort & Spa",
+    "cat": "resort",
+    "lon": -116.795,
+    "lat": 33.92
+  },
+  {
+    "wikiId": "Q6990894",
+    "name": "Nemacolin Woodlands Resort",
+    "cat": "resort",
+    "lon": -79.5512,
+    "lat": 39.8048
+  },
+  {
+    "wikiId": "Q7058891",
+    "name": "Northern Quest Resort & Casino",
+    "cat": "resort",
+    "lon": -117.561,
+    "lat": 47.6586
+  },
+  {
+    "wikiId": "Q7085170",
+    "name": "Old Sweet Springs",
+    "cat": "resort",
+    "lon": -80.2417,
+    "lat": 37.6286
+  },
+  {
+    "wikiId": "Q7126133",
+    "name": "Pala Casino Resort and Spa",
+    "cat": "resort",
+    "lon": -117.084,
+    "lat": 33.363
+  },
+  {
+    "wikiId": "Q7158663",
+    "name": "Pechanga Resort and Casino",
+    "cat": "resort",
+    "lon": -117.107,
+    "lat": 33.456
+  },
+  {
+    "wikiId": "Q7272372",
+    "name": "Quinta do Lago",
+    "cat": "resort",
+    "lon": -8.02,
+    "lat": 37.044
+  },
+  {
+    "wikiId": "Q7304924",
+    "name": "Red Rock Casino, Resort & Spa",
+    "cat": "resort",
+    "lon": -115.33,
+    "lat": 36.1544
+  },
+  {
+    "wikiId": "Q7312441",
+    "name": "Renaissance Resort at World Golf Village",
+    "cat": "resort",
+    "lon": -81.46,
+    "lat": 29.99
+  },
+  {
+    "wikiId": "Q7333237",
+    "name": "Riffelalp",
+    "cat": "resort",
+    "lon": 7.75094,
+    "lat": 46.002
+  },
+  {
+    "wikiId": "Q7382688",
+    "name": "Rusutsu Resort",
+    "cat": "resort",
+    "lon": 140.90329,
+    "lat": 42.74968
+  },
+  {
+    "wikiId": "Q7417140",
+    "name": "Sandy Balls",
+    "cat": "resort",
+    "lon": -1.7581,
+    "lat": 50.9319
+  },
+  {
+    "wikiId": "Q7549862",
+    "name": "Soaring Eagle Casino & Resort",
+    "cat": "resort",
+    "lon": -84.7126,
+    "lat": 43.6082
+  },
+  {
+    "wikiId": "Q7555518",
+    "name": "Sol Duc Hot Springs",
+    "cat": "resort",
+    "lon": -123.863,
+    "lat": 47.97
+  },
+  {
+    "wikiId": "Q7568401",
+    "name": "South Seas Island Resort",
+    "cat": "resort",
+    "lon": -82.19777778,
+    "lat": 26.54944444
+  },
+  {
+    "wikiId": "Q7671138",
+    "name": "TPC of Scottsdale",
+    "cat": "resort",
+    "lon": -111.911,
+    "lat": 33.6378
+  },
+  {
+    "wikiId": "Q7731998",
+    "name": "The Enchanted Gardens, Jamaica",
+    "cat": "resort",
+    "lon": -77.1109,
+    "lat": 18.4027
+  },
+  {
+    "wikiId": "Q7754304",
+    "name": "Lake Norconian Club",
+    "cat": "resort",
+    "lon": -117.569,
+    "lat": 33.929
+  },
+  {
+    "wikiId": "Q7763719",
+    "name": "The Shawnee Inn & Golf Resort",
+    "cat": "resort",
+    "lon": -75.1256,
+    "lat": 40.9989
+  },
+  {
+    "wikiId": "Q7775113",
+    "name": "The Windsor Hotel Toya Resort & Spa",
+    "cat": "resort",
+    "lon": 140.759028,
+    "lat": 42.592608
+  },
+  {
+    "wikiId": "Q7838722",
+    "name": "Tres Marias Golf Club",
+    "cat": "resort",
+    "lon": -101.107777777,
+    "lat": 19.708055555
+  },
+  {
+    "wikiId": "Q7851907",
+    "name": "Tulalip Resort Casino",
+    "cat": "resort",
+    "lon": -122.189,
+    "lat": 48.0881
+  },
+  {
+    "wikiId": "Q8001263",
+    "name": "Wildhorse Resort & Casino",
+    "cat": "resort",
+    "lon": -118.679,
+    "lat": 45.647
+  },
+  {
+    "wikiId": "Q9005547",
+    "name": "Huvafen Fushi",
+    "cat": "resort",
+    "lon": 73.37027,
+    "lat": 4.36909
+  },
+  {
+    "wikiId": "Q9341035",
+    "name": "Q9341035",
+    "cat": "resort",
+    "lon": 22.287111111,
+    "lat": 53.934027777
+  },
+  {
+    "wikiId": "Q10381759",
+    "name": "Royal Palm",
+    "cat": "resort",
+    "lon": -47.07238611,
+    "lat": -22.93651111
+  },
+  {
+    "wikiId": "Q11234467",
+    "name": "NASPA New Otani",
+    "cat": "resort",
+    "lon": 138.798694,
+    "lat": 36.93075
+  },
+  {
+    "wikiId": "Q11297812",
+    "name": "Kiroro Resort",
+    "cat": "resort",
+    "lon": 140.98222222,
+    "lat": 43.07583333
+  },
+  {
+    "wikiId": "Q11298628",
+    "name": "Q11298628",
+    "cat": "resort",
+    "lon": 137.218972222,
+    "lat": 35.5955
+  },
+  {
+    "wikiId": "Q11299051",
+    "name": "ClubMed Hokkaido Sahoro",
+    "cat": "resort",
+    "lon": 142.810555555,
+    "lat": 43.17
+  },
+  {
+    "wikiId": "Q11305052",
+    "name": "Sahoro Resort",
+    "cat": "resort",
+    "lon": 142.81258,
+    "lat": 43.16646
+  },
+  {
+    "wikiId": "Q11324364",
+    "name": "Niseko Village",
+    "cat": "resort",
+    "lon": 140.681388888,
+    "lat": 42.848333333
+  },
+  {
+    "wikiId": "Q11412480",
+    "name": "Nemu Resort",
+    "cat": "resort",
+    "lon": 136.793055555,
+    "lat": 34.297222222
+  },
+  {
+    "wikiId": "Q11417294",
+    "name": "Wakayama Marina City",
+    "cat": "resort",
+    "lon": 135.177269,
+    "lat": 34.153889
+  },
+  {
+    "wikiId": "Q11489165",
+    "name": "Gotemba Kōgen Resort Toki no Sumika",
+    "cat": "resort",
+    "lon": 138.925,
+    "lat": 35.23583333
+  },
+  {
+    "wikiId": "Q11603362",
+    "name": "Hakone-en",
+    "cat": "resort",
+    "lon": 139.00833333,
+    "lat": 35.21388889
+  },
+  {
+    "wikiId": "Q11609171",
+    "name": "Mihama Town Resort American Village",
+    "cat": "resort",
+    "lon": 127.756668,
+    "lat": 26.316183
+  },
+  {
+    "wikiId": "Q11879871",
+    "name": "Q11879871",
+    "cat": "resort",
+    "lon": 24.562234,
+    "lat": 65.040285
+  },
+  {
+    "wikiId": "Q12036392",
+    "name": "Mentaurov",
+    "cat": "resort",
+    "lon": 14.1217,
+    "lat": 50.57
+  },
+  {
+    "wikiId": "Q12060106",
+    "name": "Tábor J. A. Komenského",
+    "cat": "resort",
+    "lon": 15.9485,
+    "lat": 50.1876
+  },
+  {
+    "wikiId": "Q12404493",
+    "name": "Q12404493",
+    "cat": "resort",
+    "lon": 34.843,
+    "lat": 32.3004
+  },
+  {
+    "wikiId": "Q12763307",
+    "name": "Q12763307",
+    "cat": "resort",
+    "lon": 19.6325,
+    "lat": 49.156111111
+  },
+  {
+    "wikiId": "Q12770618",
+    "name": "Lučivná",
+    "cat": "resort",
+    "lon": 19.163333333,
+    "lat": 49.2125
+  },
+  {
+    "wikiId": "Q12777672",
+    "name": "Q12777672",
+    "cat": "resort",
+    "lon": 19.6102447,
+    "lat": 48.9241497
+  },
+  {
+    "wikiId": "Q12777932",
+    "name": "Tále (Horná Lehota, Brezno, Slovakia)",
+    "cat": "resort",
+    "lon": 19.599952777,
+    "lat": 48.873747222
+  },
+  {
+    "wikiId": "Q12803664",
+    "name": "Suha Punta",
+    "cat": "resort",
+    "lon": 14.72472,
+    "lat": 44.762028
+  },
+  {
+    "wikiId": "Q13377786",
+    "name": "Leopalace Resort",
+    "cat": "resort",
+    "lon": 144.737,
+    "lat": 13.4186
+  },
+  {
+    "wikiId": "Q13407239",
+    "name": "Q13407239",
+    "cat": "resort",
+    "lon": 18.09528,
+    "lat": 48.665
+  },
+  {
+    "wikiId": "Q14693343",
+    "name": "Pearl River Resort",
+    "cat": "resort",
+    "lon": -89.2064,
+    "lat": 32.7723
+  },
+  {
+    "wikiId": "Q14705265",
+    "name": "Resorts World Las Vegas",
+    "cat": "resort",
+    "lon": -115.168,
+    "lat": 36.1339
+  },
+  {
+    "wikiId": "Q14712208",
+    "name": "Craig Healing Springs",
+    "cat": "resort",
+    "lon": -80.2922,
+    "lat": 37.4847
+  },
+  {
+    "wikiId": "Q14714612",
+    "name": "The Everett Resort",
+    "cat": "resort",
+    "lon": -89.1731,
+    "lat": 45.9106
+  },
+  {
+    "wikiId": "Q14941893",
+    "name": "Fisherman's Cove",
+    "cat": "resort",
+    "lon": 55.42166667,
+    "lat": -4.61583333
+  },
+  {
+    "wikiId": "Q15253447",
+    "name": "Ming Shan Resort",
+    "cat": "resort",
+    "lon": 120.79722222,
+    "lat": 23.67416667
+  },
+  {
+    "wikiId": "Q15260867",
+    "name": "Nalusuan",
+    "cat": "resort",
+    "lon": 124.00055556,
+    "lat": 10.19055556
+  },
+  {
+    "wikiId": "Q15304084",
+    "name": "Campo Bahia",
+    "cat": "resort",
+    "lon": -39.00944,
+    "lat": -16.24101
+  },
+  {
+    "wikiId": "Q16241445",
+    "name": "Atayal Resort",
+    "cat": "resort",
+    "lon": 120.944,
+    "lat": 24.0686
+  },
+  {
+    "wikiId": "Q16241848",
+    "name": "Jianshanpi Jiangnan Resort",
+    "cat": "resort",
+    "lon": 120.39,
+    "lat": 23.2611
+  },
+  {
+    "wikiId": "Q16241891",
+    "name": "Kentington Resort",
+    "cat": "resort",
+    "lon": 120.836,
+    "lat": 22.0267
+  },
+  {
+    "wikiId": "Q16481443",
+    "name": "Golden Valley",
+    "cat": "resort",
+    "lon": 108.380944444,
+    "lat": 12.006305555
+  },
+  {
+    "wikiId": "Q16868552",
+    "name": "Lei Yue Mun Park and Holiday Village",
+    "cat": "resort",
+    "lon": 114.232607,
+    "lat": 22.27762
+  },
+  {
+    "wikiId": "Q16899247",
+    "name": "Reunion, Florida",
+    "cat": "resort",
+    "lon": -81.6081,
+    "lat": 28.2803
+  },
+  {
+    "wikiId": "Q16900797",
+    "name": "Streamsong",
+    "cat": "resort",
+    "lon": -81.9343,
+    "lat": 27.6926
+  },
+  {
+    "wikiId": "Q16997924",
+    "name": "Mission Inn Resort & Club",
+    "cat": "resort",
+    "lon": -81.781944444,
+    "lat": 28.725
+  },
+  {
+    "wikiId": "Q17006415",
+    "name": "Songdowŏn International Children's Camp",
+    "cat": "resort",
+    "lon": 127.4053386,
+    "lat": 39.1863438
+  },
+  {
+    "wikiId": "Q17183984",
+    "name": "Sanctuary on Camelback",
+    "cat": "resort",
+    "lon": -111.9596,
+    "lat": 33.65223
+  },
+  {
+    "wikiId": "Q17487875",
+    "name": "Seascape Beach Resort",
+    "cat": "resort",
+    "lon": -121.8771,
+    "lat": 36.950719444
+  },
+  {
+    "wikiId": "Q17499413",
+    "name": "Chimelong International Ocean Resort",
+    "cat": "resort",
+    "lon": 113.53,
+    "lat": 22.1001
+  },
+  {
+    "wikiId": "Q17514903",
+    "name": "Castle Hot Springs",
+    "cat": "resort",
+    "lon": -112.362,
+    "lat": 33.9827
+  },
+  {
+    "wikiId": "Q18378407",
+    "name": "Belmond La Résidence d'Angkor",
+    "cat": "resort",
+    "lon": 103.859288516,
+    "lat": 13.357654819
+  },
+  {
+    "wikiId": "Q18642576",
+    "name": "Duchesnay tourist resort",
+    "cat": "resort",
+    "lon": -71.640277777,
+    "lat": 46.869444444
+  },
+  {
+    "wikiId": "Q19564500",
+    "name": "Encore Boston Harbor",
+    "cat": "resort",
+    "lon": -71.069365,
+    "lat": 42.395121
+  },
+  {
+    "wikiId": "Q19729764",
+    "name": "Hilton Bali Resort",
+    "cat": "resort",
+    "lon": 115.219286,
+    "lat": -8.826684
+  },
+  {
+    "wikiId": "Q19841101",
+    "name": "Yun Hsien Resort",
+    "cat": "resort",
+    "lon": 121.556,
+    "lat": 24.8447
+  },
+  {
+    "wikiId": "Q19986535",
+    "name": "Bellaire Court Historic District",
+    "cat": "resort",
+    "lon": -93.0531,
+    "lat": 34.5244
+  },
+  {
+    "wikiId": "Q20275850",
+    "name": "Clavellina",
+    "cat": "resort",
+    "lon": -101.09917,
+    "lat": 23.13639
+  },
+  {
+    "wikiId": "Q20570396",
+    "name": "Šula Mina",
+    "cat": "resort",
+    "lon": 21.237180401,
+    "lat": 41.374988281
+  },
+  {
+    "wikiId": "Q21187914",
+    "name": "Glen House",
+    "cat": "resort",
+    "lon": -71.22416667,
+    "lat": 44.28888889
+  },
+  {
+    "wikiId": "Q21188208",
+    "name": "Fairmont Sonoma Mission Inn & Spa",
+    "cat": "resort",
+    "lon": -122.482991,
+    "lat": 38.312593
+  },
+  {
+    "wikiId": "Q22031850",
+    "name": "The Westin Savannah Harbor Golf Resort & Spa",
+    "cat": "resort",
+    "lon": -81.085231167,
+    "lat": 32.083305283
+  },
+  {
+    "wikiId": "Q22096738",
+    "name": "Roundtop Mountain Resort",
+    "cat": "resort",
+    "lon": -76.926,
+    "lat": 40.108
+  },
+  {
+    "wikiId": "Q22917041",
+    "name": "Phoenician Resort",
+    "cat": "resort",
+    "lon": -111.933333,
+    "lat": 33.493611
+  },
+  {
+    "wikiId": "Q22984612",
+    "name": "MGM National Harbor",
+    "cat": "resort",
+    "lon": -77.009583333,
+    "lat": 38.794833333
+  },
+  {
+    "wikiId": "Q23427591",
+    "name": "Honor Mansion",
+    "cat": "resort",
+    "lon": -122.87615833,
+    "lat": 38.62035
+  },
+  {
+    "wikiId": "Q24039580",
+    "name": "Marriott's Ko Olina Beach Club",
+    "cat": "resort",
+    "lon": -158.12,
+    "lat": 21.339
+  },
+  {
+    "wikiId": "Q24246449",
+    "name": "Seehotel Templin",
+    "cat": "resort",
+    "lon": 13.53049,
+    "lat": 53.111693
+  },
+  {
+    "wikiId": "Q24885338",
+    "name": "Mambukal",
+    "cat": "resort",
+    "lon": 123.102,
+    "lat": 10.5
+  },
+  {
+    "wikiId": "Q25005696",
+    "name": "Larson's Hunters Resort",
+    "cat": "resort",
+    "lon": -96.5725,
+    "lat": 45.82472222
+  },
+  {
+    "wikiId": "Q25007074",
+    "name": "Poland Springs Historic District",
+    "cat": "resort",
+    "lon": -70.36666667,
+    "lat": 44.03333333
+  },
+  {
+    "wikiId": "Q159144",
+    "name": "Europa-Park",
+    "cat": "resort",
+    "lon": 7.720833,
+    "lat": 48.268333
+  },
+  {
+    "wikiId": "Q181185",
+    "name": "Disneyland",
+    "cat": "resort",
+    "lon": -117.919,
+    "lat": 33.809
+  },
+  {
+    "wikiId": "Q206859",
+    "name": "Walt Disney World Resort",
+    "cat": "resort",
+    "lon": -81.5494,
+    "lat": 28.3722
+  },
+  {
+    "wikiId": "Q267946",
+    "name": "Playa de las Américas",
+    "cat": "resort",
+    "lon": -16.7325,
+    "lat": 28.0675
+  },
+  {
+    "wikiId": "Q280910",
+    "name": "Vdara",
+    "cat": "resort",
+    "lon": -115.17808,
+    "lat": 36.10943
+  },
+  {
+    "wikiId": "Q505880",
+    "name": "Solahütte",
+    "cat": "resort",
+    "lon": 19.23361111,
+    "lat": 49.81666667
+  },
+  {
+    "wikiId": "Q592633",
+    "name": "Fonyód–Alsóbélatelep",
+    "cat": "resort",
+    "lon": 17.5339,
+    "lat": 46.7297
+  },
+  {
+    "wikiId": "Q602505",
+    "name": "San Alfonso del Mar",
+    "cat": "resort",
+    "lon": -71.653333,
+    "lat": -33.35
+  },
+  {
+    "wikiId": "Q605492",
+    "name": "Tokyo Disney Resort",
+    "cat": "resort",
+    "lon": 139.882777777,
+    "lat": 35.629722222
+  },
+  {
+    "wikiId": "Q628994",
+    "name": "Monkey Mia",
+    "cat": "resort",
+    "lon": 113.717,
+    "lat": -25.7947
+  },
+  {
+    "wikiId": "Q704502",
+    "name": "Sanzhi UFO houses",
+    "cat": "resort",
+    "lon": 121.4775,
+    "lat": 25.260833333
+  },
+  {
+    "wikiId": "Q713960",
+    "name": "MGM Grand Las Vegas",
+    "cat": "resort",
+    "lon": -115.16917,
+    "lat": 36.1025
+  },
+  {
+    "wikiId": "Q778011",
+    "name": "Universal Orlando Resort",
+    "cat": "resort",
+    "lon": -81.470008,
+    "lat": 28.4743207
+  },
+  {
+    "wikiId": "Q829413",
+    "name": "Călacea",
+    "cat": "resort",
+    "lon": 21.145834,
+    "lat": 45.955569
+  },
+  {
+    "wikiId": "Q852871",
+    "name": "Balvanyos",
+    "cat": "resort",
+    "lon": 25.9585917,
+    "lat": 46.1095028
+  },
+  {
+    "wikiId": "Q908792",
+    "name": "PortAventura World",
+    "cat": "resort",
+    "lon": 1.151388888,
+    "lat": 41.084722222
+  },
+  {
+    "wikiId": "Q985798",
+    "name": "Sun City, North West",
+    "cat": "resort",
+    "lon": 27.090833333,
+    "lat": -25.340277777
+  },
+  {
+    "wikiId": "Q995639",
+    "name": "Galaxy Macau",
+    "cat": "resort",
+    "lon": 113.55277778,
+    "lat": 22.14972222
+  },
+  {
+    "wikiId": "Q1005338",
+    "name": "Villa Argentina",
+    "cat": "resort",
+    "lon": -55.783333333,
+    "lat": -34.766666666
+  },
+  {
+    "wikiId": "Q1017078",
+    "name": "Crown Perth",
+    "cat": "resort",
+    "lon": 115.895561111,
+    "lat": -31.960830555
+  },
+  {
+    "wikiId": "Q1051604",
+    "name": "Four Queens",
+    "cat": "resort",
+    "lon": -115.1438,
+    "lat": 36.17
+  },
+  {
+    "wikiId": "Q1064873",
+    "name": "Excalibur Hotel and Casino",
+    "cat": "resort",
+    "lon": -115.175555555,
+    "lat": 36.098888888
+  },
+  {
+    "wikiId": "Q1109575",
+    "name": "Királyrét",
+    "cat": "resort",
+    "lon": 18.977778,
+    "lat": 47.894722
+  },
+  {
+    "wikiId": "Q1190803",
+    "name": "Hong Kong Disneyland Resort",
+    "cat": "resort",
+    "lon": 114.043333333,
+    "lat": 22.313333333
+  },
+  {
+    "wikiId": "Q1340365",
+    "name": "Westgate Las Vegas Resort & Casino",
+    "cat": "resort",
+    "lon": -115.1514,
+    "lat": 36.1361
+  },
+  {
+    "wikiId": "Q1854509",
+    "name": "Park MGM",
+    "cat": "resort",
+    "lon": -115.176,
+    "lat": 36.104694444
+  },
+  {
+    "wikiId": "Q2010864",
+    "name": "Anaula",
+    "cat": "resort",
+    "lon": -55.39,
+    "lat": 4.38
+  },
+  {
+    "wikiId": "Q2048307",
+    "name": "Palms Casino Resort",
+    "cat": "resort",
+    "lon": -115.195,
+    "lat": 36.114444
+  },
+  {
+    "wikiId": "Q2257375",
+    "name": "La Manga Club",
+    "cat": "resort",
+    "lon": -0.802778,
+    "lat": 37.606389
+  },
+  {
+    "wikiId": "Q2260597",
+    "name": "Kuźnica",
+    "cat": "resort",
+    "lon": 18.582222222,
+    "lat": 54.733611111
+  },
+  {
+    "wikiId": "Q2396803",
+    "name": "Tauern Spa World",
+    "cat": "resort",
+    "lon": 12.76001,
+    "lat": 47.28272
+  },
+  {
+    "wikiId": "Q2441288",
+    "name": "Phoenix Seagaia Resort",
+    "cat": "resort",
+    "lon": 131.4696,
+    "lat": 31.9551
+  },
+  {
+    "wikiId": "Q2504374",
+    "name": "Jeti-Ögüz",
+    "cat": "resort",
+    "lon": 78.239733,
+    "lat": 42.33055
+  },
+  {
+    "wikiId": "Q2517139",
+    "name": "Bedugul",
+    "cat": "resort",
+    "lon": 115.166666666,
+    "lat": -8.283333333
+  },
+  {
+    "wikiId": "Q2722966",
+    "name": "Atlantis Paradise Island Bahamas",
+    "cat": "resort",
+    "lon": -77.320833333,
+    "lat": 25.085
+  },
+  {
+    "wikiId": "Q2762470",
+    "name": "Praia Arroio Seco",
+    "cat": "resort",
+    "lon": -49.81843611,
+    "lat": -29.45764444
+  },
+  {
+    "wikiId": "Q2919960",
+    "name": "Disney's Contemporary Resort",
+    "cat": "resort",
+    "lon": -81.574,
+    "lat": 28.415
+  },
+  {
+    "wikiId": "Q2960179",
+    "name": "Awaji Yumebutai",
+    "cat": "resort",
+    "lon": 135.00878,
+    "lat": 34.56148
+  },
+  {
+    "wikiId": "Q3016111",
+    "name": "Six Flags Darien Lake",
+    "cat": "resort",
+    "lon": -78.3849,
+    "lat": 42.9285
+  },
+  {
+    "wikiId": "Q3030310",
+    "name": "Disney's Coronado Springs Resort",
+    "cat": "resort",
+    "lon": -81.5736,
+    "lat": 28.3639
+  },
+  {
+    "wikiId": "Q3030352",
+    "name": "Disney's Yacht Club Resort",
+    "cat": "resort",
+    "lon": -81.5587,
+    "lat": 28.3707
+  },
+  {
+    "wikiId": "Q3112563",
+    "name": "Popova Šapka",
+    "cat": "resort",
+    "lon": 20.88,
+    "lat": 42.01416667
+  },
+  {
+    "wikiId": "Q3120770",
+    "name": "Gulliver's Land Resort",
+    "cat": "resort",
+    "lon": -0.730278,
+    "lat": 52.0511
+  },
+  {
+    "wikiId": "Q3289989",
+    "name": "Martsialnyje Vody",
+    "cat": "resort",
+    "lon": 33.9016,
+    "lat": 62.15624
+  },
+  {
+    "wikiId": "Q3983810",
+    "name": "Tenuta di San Liberato, Bracciano",
+    "cat": "resort",
+    "lon": 12.16445,
+    "lat": 42.129369444
+  },
+  {
+    "wikiId": "Q4190494",
+    "name": "Q4190494",
+    "cat": "resort",
+    "lon": 23.804166666,
+    "lat": 42.881666666
+  },
+  {
+    "wikiId": "Q4197616",
+    "name": "Igora",
+    "cat": "resort",
+    "lon": 30.21025,
+    "lat": 60.514444444
+  },
+  {
+    "wikiId": "Q4242955",
+    "name": "Ko Olina Resort",
+    "cat": "resort",
+    "lon": -158.1186184,
+    "lat": 21.3377727
+  },
+  {
+    "wikiId": "Q4271406",
+    "name": "Villa Escudero",
+    "cat": "resort",
+    "lon": 121.342,
+    "lat": 13.9951
+  },
+  {
+    "wikiId": "Q4439773",
+    "name": "Staraya Russa resort",
+    "cat": "resort",
+    "lon": 31.366224,
+    "lat": 57.986688
+  },
+  {
+    "wikiId": "Q4478437",
+    "name": "Ust-Kachka Resort",
+    "cat": "resort",
+    "lon": 55.66722,
+    "lat": 58.00528
+  },
+  {
+    "wikiId": "Q4694430",
+    "name": "Agua Caliente Casino Resort Spa",
+    "cat": "resort",
+    "lon": -116.408,
+    "lat": 33.814
+  },
+  {
+    "wikiId": "Q4739894",
+    "name": "Amanjiwo",
+    "cat": "resort",
+    "lon": 110.20208,
+    "lat": -7.63175
+  },
+  {
+    "wikiId": "Q4739919",
+    "name": "Amanpulo",
+    "cat": "resort",
+    "lon": 120.729166666,
+    "lat": 11.355833333
+  },
+  {
+    "wikiId": "Q4739924",
+    "name": "Amantaka",
+    "cat": "resort",
+    "lon": 102.13916667,
+    "lat": 19.89277778
+  },
+  {
+    "wikiId": "Q4791646",
+    "name": "Arkaba Station",
+    "cat": "resort",
+    "lon": 138.505,
+    "lat": -31.7313
+  },
+  {
+    "wikiId": "Q4805851",
+    "name": "Parque Marítimo del Mediterráneo",
+    "cat": "resort",
+    "lon": -5.30914444,
+    "lat": 35.88981389
+  },
+  {
+    "wikiId": "Q4853962",
+    "name": "Banasura Hill Resort",
+    "cat": "resort",
+    "lon": 75.923055555,
+    "lat": 11.713611111
+  },
+  {
+    "wikiId": "Q4875722",
+    "name": "Beach Hotel",
+    "cat": "resort",
+    "lon": -94.7886,
+    "lat": 29.2889
+  },
+  {
+    "wikiId": "Q4920348",
+    "name": "Black Bear Resort",
+    "cat": "resort",
+    "lon": -111.434,
+    "lat": 42.1622
+  },
+  {
+    "wikiId": "Q4929172",
+    "name": "Blue Harbor Resort",
+    "cat": "resort",
+    "lon": -87.7064,
+    "lat": 43.746
+  },
+  {
+    "wikiId": "Q4930576",
+    "name": "Bluestone, Pembrokeshire",
+    "cat": "resort",
+    "lon": -4.801,
+    "lat": 51.783
+  },
+  {
+    "wikiId": "Q5004763",
+    "name": "Bà Nà Hills",
+    "cat": "resort",
+    "lon": 107.99416667,
+    "lat": 15.99555556
+  },
+  {
+    "wikiId": "Q5087550",
+    "name": "Chateau Tongariro",
+    "cat": "resort",
+    "lon": 175.5392,
+    "lat": -39.2
+  },
+  {
+    "wikiId": "Q5111380",
+    "name": "Christmas Island Resort",
+    "cat": "resort",
+    "lon": 105.705,
+    "lat": -10.45722222
+  },
+  {
+    "wikiId": "Q5126326",
+    "name": "Claremont Hotel & Spa",
+    "cat": "resort",
+    "lon": -122.2418,
+    "lat": 37.8588
+  },
+  {
+    "wikiId": "Q5147746",
+    "name": "Colmar Tropicale",
+    "cat": "resort",
+    "lon": 101.83963,
+    "lat": 3.400811
+  },
+  {
+    "wikiId": "Q5149438",
+    "name": "Colter Bay Village",
+    "cat": "resort",
+    "lon": -110.641,
+    "lat": 43.9042
+  },
+  {
+    "wikiId": "Q5178378",
+    "name": "Court of Flags Resort",
+    "cat": "resort",
+    "lon": -81.4522,
+    "lat": 28.4783
+  },
+  {
+    "wikiId": "Q5225975",
+    "name": "Darwin Forest Country Park",
+    "cat": "resort",
+    "lon": -1.55138889,
+    "lat": 53.18289167
+  },
+  {
+    "wikiId": "Q5282377",
+    "name": "Disney's BoardWalk Villas",
+    "cat": "resort",
+    "lon": -81.5563,
+    "lat": 28.3664
+  },
+  {
+    "wikiId": "Q5325259",
+    "name": "Eagle Springs Golf Resort",
+    "cat": "resort",
+    "lon": -88.451,
+    "lat": 42.856
+  },
+  {
+    "wikiId": "Q5365445",
+    "name": "Ellinor Village, Florida",
+    "cat": "resort",
+    "lon": -81.0408,
+    "lat": 29.28
+  },
+  {
+    "wikiId": "Q5430581",
+    "name": "Princess Mundo Imperial",
+    "cat": "resort",
+    "lon": -99.814032,
+    "lat": 16.788414
+  },
+  {
+    "wikiId": "Q5475528",
+    "name": "Four Seasons Resort and Club Dallas at Las Colinas",
+    "cat": "resort",
+    "lon": -96.9584598,
+    "lat": 32.8631082
+  },
+  {
+    "wikiId": "Q5501830",
+    "name": "French Lick Resort Casino",
+    "cat": "resort",
+    "lon": -86.621,
+    "lat": 38.5533
+  },
+  {
+    "wikiId": "Q5578879",
+    "name": "Gold Strike Casino Resort",
+    "cat": "resort",
+    "lon": -90.33255,
+    "lat": 34.84635
+  },
+  {
+    "wikiId": "Q5617789",
+    "name": "Gulliver's Kingdom Resort",
+    "cat": "resort",
+    "lon": -1.56439,
+    "lat": 53.1182
+  },
+  {
+    "wikiId": "Q5875825",
+    "name": "Hockley Valley",
+    "cat": "resort",
+    "lon": -80.0471,
+    "lat": 43.9779
+  },
+  {
+    "wikiId": "Q5955134",
+    "name": "Resorts World Sentosa",
+    "cat": "resort",
+    "lon": 103.821081,
+    "lat": 1.253232
+  },
+  {
+    "wikiId": "Q6059041",
+    "name": "Palmas Del Mar Beach Resort",
+    "cat": "resort",
+    "lon": -65.798055555,
+    "lat": 18.081944444
+  },
+  {
+    "wikiId": "Q6064983",
+    "name": "Melody Maker Cancun",
+    "cat": "resort",
+    "lon": -86.759111111,
+    "lat": 21.112638888
+  },
+  {
+    "wikiId": "Q6088744",
+    "name": "Istarske Toplice",
+    "cat": "resort",
+    "lon": 13.88611111,
+    "lat": 45.37916667
+  },
+  {
+    "wikiId": "Q6109264",
+    "name": "JW Marriott Las Vegas",
+    "cat": "resort",
+    "lon": -115.2907,
+    "lat": 36.1758
+  },
+  {
+    "wikiId": "Q6386575",
+    "name": "Keltic Lodge",
+    "cat": "resort",
+    "lon": -60.3846,
+    "lat": 46.655
+  },
+  {
+    "wikiId": "Q6387088",
+    "name": "Kempinski Hotel Ajman",
+    "cat": "resort",
+    "lon": 55.442333333,
+    "lat": 25.423030555
+  },
+  {
+    "wikiId": "Q6403903",
+    "name": "Kiawah Island Golf Resort",
+    "cat": "resort",
+    "lon": -80.0978,
+    "lat": 32.6094
+  },
+  {
+    "wikiId": "Q6429595",
+    "name": "Konocti Harbor",
+    "cat": "resort",
+    "lon": -122.74111111,
+    "lat": 38.98888889
+  },
+  {
+    "wikiId": "Q6476565",
+    "name": "Lake Lanier Islands",
+    "cat": "resort",
+    "lon": -84.0301,
+    "lat": 34.1776
+  },
+  {
+    "wikiId": "Q6493989",
+    "name": "Crowne Plaza Alice Springs Lasseters",
+    "cat": "resort",
+    "lon": 133.877,
+    "lat": -23.7204
+  },
+  {
+    "wikiId": "Q6772968",
+    "name": "Marriott's Grande Vista",
+    "cat": "resort",
+    "lon": -81.4569,
+    "lat": 28.3963
+  },
+  {
+    "wikiId": "Q108962068",
+    "name": "Zenababs Half Moon Resort",
+    "cat": "resort",
+    "lon": 4.772587,
+    "lat": 7.655313
+  },
+  {
+    "wikiId": "Q109266015",
+    "name": "Ngeji Resort",
+    "cat": "resort",
+    "lon": 11.3119092,
+    "lat": 11.2927933
+  },
+  {
+    "wikiId": "Q109266162",
+    "name": "Jara Beach Resort",
+    "cat": "resort",
+    "lon": 3.86439,
+    "lat": 6.438726
+  },
+  {
+    "wikiId": "Q109266337",
+    "name": "HoneyLand Beach Resort",
+    "cat": "resort",
+    "lon": 3.911187,
+    "lat": 6.440136
+  },
+  {
+    "wikiId": "Q109266620",
+    "name": "Villa Rica Resorts",
+    "cat": "resort",
+    "lon": 3.8514025,
+    "lat": 6.4478931
+  },
+  {
+    "wikiId": "Q109266750",
+    "name": "Eko Tourist Beach Resort Lagos",
+    "cat": "resort",
+    "lon": 3.556273,
+    "lat": 6.464394
+  },
+  {
+    "wikiId": "Q109266995",
+    "name": "Omu Resort Ibeju Lekki",
+    "cat": "resort",
+    "lon": 3.753269,
+    "lat": 6.489748
+  },
+  {
+    "wikiId": "Q109289560",
+    "name": "peninsula resort lekki",
+    "cat": "resort",
+    "lon": 3.580986,
+    "lat": 6.47169
+  },
+  {
+    "wikiId": "Q109289620",
+    "name": "Lekki Miami Beach Resort Limited",
+    "cat": "resort",
+    "lon": 3.572216,
+    "lat": 6.42668
+  },
+  {
+    "wikiId": "Q109289655",
+    "name": "VirginRose Resorts",
+    "cat": "resort",
+    "lon": 3.421091,
+    "lat": 6.423243
+  },
+  {
+    "wikiId": "Q109289679",
+    "name": "Whispering Palms Hotel and Resort",
+    "cat": "resort",
+    "lon": 3.044481,
+    "lat": 6.417047
+  },
+  {
+    "wikiId": "Q109302382",
+    "name": "Green Legacy Resort",
+    "cat": "resort",
+    "lon": 3.366511,
+    "lat": 7.137515
+  },
+  {
+    "wikiId": "Q109302548",
+    "name": "Atimaggies Resort",
+    "cat": "resort",
+    "lon": 4.2678554,
+    "lat": 8.1848421
+  },
+  {
+    "wikiId": "Q109303171",
+    "name": "Wonderland amusement park and resort, Abuja.",
+    "cat": "resort",
+    "lon": 7.452076555,
+    "lat": 9.043113587
+  },
+  {
+    "wikiId": "Q109305008",
+    "name": "Wawan Rafi Resort",
+    "cat": "resort",
+    "lon": 8.41133,
+    "lat": 12.65344
+  },
+  {
+    "wikiId": "Q109366437",
+    "name": "Funplex Resort",
+    "cat": "resort",
+    "lon": 3.369329,
+    "lat": 6.612047
+  },
+  {
+    "wikiId": "Q109462000",
+    "name": "La Campagne Tropicana Beach Resort",
+    "cat": "resort",
+    "lon": 4.188483,
+    "lat": 6.396994
+  },
+  {
+    "wikiId": "Q109622149",
+    "name": "Q109622149",
+    "cat": "resort",
+    "lon": 16.2200747,
+    "lat": 50.5265336
+  },
+  {
+    "wikiId": "Q109646952",
+    "name": "Pestana Village Garden Resort",
+    "cat": "resort",
+    "lon": -16.92523,
+    "lat": 32.64118
+  },
+  {
+    "wikiId": "Q109939672",
+    "name": "Walnut Beach Resort",
+    "cat": "resort",
+    "lon": -119.43651,
+    "lat": 49.01762
+  },
+  {
+    "wikiId": "Q110126762",
+    "name": "Isadou",
+    "cat": "resort",
+    "lon": -55.370222222,
+    "lat": 4.423944444
+  },
+  {
+    "wikiId": "Q110220770",
+    "name": "Dayangs' Camp and Forest Resort",
+    "cat": "resort",
+    "lon": 103.516194444,
+    "lat": 1.541583333
+  },
+  {
+    "wikiId": "Q110350262",
+    "name": "Kutni Island Resort (Khajwa)",
+    "cat": "resort",
+    "lon": 79.946326,
+    "lat": 24.9467
+  },
+  {
+    "wikiId": "Q110446116",
+    "name": "Centre de vacances CCAS",
+    "cat": "resort",
+    "lon": 2.8662648,
+    "lat": 45.5047529
+  },
+  {
+    "wikiId": "Q110924440",
+    "name": "Ikogosi Resort Community",
+    "cat": "resort",
+    "lon": 4.9838004,
+    "lat": 7.5931105
+  },
+  {
+    "wikiId": "Q111052261",
+    "name": "Townhouse OAK Lui Beach Resort",
+    "cat": "resort",
+    "lon": 73.770518,
+    "lat": 15.503303
+  },
+  {
+    "wikiId": "Q111052269",
+    "name": "OYO 3043 AVE MARIA BEACH RESORT",
+    "cat": "resort",
+    "lon": 73.766334,
+    "lat": 15.519635
+  },
+  {
+    "wikiId": "Q111052281",
+    "name": "OYO 9516 Retreat Anjuna Resort",
+    "cat": "resort",
+    "lon": 73.752212,
+    "lat": 15.604009
+  },
+  {
+    "wikiId": "Q111052368",
+    "name": "Capital O 5583 Alagoa Resort",
+    "cat": "resort",
+    "lon": 73.912408,
+    "lat": 15.29606
+  },
+  {
+    "wikiId": "Q111052385",
+    "name": "OYO 10143 Tahira Beach Resort",
+    "cat": "resort",
+    "lon": 73.7164513,
+    "lat": 15.6484561
+  },
+  {
+    "wikiId": "Q111052387",
+    "name": "Collection O 15498 Sea Horizon Resort",
+    "cat": "resort",
+    "lon": 73.7592656,
+    "lat": 15.5510877
+  },
+  {
+    "wikiId": "Q111052459",
+    "name": "OYO 2475 Morjim Holiday Beach Resort",
+    "cat": "resort",
+    "lon": 73.732166,
+    "lat": 15.62292
+  },
+  {
+    "wikiId": "Q111052461",
+    "name": "OYO 776 Royal Heritage Resort",
+    "cat": "resort",
+    "lon": 73.764326,
+    "lat": 15.54126
+  },
+  {
+    "wikiId": "Q111052464",
+    "name": "OYO 7490 Bevvan Resort",
+    "cat": "resort",
+    "lon": 73.757802,
+    "lat": 15.54839
+  },
+  {
+    "wikiId": "Q111052480",
+    "name": "OYO 774 Hotel Sun park",
+    "cat": "resort",
+    "lon": 73.7591747,
+    "lat": 15.5540608
+  },
+  {
+    "wikiId": "Q111052501",
+    "name": "OYO 10142 Retreat Morjim Resort",
+    "cat": "resort",
+    "lon": 73.7361688,
+    "lat": 15.6305473
+  },
+  {
+    "wikiId": "Q111052505",
+    "name": "OYO 2462 Pleasure Beach Resort",
+    "cat": "resort",
+    "lon": 73.730831,
+    "lat": 15.626549
+  },
+  {
+    "wikiId": "Q111052600",
+    "name": "Collection O 10169 Tiago Beach Resort",
+    "cat": "resort",
+    "lon": 73.758194,
+    "lat": 15.554611
+  },
+  {
+    "wikiId": "Q111052601",
+    "name": "OYO 9411 Resort Calangute",
+    "cat": "resort",
+    "lon": 73.773204,
+    "lat": 15.544748
+  },
+  {
+    "wikiId": "Q111053106",
+    "name": "OYO 3619 Samayaa Resort",
+    "cat": "resort",
+    "lon": 88.610847,
+    "lat": 27.336484
+  },
+  {
+    "wikiId": "Q111053319",
+    "name": "Capital O 7414 Spring Valley Resort",
+    "cat": "resort",
+    "lon": 91.904153,
+    "lat": 26.1266689
+  },
+  {
+    "wikiId": "Q111053473",
+    "name": "OYO 7968 Blueberg Resort",
+    "cat": "resort",
+    "lon": 77.106248,
+    "lat": 10.062401
+  },
+  {
+    "wikiId": "Q111053534",
+    "name": "OYO 6187 Kanwal Resort",
+    "cat": "resort",
+    "lon": 76.593958,
+    "lat": 27.535792
+  },
+  {
+    "wikiId": "Q111053550",
+    "name": "Capital O 2188 Sunrise Resort",
+    "cat": "resort",
+    "lon": 76.59279,
+    "lat": 27.5220734
+  },
+  {
+    "wikiId": "Q111053757",
+    "name": "Capital O 6229 Ilara Hotels And Resorts",
+    "cat": "resort",
+    "lon": 80.226282,
+    "lat": 12.851763
+  },
+  {
+    "wikiId": "Q111054960",
+    "name": "OYO 4759 Nishat Hill Resort",
+    "cat": "resort",
+    "lon": 74.882443,
+    "lat": 34.119123
+  },
+  {
+    "wikiId": "Q111054974",
+    "name": "OYO 4630 Triden Kashmir Resort",
+    "cat": "resort",
+    "lon": 74.8374137,
+    "lat": 34.1452088
+  },
+  {
+    "wikiId": "Q111054993",
+    "name": "OYO 4610 Hotel Lake Resort",
+    "cat": "resort",
+    "lon": 74.8297783,
+    "lat": 34.0815961
+  },
+  {
+    "wikiId": "Q111054997",
+    "name": "OYO 5395 Maple Inn Resort",
+    "cat": "resort",
+    "lon": 74.809761,
+    "lat": 34.083706
+  },
+  {
+    "wikiId": "Q111055080",
+    "name": "OYO 9550 Shinjini Resort",
+    "cat": "resort",
+    "lon": 87.701832,
+    "lat": 21.664178
+  },
+  {
+    "wikiId": "Q111055948",
+    "name": "OYO 5024 Mist Heaven Hill Resort",
+    "cat": "resort",
+    "lon": 75.930266,
+    "lat": 11.837326
+  },
+  {
+    "wikiId": "Q111055967",
+    "name": "OYO 8897 Resort August Residency",
+    "cat": "resort",
+    "lon": 76.247278,
+    "lat": 11.664194
+  },
+  {
+    "wikiId": "Q111055989",
+    "name": "OYO 10421 La Flora Resorts",
+    "cat": "resort",
+    "lon": 76.23377,
+    "lat": 11.642795
+  },
+  {
+    "wikiId": "Q111056022",
+    "name": "OYO 6315 Golden Leaf Resort",
+    "cat": "resort",
+    "lon": 86.205142,
+    "lat": 22.862946
+  },
+  {
+    "wikiId": "Q111056773",
+    "name": "Capital O 3864 Master Farm",
+    "cat": "resort",
+    "lon": 76.766373,
+    "lat": 30.598924
+  },
+  {
+    "wikiId": "Q111056801",
+    "name": "Capital O 4385 Redwood Resort Morni",
+    "cat": "resort",
+    "lon": 76.91378,
+    "lat": 30.689124
+  },
+  {
+    "wikiId": "Q111057878",
+    "name": "Capital O 5430 Nirvana Resort",
+    "cat": "resort",
+    "lon": 80.187402,
+    "lat": 12.61381
+  },
+  {
+    "wikiId": "Q111058114",
+    "name": "OYO Flagship 4137 Resort Sita Kiran",
+    "cat": "resort",
+    "lon": 79.417918,
+    "lat": 28.353305
+  },
+  {
+    "wikiId": "Q111058118",
+    "name": "OYO 4772 Park Grand Hotel & Resort",
+    "cat": "resort",
+    "lon": 79.45501,
+    "lat": 28.381408
+  },
+  {
+    "wikiId": "Q111059103",
+    "name": "OYO 6253 Hotel Garden View Resort",
+    "cat": "resort",
+    "lon": 78.051911,
+    "lat": 27.153635
+  },
+  {
+    "wikiId": "Q111059373",
+    "name": "OYO 6242 Jalsa Resort",
+    "cat": "resort",
+    "lon": 81.049703,
+    "lat": 26.779241
+  },
+  {
+    "wikiId": "Q111062274",
+    "name": "OYO 7630 Edassery Village",
+    "cat": "resort",
+    "lon": 76.42666,
+    "lat": 10.15291
+  },
+  {
+    "wikiId": "Q111062451",
+    "name": "Palette Resorts- Tapovan Green County",
+    "cat": "resort",
+    "lon": 76.713389977,
+    "lat": 10.102416857
+  },
+  {
+    "wikiId": "Q111064324",
+    "name": "OYO 3266 Kumarhatti",
+    "cat": "resort",
+    "lon": 77.052042,
+    "lat": 30.890427
+  },
+  {
+    "wikiId": "Q111064325",
+    "name": "OYO 9660 Blossom Resort",
+    "cat": "resort",
+    "lon": 76.979697,
+    "lat": 30.917714
+  },
+  {
+    "wikiId": "Q111064336",
+    "name": "OYO 3705 Kasauli Continental Resort",
+    "cat": "resort",
+    "lon": 77.001532,
+    "lat": 30.898857
+  },
+  {
+    "wikiId": "Q111064542",
+    "name": "Capital O 5248 Surbee Resorts",
+    "cat": "resort",
+    "lon": 78.0486013,
+    "lat": 30.48192
+  },
+  {
+    "wikiId": "Q111064736",
+    "name": "OYO 6031 The Waters Edge Beach Resort",
+    "cat": "resort",
+    "lon": 76.97183,
+    "lat": 8.402286
+  },
+  {
+    "wikiId": "Q111065908",
+    "name": "OYO 19585 Parmeshwari Garden And Resort",
+    "cat": "resort",
+    "lon": 75.790118,
+    "lat": 23.138535
+  },
+  {
+    "wikiId": "Q111067127",
+    "name": "OYO 4353 Aravali Tent Resort",
+    "cat": "resort",
+    "lon": 73.687955,
+    "lat": 24.572741
+  },
+  {
+    "wikiId": "Q111067646",
+    "name": "OYO 5490 Golf Links Resort",
+    "cat": "resort",
+    "lon": 77.1995,
+    "lat": 31.173139
+  },
+  {
+    "wikiId": "Q111068092",
+    "name": "OYO 7812 Shree Radha Resort",
+    "cat": "resort",
+    "lon": 77.652749698,
+    "lat": 27.500916729
+  },
+  {
+    "wikiId": "Q111069084",
+    "name": "OYO 4871 The Countryside Resort",
+    "cat": "resort",
+    "lon": 77.170393,
+    "lat": 32.136972
+  },
+  {
+    "wikiId": "Q111069192",
+    "name": "OYO 11697 Sarthak Resorts",
+    "cat": "resort",
+    "lon": 77.195813,
+    "lat": 32.180818
+  },
+  {
+    "wikiId": "Q111071015",
+    "name": "Capital O 1079 Ashirwad Heritage Resort",
+    "cat": "resort",
+    "lon": 76.5454493,
+    "lat": 9.7578148
+  },
+  {
+    "wikiId": "Q111071829",
+    "name": "OYO 9592 Maharaja Palace Resort",
+    "cat": "resort",
+    "lon": 75.962222,
+    "lat": 12.439722
+  },
+  {
+    "wikiId": "Q111073696",
+    "name": "OYO 5771 Rose Flower Resort",
+    "cat": "resort",
+    "lon": 77.4950779,
+    "lat": 10.2419332
+  },
+  {
+    "wikiId": "Q111074870",
+    "name": "OYO 4239 The Bliss Resorts and Cottages",
+    "cat": "resort",
+    "lon": 76.721699,
+    "lat": 11.397885
+  },
+  {
+    "wikiId": "Q111075189",
+    "name": "OYO 5237 Island Lake Resort",
+    "cat": "resort",
+    "lon": 76.355275,
+    "lat": 9.508683
+  },
+  {
+    "wikiId": "Q111075217",
+    "name": "OYO 2337 Gold Coast Beach Resort",
+    "cat": "resort",
+    "lon": 85.79639,
+    "lat": 19.78763
+  },
+  {
+    "wikiId": "Q111075304",
+    "name": "OYO 9958 Laxmi Resort",
+    "cat": "resort",
+    "lon": 85.808914184,
+    "lat": 19.790493011
+  },
+  {
+    "wikiId": "Q111075345",
+    "name": "OYO 7637 Near Lighthouse",
+    "cat": "resort",
+    "lon": 85.798839,
+    "lat": 19.791032
+  },
+  {
+    "wikiId": "Q111075388",
+    "name": "OYO 3856 Akansha Resort",
+    "cat": "resort",
+    "lon": 79.542307,
+    "lat": 29.369851
+  },
+  {
+    "wikiId": "Q111075424",
+    "name": "OYO Flagship 3139 View Point Resort",
+    "cat": "resort",
+    "lon": 79.459729436,
+    "lat": 29.395678005
+  },
+  {
+    "wikiId": "Q111075461",
+    "name": "Capital O 3223 Shiva Solace",
+    "cat": "resort",
+    "lon": 79.556152,
+    "lat": 29.352908
+  },
+  {
+    "wikiId": "Q111138998",
+    "name": "Resorts World Genting",
+    "cat": "resort",
+    "lon": 101.794111111,
+    "lat": 3.424055555
+  },
+  {
+    "wikiId": "Q111403996",
+    "name": "Resorts World Awana",
+    "cat": "resort",
+    "lon": 101.78177,
+    "lat": 3.39905
+  },
+  {
+    "wikiId": "Q111765728",
+    "name": "Sportsmans Lodge Wilderness Resort",
+    "cat": "resort",
+    "lon": -80.625007629,
+    "lat": 46.693115234
+  },
+  {
+    "wikiId": "Q111934008",
+    "name": "Genting View Resort",
+    "cat": "resort",
+    "lon": 101.779527777,
+    "lat": 3.38375
+  },
+  {
+    "wikiId": "Q111962373",
+    "name": "Rustcamps Glamping Resort",
+    "cat": "resort",
+    "lon": 101.775111111,
+    "lat": 3.383694444
+  },
+  {
+    "wikiId": "Q112617756",
+    "name": "Mattawa River Resort and Cardinal Restaurant",
+    "cat": "resort",
+    "lon": -78.826164245,
+    "lat": 46.285331726
+  },
+  {
+    "wikiId": "Q112619226",
+    "name": "Sid Turcotte Park Campground And Cabin Resort",
+    "cat": "resort",
+    "lon": -78.710319519,
+    "lat": 46.313056945
+  },
+  {
+    "wikiId": "Q112655491",
+    "name": "Avasheen Gelye Sherane Resort",
+    "cat": "resort",
+    "lon": 43.645748899,
+    "lat": 37.03865826
+  },
+  {
+    "wikiId": "Q25109727",
+    "name": "Anantara Hua Hin Resort & Spa",
+    "cat": "resort",
+    "lon": 99.952833,
+    "lat": 12.616533
+  },
+  {
+    "wikiId": "Q25712520",
+    "name": "Fox Lake",
+    "cat": "resort",
+    "lon": -85.025833227,
+    "lat": 41.62323762
+  },
+  {
+    "wikiId": "Q26699732",
+    "name": "Omni Tucson National Resort",
+    "cat": "resort",
+    "lon": -111.02694,
+    "lat": 32.35806
+  },
+  {
+    "wikiId": "Q26699994",
+    "name": "Pearl South Padre",
+    "cat": "resort",
+    "lon": -97.16053,
+    "lat": 26.08268
+  },
+  {
+    "wikiId": "Q26944858",
+    "name": "Shima Mediterranean Village",
+    "cat": "resort",
+    "lon": 136.804583333,
+    "lat": 34.302638888
+  },
+  {
+    "wikiId": "Q27020001",
+    "name": "Skala Potamias",
+    "cat": "resort",
+    "lon": 24.751111111,
+    "lat": 40.713055555
+  },
+  {
+    "wikiId": "Q27051804",
+    "name": "Domaine Beauséjour",
+    "cat": "resort",
+    "lon": -72.8362,
+    "lat": 46.64256
+  },
+  {
+    "wikiId": "Q27641172",
+    "name": "NIDOM",
+    "cat": "resort",
+    "lon": 141.655833333,
+    "lat": 42.715
+  },
+  {
+    "wikiId": "Q27764714",
+    "name": "Kunata",
+    "cat": "resort",
+    "lon": 73.15475,
+    "lat": 0.462444
+  },
+  {
+    "wikiId": "Q28126128",
+    "name": "Torrey Lake Historic District",
+    "cat": "resort",
+    "lon": -109.55583333,
+    "lat": 43.46055556
+  },
+  {
+    "wikiId": "Q28941983",
+    "name": "Amangiri",
+    "cat": "resort",
+    "lon": -111.611111111,
+    "lat": 37.014722222
+  },
+  {
+    "wikiId": "Q29892054",
+    "name": "settlement vacation village",
+    "cat": "resort",
+    "lon": 8.133573,
+    "lat": 46.396492
+  },
+  {
+    "wikiId": "Q30015415",
+    "name": "Gut Rothensande",
+    "cat": "resort",
+    "lon": 10.578307,
+    "lat": 54.163312
+  },
+  {
+    "wikiId": "Q30147522",
+    "name": "Hilton Dubai Jumeirah",
+    "cat": "resort",
+    "lon": 55.1341,
+    "lat": 25.07874
+  },
+  {
+    "wikiId": "Q30324439",
+    "name": "Casa Susanna",
+    "cat": "resort",
+    "lon": -74.242809,
+    "lat": 42.251235
+  },
+  {
+    "wikiId": "Q30527988",
+    "name": "Amandari",
+    "cat": "resort",
+    "lon": 115.2447028,
+    "lat": -8.4885781
+  },
+  {
+    "wikiId": "Q30560585",
+    "name": "Q30560585",
+    "cat": "resort",
+    "lon": 20.870345862,
+    "lat": 69.01643793
+  },
+  {
+    "wikiId": "Q30560588",
+    "name": "Q30560588",
+    "cat": "resort",
+    "lon": 26.918473123,
+    "lat": 67.152814948
+  },
+  {
+    "wikiId": "Q30591179",
+    "name": "The St. Regis Bal Harbour",
+    "cat": "resort",
+    "lon": -80.123207,
+    "lat": 25.888862
+  },
+  {
+    "wikiId": "Q30624815",
+    "name": "Camp Delta – Delta Resort",
+    "cat": "resort",
+    "lon": -86.49111111,
+    "lat": 46.1575
+  },
+  {
+    "wikiId": "Q31844280",
+    "name": "Anfi Del Mar Beach",
+    "cat": "resort",
+    "lon": -15.69559,
+    "lat": 27.7728
+  },
+  {
+    "wikiId": "Q38257537",
+    "name": "Q38257537",
+    "cat": "resort",
+    "lon": 16.3093308,
+    "lat": 49.9954647
+  },
+  {
+    "wikiId": "Q38841330",
+    "name": "Hyatt Regency Lake Tahoe Resort, Spa and Casino",
+    "cat": "resort",
+    "lon": -119.942953,
+    "lat": 39.239986
+  },
+  {
+    "wikiId": "Q38926724",
+    "name": "Ten Thousand Waves",
+    "cat": "resort",
+    "lon": -105.890277777,
+    "lat": 35.716666666
+  },
+  {
+    "wikiId": "Q39046636",
+    "name": "Disney's Riviera Resort",
+    "cat": "resort",
+    "lon": -81.540277777,
+    "lat": 28.366388888
+  },
+  {
+    "wikiId": "Q41776583",
+    "name": "Kakslauttanen Arctic Resort",
+    "cat": "resort",
+    "lon": 27.33333333,
+    "lat": 68.33333333
+  },
+  {
+    "wikiId": "Q41839766",
+    "name": "Centre de villégiature du Château Montebello",
+    "cat": "resort",
+    "lon": -74.952286,
+    "lat": 45.647755
+  },
+  {
+    "wikiId": "Q42552761",
+    "name": "Deyuanpi Holland Village",
+    "cat": "resort",
+    "lon": 120.33994444,
+    "lat": 23.26402778
+  },
+  {
+    "wikiId": "Q47382066",
+    "name": "Centro Turístico Ejidal Zacatelco",
+    "cat": "resort",
+    "lon": -98.251111111,
+    "lat": 19.200333333
+  },
+  {
+    "wikiId": "Q47574368",
+    "name": "ClubMed Hokkaido Tomamu",
+    "cat": "resort",
+    "lon": 142.618611111,
+    "lat": 43.063611111
+  },
+  {
+    "wikiId": "Q48947442",
+    "name": "Dzhily-Su protected area",
+    "cat": "resort",
+    "lon": 42.502568,
+    "lat": 43.429385
+  },
+  {
+    "wikiId": "Q49480312",
+    "name": "Q49480312",
+    "cat": "resort",
+    "lon": 67.1439,
+    "lat": 25.0316
+  },
+  {
+    "wikiId": "Q49527626",
+    "name": "Monroe Hot Springs Resort",
+    "cat": "resort",
+    "lon": -112.109444444,
+    "lat": 38.634166666
+  },
+  {
+    "wikiId": "Q51304964",
+    "name": "Mermaid Beach Resort",
+    "cat": "resort",
+    "lon": 92.0408928,
+    "lat": 21.312185
+  },
+  {
+    "wikiId": "Q51597306",
+    "name": "Parador Resort & Spa",
+    "cat": "resort",
+    "lon": -84.1681909,
+    "lat": 9.3969458
+  },
+  {
+    "wikiId": "Q51750301",
+    "name": "Conrad Maldives Rangali Island",
+    "cat": "resort",
+    "lon": 72.723646,
+    "lat": 3.616747
+  },
+  {
+    "wikiId": "Q55232288",
+    "name": "Sairu Hill Resort",
+    "cat": "resort",
+    "lon": 92.2475838,
+    "lat": 22.0951736
+  },
+  {
+    "wikiId": "Q55589884",
+    "name": "Pirates Paradise Resort",
+    "cat": "resort",
+    "lon": 99.105027,
+    "lat": 7.47849
+  },
+  {
+    "wikiId": "Q55611624",
+    "name": "Fifth Chukker Polo and Country Club",
+    "cat": "resort",
+    "lon": 7.430518,
+    "lat": 10.514211
+  },
+  {
+    "wikiId": "Q55714191",
+    "name": "Senga",
+    "cat": "resort",
+    "lon": 34.616666666,
+    "lat": -13.716666666
+  },
+  {
+    "wikiId": "Q55738873",
+    "name": "Lanta Top View Resort",
+    "cat": "resort",
+    "lon": 99.069627,
+    "lat": 7.497393
+  },
+  {
+    "wikiId": "Q55739036",
+    "name": "Rattana Resort & Waterpark",
+    "cat": "resort",
+    "lon": 99.0457237,
+    "lat": 7.6710819
+  },
+  {
+    "wikiId": "Q55986993",
+    "name": "Swiss Holiday Park",
+    "cat": "resort",
+    "lon": 8.617985,
+    "lat": 46.980843
+  },
+  {
+    "wikiId": "Q56199506",
+    "name": "Where else?",
+    "cat": "resort",
+    "lon": 99.034066,
+    "lat": 7.572298
+  },
+  {
+    "wikiId": "Q56570642",
+    "name": "Skiland Ostružná",
+    "cat": "resort",
+    "lon": 17.0508117,
+    "lat": 50.18533
+  },
+  {
+    "wikiId": "Q57243235",
+    "name": "Ancient Sands Golf Resort",
+    "cat": "resort",
+    "lon": 33.662184,
+    "lat": 27.413072
+  },
+  {
+    "wikiId": "Q57243653",
+    "name": "Mövenpick Resort & Spa El Gouna",
+    "cat": "resort",
+    "lon": 33.684297,
+    "lat": 27.395241
+  },
+  {
+    "wikiId": "Q57243841",
+    "name": "Sheraton Miramar Resort El Gouna",
+    "cat": "resort",
+    "lon": 33.67609,
+    "lat": 27.40348
+  },
+  {
+    "wikiId": "Q57386050",
+    "name": "Sol Y Mar Pioneers Hotel",
+    "cat": "resort",
+    "lon": 30.553837,
+    "lat": 25.464824
+  },
+  {
+    "wikiId": "Q57619029",
+    "name": "The Three Corners Ocean View Prestige Hotel",
+    "cat": "resort",
+    "lon": 33.676612,
+    "lat": 27.406962
+  },
+  {
+    "wikiId": "Q57621052",
+    "name": "The Three Corners Rihana Resort",
+    "cat": "resort",
+    "lon": 33.6738615,
+    "lat": 27.3992668
+  },
+  {
+    "wikiId": "Q57622147",
+    "name": "The Three Corners Rihana Inn",
+    "cat": "resort",
+    "lon": 33.671854,
+    "lat": 27.399885
+  },
+  {
+    "wikiId": "Q57623251",
+    "name": "Labranda Club Paradisio El Gouna",
+    "cat": "resort",
+    "lon": 33.68269,
+    "lat": 27.38614
+  },
+  {
+    "wikiId": "Q57651724",
+    "name": "Sultan Bey Hotel",
+    "cat": "resort",
+    "lon": 33.678833,
+    "lat": 27.39752
+  },
+  {
+    "wikiId": "Q57652135",
+    "name": "Bellevue Beach Hotel",
+    "cat": "resort",
+    "lon": 33.681872,
+    "lat": 27.397946
+  },
+  {
+    "wikiId": "Q57653719",
+    "name": "Dawar El Omda Boutique Hotel",
+    "cat": "resort",
+    "lon": 33.676996,
+    "lat": 27.396908
+  },
+  {
+    "wikiId": "Q57654071",
+    "name": "Fanadir Hotel El Gouna",
+    "cat": "resort",
+    "lon": 33.67274,
+    "lat": 27.41132
+  },
+  {
+    "wikiId": "Q57654536",
+    "name": "Mosaique Hotel",
+    "cat": "resort",
+    "lon": 33.6722,
+    "lat": 27.41189
+  },
+  {
+    "wikiId": "Q57654996",
+    "name": "Panorama Bungalows Resort El Gouna",
+    "cat": "resort",
+    "lon": 33.67984,
+    "lat": 27.39454
+  },
+  {
+    "wikiId": "Q57655323",
+    "name": "Ali Pasha Hotel",
+    "cat": "resort",
+    "lon": 33.674059,
+    "lat": 27.406464
+  },
+  {
+    "wikiId": "Q57655527",
+    "name": "Cook’s Club El Gouna",
+    "cat": "resort",
+    "lon": 33.675502,
+    "lat": 27.394345
+  },
+  {
+    "wikiId": "Q57655796",
+    "name": "Captain’s Inn",
+    "cat": "resort",
+    "lon": 33.673886,
+    "lat": 27.408538
+  },
+  {
+    "wikiId": "Q57656117",
+    "name": "Turtle’s Inn",
+    "cat": "resort",
+    "lon": 33.673906,
+    "lat": 27.407967
+  },
+  {
+    "wikiId": "Q59347080",
+    "name": "Coraya Bay",
+    "cat": "resort",
+    "lon": 34.6062,
+    "lat": 25.6027
+  },
+  {
+    "wikiId": "Q59710365",
+    "name": "Evangelické středisko Chotěboř",
+    "cat": "resort",
+    "lon": 15.6945525,
+    "lat": 49.719101944
+  },
+  {
+    "wikiId": "Q60753870",
+    "name": "Reflections – A Disney Lakeside Lodge",
+    "cat": "resort",
+    "lon": -81.5647,
+    "lat": 28.4113
+  },
+  {
+    "wikiId": "Q61002243",
+    "name": "Portobello Resort & Safári",
+    "cat": "resort",
+    "lon": -44.0744582,
+    "lat": -22.9501169
+  },
+  {
+    "wikiId": "Q61388050",
+    "name": "Grand Sultan Tea Resort & Golf",
+    "cat": "resort",
+    "lon": 91.762109,
+    "lat": 24.3017329
+  },
+  {
+    "wikiId": "Q61589551",
+    "name": "Parque do Avestruz resort hotel",
+    "cat": "resort",
+    "lon": -44.352222222,
+    "lat": -19.7715
+  },
+  {
+    "wikiId": "Q61741898",
+    "name": "THEhotel",
+    "cat": "resort",
+    "lon": -115.1777,
+    "lat": 36.093
+  },
+  {
+    "wikiId": "Q61748018",
+    "name": "Monte Carlo Resort and Casino",
+    "cat": "resort",
+    "lon": -115.176027,
+    "lat": 36.104696
+  },
+  {
+    "wikiId": "Q61815247",
+    "name": "Hyatt Regency Lake Las Vegas Resort, Spa and Casino",
+    "cat": "resort",
+    "lon": -114.923443,
+    "lat": 36.114301
+  },
+  {
+    "wikiId": "Q113578836",
+    "name": "Taziry Ecovillages Siwa",
+    "cat": "resort",
+    "lon": 25.42291,
+    "lat": 29.217242
+  },
+  {
+    "wikiId": "Q113597098",
+    "name": "Q113597098",
+    "cat": "resort",
+    "lon": 101.876874752,
+    "lat": 3.390595488
+  },
+  {
+    "wikiId": "Q113645442",
+    "name": "Lac-de-l'Est",
+    "cat": "resort",
+    "lon": -69.590833333,
+    "lat": 47.227777777
+  },
+  {
+    "wikiId": "Q113706903",
+    "name": "Q113706903",
+    "cat": "resort",
+    "lon": 8.1193,
+    "lat": 56.1205
+  },
+  {
+    "wikiId": "Q61894112",
+    "name": "Club De Soleil",
+    "cat": "resort",
+    "lon": -115.218511,
+    "lat": 36.099558
+  },
+  {
+    "wikiId": "Q62020000",
+    "name": "Guangzhou Chimelong Tourist Resort",
+    "cat": "resort",
+    "lon": 113.328888888,
+    "lat": 22.998611111
+  },
+  {
+    "wikiId": "Q63642510",
+    "name": "Hilton Ras Al Khaimah Beach Resort",
+    "cat": "resort",
+    "lon": 55.957733,
+    "lat": 25.813666
+  },
+  {
+    "wikiId": "Q63677112",
+    "name": "Cinnamon Bay Resort & Campground",
+    "cat": "resort",
+    "lon": -64.755228,
+    "lat": 18.353218
+  },
+  {
+    "wikiId": "Q63868887",
+    "name": "Q63868887",
+    "cat": "resort",
+    "lon": 15.833065,
+    "lat": 49.5526861
+  },
+  {
+    "wikiId": "Q63869023",
+    "name": "Q63869023",
+    "cat": "resort",
+    "lon": 16.1827044,
+    "lat": 49.4563456
+  },
+  {
+    "wikiId": "Q63869690",
+    "name": "Q63869690",
+    "cat": "resort",
+    "lon": 17.8238456,
+    "lat": 49.3055431
+  },
+  {
+    "wikiId": "Q63971983",
+    "name": "Allegretto Vineyard Resort",
+    "cat": "resort",
+    "lon": -120.671,
+    "lat": 35.64733
+  },
+  {
+    "wikiId": "Q64016780",
+    "name": "ROBINSON club Soma Bay",
+    "cat": "resort",
+    "lon": 33.990586,
+    "lat": 26.847171
+  },
+  {
+    "wikiId": "Q64018335",
+    "name": "The Cascades Golf Resort, Spa & Thalasso",
+    "cat": "resort",
+    "lon": 33.992643,
+    "lat": 26.858035
+  },
+  {
+    "wikiId": "Q64022982",
+    "name": "Amwaj Blue Beach Resort & Spa",
+    "cat": "resort",
+    "lon": 33.945992,
+    "lat": 26.81355
+  },
+  {
+    "wikiId": "Q64023430",
+    "name": "Sentido Palm Royale Soma Bay",
+    "cat": "resort",
+    "lon": 33.949272,
+    "lat": 26.836861
+  },
+  {
+    "wikiId": "Q64512884",
+    "name": "Village Club Les Hyvans",
+    "cat": "resort",
+    "lon": 6.3040439,
+    "lat": 44.4988226
+  },
+  {
+    "wikiId": "Q64547356",
+    "name": "Nilgiri Hill Resort",
+    "cat": "resort",
+    "lon": 92.3232091,
+    "lat": 21.9118681
+  },
+  {
+    "wikiId": "Q64827173",
+    "name": "Reno Hilton",
+    "cat": "resort",
+    "lon": -119.778391,
+    "lat": 39.52312
+  },
+  {
+    "wikiId": "Q65228762",
+    "name": "Izu Village",
+    "cat": "resort",
+    "lon": 138.941888888,
+    "lat": 35.012472222
+  },
+  {
+    "wikiId": "Q66084417",
+    "name": "Magalies Park",
+    "cat": "resort",
+    "lon": 27.783333333,
+    "lat": -25.755555555
+  },
+  {
+    "wikiId": "Q66794495",
+    "name": "Lalandia Billund",
+    "cat": "resort",
+    "lon": 9.1383,
+    "lat": 55.7329
+  },
+  {
+    "wikiId": "Q66794500",
+    "name": "Q66794500",
+    "cat": "resort",
+    "lon": 11.3324,
+    "lat": 54.666
+  },
+  {
+    "wikiId": "Q67098756",
+    "name": "Albatros Citadel Resort",
+    "cat": "resort",
+    "lon": 33.888523,
+    "lat": 27.071405
+  },
+  {
+    "wikiId": "Q68235394",
+    "name": "Urbanização da Matur",
+    "cat": "resort",
+    "lon": -16.76412,
+    "lat": 32.71004
+  },
+  {
+    "wikiId": "Q69468022",
+    "name": "Kuopion Saana",
+    "cat": "resort",
+    "lon": 27.65755,
+    "lat": 62.87338
+  },
+  {
+    "wikiId": "Q72941821",
+    "name": "Overbridge River Resort",
+    "cat": "resort",
+    "lon": -55.051388888,
+    "lat": 5.5275
+  },
+  {
+    "wikiId": "Q79211984",
+    "name": "Van der Valk Resort Linstow",
+    "cat": "resort",
+    "lon": 12.37144,
+    "lat": 53.61838
+  },
+  {
+    "wikiId": "Q79307783",
+    "name": "Te Aroha Domain Historic Area",
+    "cat": "resort",
+    "lon": 175.715,
+    "lat": -37.545
+  },
+  {
+    "wikiId": "Q79623228",
+    "name": "Van der Valk Naturresort Drewitz",
+    "cat": "resort",
+    "lon": 12.3535,
+    "lat": 53.56113
+  },
+  {
+    "wikiId": "Q81347341",
+    "name": "The Island House",
+    "cat": "resort",
+    "lon": -77.5118825,
+    "lat": 25.0330652
+  },
+  {
+    "wikiId": "Q86691693",
+    "name": "De Blekkaard",
+    "cat": "resort",
+    "lon": 2.9975,
+    "lat": 51.2578
+  },
+  {
+    "wikiId": "Q87067889",
+    "name": "Monreale Hotel Resort",
+    "cat": "resort",
+    "lon": -46.521055555,
+    "lat": -21.820638888
+  },
+  {
+    "wikiId": "Q89026549",
+    "name": "De Wildt 4x4 Game Park",
+    "cat": "resort",
+    "lon": 27.945833333,
+    "lat": -25.674722222
+  },
+  {
+    "wikiId": "Q89948600",
+    "name": "Amazon EcoPark Jungle Lodge",
+    "cat": "resort",
+    "lon": -60.1237477,
+    "lat": -3.0021237
+  },
+  {
+    "wikiId": "Q91212481",
+    "name": "Q91212481",
+    "cat": "resort",
+    "lon": 18.8322553,
+    "lat": 42.3801131
+  },
+  {
+    "wikiId": "Q94691874",
+    "name": "Mirage Island Resort",
+    "cat": "resort",
+    "lon": 103.979861111,
+    "lat": 2.430805555
+  },
+  {
+    "wikiId": "Q95698563",
+    "name": "Aseania Beach Resort",
+    "cat": "resort",
+    "lon": 103.977916666,
+    "lat": 2.432694444
+  },
+  {
+    "wikiId": "Q95698933",
+    "name": "D'Coconut Island Resort",
+    "cat": "resort",
+    "lon": 103.976805555,
+    "lat": 2.433777777
+  },
+  {
+    "wikiId": "Q96070840",
+    "name": "Sinar Eco Resort",
+    "cat": "resort",
+    "lon": 103.521444444,
+    "lat": 1.440388888
+  },
+  {
+    "wikiId": "Q96241160",
+    "name": "Ylang Ylang Beach Resort",
+    "cat": "resort",
+    "lon": -85.0608303,
+    "lat": 9.6601499
+  },
+  {
+    "wikiId": "Q96779496",
+    "name": "Lover Bridge Resort",
+    "cat": "resort",
+    "lon": 102.891694444,
+    "lat": 1.782888888
+  },
+  {
+    "wikiId": "Q96780193",
+    "name": "Riders Resort",
+    "cat": "resort",
+    "lon": 103.514305555,
+    "lat": 1.725138888
+  },
+  {
+    "wikiId": "Q97346289",
+    "name": "Lajitas Golf Resort",
+    "cat": "resort",
+    "lon": -103.77384,
+    "lat": 29.25817
+  },
+  {
+    "wikiId": "Q98961926",
+    "name": "Shangrila Resort Skardu",
+    "cat": "resort",
+    "lon": 75.455555555,
+    "lat": 35.427777777
+  },
+  {
+    "wikiId": "Q99237088",
+    "name": "Panguitch Lake Resort",
+    "cat": "resort",
+    "lon": -112.641604,
+    "lat": 37.7080332
+  },
+  {
+    "wikiId": "Q100272456",
+    "name": "Wave Rock Resort",
+    "cat": "resort",
+    "lon": 118.907727,
+    "lat": -32.433612
+  },
+  {
+    "wikiId": "Q101084510",
+    "name": "Naviti resort",
+    "cat": "resort",
+    "lon": 177.694888,
+    "lat": -18.20176
+  },
+  {
+    "wikiId": "Q101084550",
+    "name": "Messonghi Beach Holiday Resort",
+    "cat": "resort",
+    "lon": 19.931741,
+    "lat": 39.480318
+  },
+  {
+    "wikiId": "Q101489008",
+    "name": "Hotel La Vista Azul",
+    "cat": "resort",
+    "lon": -72.226533333,
+    "lat": 21.782925
+  },
+  {
+    "wikiId": "Q101589856",
+    "name": "La Font des Horts",
+    "cat": "resort",
+    "lon": 6.1223853,
+    "lat": 43.0862049
+  },
+  {
+    "wikiId": "Q102107808",
+    "name": "Green Ville Amusement Park",
+    "cat": "resort",
+    "lon": 114.15585,
+    "lat": 22.45475
+  },
+  {
+    "wikiId": "Q103099495",
+    "name": "Rancho Del Rio",
+    "cat": "resort",
+    "lon": -106.608594696,
+    "lat": 39.895631922
+  },
+  {
+    "wikiId": "Q104836063",
+    "name": "Centro Acuático Porvenir",
+    "cat": "resort",
+    "lon": -65.355,
+    "lat": -16.8225
+  },
+  {
+    "wikiId": "Q104906170",
+    "name": "Twin Farms",
+    "cat": "resort",
+    "lon": -72.589223,
+    "lat": 43.724802
+  },
+  {
+    "wikiId": "Q105064651",
+    "name": "Milford House",
+    "cat": "resort",
+    "lon": -65.398164287,
+    "lat": 44.573200847
+  },
+  {
+    "wikiId": "Q105077033",
+    "name": "Bondville",
+    "cat": "resort",
+    "lon": -72.546944444,
+    "lat": 45.241666666
+  },
+  {
+    "wikiId": "Q105742660",
+    "name": "KSL Hotel and Resort",
+    "cat": "resort",
+    "lon": 103.762344,
+    "lat": 1.48445
+  },
+  {
+    "wikiId": "Q105742792",
+    "name": "Pulai Springs Resort",
+    "cat": "resort",
+    "lon": 103.613555555,
+    "lat": 1.553472222
+  },
+  {
+    "wikiId": "Q105939105",
+    "name": "Hotel Quatro Rodas",
+    "cat": "resort",
+    "lon": -38.3512,
+    "lat": -12.9501
+  },
+  {
+    "wikiId": "Q106307242",
+    "name": "Waterberg Natuurpraal",
+    "cat": "resort",
+    "lon": 28.408333333,
+    "lat": -23.998888888
+  },
+  {
+    "wikiId": "Q106576140",
+    "name": "Brentwood Bay Resort",
+    "cat": "resort",
+    "lon": -123.46471,
+    "lat": 48.57735
+  },
+  {
+    "wikiId": "Q106648157",
+    "name": "Mowani Mountain Lodge",
+    "cat": "resort",
+    "lon": 14.423888888,
+    "lat": -20.504444444
+  },
+  {
+    "wikiId": "Q106960762",
+    "name": "Laboma Beach Resort",
+    "cat": "resort",
+    "lon": -0.1335096,
+    "lat": 5.5639315
+  },
+  {
+    "wikiId": "Q107154638",
+    "name": "Mpongo Private Game Reserve",
+    "cat": "resort",
+    "lon": 27.744444444,
+    "lat": -32.852777777
+  },
+  {
+    "wikiId": "Q107185148",
+    "name": "Kirk Kove",
+    "cat": "resort",
+    "lon": -76.97616,
+    "lat": 44.80544
+  },
+  {
+    "wikiId": "Q107188924",
+    "name": "Swadeni",
+    "cat": "resort",
+    "lon": 30.811111111,
+    "lat": -24.519444444
+  },
+  {
+    "wikiId": "Q107208579",
+    "name": "Mthonjaneni",
+    "cat": "resort",
+    "lon": 31.334166666,
+    "lat": -28.465
+  },
+  {
+    "wikiId": "Q107258212",
+    "name": "turbaza Narochanka",
+    "cat": "resort",
+    "lon": 26.74337,
+    "lat": 54.81375
+  },
+  {
+    "wikiId": "Q107282330",
+    "name": "Koref Desaru Leisure Farm",
+    "cat": "resort",
+    "lon": 104.188472222,
+    "lat": 1.712277777
+  },
+  {
+    "wikiId": "Q107336567",
+    "name": "Q107336567",
+    "cat": "resort",
+    "lon": -8.580222222,
+    "lat": 37.161166666
+  },
+  {
+    "wikiId": "Q107415732",
+    "name": "Rain Forest Resort Village",
+    "cat": "resort",
+    "lon": -123.831392941,
+    "lat": 47.475835657
+  },
+  {
+    "wikiId": "Q107555144",
+    "name": "Batu Batu Resort",
+    "cat": "resort",
+    "lon": 103.960666666,
+    "lat": 2.474083333
+  },
+  {
+    "wikiId": "Q107555157",
+    "name": "Bayu Lestari Island Resort",
+    "cat": "resort",
+    "lon": 103.983611111,
+    "lat": 2.428833333
+  },
+  {
+    "wikiId": "Q107555163",
+    "name": "Shaz Resort",
+    "cat": "resort",
+    "lon": 104.117111111,
+    "lat": 2.28475
+  },
+  {
+    "wikiId": "Q107555171",
+    "name": "Rawa Island Resort",
+    "cat": "resort",
+    "lon": 103.975972222,
+    "lat": 2.518527777
+  },
+  {
+    "wikiId": "Q108209316",
+    "name": "Binnenpad 47B",
+    "cat": "resort",
+    "lon": 6.092842172,
+    "lat": 52.724909461
+  },
+  {
+    "wikiId": "Q108215993",
+    "name": "Binnenpad 33A, Giethoorn",
+    "cat": "resort",
+    "lon": 6.092242978,
+    "lat": 52.726075305
+  },
+  {
+    "wikiId": "Q108432510",
+    "name": "Q108432510",
+    "cat": "resort",
+    "lon": -38.3287751,
+    "lat": -12.9367694
+  },
+  {
+    "wikiId": "Q108584424",
+    "name": "Holiday Center Saimaanranta",
+    "cat": "resort",
+    "lon": 28.091111111,
+    "lat": 61.228333333
+  },
+  {
+    "wikiId": "Q108908608",
+    "name": "The Tinapa Free Zone and Resort",
+    "cat": "resort",
+    "lon": 8.317423,
+    "lat": 5.049992
+  },
+  {
+    "wikiId": "Q108908767",
+    "name": "Rojenny Tourist Village",
+    "cat": "resort",
+    "lon": 6.811255027,
+    "lat": 6.094841488
+  },
+  {
+    "wikiId": "Q108910345",
+    "name": "Funtopia hills",
+    "cat": "resort",
+    "lon": 3.760912968,
+    "lat": 6.476497453
+  },
+  {
+    "wikiId": "Q108922849",
+    "name": "Minjibir Resort Park",
+    "cat": "resort",
+    "lon": 8.628411,
+    "lat": 12.194361
+  },
+  {
+    "wikiId": "Q108929609",
+    "name": "Minjubir park",
+    "cat": "resort",
+    "lon": 8.628491041,
+    "lat": 12.192652184
+  },
+  {
+    "wikiId": "Q108933094",
+    "name": "Fairmont Hot Springs Resort",
+    "cat": "resort",
+    "lon": -112.81476,
+    "lat": 46.04159
+  },
+  {
+    "wikiId": "Q108941525",
+    "name": "Rayfield Resort",
+    "cat": "resort",
+    "lon": 8.91361,
+    "lat": 9.841196
+  }
+]

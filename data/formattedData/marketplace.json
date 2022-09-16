@@ -1,0 +1,3683 @@
+[
+  {
+    "wikiId": "Q6010602",
+    "name": "Mercado de Abastos, Guadalajara",
+    "cat": "marketplace",
+    "lon": -3.16833333,
+    "lat": 40.63277778
+  },
+  {
+    "wikiId": "Q6010611",
+    "name": "Mercado de la Cebada",
+    "cat": "marketplace",
+    "lon": -3.70975,
+    "lat": 40.411111111
+  },
+  {
+    "wikiId": "Q6010619",
+    "name": "Mercado de la Paz, Madrid",
+    "cat": "marketplace",
+    "lon": -3.685758,
+    "lat": 40.427716
+  },
+  {
+    "wikiId": "Q6010627",
+    "name": "Mercado de los Mostenses",
+    "cat": "marketplace",
+    "lon": -3.70912778,
+    "lat": 40.42342778
+  },
+  {
+    "wikiId": "Q6010638",
+    "name": "Mercado del Tinglado",
+    "cat": "marketplace",
+    "lon": -2.072594444,
+    "lat": 43.137280555
+  },
+  {
+    "wikiId": "Q6010641",
+    "name": "Mercado del Val",
+    "cat": "marketplace",
+    "lon": -4.72861111,
+    "lat": 41.65361111
+  },
+  {
+    "wikiId": "Q6010667",
+    "name": "Mercado público de La Unión",
+    "cat": "marketplace",
+    "lon": -0.87551944,
+    "lat": 37.61631667
+  },
+  {
+    "wikiId": "Q6080151",
+    "name": "Market of Cádiz",
+    "cat": "marketplace",
+    "lon": -6.298230555,
+    "lat": 36.530341666
+  },
+  {
+    "wikiId": "Q6080156",
+    "name": "Q6080156",
+    "cat": "marketplace",
+    "lon": -5.080794444,
+    "lat": 37.541686111
+  },
+  {
+    "wikiId": "Q6080400",
+    "name": "Plaza del Cabildo",
+    "cat": "marketplace",
+    "lon": -5.994702777,
+    "lat": 37.385611111
+  },
+  {
+    "wikiId": "Q6142767",
+    "name": "Q6142767",
+    "cat": "marketplace",
+    "lon": -70.683975,
+    "lat": -33.53188889
+  },
+  {
+    "wikiId": "Q6362038",
+    "name": "Kaneshie Market",
+    "cat": "marketplace",
+    "lon": -0.236579,
+    "lat": 5.56648
+  },
+  {
+    "wikiId": "Q6400651",
+    "name": "Khari Baoli",
+    "cat": "marketplace",
+    "lon": 77.2212,
+    "lat": 28.6579
+  },
+  {
+    "wikiId": "Q6413727",
+    "name": "Great Market Hall in Rijeka",
+    "cat": "marketplace",
+    "lon": 14.443283,
+    "lat": 45.324821
+  },
+  {
+    "wikiId": "Q6463332",
+    "name": "La Lagunilla Market",
+    "cat": "marketplace",
+    "lon": -99.13621667,
+    "lat": 19.44304167
+  },
+  {
+    "wikiId": "Q6531384",
+    "name": "Mizani Building (Tehran)",
+    "cat": "marketplace",
+    "lon": 51.415111111,
+    "lat": 35.668194444
+  },
+  {
+    "wikiId": "Q6537835",
+    "name": "Lexington Market",
+    "cat": "marketplace",
+    "lon": -76.6217,
+    "lat": 39.2919
+  },
+  {
+    "wikiId": "Q6594785",
+    "name": "Q6594785",
+    "cat": "marketplace",
+    "lon": 34.77116111,
+    "lat": 32.07099167
+  },
+  {
+    "wikiId": "Q6739865",
+    "name": "Makola Market",
+    "cat": "marketplace",
+    "lon": -0.206863,
+    "lat": 5.54779
+  },
+  {
+    "wikiId": "Q6770825",
+    "name": "Market of San Miguel",
+    "cat": "marketplace",
+    "lon": -3.708869,
+    "lat": 40.415438
+  },
+  {
+    "wikiId": "Q6805344",
+    "name": "Medhat Pasha Souq",
+    "cat": "marketplace",
+    "lon": 36.30569444,
+    "lat": 33.50868056
+  },
+  {
+    "wikiId": "Q6820707",
+    "name": "Merton Abbey Mills",
+    "cat": "marketplace",
+    "lon": -0.1834,
+    "lat": 51.4131
+  },
+  {
+    "wikiId": "Q6984496",
+    "name": "Neath Indoor Market",
+    "cat": "marketplace",
+    "lon": -3.8054,
+    "lat": 51.663
+  },
+  {
+    "wikiId": "Q7009999",
+    "name": "New Market, Dhaka",
+    "cat": "marketplace",
+    "lon": 90.3824953,
+    "lat": 23.7330295
+  },
+  {
+    "wikiId": "Q7021793",
+    "name": "Aliya Market",
+    "cat": "marketplace",
+    "lon": 34.77361667,
+    "lat": 32.05810278
+  },
+  {
+    "wikiId": "Q7123382",
+    "name": "Paddy's Markets",
+    "cat": "marketplace",
+    "lon": 151.204,
+    "lat": -33.8796
+  },
+  {
+    "wikiId": "Q7145045",
+    "name": "Patio de la Madera",
+    "cat": "marketplace",
+    "lon": -60.669248,
+    "lat": -32.940152
+  },
+  {
+    "wikiId": "Q7300572",
+    "name": "Reading Terminal Market",
+    "cat": "marketplace",
+    "lon": -75.159,
+    "lat": 39.9534
+  },
+  {
+    "wikiId": "Q7459834",
+    "name": "Sha'alan",
+    "cat": "marketplace",
+    "lon": 36.288611111,
+    "lat": 33.517777777
+  },
+  {
+    "wikiId": "Q7567936",
+    "name": "South Melbourne market",
+    "cat": "marketplace",
+    "lon": 144.956,
+    "lat": -37.8328
+  },
+  {
+    "wikiId": "Q7678481",
+    "name": "Takoradi Market Circle",
+    "cat": "marketplace",
+    "lon": -1.76,
+    "lat": 4.898
+  },
+  {
+    "wikiId": "Q7678953",
+    "name": "Talat Sao",
+    "cat": "marketplace",
+    "lon": 102.614,
+    "lat": 17.9652
+  },
+  {
+    "wikiId": "Q7680854",
+    "name": "Tamarack Marketplace",
+    "cat": "marketplace",
+    "lon": -81.21732,
+    "lat": 37.80143
+  },
+  {
+    "wikiId": "Q7718716",
+    "name": "The Blue",
+    "cat": "marketplace",
+    "lon": -0.0636,
+    "lat": 51.4924
+  },
+  {
+    "wikiId": "Q7750278",
+    "name": "The Marcardo Campicino",
+    "cat": "marketplace",
+    "lon": -65.2559,
+    "lat": -19.0421
+  },
+  {
+    "wikiId": "Q7775306",
+    "name": "The Witches' Market",
+    "cat": "marketplace",
+    "lon": -68.149,
+    "lat": -16.5
+  },
+  {
+    "wikiId": "Q8049414",
+    "name": "Yarn Market, Dunster",
+    "cat": "marketplace",
+    "lon": -3.44426,
+    "lat": 51.1846
+  },
+  {
+    "wikiId": "Q8228909",
+    "name": "Mercado de la Ribera",
+    "cat": "marketplace",
+    "lon": -2.924241666,
+    "lat": 43.255522222
+  },
+  {
+    "wikiId": "Q9031615",
+    "name": "Mercado Central de Alicante",
+    "cat": "marketplace",
+    "lon": -0.48614444,
+    "lat": 38.34815278
+  },
+  {
+    "wikiId": "Q9031638",
+    "name": "Edificio de viviendas y mercado municipal (Sevilla)",
+    "cat": "marketplace",
+    "lon": -5.99992577,
+    "lat": 37.38744984
+  },
+  {
+    "wikiId": "Q9031646",
+    "name": "Debako udal-azoka",
+    "cat": "marketplace",
+    "lon": -2.355240567,
+    "lat": 43.294708173
+  },
+  {
+    "wikiId": "Q9031649",
+    "name": "Market of Carlet",
+    "cat": "marketplace",
+    "lon": -0.51911389,
+    "lat": 39.22765833
+  },
+  {
+    "wikiId": "Q9186097",
+    "name": "Ozerka market",
+    "cat": "marketplace",
+    "lon": 35.02217222,
+    "lat": 48.472225
+  },
+  {
+    "wikiId": "Q10328761",
+    "name": "Mercado Ferreira Borges",
+    "cat": "marketplace",
+    "lon": -8.61486667,
+    "lat": 41.14198611
+  },
+  {
+    "wikiId": "Q10328770",
+    "name": "Mercado Municipal de Campinas",
+    "cat": "marketplace",
+    "lon": -47.063577,
+    "lat": -22.903504
+  },
+  {
+    "wikiId": "Q10328774",
+    "name": "Q10328774",
+    "cat": "marketplace",
+    "lon": -46.692553207,
+    "lat": -23.565568652
+  },
+  {
+    "wikiId": "Q10328776",
+    "name": "Mercado Municipal de Santa Maria da Feira",
+    "cat": "marketplace",
+    "lon": -8.543753,
+    "lat": 40.924522
+  },
+  {
+    "wikiId": "Q10328788",
+    "name": "Mercado de Santana",
+    "cat": "marketplace",
+    "lon": -8.807285,
+    "lat": 39.743336
+  },
+  {
+    "wikiId": "Q10328798",
+    "name": "Meat Market, Aquiraz",
+    "cat": "marketplace",
+    "lon": -38.389996,
+    "lat": -3.901716
+  },
+  {
+    "wikiId": "Q10328802",
+    "name": "Santa Clara market",
+    "cat": "marketplace",
+    "lon": -9.125472222,
+    "lat": 38.715666666
+  },
+  {
+    "wikiId": "Q10328805",
+    "name": "Mercado do Bolhão",
+    "cat": "marketplace",
+    "lon": -8.606944444,
+    "lat": 41.149166666
+  },
+  {
+    "wikiId": "Q10328807",
+    "name": "Mercado do Bom Sucesso",
+    "cat": "marketplace",
+    "lon": -8.62915556,
+    "lat": 41.15583889
+  },
+  {
+    "wikiId": "Q10748819",
+    "name": "Đà Lạt market",
+    "cat": "marketplace",
+    "lon": 108.4368222,
+    "lat": 11.94295278
+  },
+  {
+    "wikiId": "Q11040896",
+    "name": "Central Market, Sabadell",
+    "cat": "marketplace",
+    "lon": 2.105,
+    "lat": 41.54722222
+  },
+  {
+    "wikiId": "Q11225947",
+    "name": "Jueves",
+    "cat": "marketplace",
+    "lon": -2.891666666,
+    "lat": 38.251944444
+  },
+  {
+    "wikiId": "Q11595313",
+    "name": "Akita Shimin Market",
+    "cat": "marketplace",
+    "lon": 140.125833333,
+    "lat": 39.714916666
+  },
+  {
+    "wikiId": "Q11692076",
+    "name": "Q11692076",
+    "cat": "marketplace",
+    "lon": -0.081791,
+    "lat": 39.887743
+  },
+  {
+    "wikiId": "Q11936513",
+    "name": "Mercat Central",
+    "cat": "marketplace",
+    "lon": 1.248912,
+    "lat": 41.115815
+  },
+  {
+    "wikiId": "Q11936515",
+    "name": "Q11936515",
+    "cat": "marketplace",
+    "lon": 2.89080278,
+    "lat": 39.49124167
+  },
+  {
+    "wikiId": "Q11936519",
+    "name": "Mercat cobert de Sant Feliu de Guíxols",
+    "cat": "marketplace",
+    "lon": 3.02904,
+    "lat": 41.7806
+  },
+  {
+    "wikiId": "Q11936521",
+    "name": "Mercat cobert de Palafrugell",
+    "cat": "marketplace",
+    "lon": 3.16476,
+    "lat": 41.9173
+  },
+  {
+    "wikiId": "Q11936522",
+    "name": "Mercat Vell de Mollet del Vallès",
+    "cat": "marketplace",
+    "lon": 2.21299,
+    "lat": 41.5388
+  },
+  {
+    "wikiId": "Q11936526",
+    "name": "Mercat de Sant Pere",
+    "cat": "marketplace",
+    "lon": 2.08194,
+    "lat": 41.4728
+  },
+  {
+    "wikiId": "Q11936527",
+    "name": "Mercat de Collblanc",
+    "cat": "marketplace",
+    "lon": 2.120261111,
+    "lat": 41.3748
+  },
+  {
+    "wikiId": "Q11936530",
+    "name": "Mercat de la Independència",
+    "cat": "marketplace",
+    "lon": 2.00834,
+    "lat": 41.5632
+  },
+  {
+    "wikiId": "Q11936531",
+    "name": "Mercat de Sant Ildefons",
+    "cat": "marketplace",
+    "lon": 2.083592,
+    "lat": 41.36224
+  },
+  {
+    "wikiId": "Q11936534",
+    "name": "Mercat de la Llibertat",
+    "cat": "marketplace",
+    "lon": 2.153611,
+    "lat": 41.399722
+  },
+  {
+    "wikiId": "Q11936536",
+    "name": "Mercat del Clot",
+    "cat": "marketplace",
+    "lon": 2.18871667,
+    "lat": 41.40765
+  },
+  {
+    "wikiId": "Q12217371",
+    "name": "Gazil souq",
+    "cat": "marketplace",
+    "lon": 44.39833714,
+    "lat": 33.33848698
+  },
+  {
+    "wikiId": "Q12255491",
+    "name": "Bretxa Market, Donostia-San Sebastián",
+    "cat": "marketplace",
+    "lon": -1.98276389,
+    "lat": 43.32344444
+  },
+  {
+    "wikiId": "Q12257050",
+    "name": "Q12257050",
+    "cat": "marketplace",
+    "lon": -1.66342778,
+    "lat": 42.81104444
+  },
+  {
+    "wikiId": "Q12259719",
+    "name": "Q12259719",
+    "cat": "marketplace",
+    "lon": -1.53666667,
+    "lat": 43.46527778
+  },
+  {
+    "wikiId": "Q12261730",
+    "name": "Q12261730",
+    "cat": "marketplace",
+    "lon": -1.98256944,
+    "lat": 43.32309722
+  },
+  {
+    "wikiId": "Q12267038",
+    "name": "Market of Santo Domingo, Pamplona",
+    "cat": "marketplace",
+    "lon": -1.644319,
+    "lat": 42.818994
+  },
+  {
+    "wikiId": "Q12376497",
+    "name": "Q12376497",
+    "cat": "marketplace",
+    "lon": 26.728508,
+    "lat": 58.378743
+  },
+  {
+    "wikiId": "Q12411569",
+    "name": "Q12411569",
+    "cat": "marketplace",
+    "lon": 35.2306883,
+    "lat": 31.7766285
+  },
+  {
+    "wikiId": "Q13095806",
+    "name": "Beringharjo",
+    "cat": "marketplace",
+    "lon": 110.36542,
+    "lat": -7.79886
+  },
+  {
+    "wikiId": "Q13163528",
+    "name": "Tai Po Kau Hui",
+    "cat": "marketplace",
+    "lon": 114.1654,
+    "lat": 22.454
+  },
+  {
+    "wikiId": "Q14993541",
+    "name": "Hungerford Market",
+    "cat": "marketplace",
+    "lon": -0.1244,
+    "lat": 51.5078
+  },
+  {
+    "wikiId": "Q15030874",
+    "name": "Brixton Market",
+    "cat": "marketplace",
+    "lon": -0.114,
+    "lat": 51.462
+  },
+  {
+    "wikiId": "Q15262562",
+    "name": "Northcote Road Antiques Market",
+    "cat": "marketplace",
+    "lon": -0.164391,
+    "lat": 51.455291
+  },
+  {
+    "wikiId": "Q491006",
+    "name": "Noryangjin Fisheries Wholesale Market",
+    "cat": "marketplace",
+    "lon": 126.94106389,
+    "lat": 37.51523056
+  },
+  {
+    "wikiId": "Q637876",
+    "name": "Rhapta",
+    "cat": "marketplace",
+    "lon": null
+  },
+  {
+    "wikiId": "Q748981",
+    "name": "Q748981",
+    "cat": "marketplace",
+    "lon": 3.04969,
+    "lat": 50.6261
+  },
+  {
+    "wikiId": "Q921152",
+    "name": "Mercat del Born",
+    "cat": "marketplace",
+    "lon": 2.1841,
+    "lat": 41.38539722
+  },
+  {
+    "wikiId": "Q957477",
+    "name": "Bezisten",
+    "cat": "marketplace",
+    "lon": 21.436944444,
+    "lat": 42.001388888
+  },
+  {
+    "wikiId": "Q1015935",
+    "name": "Salamanca Place",
+    "cat": "marketplace",
+    "lon": 147.331944444,
+    "lat": -42.886666666
+  },
+  {
+    "wikiId": "Q1028420",
+    "name": "Camden Market",
+    "cat": "marketplace",
+    "lon": -0.146388888,
+    "lat": 51.541388888
+  },
+  {
+    "wikiId": "Q1338588",
+    "name": "Al-Hamidiyah Souq",
+    "cat": "marketplace",
+    "lon": 36.301644,
+    "lat": 33.510945
+  },
+  {
+    "wikiId": "Q1373418",
+    "name": "Pike Place Market",
+    "cat": "marketplace",
+    "lon": -122.341666666,
+    "lat": 47.609444444
+  },
+  {
+    "wikiId": "Q1517035",
+    "name": "Mercado da Ribeira",
+    "cat": "marketplace",
+    "lon": -9.145718,
+    "lat": 38.707089
+  },
+  {
+    "wikiId": "Q1549518",
+    "name": "Cherkizovsky Market",
+    "cat": "marketplace",
+    "lon": 37.7525,
+    "lat": 55.8
+  },
+  {
+    "wikiId": "Q1562714",
+    "name": "Bit pazar",
+    "cat": "marketplace",
+    "lon": 21.439444444,
+    "lat": 42.003611111
+  },
+  {
+    "wikiId": "Q1566076",
+    "name": "Gazi Husrev-beg bezistan",
+    "cat": "marketplace",
+    "lon": 18.4279184,
+    "lat": 43.8586287
+  },
+  {
+    "wikiId": "Q1708950",
+    "name": "Carmel Market",
+    "cat": "marketplace",
+    "lon": 34.76904722,
+    "lat": 32.06868333
+  },
+  {
+    "wikiId": "Q1901040",
+    "name": "Mercado del Este",
+    "cat": "marketplace",
+    "lon": -3.80991667,
+    "lat": 43.46241667
+  },
+  {
+    "wikiId": "Q2063403",
+    "name": "Mercado dos Lavradores",
+    "cat": "marketplace",
+    "lon": -16.903812,
+    "lat": 32.648662
+  },
+  {
+    "wikiId": "Q2843563",
+    "name": "Mercado de Salamanca",
+    "cat": "marketplace",
+    "lon": -4.42435,
+    "lat": 36.727269444
+  },
+  {
+    "wikiId": "Q2916187",
+    "name": "El Rastro",
+    "cat": "marketplace",
+    "lon": -3.7075,
+    "lat": 40.40888889
+  },
+  {
+    "wikiId": "Q3054294",
+    "name": "English Market",
+    "cat": "marketplace",
+    "lon": -8.474,
+    "lat": 51.898
+  },
+  {
+    "wikiId": "Q3126085",
+    "name": "Halles aux vins de Paris",
+    "cat": "marketplace",
+    "lon": 2.356761932,
+    "lat": 48.847291877
+  },
+  {
+    "wikiId": "Q3232879",
+    "name": "Bến Thành Market",
+    "cat": "marketplace",
+    "lon": 106.69834,
+    "lat": 10.773
+  },
+  {
+    "wikiId": "Q3289785",
+    "name": "Gorbushka",
+    "cat": "marketplace",
+    "lon": 37.50222222,
+    "lat": 55.74194444
+  },
+  {
+    "wikiId": "Q3289797",
+    "name": "Q3289797",
+    "cat": "marketplace",
+    "lon": -48.552774,
+    "lat": -27.597284
+  },
+  {
+    "wikiId": "Q3289846",
+    "name": "Montreux indoor market",
+    "cat": "marketplace",
+    "lon": 6.90976,
+    "lat": 46.43227
+  },
+  {
+    "wikiId": "Q3289962",
+    "name": "Round Market",
+    "cat": "marketplace",
+    "lon": 30.327222222,
+    "lat": 59.9425
+  },
+  {
+    "wikiId": "Q3306273",
+    "name": "Mercato Vecchio",
+    "cat": "marketplace",
+    "lon": 11.2541,
+    "lat": 43.7714
+  },
+  {
+    "wikiId": "Q3377015",
+    "name": "La Merced Market, Mexico City",
+    "cat": "marketplace",
+    "lon": -99.12405833,
+    "lat": 19.42592222
+  },
+  {
+    "wikiId": "Q3414259",
+    "name": "Portobello Road Market",
+    "cat": "marketplace",
+    "lon": -0.199167,
+    "lat": 51.511111
+  },
+  {
+    "wikiId": "Q3509156",
+    "name": "Dolac Market",
+    "cat": "marketplace",
+    "lon": 15.9775,
+    "lat": 45.81416667
+  },
+  {
+    "wikiId": "Q3753734",
+    "name": "Mercat de Sant Antoni",
+    "cat": "marketplace",
+    "lon": 2.16208333,
+    "lat": 41.37861111
+  },
+  {
+    "wikiId": "Q3908757",
+    "name": "Porta Palazzo",
+    "cat": "marketplace",
+    "lon": 7.683646,
+    "lat": 45.076772
+  },
+  {
+    "wikiId": "Q4063034",
+    "name": "Tolkuchka Bazaar",
+    "cat": "marketplace",
+    "lon": 58.421431,
+    "lat": 38.044593
+  },
+  {
+    "wikiId": "Q4077608",
+    "name": "Barabashovo",
+    "cat": "marketplace",
+    "lon": 36.302777777,
+    "lat": 50.002777777
+  },
+  {
+    "wikiId": "Q4087767",
+    "name": "Q4087767",
+    "cat": "marketplace",
+    "lon": 36.222782,
+    "lat": 49.99436
+  },
+  {
+    "wikiId": "Q4108635",
+    "name": "Upper Market, Saratov",
+    "cat": "marketplace",
+    "lon": 46.033604,
+    "lat": 51.535218
+  },
+  {
+    "wikiId": "Q4120323",
+    "name": "Municipal Market of São Paulo",
+    "cat": "marketplace",
+    "lon": -46.62916667,
+    "lat": -23.54166667
+  },
+  {
+    "wikiId": "Q4180676",
+    "name": "Zhytniy Market",
+    "cat": "marketplace",
+    "lon": 30.5115,
+    "lat": 50.465
+  },
+  {
+    "wikiId": "Q4278844",
+    "name": "Maly Gostiny Dvor (Saint Petersburg)",
+    "cat": "marketplace",
+    "lon": 30.326666666,
+    "lat": 59.932777777
+  },
+  {
+    "wikiId": "Q4295207",
+    "name": "Kamaroŭski market, Minsk",
+    "cat": "marketplace",
+    "lon": 27.577392,
+    "lat": 53.919815
+  },
+  {
+    "wikiId": "Q4322964",
+    "name": "Novo-Sukharev Market",
+    "cat": "marketplace",
+    "lon": 37.627691666,
+    "lat": 55.771811111
+  },
+  {
+    "wikiId": "Q4394565",
+    "name": "Q4394565",
+    "cat": "marketplace",
+    "lon": 37.63714444,
+    "lat": 55.79310556
+  },
+  {
+    "wikiId": "Q4440422",
+    "name": "Starokinnyi Market",
+    "cat": "marketplace",
+    "lon": 30.71083333,
+    "lat": 46.47861111
+  },
+  {
+    "wikiId": "Q4518915",
+    "name": "Black Market in Perm",
+    "cat": "marketplace",
+    "lon": 56.233187,
+    "lat": 58.013379
+  },
+  {
+    "wikiId": "Q4874837",
+    "name": "Bayside Marketplace",
+    "cat": "marketplace",
+    "lon": -80.186452,
+    "lat": 25.77831
+  },
+  {
+    "wikiId": "Q4924395",
+    "name": "Pak Khlong Talat",
+    "cat": "marketplace",
+    "lon": 100.496567,
+    "lat": 13.742209
+  },
+  {
+    "wikiId": "Q5037917",
+    "name": "Carbon Market",
+    "cat": "marketplace",
+    "lon": 123.898888888,
+    "lat": 10.291388888
+  },
+  {
+    "wikiId": "Q5062117",
+    "name": "Central market of Concepción, Chile",
+    "cat": "marketplace",
+    "lon": -73.05277778,
+    "lat": -36.82555556
+  },
+  {
+    "wikiId": "Q5116712",
+    "name": "Church Street Marketplace",
+    "cat": "marketplace",
+    "lon": -73.2127,
+    "lat": 44.4782
+  },
+  {
+    "wikiId": "Q5123294",
+    "name": "City Market (Charleston)",
+    "cat": "marketplace",
+    "lon": -79.931389,
+    "lat": 32.780278
+  },
+  {
+    "wikiId": "Q5123297",
+    "name": "City Market",
+    "cat": "marketplace",
+    "lon": -77.405,
+    "lat": 37.2333
+  },
+  {
+    "wikiId": "Q5222054",
+    "name": "Darajani Market",
+    "cat": "marketplace",
+    "lon": 39.19371,
+    "lat": -6.16244
+  },
+  {
+    "wikiId": "Q5260952",
+    "name": "Deptford Market",
+    "cat": "marketplace",
+    "lon": -0.0268,
+    "lat": 51.4777
+  },
+  {
+    "wikiId": "Q5297637",
+    "name": "Dordoy Bazaar",
+    "cat": "marketplace",
+    "lon": 74.62083333,
+    "lat": 42.93333333
+  },
+  {
+    "wikiId": "Q5310547",
+    "name": "Dubai Gold Souk",
+    "cat": "marketplace",
+    "lon": 55.29861111,
+    "lat": 25.27166667
+  },
+  {
+    "wikiId": "Q5374577",
+    "name": "Empress Market",
+    "cat": "marketplace",
+    "lon": 67.02944444,
+    "lat": 24.8625
+  },
+  {
+    "wikiId": "Q5400839",
+    "name": "Q5400839",
+    "cat": "marketplace",
+    "lon": -1.68883333,
+    "lat": 42.83358889
+  },
+  {
+    "wikiId": "Q5410656",
+    "name": "Q5410656",
+    "cat": "marketplace",
+    "lon": -6.353694444,
+    "lat": 36.776988888
+  },
+  {
+    "wikiId": "Q5435794",
+    "name": "Farmers Market",
+    "cat": "marketplace",
+    "lon": -76.7369,
+    "lat": 39.9592
+  },
+  {
+    "wikiId": "Q5483901",
+    "name": "Persa Biobío",
+    "cat": "marketplace",
+    "lon": -70.64430833,
+    "lat": -33.4746
+  },
+  {
+    "wikiId": "Q5501495",
+    "name": "Fremantle Markets",
+    "cat": "marketplace",
+    "lon": 115.749212,
+    "lat": -32.0562
+  },
+  {
+    "wikiId": "Q5550149",
+    "name": "Q5550149",
+    "cat": "marketplace",
+    "lon": -1.60569722,
+    "lat": 42.06269167
+  },
+  {
+    "wikiId": "Q5577779",
+    "name": "Mercado de Providencia",
+    "cat": "marketplace",
+    "lon": -70.61710833,
+    "lat": -33.42700833
+  },
+  {
+    "wikiId": "Q5637661",
+    "name": "Mercado de Triana",
+    "cat": "marketplace",
+    "lon": -6.003441666,
+    "lat": 37.385680555
+  },
+  {
+    "wikiId": "Q5675401",
+    "name": "Q5675401",
+    "cat": "marketplace",
+    "lon": -3.72538056,
+    "lat": 40.39163333
+  },
+  {
+    "wikiId": "Q5852585",
+    "name": "Q5852585",
+    "cat": "marketplace",
+    "lon": -3.70194444,
+    "lat": 40.42416667
+  },
+  {
+    "wikiId": "Q5861774",
+    "name": "Mercado de Lanuza",
+    "cat": "marketplace",
+    "lon": -0.882892,
+    "lat": 41.656065
+  },
+  {
+    "wikiId": "Q5890125",
+    "name": "Homer Laughlin Building",
+    "cat": "marketplace",
+    "lon": -118.249,
+    "lat": 34.0508
+  },
+  {
+    "wikiId": "Q5899859",
+    "name": "Owliya House",
+    "cat": "marketplace",
+    "lon": 57.678333333,
+    "lat": 36.207055555
+  },
+  {
+    "wikiId": "Q5962640",
+    "name": "Q5962640",
+    "cat": "marketplace",
+    "lon": -66.1533137,
+    "lat": -17.4022178
+  },
+  {
+    "wikiId": "Q6010423",
+    "name": "Cardonal Market",
+    "cat": "marketplace",
+    "lon": -71.60747778,
+    "lat": -33.04521111
+  },
+  {
+    "wikiId": "Q6010448",
+    "name": "Mercado Central de Frutas y Verduras, Madrid",
+    "cat": "marketplace",
+    "lon": -3.69623889,
+    "lat": 40.38925278
+  },
+  {
+    "wikiId": "Q6010454",
+    "name": "Salamanca Central Market",
+    "cat": "marketplace",
+    "lon": -5.66310278,
+    "lat": 40.96465833
+  },
+  {
+    "wikiId": "Q6010484",
+    "name": "Mercado de Ganados de Torrelavega",
+    "cat": "marketplace",
+    "lon": -4.05043611,
+    "lat": 43.34324444
+  },
+  {
+    "wikiId": "Q6010512",
+    "name": "Mercado de Abastos",
+    "cat": "marketplace",
+    "lon": -4.022594444,
+    "lat": 39.8575
+  },
+  {
+    "wikiId": "Q6010514",
+    "name": "Mercado de Abastos, Aranjuez",
+    "cat": "marketplace",
+    "lon": -3.60466944,
+    "lat": 40.03225556
+  },
+  {
+    "wikiId": "Q6010523",
+    "name": "Mercado de Abastos de Zamora",
+    "cat": "marketplace",
+    "lon": -5.74298611,
+    "lat": 41.50451667
+  },
+  {
+    "wikiId": "Q6010534",
+    "name": "Mercado de Barceló",
+    "cat": "marketplace",
+    "lon": -3.69880833,
+    "lat": 40.42687222
+  },
+  {
+    "wikiId": "Q6010540",
+    "name": "Q6010540",
+    "cat": "marketplace",
+    "lon": -72.10129,
+    "lat": -36.61021
+  },
+  {
+    "wikiId": "Q6010549",
+    "name": "Mercado de Maravillas",
+    "cat": "marketplace",
+    "lon": -3.70347222,
+    "lat": 40.44893889
+  },
+  {
+    "wikiId": "Q6010552",
+    "name": "Mercado de Nuestra Señora de África",
+    "cat": "marketplace",
+    "lon": -16.25166667,
+    "lat": 28.46305556
+  },
+  {
+    "wikiId": "Q6010555",
+    "name": "Mercado de Olavide",
+    "cat": "marketplace",
+    "lon": -3.70119,
+    "lat": 40.4325
+  },
+  {
+    "wikiId": "Q6010567",
+    "name": "Mercado de San Antón",
+    "cat": "marketplace",
+    "lon": -3.69762778,
+    "lat": 40.422
+  },
+  {
+    "wikiId": "Q6010571",
+    "name": "Mercado de San Fernando",
+    "cat": "marketplace",
+    "lon": -3.70378611,
+    "lat": 40.40766389
+  },
+  {
+    "wikiId": "Q6010580",
+    "name": "Q6010580",
+    "cat": "marketplace",
+    "lon": -3.696825,
+    "lat": 40.402875
+  },
+  {
+    "wikiId": "Q6010584",
+    "name": "Mercado de Tirso de Molina",
+    "cat": "marketplace",
+    "lon": -3.725986111,
+    "lat": 40.412819444
+  },
+  {
+    "wikiId": "Q6010593",
+    "name": "Mercado de Vegueta",
+    "cat": "marketplace",
+    "lon": -15.413483333,
+    "lat": 28.102533333
+  },
+  {
+    "wikiId": "Q15834851",
+    "name": "Municipal Market of Dili",
+    "cat": "marketplace",
+    "lon": 125.579063,
+    "lat": -8.56010775
+  },
+  {
+    "wikiId": "Q15914232",
+    "name": "West Market",
+    "cat": "marketplace",
+    "lon": 120.19811,
+    "lat": 22.99352
+  },
+  {
+    "wikiId": "Q16304617",
+    "name": "Bang Khae Market",
+    "cat": "marketplace",
+    "lon": 100.423405555,
+    "lat": 13.711936111
+  },
+  {
+    "wikiId": "Q16329958",
+    "name": "Kapani",
+    "cat": "marketplace",
+    "lon": 22.942477,
+    "lat": 40.635878
+  },
+  {
+    "wikiId": "Q16606340",
+    "name": "Mercado Agrícola de Montevideo",
+    "cat": "marketplace",
+    "lon": -56.183361111,
+    "lat": -34.886888888
+  },
+  {
+    "wikiId": "Q16606346",
+    "name": "Mercado de Guillermo de Osma, Madrid",
+    "cat": "marketplace",
+    "lon": -3.69616111,
+    "lat": 40.39513056
+  },
+  {
+    "wikiId": "Q16606352",
+    "name": "Mercado Municipal de Maipú",
+    "cat": "marketplace",
+    "lon": -70.75358889,
+    "lat": -33.50835556
+  },
+  {
+    "wikiId": "Q16606367",
+    "name": "Mercado de Chamberí, Madrid",
+    "cat": "marketplace",
+    "lon": -3.69761944,
+    "lat": 40.43622222
+  },
+  {
+    "wikiId": "Q16681614",
+    "name": "Q16681614",
+    "cat": "marketplace",
+    "lon": 37.623186,
+    "lat": 55.5906457
+  },
+  {
+    "wikiId": "Q16693756",
+    "name": "Q16693756",
+    "cat": "marketplace",
+    "lon": 37.592111,
+    "lat": 55.794611
+  },
+  {
+    "wikiId": "Q16798856",
+    "name": "Mercat del Ninot",
+    "cat": "marketplace",
+    "lon": 2.15444444,
+    "lat": 41.38805556
+  },
+  {
+    "wikiId": "Q17209416",
+    "name": "Nantaru Ichiba",
+    "cat": "marketplace",
+    "lon": 141.01,
+    "lat": 43.182352
+  },
+  {
+    "wikiId": "Q17390226",
+    "name": "Mercado Municipal de Matosinhos",
+    "cat": "marketplace",
+    "lon": -8.69306,
+    "lat": 41.186969
+  },
+  {
+    "wikiId": "Q17462409",
+    "name": "Mercado Roma",
+    "cat": "marketplace",
+    "lon": -99.1645707,
+    "lat": 19.4140913
+  },
+  {
+    "wikiId": "Q17516889",
+    "name": "Mercat del Carme",
+    "cat": "marketplace",
+    "lon": 2.173404,
+    "lat": 41.375553
+  },
+  {
+    "wikiId": "Q17601242",
+    "name": "Els Encants Vells",
+    "cat": "marketplace",
+    "lon": 2.186344,
+    "lat": 41.401069
+  },
+  {
+    "wikiId": "Q17622195",
+    "name": "Q17622195",
+    "cat": "marketplace",
+    "lon": -72.5878,
+    "lat": -38.737004
+  },
+  {
+    "wikiId": "Q18004764",
+    "name": "Mercat de Sants",
+    "cat": "marketplace",
+    "lon": 2.13358,
+    "lat": 41.3746
+  },
+  {
+    "wikiId": "Q18004766",
+    "name": "Mercat del Guinardó",
+    "cat": "marketplace",
+    "lon": 2.17804,
+    "lat": 41.4195
+  },
+  {
+    "wikiId": "Q18004770",
+    "name": "Mercat Municipal de Tortosa",
+    "cat": "marketplace",
+    "lon": 0.519872,
+    "lat": 40.8111
+  },
+  {
+    "wikiId": "Q18005704",
+    "name": "Plaça del Gra",
+    "cat": "marketplace",
+    "lon": 2.96562,
+    "lat": 42.2663
+  },
+  {
+    "wikiId": "Q18007461",
+    "name": "Mercado de Santa Caterina",
+    "cat": "marketplace",
+    "lon": 2.17834,
+    "lat": 41.38618
+  },
+  {
+    "wikiId": "Q18170768",
+    "name": "Mercado de Mayoristas",
+    "cat": "marketplace",
+    "lon": -4.425391413,
+    "lat": 36.713955
+  },
+  {
+    "wikiId": "Q18341325",
+    "name": "Q18341325",
+    "cat": "marketplace",
+    "lon": -7.009855555,
+    "lat": 38.882844444
+  },
+  {
+    "wikiId": "Q18341365",
+    "name": "Zerkausia (Tolosa)",
+    "cat": "marketplace",
+    "lon": -2.07268333,
+    "lat": 43.13725
+  },
+  {
+    "wikiId": "Q18397983",
+    "name": "Q18397983",
+    "cat": "marketplace",
+    "lon": -1.846991666,
+    "lat": 38.97135
+  },
+  {
+    "wikiId": "Q18416491",
+    "name": "Q18416491",
+    "cat": "marketplace",
+    "lon": -1.851819444,
+    "lat": 38.992611111
+  },
+  {
+    "wikiId": "Q18416498",
+    "name": "Q18416498",
+    "cat": "marketplace",
+    "lon": -1.859852777,
+    "lat": 38.994952777
+  },
+  {
+    "wikiId": "Q18624711",
+    "name": "Anne Market",
+    "cat": "marketplace",
+    "lon": 26.766116666,
+    "lat": 58.370030555
+  },
+  {
+    "wikiId": "Q18662846",
+    "name": "Vyborg market",
+    "cat": "marketplace",
+    "lon": 28.736872,
+    "lat": 60.71414
+  },
+  {
+    "wikiId": "Q19257064",
+    "name": "Mercat de la Carn",
+    "cat": "marketplace",
+    "lon": 1.69623,
+    "lat": 41.3477
+  },
+  {
+    "wikiId": "Q19257065",
+    "name": "Mercat de la Concepció",
+    "cat": "marketplace",
+    "lon": 2.16874,
+    "lat": 41.39577
+  },
+  {
+    "wikiId": "Q19368093",
+    "name": "Mercat municipal d'Esparreguera",
+    "cat": "marketplace",
+    "lon": 1.86796,
+    "lat": 41.5377
+  },
+  {
+    "wikiId": "Q19881304",
+    "name": "North Avenue Market",
+    "cat": "marketplace",
+    "lon": -76.6175,
+    "lat": 39.3111
+  },
+  {
+    "wikiId": "Q20021520",
+    "name": "Galerías Piquer, Madrid",
+    "cat": "marketplace",
+    "lon": -3.706777777,
+    "lat": 40.40775
+  },
+  {
+    "wikiId": "Q20463297",
+    "name": "Pasar Payang",
+    "cat": "marketplace",
+    "lon": 103.13585,
+    "lat": 5.33756
+  },
+  {
+    "wikiId": "Q20492838",
+    "name": "Berdura Plaza",
+    "cat": "marketplace",
+    "lon": -2.072338,
+    "lat": 43.138744
+  },
+  {
+    "wikiId": "Q20492960",
+    "name": "Covered market of Bayonne",
+    "cat": "marketplace",
+    "lon": -1.47511389,
+    "lat": 43.49
+  },
+  {
+    "wikiId": "Q20493078",
+    "name": "Mercado del Ensanche, Bilbao",
+    "cat": "marketplace",
+    "lon": -2.93085,
+    "lat": 43.26408056
+  },
+  {
+    "wikiId": "Q20493079",
+    "name": "Q20493079",
+    "cat": "marketplace",
+    "lon": -1.63625833,
+    "lat": 42.81231389
+  },
+  {
+    "wikiId": "Q20631327",
+    "name": "Alaba International Market",
+    "cat": "marketplace",
+    "lon": 3.193835,
+    "lat": 6.463209
+  },
+  {
+    "wikiId": "Q21476554",
+    "name": "Dimotiki Agora Chanion",
+    "cat": "marketplace",
+    "lon": 24.020284,
+    "lat": 35.514477
+  },
+  {
+    "wikiId": "Q21484031",
+    "name": "Q21484031",
+    "cat": "marketplace",
+    "lon": -68.139445,
+    "lat": -16.4944925
+  },
+  {
+    "wikiId": "Q21547651",
+    "name": "Stocks Market",
+    "cat": "marketplace",
+    "lon": -0.0895,
+    "lat": 51.513
+  },
+  {
+    "wikiId": "Q21655419",
+    "name": "Central Bazaar",
+    "cat": "marketplace",
+    "lon": 57.23,
+    "lat": 50.279722222
+  },
+  {
+    "wikiId": "Q21655421",
+    "name": "Mega Shygys",
+    "cat": "marketplace",
+    "lon": 57.198333333,
+    "lat": 50.296444444
+  },
+  {
+    "wikiId": "Q21849440",
+    "name": "Mercat Centre de Cornellà de Llobregat",
+    "cat": "marketplace",
+    "lon": 2.071526,
+    "lat": 41.353151
+  },
+  {
+    "wikiId": "Q22043229",
+    "name": "Mercat Central de Castelló de la Plana",
+    "cat": "marketplace",
+    "lon": -0.03752,
+    "lat": 39.985683
+  },
+  {
+    "wikiId": "Q22051723",
+    "name": "Q22051723",
+    "cat": "marketplace",
+    "lon": -102.572591666,
+    "lat": 22.775147222
+  },
+  {
+    "wikiId": "Q23044892",
+    "name": "Ulsan Wholesale Agricultural and Fish Market",
+    "cat": "marketplace",
+    "lon": 129.343,
+    "lat": 35.539
+  },
+  {
+    "wikiId": "Q24023672",
+    "name": "mercat del Claustre",
+    "cat": "marketplace",
+    "lon": 4.26658,
+    "lat": 39.88889
+  },
+  {
+    "wikiId": "Q24887619",
+    "name": "Iriya Asagao festival",
+    "cat": "marketplace",
+    "lon": 139.78268889,
+    "lat": 35.71988889
+  },
+  {
+    "wikiId": "Q24932828",
+    "name": "Marché des Prouvaires",
+    "cat": "marketplace",
+    "lon": 2.344186,
+    "lat": 48.861574
+  },
+  {
+    "wikiId": "Q25043263",
+    "name": "Ladipo Market",
+    "cat": "marketplace",
+    "lon": 3.339161,
+    "lat": 6.632722
+  },
+  {
+    "wikiId": "Q25043268",
+    "name": "Balogun Market",
+    "cat": "marketplace",
+    "lon": 3.3851299,
+    "lat": 6.4558919
+  },
+  {
+    "wikiId": "Q25043293",
+    "name": "Ikotun Market",
+    "cat": "marketplace",
+    "lon": 3.41207504,
+    "lat": 6.44468021
+  },
+  {
+    "wikiId": "Q25408631",
+    "name": "Mercado Corona",
+    "cat": "marketplace",
+    "lon": -103.349313888,
+    "lat": 20.677727777
+  },
+  {
+    "wikiId": "Q25409820",
+    "name": "Mercato delle Erbe",
+    "cat": "marketplace",
+    "lon": 11.338222,
+    "lat": 44.495859
+  },
+  {
+    "wikiId": "Q25465357",
+    "name": "Q25465357",
+    "cat": "marketplace",
+    "lon": 17.520575502,
+    "lat": 46.854341599
+  },
+  {
+    "wikiId": "Q25476911",
+    "name": "Q25476911",
+    "cat": "marketplace",
+    "lon": -1.66089722,
+    "lat": 43.38744722
+  },
+  {
+    "wikiId": "Q25478912",
+    "name": "Q25478912",
+    "cat": "marketplace",
+    "lon": -1.983,
+    "lat": 43.31808056
+  },
+  {
+    "wikiId": "Q25494921",
+    "name": "Q25494921",
+    "cat": "marketplace",
+    "lon": 34.756666666,
+    "lat": 32.054694444
+  },
+  {
+    "wikiId": "Q26213804",
+    "name": "Mercado Central de San Pedro",
+    "cat": "marketplace",
+    "lon": -71.9847125,
+    "lat": -13.5211627
+  },
+  {
+    "wikiId": "Q26213805",
+    "name": "Q26213805",
+    "cat": "marketplace",
+    "lon": -71.5348705,
+    "lat": -16.4027452
+  },
+  {
+    "wikiId": "Q26213817",
+    "name": "Mercado Central de Lima",
+    "cat": "marketplace",
+    "lon": -77.025994,
+    "lat": -12.050063
+  },
+  {
+    "wikiId": "Q26237446",
+    "name": "Q26237446",
+    "cat": "marketplace",
+    "lon": -72.016381,
+    "lat": -17.027518
+  },
+  {
+    "wikiId": "Q27302202",
+    "name": "Mercado de Vallehermoso",
+    "cat": "marketplace",
+    "lon": -3.708336111,
+    "lat": 40.434125
+  },
+  {
+    "wikiId": "Q27869258",
+    "name": "Mercat Marsans",
+    "cat": "marketplace",
+    "lon": 2.075,
+    "lat": 41.361388888
+  },
+  {
+    "wikiId": "Q27956043",
+    "name": "Q27956043",
+    "cat": "marketplace",
+    "lon": 30.312674,
+    "lat": 60.017394
+  },
+  {
+    "wikiId": "Q28032532",
+    "name": "Q28032532",
+    "cat": "marketplace",
+    "lon": 36.251343,
+    "lat": 54.514363
+  },
+  {
+    "wikiId": "Q28077061",
+    "name": "Capixaba Market",
+    "cat": "marketplace",
+    "lon": -40.332334,
+    "lat": -20.319094
+  },
+  {
+    "wikiId": "Q28417843",
+    "name": "Hongqiao Pearl Market",
+    "cat": "marketplace",
+    "lon": 116.414381,
+    "lat": 39.884746
+  },
+  {
+    "wikiId": "Q28426164",
+    "name": "Plaça del Mercat",
+    "cat": "marketplace",
+    "lon": 2.488269444,
+    "lat": 42.180861111
+  },
+  {
+    "wikiId": "Q28667354",
+    "name": "Q28667354",
+    "cat": "marketplace",
+    "lon": 56.227222222,
+    "lat": 58.0025
+  },
+  {
+    "wikiId": "Q28715705",
+    "name": "Babylon Mall",
+    "cat": "marketplace",
+    "lon": 44.345912353,
+    "lat": 33.318153888
+  },
+  {
+    "wikiId": "Q29467161",
+    "name": "Beauty World Market",
+    "cat": "marketplace",
+    "lon": 103.774944444,
+    "lat": 1.341666666
+  },
+  {
+    "wikiId": "Q29496278",
+    "name": "Pontypool Market",
+    "cat": "marketplace",
+    "lon": -3.0414109,
+    "lat": 51.702418
+  },
+  {
+    "wikiId": "Q30535845",
+    "name": "Bandırma Covered Marketplace",
+    "cat": "marketplace",
+    "lon": 27.980833333,
+    "lat": 40.350555555
+  },
+  {
+    "wikiId": "Q30589995",
+    "name": "Mercado de Campo de Ourique",
+    "cat": "marketplace",
+    "lon": -9.166832,
+    "lat": 38.716152
+  },
+  {
+    "wikiId": "Q31519093",
+    "name": "Havelské tržiště",
+    "cat": "marketplace",
+    "lon": 14.42088,
+    "lat": 50.08467
+  },
+  {
+    "wikiId": "Q32468599",
+    "name": "Antiguo Mercado Central de Melilla",
+    "cat": "marketplace",
+    "lon": -2.943502,
+    "lat": 35.296175
+  },
+  {
+    "wikiId": "Q35645444",
+    "name": "Q35645444",
+    "cat": "marketplace",
+    "lon": -3.7390509,
+    "lat": 40.3869873
+  },
+  {
+    "wikiId": "Q35646734",
+    "name": "Mercado de Chamartín",
+    "cat": "marketplace",
+    "lon": -3.6782467,
+    "lat": 40.4573961
+  },
+  {
+    "wikiId": "Q35647247",
+    "name": "Mercado de Prosperidad, Madrid",
+    "cat": "marketplace",
+    "lon": -3.6740961,
+    "lat": 40.4443777
+  },
+  {
+    "wikiId": "Q35665696",
+    "name": "Q35665696",
+    "cat": "marketplace",
+    "lon": -3.68498,
+    "lat": 40.478491
+  },
+  {
+    "wikiId": "Q35666403",
+    "name": "Q35666403",
+    "cat": "marketplace",
+    "lon": -3.714564,
+    "lat": 40.435004
+  },
+  {
+    "wikiId": "Q35666831",
+    "name": "Q35666831",
+    "cat": "marketplace",
+    "lon": -3.654592,
+    "lat": 40.430599
+  },
+  {
+    "wikiId": "Q35667572",
+    "name": "Mercado de Las Ventas",
+    "cat": "marketplace",
+    "lon": -3.657027777,
+    "lat": 40.433166666
+  },
+  {
+    "wikiId": "Q35668857",
+    "name": "Q35668857",
+    "cat": "marketplace",
+    "lon": -3.6537694,
+    "lat": 40.438469
+  },
+  {
+    "wikiId": "Q35669407",
+    "name": "Q35669407",
+    "cat": "marketplace",
+    "lon": -3.7373156,
+    "lat": 40.4081045
+  },
+  {
+    "wikiId": "Q35669891",
+    "name": "Mercado de Las Águilas, Madrid",
+    "cat": "marketplace",
+    "lon": -3.7683,
+    "lat": 40.377813
+  },
+  {
+    "wikiId": "Q35670491",
+    "name": "Mercado de Argüelles, Madrid",
+    "cat": "marketplace",
+    "lon": -3.717761,
+    "lat": 40.431123
+  },
+  {
+    "wikiId": "Q35670932",
+    "name": "Q35670932",
+    "cat": "marketplace",
+    "lon": -3.719293,
+    "lat": 40.46652
+  },
+  {
+    "wikiId": "Q35671388",
+    "name": "Q35671388",
+    "cat": "marketplace",
+    "lon": -3.645698,
+    "lat": 40.405007
+  },
+  {
+    "wikiId": "Q35671597",
+    "name": "Q35671597",
+    "cat": "marketplace",
+    "lon": -3.661295,
+    "lat": 40.403029
+  },
+  {
+    "wikiId": "Q35671819",
+    "name": "Q35671819",
+    "cat": "marketplace",
+    "lon": -3.669182,
+    "lat": 40.378351
+  },
+  {
+    "wikiId": "Q35672504",
+    "name": "Q35672504",
+    "cat": "marketplace",
+    "lon": -3.657799,
+    "lat": 40.393292
+  },
+  {
+    "wikiId": "Q35673000",
+    "name": "Q35673000",
+    "cat": "marketplace",
+    "lon": -3.677291,
+    "lat": 40.41818
+  },
+  {
+    "wikiId": "Q35786865",
+    "name": "Q35786865",
+    "cat": "marketplace",
+    "lon": -3.675503,
+    "lat": 40.404266
+  },
+  {
+    "wikiId": "Q35787403",
+    "name": "Q35787403",
+    "cat": "marketplace",
+    "lon": -3.68253,
+    "lat": 40.434769
+  },
+  {
+    "wikiId": "Q35787583",
+    "name": "Q35787583",
+    "cat": "marketplace",
+    "lon": -3.670821,
+    "lat": 40.434063
+  },
+  {
+    "wikiId": "Q35787987",
+    "name": "Mercado de Tetuán",
+    "cat": "marketplace",
+    "lon": -3.698812,
+    "lat": 40.460998
+  },
+  {
+    "wikiId": "Q35788313",
+    "name": "Q35788313",
+    "cat": "marketplace",
+    "lon": -3.700233,
+    "lat": 40.455973
+  },
+  {
+    "wikiId": "Q35788537",
+    "name": "Mercado de Jesús del Gran Poder",
+    "cat": "marketplace",
+    "lon": -3.701092,
+    "lat": 40.386405
+  },
+  {
+    "wikiId": "Q35788971",
+    "name": "Q35788971",
+    "cat": "marketplace",
+    "lon": -3.715142,
+    "lat": 40.36878
+  },
+  {
+    "wikiId": "Q35789206",
+    "name": "Q35789206",
+    "cat": "marketplace",
+    "lon": -3.700941,
+    "lat": 40.36762
+  },
+  {
+    "wikiId": "Q35789412",
+    "name": "Q35789412",
+    "cat": "marketplace",
+    "lon": -3.7065,
+    "lat": 40.38712
+  },
+  {
+    "wikiId": "Q35789752",
+    "name": "Q35789752",
+    "cat": "marketplace",
+    "lon": -3.608484,
+    "lat": 40.404354
+  },
+  {
+    "wikiId": "Q35790020",
+    "name": "Q35790020",
+    "cat": "marketplace",
+    "lon": -3.607029,
+    "lat": 40.381285
+  },
+  {
+    "wikiId": "Q35790239",
+    "name": "Q35790239",
+    "cat": "marketplace",
+    "lon": -3.624032,
+    "lat": 40.378743
+  },
+  {
+    "wikiId": "Q35790499",
+    "name": "Q35790499",
+    "cat": "marketplace",
+    "lon": -3.711037,
+    "lat": 40.346306
+  },
+  {
+    "wikiId": "Q35794611",
+    "name": "Centro Polivalente Barceló",
+    "cat": "marketplace",
+    "lon": -3.698755,
+    "lat": 40.426705
+  },
+  {
+    "wikiId": "Q35842232",
+    "name": "Mercado del Real, Melilla",
+    "cat": "marketplace",
+    "lon": -2.939163,
+    "lat": 35.276791
+  },
+  {
+    "wikiId": "Q38036728",
+    "name": "Central Market (Tunis)",
+    "cat": "marketplace",
+    "lon": 10.17729,
+    "lat": 36.79741
+  },
+  {
+    "wikiId": "Q38282114",
+    "name": "Argos Municipal Market",
+    "cat": "marketplace",
+    "lon": 22.725748,
+    "lat": 37.635936
+  },
+  {
+    "wikiId": "Q38282807",
+    "name": "Q38282807",
+    "cat": "marketplace",
+    "lon": 21.44046,
+    "lat": 37.671257
+  },
+  {
+    "wikiId": "Q38283298",
+    "name": "Q38283298",
+    "cat": "marketplace",
+    "lon": 29.591525,
+    "lat": 36.148794
+  },
+  {
+    "wikiId": "Q42342878",
+    "name": "Central Market (Casablanca)",
+    "cat": "marketplace",
+    "lon": -7.612006,
+    "lat": 33.594706
+  },
+  {
+    "wikiId": "Q42562400",
+    "name": "El Fontán Market",
+    "cat": "marketplace",
+    "lon": -5.845676,
+    "lat": 43.360172
+  },
+  {
+    "wikiId": "Q47170920",
+    "name": "Mercat Galvany",
+    "cat": "marketplace",
+    "lon": 2.143664,
+    "lat": 41.396618
+  },
+  {
+    "wikiId": "Q48646189",
+    "name": "Old Market",
+    "cat": "marketplace",
+    "lon": -46.300222222,
+    "lat": -23.777555555
+  },
+  {
+    "wikiId": "Q48699095",
+    "name": "Honey Lane Market",
+    "cat": "marketplace",
+    "lon": -0.0936,
+    "lat": 51.5143
+  },
+  {
+    "wikiId": "Q48781744",
+    "name": "Las Aceñas market hall",
+    "cat": "marketplace",
+    "lon": -5.923444444,
+    "lat": 43.557666666
+  },
+  {
+    "wikiId": "Q48940524",
+    "name": "Q48940524",
+    "cat": "marketplace",
+    "lon": 37.4792549,
+    "lat": 55.7039842
+  },
+  {
+    "wikiId": "Q50197259",
+    "name": "Volodymyrskyi Market",
+    "cat": "marketplace",
+    "lon": 30.518226,
+    "lat": 50.421704
+  },
+  {
+    "wikiId": "Q51536373",
+    "name": "Market of Carcaixent",
+    "cat": "marketplace",
+    "lon": -0.448638888,
+    "lat": 39.122805555
+  },
+  {
+    "wikiId": "Q51879157",
+    "name": "Mercado de Rojas Clemente",
+    "cat": "marketplace",
+    "lon": -0.385555555,
+    "lat": 39.473
+  },
+  {
+    "wikiId": "Q51881719",
+    "name": "Q51881719",
+    "cat": "marketplace",
+    "lon": -72.086833333,
+    "lat": -36.62475
+  },
+  {
+    "wikiId": "Q51882003",
+    "name": "Francisco Bolonha Meat Market",
+    "cat": "marketplace",
+    "lon": -48.502879,
+    "lat": -1.452421
+  },
+  {
+    "wikiId": "Q51882030",
+    "name": "Q51882030",
+    "cat": "marketplace",
+    "lon": -48.503477254,
+    "lat": -1.453308023
+  },
+  {
+    "wikiId": "Q51882647",
+    "name": "Macapá Central Market",
+    "cat": "marketplace",
+    "lon": -51.0536643,
+    "lat": 0.030944
+  },
+  {
+    "wikiId": "Q53637983",
+    "name": "Mercado de Vilanova de Castelló",
+    "cat": "marketplace",
+    "lon": -0.513638888,
+    "lat": 39.079666666
+  },
+  {
+    "wikiId": "Q54854446",
+    "name": "Market Hall of Cullera",
+    "cat": "marketplace",
+    "lon": -0.253472222,
+    "lat": 39.16475
+  },
+  {
+    "wikiId": "Q55078852",
+    "name": "Mercat de Bonavista",
+    "cat": "marketplace",
+    "lon": 1.1952449,
+    "lat": 41.1192232
+  },
+  {
+    "wikiId": "Q55523843",
+    "name": "German market",
+    "cat": "marketplace",
+    "lon": 37.683088888,
+    "lat": 55.771958333
+  },
+  {
+    "wikiId": "Q55607138",
+    "name": "Charu Market",
+    "cat": "marketplace",
+    "lon": 88.3457,
+    "lat": 22.5073
+  },
+  {
+    "wikiId": "Q55658546",
+    "name": "Moskvoretsky Market",
+    "cat": "marketplace",
+    "lon": 37.607424,
+    "lat": 55.656831
+  },
+  {
+    "wikiId": "Q56600294",
+    "name": "Xirivella Municipal Market",
+    "cat": "marketplace",
+    "lon": -0.428094444,
+    "lat": 39.465425
+  },
+  {
+    "wikiId": "Q56649678",
+    "name": "Mercado de Abastos, Palencia",
+    "cat": "marketplace",
+    "lon": -4.531458333,
+    "lat": 42.0105
+  },
+  {
+    "wikiId": "Q56841361",
+    "name": "Mercat del Carrilet",
+    "cat": "marketplace",
+    "lon": 1.111308,
+    "lat": 41.148593
+  },
+  {
+    "wikiId": "Q57910859",
+    "name": "Kroger",
+    "cat": "marketplace",
+    "lon": -76.4807557,
+    "lat": 37.1143266
+  },
+  {
+    "wikiId": "Q58264959",
+    "name": "Mercado Municipal de São Félix",
+    "cat": "marketplace",
+    "lon": -38.969324,
+    "lat": -12.606259
+  },
+  {
+    "wikiId": "Q59429024",
+    "name": "Market of Russafa",
+    "cat": "marketplace",
+    "lon": -0.371083333,
+    "lat": 39.461805555
+  },
+  {
+    "wikiId": "Q60764334",
+    "name": "Plaza del Vapor, Havana",
+    "cat": "marketplace",
+    "lon": -82.3625,
+    "lat": 23.133055555
+  },
+  {
+    "wikiId": "Q60851616",
+    "name": "Q60851616",
+    "cat": "marketplace",
+    "lon": 37.554111,
+    "lat": 55.742917
+  },
+  {
+    "wikiId": "Q60851703",
+    "name": "Q60851703",
+    "cat": "marketplace",
+    "lon": 37.7168874,
+    "lat": 55.792193
+  },
+  {
+    "wikiId": "Q60851906",
+    "name": "Kök Bazaar",
+    "cat": "marketplace",
+    "lon": 76.953498,
+    "lat": 43.263715
+  },
+  {
+    "wikiId": "Q60851981",
+    "name": "Q60851981",
+    "cat": "marketplace",
+    "lon": 37.529167,
+    "lat": 55.808111
+  },
+  {
+    "wikiId": "Q60853206",
+    "name": "Q60853206",
+    "cat": "marketplace",
+    "lon": 37.550528,
+    "lat": 55.684056
+  },
+  {
+    "wikiId": "Q61694052",
+    "name": "Eataly Las Vegas at Park MGM",
+    "cat": "marketplace",
+    "lon": -115.176018,
+    "lat": 36.104628
+  },
+  {
+    "wikiId": "Q61819867",
+    "name": "Q61819867",
+    "cat": "marketplace",
+    "lon": 37.56752,
+    "lat": 55.72744
+  },
+  {
+    "wikiId": "Q61976676",
+    "name": "Trascorrales Market",
+    "cat": "marketplace",
+    "lon": -5.843861111,
+    "lat": 43.360944444
+  },
+  {
+    "wikiId": "Q61984530",
+    "name": "Q61984530",
+    "cat": "marketplace",
+    "lon": -5.848583333,
+    "lat": 43.363638888
+  },
+  {
+    "wikiId": "Q61984570",
+    "name": "Q61984570",
+    "cat": "marketplace",
+    "lon": -5.923583333,
+    "lat": 43.557527777
+  },
+  {
+    "wikiId": "Q61987420",
+    "name": "Mercado do Livramento",
+    "cat": "marketplace",
+    "lon": -8.894264,
+    "lat": 38.522977
+  },
+  {
+    "wikiId": "Q61996450",
+    "name": "Q61996450",
+    "cat": "marketplace",
+    "lon": -5.434027777,
+    "lat": 43.480222222
+  },
+  {
+    "wikiId": "Q63344920",
+    "name": "Centro de Artesanato de Itaparica",
+    "cat": "marketplace",
+    "lon": -38.684929,
+    "lat": -12.88154
+  },
+  {
+    "wikiId": "Q63790641",
+    "name": "Sarona Market",
+    "cat": "marketplace",
+    "lon": 34.78661111,
+    "lat": 32.07166667
+  },
+  {
+    "wikiId": "Q63992386",
+    "name": "Q63992386",
+    "cat": "marketplace",
+    "lon": -45.886008801,
+    "lat": -23.180686069
+  },
+  {
+    "wikiId": "Q64177106",
+    "name": "Glória Market",
+    "cat": "marketplace",
+    "lon": -43.176156878,
+    "lat": -22.920645383
+  },
+  {
+    "wikiId": "Q65127483",
+    "name": "Q65127483",
+    "cat": "marketplace",
+    "lon": 82.828772,
+    "lat": 54.94868
+  },
+  {
+    "wikiId": "Q65262497",
+    "name": "Q65262497",
+    "cat": "marketplace",
+    "lon": 23.69213,
+    "lat": 52.09714
+  },
+  {
+    "wikiId": "Q65556061",
+    "name": "Abastos",
+    "cat": "marketplace",
+    "lon": -2.072965,
+    "lat": 43.139298
+  },
+  {
+    "wikiId": "Q65684013",
+    "name": "Zarauzko Azoka",
+    "cat": "marketplace",
+    "lon": -2.174923341,
+    "lat": 43.285518711
+  },
+  {
+    "wikiId": "Q65703355",
+    "name": "Q65703355",
+    "cat": "marketplace",
+    "lon": -2.19620237,
+    "lat": 43.047143383
+  },
+  {
+    "wikiId": "Q65922885",
+    "name": "Ordiziako azoka",
+    "cat": "marketplace",
+    "lon": -2.179505552,
+    "lat": 43.05398864
+  },
+  {
+    "wikiId": "Q65971046",
+    "name": "Mercado Público de Itaqui",
+    "cat": "marketplace",
+    "lon": -56.554656,
+    "lat": -29.120329
+  },
+  {
+    "wikiId": "Q66315886",
+    "name": "Municipal Market of Feira de Santana",
+    "cat": "marketplace",
+    "lon": -38.9661325,
+    "lat": -12.2550378
+  },
+  {
+    "wikiId": "Q66432142",
+    "name": "Q66432142",
+    "cat": "marketplace",
+    "lon": 10.508333333,
+    "lat": 43.8565
+  },
+  {
+    "wikiId": "Q66456124",
+    "name": "Q66456124",
+    "cat": "marketplace",
+    "lon": 10.514833333,
+    "lat": 43.838833333
+  },
+  {
+    "wikiId": "Q66619432",
+    "name": "Yuli Market",
+    "cat": "marketplace",
+    "lon": 121.313355555,
+    "lat": 23.334583333
+  },
+  {
+    "wikiId": "Q66814973",
+    "name": "Mercado Municipal de Santarém",
+    "cat": "marketplace",
+    "lon": -8.68657,
+    "lat": 39.237946
+  },
+  {
+    "wikiId": "Q66816045",
+    "name": "Mercado Velho de Machico",
+    "cat": "marketplace",
+    "lon": -16.764128,
+    "lat": 32.717878
+  },
+  {
+    "wikiId": "Q66942634",
+    "name": "Mercado D. Pedro V",
+    "cat": "marketplace",
+    "lon": -8.425531,
+    "lat": 40.211451
+  },
+  {
+    "wikiId": "Q67001025",
+    "name": "Amparo's Municipal Market",
+    "cat": "marketplace",
+    "lon": -46.76787573,
+    "lat": -22.70077872
+  },
+  {
+    "wikiId": "Q67131147",
+    "name": "indoor marketplace",
+    "cat": "marketplace",
+    "lon": 16.51488,
+    "lat": 39.626304
+  },
+  {
+    "wikiId": "Q67175875",
+    "name": "Q67175875",
+    "cat": "marketplace",
+    "lon": -38.5044756,
+    "lat": -12.9592159
+  },
+  {
+    "wikiId": "Q68074254",
+    "name": "College Street Market",
+    "cat": "marketplace",
+    "lon": 88.364033,
+    "lat": 22.57782
+  },
+  {
+    "wikiId": "Q68215222",
+    "name": "Mercado Municipal de Machico",
+    "cat": "marketplace",
+    "lon": -16.764184951,
+    "lat": 32.717895507
+  },
+  {
+    "wikiId": "Q69362564",
+    "name": "Mercado Municipal de Angra dos Reis",
+    "cat": "marketplace",
+    "lon": -44.319809,
+    "lat": -23.00963
+  },
+  {
+    "wikiId": "Q70103885",
+    "name": "Plataforma das Artes e da Criatividade",
+    "cat": "marketplace",
+    "lon": -8.297305555,
+    "lat": 41.4431
+  },
+  {
+    "wikiId": "Q70104483",
+    "name": "Mercado de São João da Madeira",
+    "cat": "marketplace",
+    "lon": -8.491349,
+    "lat": 40.890083
+  },
+  {
+    "wikiId": "Q70106610",
+    "name": "Mercado de Ponte da Barca",
+    "cat": "marketplace",
+    "lon": -8.420454,
+    "lat": 41.808771
+  },
+  {
+    "wikiId": "Q74474351",
+    "name": "Mercado Municipal de Olhão",
+    "cat": "marketplace",
+    "lon": -7.841077,
+    "lat": 37.023714
+  },
+  {
+    "wikiId": "Q76950370",
+    "name": "Mercado Municipal de Vila Nova de Famalicão",
+    "cat": "marketplace",
+    "lon": -8.517265,
+    "lat": 41.405349
+  },
+  {
+    "wikiId": "Q81615814",
+    "name": "Riverside Market, Christchurch",
+    "cat": "marketplace",
+    "lon": 172.633939,
+    "lat": -43.533912
+  },
+  {
+    "wikiId": "Q81692009",
+    "name": "Dongmen Market (Hsinchu)",
+    "cat": "marketplace",
+    "lon": 120.96974,
+    "lat": 24.8053245
+  },
+  {
+    "wikiId": "Q81692432",
+    "name": "Hsinchu Chulien Market",
+    "cat": "marketplace",
+    "lon": 120.9719897,
+    "lat": 24.7966973
+  },
+  {
+    "wikiId": "Q83264280",
+    "name": "Wuhan Huanan Seafood Wholesale Market",
+    "cat": "marketplace",
+    "lon": 114.257611111,
+    "lat": 30.619583333
+  },
+  {
+    "wikiId": "Q85832744",
+    "name": "Q85832744",
+    "cat": "marketplace",
+    "lon": 27.640872,
+    "lat": 53.872834
+  },
+  {
+    "wikiId": "Q85868885",
+    "name": "Q85868885",
+    "cat": "marketplace",
+    "lon": 139.82982,
+    "lat": 38.91404
+  },
+  {
+    "wikiId": "Q86003161",
+    "name": "Maribor Marketplace",
+    "cat": "marketplace",
+    "lon": 15.640417903,
+    "lat": 46.557246142
+  },
+  {
+    "wikiId": "Q89601654",
+    "name": "Q89601654",
+    "cat": "marketplace",
+    "lon": -8.621833,
+    "lat": 41.531806
+  },
+  {
+    "wikiId": "Q95605844",
+    "name": "Devaraja Market",
+    "cat": "marketplace",
+    "lon": 76.652,
+    "lat": 12.3111
+  },
+  {
+    "wikiId": "Q95882606",
+    "name": "Municipal Market of Cachoeira",
+    "cat": "marketplace",
+    "lon": -38.964051,
+    "lat": -12.601138
+  },
+  {
+    "wikiId": "Q96102944",
+    "name": "Larkin Public Market and Bazaar",
+    "cat": "marketplace",
+    "lon": 103.74375,
+    "lat": 1.495916666
+  },
+  {
+    "wikiId": "Q96381974",
+    "name": "Ima Market",
+    "cat": "marketplace",
+    "lon": 93.935,
+    "lat": 24.808
+  },
+  {
+    "wikiId": "Q96432305",
+    "name": "Q96432305",
+    "cat": "marketplace",
+    "lon": 9.4082,
+    "lat": 54.9388
+  },
+  {
+    "wikiId": "Q96741526",
+    "name": "Q96741526",
+    "cat": "marketplace",
+    "lon": -8.344976,
+    "lat": 41.485386
+  },
+  {
+    "wikiId": "Q97167337",
+    "name": "Q97167337",
+    "cat": "marketplace",
+    "lon": -8.67585,
+    "lat": 37.107305555
+  },
+  {
+    "wikiId": "Q97485642",
+    "name": "Alfafar Municipal Market",
+    "cat": "marketplace",
+    "lon": -0.389364,
+    "lat": 39.422572
+  },
+  {
+    "wikiId": "Q97485659",
+    "name": "Municipal Market Hall of Catarroja",
+    "cat": "marketplace",
+    "lon": -0.401296,
+    "lat": 39.402488
+  },
+  {
+    "wikiId": "Q98455135",
+    "name": "Marktplatz",
+    "cat": "marketplace",
+    "lon": 10.47021045,
+    "lat": 49.773124444
+  },
+  {
+    "wikiId": "Q98534777",
+    "name": "Mercato coperto",
+    "cat": "marketplace",
+    "lon": 9.08797,
+    "lat": 45.80671
+  },
+  {
+    "wikiId": "Q98553588",
+    "name": "Buzet-sur-Tarn - la halle",
+    "cat": "marketplace",
+    "lon": 1.632115,
+    "lat": 43.780036
+  },
+  {
+    "wikiId": "Q98559648",
+    "name": "Central Market",
+    "cat": "marketplace",
+    "lon": -82.99571,
+    "lat": 39.958654
+  },
+  {
+    "wikiId": "Q98908733",
+    "name": "Mercado Municipal (Santa Cruz de La Palma)",
+    "cat": "marketplace",
+    "lon": -17.764572222,
+    "lat": 28.684472222
+  },
+  {
+    "wikiId": "Q98961620",
+    "name": "Mercado da Ribeira de Tavira",
+    "cat": "marketplace",
+    "lon": -7.647664,
+    "lat": 37.125539
+  },
+  {
+    "wikiId": "Q99024631",
+    "name": "Mercat de Sarrià",
+    "cat": "marketplace",
+    "lon": 2.120736837,
+    "lat": 41.39995018
+  },
+  {
+    "wikiId": "Q99248987",
+    "name": "Mercado Municipal de Moura",
+    "cat": "marketplace",
+    "lon": -7.450832843,
+    "lat": 38.143016815
+  },
+  {
+    "wikiId": "Q100002611",
+    "name": "Q100002611",
+    "cat": "marketplace",
+    "lon": 112.75208,
+    "lat": -7.23018
+  },
+  {
+    "wikiId": "Q100002633",
+    "name": "Q100002633",
+    "cat": "marketplace",
+    "lon": 112.77491,
+    "lat": -7.26397
+  },
+  {
+    "wikiId": "Q100002644",
+    "name": "Q100002644",
+    "cat": "marketplace",
+    "lon": 112.79496,
+    "lat": -7.25801
+  },
+  {
+    "wikiId": "Q100002649",
+    "name": "Q100002649",
+    "cat": "marketplace",
+    "lon": 112.73332,
+    "lat": -7.26301
+  },
+  {
+    "wikiId": "Q100002660",
+    "name": "Q100002660",
+    "cat": "marketplace",
+    "lon": 112.73792,
+    "lat": -7.30217
+  },
+  {
+    "wikiId": "Q100002668",
+    "name": "Q100002668",
+    "cat": "marketplace",
+    "lon": 112.74662,
+    "lat": -7.29375
+  },
+  {
+    "wikiId": "Q100002679",
+    "name": "Q100002679",
+    "cat": "marketplace",
+    "lon": 112.71687,
+    "lat": -7.26041
+  },
+  {
+    "wikiId": "Q100002685",
+    "name": "Q100002685",
+    "cat": "marketplace",
+    "lon": 112.72622,
+    "lat": -7.26781
+  },
+  {
+    "wikiId": "Q100002693",
+    "name": "Q100002693",
+    "cat": "marketplace",
+    "lon": 112.76533,
+    "lat": -7.25476
+  },
+  {
+    "wikiId": "Q100002704",
+    "name": "Q100002704",
+    "cat": "marketplace",
+    "lon": 112.76856,
+    "lat": -7.21855
+  },
+  {
+    "wikiId": "Q100002709",
+    "name": "Q100002709",
+    "cat": "marketplace",
+    "lon": 112.70691,
+    "lat": -7.25557
+  },
+  {
+    "wikiId": "Q100002720",
+    "name": "Q100002720",
+    "cat": "marketplace",
+    "lon": 112.79994,
+    "lat": -7.28913
+  },
+  {
+    "wikiId": "Q100002727",
+    "name": "Q100002727",
+    "cat": "marketplace",
+    "lon": 112.76491,
+    "lat": -7.23863
+  },
+  {
+    "wikiId": "Q100002733",
+    "name": "Q100002733",
+    "cat": "marketplace",
+    "lon": 112.79815,
+    "lat": -7.274
+  },
+  {
+    "wikiId": "Q100002741",
+    "name": "Q100002741",
+    "cat": "marketplace",
+    "lon": 112.73785,
+    "lat": -7.34051
+  },
+  {
+    "wikiId": "Q100002746",
+    "name": "Q100002746",
+    "cat": "marketplace",
+    "lon": 112.7462,
+    "lat": -7.33614
+  },
+  {
+    "wikiId": "Q100002753",
+    "name": "Q100002753",
+    "cat": "marketplace",
+    "lon": 112.72633,
+    "lat": -7.34637
+  },
+  {
+    "wikiId": "Q100002769",
+    "name": "Q100002769",
+    "cat": "marketplace",
+    "lon": 112.74197,
+    "lat": -7.25269
+  },
+  {
+    "wikiId": "Q100002778",
+    "name": "Q100002778",
+    "cat": "marketplace",
+    "lon": 112.73234,
+    "lat": -7.21644
+  },
+  {
+    "wikiId": "Q100002785",
+    "name": "Q100002785",
+    "cat": "marketplace",
+    "lon": 112.72248,
+    "lat": -7.27913
+  },
+  {
+    "wikiId": "Q100002797",
+    "name": "Q100002797",
+    "cat": "marketplace",
+    "lon": 112.73082,
+    "lat": -7.28506
+  },
+  {
+    "wikiId": "Q100002803",
+    "name": "Q100002803",
+    "cat": "marketplace",
+    "lon": 112.73483,
+    "lat": -7.22856
+  },
+  {
+    "wikiId": "Q100002809",
+    "name": "Q100002809",
+    "cat": "marketplace",
+    "lon": 112.7609,
+    "lat": -7.26923
+  },
+  {
+    "wikiId": "Q100002820",
+    "name": "Q100002820",
+    "cat": "marketplace",
+    "lon": 112.73593,
+    "lat": -7.27533
+  },
+  {
+    "wikiId": "Q100002832",
+    "name": "Q100002832",
+    "cat": "marketplace",
+    "lon": 112.75396,
+    "lat": -7.29552
+  },
+  {
+    "wikiId": "Q100002838",
+    "name": "Q100002838",
+    "cat": "marketplace",
+    "lon": 112.73278,
+    "lat": -7.24515
+  },
+  {
+    "wikiId": "Q100002849",
+    "name": "Q100002849",
+    "cat": "marketplace",
+    "lon": 112.72987,
+    "lat": -7.25349
+  },
+  {
+    "wikiId": "Q100002856",
+    "name": "Q100002856",
+    "cat": "marketplace",
+    "lon": 112.77074,
+    "lat": -7.28205
+  },
+  {
+    "wikiId": "Q100002862",
+    "name": "Q100002862",
+    "cat": "marketplace",
+    "lon": 112.75108,
+    "lat": -7.27776
+  },
+  {
+    "wikiId": "Q100002869",
+    "name": "Q100002869",
+    "cat": "marketplace",
+    "lon": 112.74483,
+    "lat": -7.24735
+  },
+  {
+    "wikiId": "Q100002878",
+    "name": "Q100002878",
+    "cat": "marketplace",
+    "lon": 112.7582,
+    "lat": -7.24792
+  },
+  {
+    "wikiId": "Q100002887",
+    "name": "Q100002887",
+    "cat": "marketplace",
+    "lon": 112.70568,
+    "lat": -7.32045
+  },
+  {
+    "wikiId": "Q100002893",
+    "name": "Q100002893",
+    "cat": "marketplace",
+    "lon": 112.69485,
+    "lat": -7.26333
+  },
+  {
+    "wikiId": "Q100002902",
+    "name": "Q100002902",
+    "cat": "marketplace",
+    "lon": 112.66963,
+    "lat": -7.2587
+  },
+  {
+    "wikiId": "Q100002910",
+    "name": "Q100002910",
+    "cat": "marketplace",
+    "lon": 112.71352,
+    "lat": -7.26853
+  },
+  {
+    "wikiId": "Q100002918",
+    "name": "Q100002918",
+    "cat": "marketplace",
+    "lon": 112.71376,
+    "lat": -7.26744
+  },
+  {
+    "wikiId": "Q100002929",
+    "name": "Q100002929",
+    "cat": "marketplace",
+    "lon": 112.68386,
+    "lat": -7.27597
+  },
+  {
+    "wikiId": "Q100002934",
+    "name": "Q100002934",
+    "cat": "marketplace",
+    "lon": 112.71722,
+    "lat": -7.31171
+  },
+  {
+    "wikiId": "Q100002942",
+    "name": "Q100002942",
+    "cat": "marketplace",
+    "lon": 112.76414,
+    "lat": -7.30396
+  },
+  {
+    "wikiId": "Q100002948",
+    "name": "Q100002948",
+    "cat": "marketplace",
+    "lon": 112.76841,
+    "lat": -7.30189
+  },
+  {
+    "wikiId": "Q100002965",
+    "name": "Q100002965",
+    "cat": "marketplace",
+    "lon": 112.79733,
+    "lat": -7.3117
+  },
+  {
+    "wikiId": "Q100002971",
+    "name": "Q100002971",
+    "cat": "marketplace",
+    "lon": 112.7761,
+    "lat": -7.31473
+  },
+  {
+    "wikiId": "Q100002979",
+    "name": "Q100002979",
+    "cat": "marketplace",
+    "lon": 112.72629,
+    "lat": -7.27539
+  },
+  {
+    "wikiId": "Q100002995",
+    "name": "Q100002995",
+    "cat": "marketplace",
+    "lon": 112.76736,
+    "lat": -7.28864
+  },
+  {
+    "wikiId": "Q100003001",
+    "name": "Q100003001",
+    "cat": "marketplace",
+    "lon": 112.7748,
+    "lat": -7.28994
+  },
+  {
+    "wikiId": "Q100003013",
+    "name": "Q100003013",
+    "cat": "marketplace",
+    "lon": 112.78453,
+    "lat": -7.28689
+  },
+  {
+    "wikiId": "Q100003020",
+    "name": "Q100003020",
+    "cat": "marketplace",
+    "lon": 112.75811,
+    "lat": -7.26104
+  },
+  {
+    "wikiId": "Q100003030",
+    "name": "Q100003030",
+    "cat": "marketplace",
+    "lon": 112.75584,
+    "lat": -7.24196
+  },
+  {
+    "wikiId": "Q100003037",
+    "name": "Q100003037",
+    "cat": "marketplace",
+    "lon": 112.75397,
+    "lat": -7.22344
+  },
+  {
+    "wikiId": "Q100003049",
+    "name": "Q100003049",
+    "cat": "marketplace",
+    "lon": 112.75419,
+    "lat": -7.25336
+  },
+  {
+    "wikiId": "Q100003056",
+    "name": "Q100003056",
+    "cat": "marketplace",
+    "lon": 112.76921,
+    "lat": -7.2452
+  },
+  {
+    "wikiId": "Q100003061",
+    "name": "Q100003061",
+    "cat": "marketplace",
+    "lon": 112.77226,
+    "lat": -7.21721
+  },
+  {
+    "wikiId": "Q100003069",
+    "name": "Q100003069",
+    "cat": "marketplace",
+    "lon": 112.72609,
+    "lat": -7.23586
+  },
+  {
+    "wikiId": "Q100003079",
+    "name": "Q100003079",
+    "cat": "marketplace",
+    "lon": 112.72015,
+    "lat": -7.30511
+  },
+  {
+    "wikiId": "Q100003086",
+    "name": "Q100003086",
+    "cat": "marketplace",
+    "lon": 112.73847,
+    "lat": -7.22418
+  },
+  {
+    "wikiId": "Q100003092",
+    "name": "Q100003092",
+    "cat": "marketplace",
+    "lon": 112.71161,
+    "lat": -7.26794
+  },
+  {
+    "wikiId": "Q100003098",
+    "name": "Q100003098",
+    "cat": "marketplace",
+    "lon": 112.70731,
+    "lat": -7.2526
+  },
+  {
+    "wikiId": "Q100003105",
+    "name": "Q100003105",
+    "cat": "marketplace",
+    "lon": 112.70508,
+    "lat": -7.25287
+  },
+  {
+    "wikiId": "Q100003111",
+    "name": "Q100003111",
+    "cat": "marketplace",
+    "lon": 112.64716,
+    "lat": -7.25122
+  },
+  {
+    "wikiId": "Q100003123",
+    "name": "Q100003123",
+    "cat": "marketplace",
+    "lon": 112.77774,
+    "lat": -7.22257
+  },
+  {
+    "wikiId": "Q100003135",
+    "name": "Q100003135",
+    "cat": "marketplace",
+    "lon": 112.76652,
+    "lat": -7.27286
+  },
+  {
+    "wikiId": "Q100003142",
+    "name": "Q100003142",
+    "cat": "marketplace",
+    "lon": 112.79583,
+    "lat": -7.33314
+  },
+  {
+    "wikiId": "Q100003147",
+    "name": "Q100003147",
+    "cat": "marketplace",
+    "lon": 112.78324,
+    "lat": -7.32234
+  },
+  {
+    "wikiId": "Q100003159",
+    "name": "Q100003159",
+    "cat": "marketplace",
+    "lon": 112.73592,
+    "lat": -7.30103
+  },
+  {
+    "wikiId": "Q100003166",
+    "name": "Q100003166",
+    "cat": "marketplace",
+    "lon": 112.74902,
+    "lat": -7.23856
+  },
+  {
+    "wikiId": "Q100003177",
+    "name": "Q100003177",
+    "cat": "marketplace",
+    "lon": 112.73021,
+    "lat": -7.2856
+  },
+  {
+    "wikiId": "Q100003184",
+    "name": "Q100003184",
+    "cat": "marketplace",
+    "lon": 112.71884,
+    "lat": -7.24321
+  },
+  {
+    "wikiId": "Q100003193",
+    "name": "Q100003193",
+    "cat": "marketplace",
+    "lon": 112.73764,
+    "lat": -7.3189
+  },
+  {
+    "wikiId": "Q100003205",
+    "name": "Q100003205",
+    "cat": "marketplace",
+    "lon": 112.74685,
+    "lat": -7.23102
+  },
+  {
+    "wikiId": "Q100003220",
+    "name": "Q100003220",
+    "cat": "marketplace",
+    "lon": 112.73957,
+    "lat": -7.27213
+  },
+  {
+    "wikiId": "Q100003233",
+    "name": "Q100003233",
+    "cat": "marketplace",
+    "lon": 112.67191,
+    "lat": -7.25945
+  },
+  {
+    "wikiId": "Q100003243",
+    "name": "Q100003243",
+    "cat": "marketplace",
+    "lon": 112.63118,
+    "lat": -7.303
+  },
+  {
+    "wikiId": "Q100003255",
+    "name": "Q100003255",
+    "cat": "marketplace",
+    "lon": 112.71542,
+    "lat": -7.25239
+  },
+  {
+    "wikiId": "Q100003260",
+    "name": "Q100003260",
+    "cat": "marketplace",
+    "lon": 112.66243,
+    "lat": -7.26207
+  },
+  {
+    "wikiId": "Q100560311",
+    "name": "Mercado Municipal",
+    "cat": "marketplace",
+    "lon": -9.380742,
+    "lat": 38.802972
+  },
+  {
+    "wikiId": "Q102109846",
+    "name": "Tant Kapor Haat",
+    "cat": "marketplace",
+    "lon": 88.373225,
+    "lat": 23.411288888
+  },
+  {
+    "wikiId": "Q102347344",
+    "name": "Q102347344",
+    "cat": "marketplace",
+    "lon": 16.6125,
+    "lat": 49.19038
+  },
+  {
+    "wikiId": "Q104030054",
+    "name": "Mercado de Oeiras",
+    "cat": "marketplace",
+    "lon": -9.311637,
+    "lat": 38.691755
+  },
+  {
+    "wikiId": "Q104236982",
+    "name": "Mercado Municipal de Braga",
+    "cat": "marketplace",
+    "lon": -8.427698,
+    "lat": 41.554296
+  },
+  {
+    "wikiId": "Q104244430",
+    "name": "Mercado Municipal do Carandá",
+    "cat": "marketplace",
+    "lon": -8.415615,
+    "lat": 41.546284
+  },
+  {
+    "wikiId": "Q104720747",
+    "name": "Mercado Municipal de Diamantina",
+    "cat": "marketplace",
+    "lon": -43.596486,
+    "lat": -18.243912
+  },
+  {
+    "wikiId": "Q104790854",
+    "name": "Mercado da Ribeira",
+    "cat": "marketplace",
+    "lon": -34.852681897,
+    "lat": -8.015726507
+  },
+  {
+    "wikiId": "Q104820323",
+    "name": "Tripoli Medina",
+    "cat": "marketplace",
+    "lon": 13.17518,
+    "lat": 32.89695
+  },
+  {
+    "wikiId": "Q105523364",
+    "name": "Q105523364",
+    "cat": "marketplace",
+    "lon": -53.376335,
+    "lat": -32.568417
+  },
+  {
+    "wikiId": "Q105691482",
+    "name": "Mercado Central de Abastos, Ceuta",
+    "cat": "marketplace",
+    "lon": -5.313113681,
+    "lat": 35.888317944
+  },
+  {
+    "wikiId": "Q105855152",
+    "name": "Q105855152",
+    "cat": "marketplace",
+    "lon": -8.621476,
+    "lat": 40.860502
+  },
+  {
+    "wikiId": "Q106163966",
+    "name": "Llotja de Peixcadors",
+    "cat": "marketplace",
+    "lon": -0.324556,
+    "lat": 39.461111
+  },
+  {
+    "wikiId": "Q106191898",
+    "name": "Covered Grand Bazaar of Urfa",
+    "cat": "marketplace",
+    "lon": 38.789229,
+    "lat": 37.148867
+  },
+  {
+    "wikiId": "Q106202324",
+    "name": "Campo de' Fiori street market",
+    "cat": "marketplace",
+    "lon": 12.472422718,
+    "lat": 41.895463123
+  },
+  {
+    "wikiId": "Q106306765",
+    "name": "Mercado Municipal de Castro Verde",
+    "cat": "marketplace",
+    "lon": -8.083907,
+    "lat": 37.699488
+  },
+  {
+    "wikiId": "Q106573883",
+    "name": "Mercado 1.º de Maio",
+    "cat": "marketplace",
+    "lon": -7.416467,
+    "lat": 37.194366
+  },
+  {
+    "wikiId": "Q106744934",
+    "name": "Market Square in Ząbkowice Śląskie",
+    "cat": "marketplace",
+    "lon": 17.005768,
+    "lat": 50.463677
+  },
+  {
+    "wikiId": "Q106881646",
+    "name": "Market Square in Strzelin",
+    "cat": "marketplace",
+    "lon": 17.071029,
+    "lat": 50.780769
+  },
+  {
+    "wikiId": "Q107011820",
+    "name": "Q107011820",
+    "cat": "marketplace",
+    "lon": 30.34162,
+    "lat": 53.92634
+  },
+  {
+    "wikiId": "Q107315716",
+    "name": "Sadovod",
+    "cat": "marketplace",
+    "lon": 37.831399,
+    "lat": 55.652676
+  },
+  {
+    "wikiId": "Q107511823",
+    "name": "Market Square in Brzeg",
+    "cat": "marketplace",
+    "lon": 17.470085,
+    "lat": 50.861595
+  },
+  {
+    "wikiId": "Q107528146",
+    "name": "Central Market of Pontevedra",
+    "cat": "marketplace",
+    "lon": -8.643638888,
+    "lat": 42.43425
+  },
+  {
+    "wikiId": "Q107612837",
+    "name": "Kumbasari Market",
+    "cat": "marketplace",
+    "lon": 115.211867415,
+    "lat": -8.656308935
+  },
+  {
+    "wikiId": "Q108327884",
+    "name": "Q108327884",
+    "cat": "marketplace",
+    "lon": 9.705455,
+    "lat": 45.159624
+  },
+  {
+    "wikiId": "Q108387442",
+    "name": "Market square in Kluczbork",
+    "cat": "marketplace",
+    "lon": 18.214009,
+    "lat": 50.97307
+  },
+  {
+    "wikiId": "Q108525555",
+    "name": "Mercado Municipal de Aljezur",
+    "cat": "marketplace",
+    "lon": -8.802761077,
+    "lat": 37.317077636
+  },
+  {
+    "wikiId": "Q108528445",
+    "name": "Fábrica da Resinagem",
+    "cat": "marketplace",
+    "lon": -8.932509,
+    "lat": 39.749227
+  },
+  {
+    "wikiId": "Q108590942",
+    "name": "Ouando Market",
+    "cat": "marketplace",
+    "lon": 2.611138888,
+    "lat": 6.506555555
+  },
+  {
+    "wikiId": "Q108764479",
+    "name": "Otaru triangle market",
+    "cat": "marketplace",
+    "lon": 140.993916666,
+    "lat": 43.199055555
+  },
+  {
+    "wikiId": "Q108809465",
+    "name": "La Placita de Santurce",
+    "cat": "marketplace",
+    "lon": -66.07062,
+    "lat": 18.45058
+  },
+  {
+    "wikiId": "Q109380444",
+    "name": "Q109380444",
+    "cat": "marketplace",
+    "lon": 30.99895,
+    "lat": 52.42558
+  },
+  {
+    "wikiId": "Q109522527",
+    "name": "Mercado Municipal de Laranjeiras",
+    "cat": "marketplace",
+    "lon": -37.16597555,
+    "lat": -10.803167264
+  },
+  {
+    "wikiId": "Q109746558",
+    "name": "Mercado Laguna de Catia",
+    "cat": "marketplace",
+    "lon": -66.9492728,
+    "lat": 10.5133382
+  },
+  {
+    "wikiId": "Q109746643",
+    "name": "Mercado Municipal de Catia",
+    "cat": "marketplace",
+    "lon": -66.9470429,
+    "lat": 10.5102862
+  },
+  {
+    "wikiId": "Q109927565",
+    "name": "Avenue Market",
+    "cat": "marketplace",
+    "lon": -76.6357,
+    "lat": 39.3037
+  },
+  {
+    "wikiId": "Q110133305",
+    "name": "Malakat Mall",
+    "cat": "marketplace",
+    "lon": 101.6499204,
+    "lat": 2.925554759
+  },
+  {
+    "wikiId": "Q110161034",
+    "name": "Q110161034",
+    "cat": "marketplace",
+    "lon": -8.485965,
+    "lat": 39.401597
+  },
+  {
+    "wikiId": "Q110267379",
+    "name": "Q110267379",
+    "cat": "marketplace",
+    "lon": 34.796762625,
+    "lat": 31.240433792
+  },
+  {
+    "wikiId": "Q110293290",
+    "name": "Rasuli Market",
+    "cat": "marketplace",
+    "lon": 60.878611111,
+    "lat": 29.49
+  },
+  {
+    "wikiId": "Q110294098",
+    "name": "Razzaqzadeh Market",
+    "cat": "marketplace",
+    "lon": 60.868611111,
+    "lat": 29.499333333
+  },
+  {
+    "wikiId": "Q110408557",
+    "name": "Q110408557",
+    "cat": "marketplace",
+    "lon": -6.137281459,
+    "lat": 36.678894033
+  },
+  {
+    "wikiId": "Q110699500",
+    "name": "Q110699500",
+    "cat": "marketplace",
+    "lon": 10.005341666,
+    "lat": 53.551347222
+  },
+  {
+    "wikiId": "Q110763921",
+    "name": "Faraday Market",
+    "cat": "marketplace",
+    "lon": 28.045401,
+    "lat": -26.211671
+  },
+  {
+    "wikiId": "Q110819596",
+    "name": "Ilasan Market",
+    "cat": "marketplace",
+    "lon": 3.506027777,
+    "lat": 6.434133333
+  },
+  {
+    "wikiId": "Q110824795",
+    "name": "Mercado de Montemor-o-Novo",
+    "cat": "marketplace",
+    "lon": -8.216316,
+    "lat": 38.64793
+  },
+  {
+    "wikiId": "Q110931661",
+    "name": "Mercado Modelo de Huancayo",
+    "cat": "marketplace",
+    "lon": -75.205518,
+    "lat": -12.072005
+  },
+  {
+    "wikiId": "Q110970359",
+    "name": "Chandni Chowk, Dhaka",
+    "cat": "marketplace",
+    "lon": 90.3848641,
+    "lat": 23.7340593
+  },
+  {
+    "wikiId": "Q111047853",
+    "name": "Iyanoba market",
+    "cat": "marketplace",
+    "lon": 3.2147752,
+    "lat": 6.4599995
+  },
+  {
+    "wikiId": "Q111081975",
+    "name": "Q111081975",
+    "cat": "marketplace",
+    "lon": -4.716935602,
+    "lat": 41.6446733
+  },
+  {
+    "wikiId": "Q111362327",
+    "name": "Narita-shi Sōgō Ryūtsū Center",
+    "cat": "marketplace",
+    "lon": 140.300555555,
+    "lat": 35.755555555
+  },
+  {
+    "wikiId": "Q111755697",
+    "name": "Sudbury Market",
+    "cat": "marketplace",
+    "lon": -80.996101379,
+    "lat": 46.469509124
+  },
+  {
+    "wikiId": "Q111756509",
+    "name": "Elm Place",
+    "cat": "marketplace",
+    "lon": -80.992675781,
+    "lat": 46.49318695
+  },
+  {
+    "wikiId": "Q111820010",
+    "name": "Q111820010",
+    "cat": "marketplace",
+    "lon": 5.042891502,
+    "lat": 43.824630737
+  },
+  {
+    "wikiId": "Q111923467",
+    "name": "Q111923467",
+    "cat": "marketplace",
+    "lon": -41.111664231,
+    "lat": -20.851443454
+  },
+  {
+    "wikiId": "Q111923469",
+    "name": "Q111923469",
+    "cat": "marketplace",
+    "lon": -44.95946,
+    "lat": -23.07529
+  },
+  {
+    "wikiId": "Q111923470",
+    "name": "Q111923470",
+    "cat": "marketplace",
+    "lon": -47.460378,
+    "lat": -23.498342
+  },
+  {
+    "wikiId": "Q111923471",
+    "name": "Q111923471",
+    "cat": "marketplace",
+    "lon": -44.450501736,
+    "lat": -22.468888683
+  },
+  {
+    "wikiId": "Q111923472",
+    "name": "Q111923472",
+    "cat": "marketplace",
+    "lon": -41.120617254,
+    "lat": -20.847155798
+  },
+  {
+    "wikiId": "Q112031455",
+    "name": "Q112031455",
+    "cat": "marketplace",
+    "lon": -8.666219,
+    "lat": 37.714658
+  },
+  {
+    "wikiId": "Q112040368",
+    "name": "Q112040368",
+    "cat": "marketplace",
+    "lon": -8.639787673,
+    "lat": 37.59651947
+  },
+  {
+    "wikiId": "Q112087338",
+    "name": "Q112087338",
+    "cat": "marketplace",
+    "lon": 17.1114,
+    "lat": 48.1447
+  },
+  {
+    "wikiId": "Q112106508",
+    "name": "Q112106508",
+    "cat": "marketplace",
+    "lon": 18.739897,
+    "lat": 49.221732
+  },
+  {
+    "wikiId": "Q112117516",
+    "name": "Maeklong Railway Market",
+    "cat": "marketplace",
+    "lon": 100.00046,
+    "lat": 13.4076
+  },
+  {
+    "wikiId": "Q112142909",
+    "name": "Q112142909",
+    "cat": "marketplace",
+    "lon": 10.79899,
+    "lat": 45.161191
+  },
+  {
+    "wikiId": "Q112259750",
+    "name": "Mercado de Artesanato Thales Ferraz",
+    "cat": "marketplace",
+    "lon": -37.04882975,
+    "lat": -10.906551609
+  },
+  {
+    "wikiId": "Q112318631",
+    "name": "Q112318631",
+    "cat": "marketplace",
+    "lon": 9.281974,
+    "lat": 45.576212
+  },
+  {
+    "wikiId": "Q112336483",
+    "name": "Sadelmakerhullet",
+    "cat": "marketplace",
+    "lon": 10.74835,
+    "lat": 59.9084
+  },
+  {
+    "wikiId": "Q112663484",
+    "name": "Q112663484",
+    "cat": "marketplace",
+    "lon": -4.723544742,
+    "lat": 41.648016493
+  },
+  {
+    "wikiId": "Q113412747",
+    "name": "Mercat de l'Abaceria Central",
+    "cat": "marketplace",
+    "lon": 2.159414291,
+    "lat": 41.402058676
+  },
+  {
+    "wikiId": "Q113492994",
+    "name": "Plastic Wares Market, Onitsha",
+    "cat": "marketplace",
+    "lon": 6.781068,
+    "lat": 6.124489
+  },
+  {
+    "wikiId": "Q113573594",
+    "name": "Q113573594",
+    "cat": "marketplace",
+    "lon": -5.6611,
+    "lat": 40.9712
+  },
+  {
+    "wikiId": "Q113731149",
+    "name": "Situn Market",
+    "cat": "marketplace",
+    "lon": 120.639383,
+    "lat": 24.179925
+  },
+  {
+    "wikiId": "Q113780488",
+    "name": "Torreblanca Municipal Market",
+    "cat": "marketplace",
+    "lon": 2.090338,
+    "lat": 41.4709
+  },
+  {
+    "wikiId": "Q113956346",
+    "name": "Meena Bazar, Old Delhi",
+    "cat": "marketplace",
+    "lon": 77.237916666,
+    "lat": 28.650944444
+  }
+]

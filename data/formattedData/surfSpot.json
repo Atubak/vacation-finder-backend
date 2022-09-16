@@ -1,0 +1,128 @@
+[
+  {
+    "wikiId": "Q205081",
+    "name": "El Médano",
+    "cat": "surfSpot",
+    "lon": -16.537190871,
+    "lat": 28.045677395
+  },
+  {
+    "wikiId": "Q497179",
+    "name": "Nazaré",
+    "cat": "surfSpot",
+    "lon": -9.066666666,
+    "lat": 39.6
+  },
+  {
+    "wikiId": "Q837211",
+    "name": "Scheveningen",
+    "cat": "surfSpot",
+    "lon": 4.27306,
+    "lat": 52.10806
+  },
+  {
+    "wikiId": "Q990992",
+    "name": "Brouwersdam",
+    "cat": "surfSpot",
+    "lon": 3.86,
+    "lat": 51.766667
+  },
+  {
+    "wikiId": "Q1627108",
+    "name": "Mavericks",
+    "cat": "surfSpot",
+    "lon": -122.469922,
+    "lat": 37.485211
+  },
+  {
+    "wikiId": "Q1632226",
+    "name": "Ho‘okipa",
+    "cat": "surfSpot",
+    "lon": -156.358,
+    "lat": 20.9332
+  },
+  {
+    "wikiId": "Q1684289",
+    "name": "Jaws",
+    "cat": "surfSpot",
+    "lon": -156.260833333,
+    "lat": 20.938611111
+  },
+  {
+    "wikiId": "Q2107562",
+    "name": "Guincho Beach",
+    "cat": "surfSpot",
+    "lon": -9.472696,
+    "lat": 38.733149
+  },
+  {
+    "wikiId": "Q2735557",
+    "name": "Banzai Pipeline",
+    "cat": "surfSpot",
+    "lon": -158.054,
+    "lat": 21.664
+  },
+  {
+    "wikiId": "Q2879702",
+    "name": "Q2879702",
+    "cat": "surfSpot",
+    "lon": 55.276337,
+    "lat": -21.171446
+  },
+  {
+    "wikiId": "Q3050481",
+    "name": "Elbow Ledge",
+    "cat": "surfSpot",
+    "lon": -71.259166666,
+    "lat": 41.463888888
+  },
+  {
+    "wikiId": "Q3116644",
+    "name": "Q3116644",
+    "cat": "surfSpot",
+    "lon": -1.5404,
+    "lat": 46.2017
+  },
+  {
+    "wikiId": "Q3393714",
+    "name": "Pointe du Diable",
+    "cat": "surfSpot",
+    "lon": 55.4508,
+    "lat": -21.3311
+  },
+  {
+    "wikiId": "Q3990974",
+    "name": "Thurso East",
+    "cat": "surfSpot",
+    "lon": -3.51028,
+    "lat": 58.5992
+  },
+  {
+    "wikiId": "Q7774093",
+    "name": "The Wedge",
+    "cat": "surfSpot",
+    "lon": -117.882,
+    "lat": 33.5925
+  },
+  {
+    "wikiId": "Q7776266",
+    "name": "The Wreck",
+    "cat": "surfSpot",
+    "lon": 153.610378,
+    "lat": -28.637086
+  },
+  {
+    "wikiId": "Q18214636",
+    "name": "Q18214636",
+    "cat": "surfSpot",
+    "lon": -158.0659676,
+    "lat": 21.6409943
+  },
+  {
+    "wikiId": "Q23892826",
+    "name": "Q23892826",
+    "cat": "surfSpot",
+    "lon": -118.42507,
+    "lat": 33.77002
+  }
+]

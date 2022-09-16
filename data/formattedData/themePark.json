@@ -1,0 +1,1220 @@
+[
+  {
+    "wikiId": "Q181185",
+    "name": "Disneyland",
+    "cat": "themePark",
+    "lon": -117.919,
+    "lat": 33.809
+  },
+  {
+    "wikiId": "Q443909",
+    "name": "Alton Towers Resort",
+    "cat": "themePark",
+    "lon": -1.8925,
+    "lat": 52.990555555
+  },
+  {
+    "wikiId": "Q505518",
+    "name": "Sea World",
+    "cat": "themePark",
+    "lon": 153.4257,
+    "lat": -27.9559
+  },
+  {
+    "wikiId": "Q575499",
+    "name": "Mother Farm",
+    "cat": "themePark",
+    "lon": 139.934833333,
+    "lat": 35.246027777
+  },
+  {
+    "wikiId": "Q605959",
+    "name": "Hong Kong Disneyland",
+    "cat": "themePark",
+    "lon": 114.043333333,
+    "lat": 22.313333333
+  },
+  {
+    "wikiId": "Q614631",
+    "name": "Hard Rock Entertainment World",
+    "cat": "themePark",
+    "lon": 1.151389,
+    "lat": 41.084722
+  },
+  {
+    "wikiId": "Q632646",
+    "name": "Archeon",
+    "cat": "themePark",
+    "lon": 4.649167,
+    "lat": 52.115
+  },
+  {
+    "wikiId": "Q648935",
+    "name": "Oasys MiniHollywood",
+    "cat": "themePark",
+    "lon": -2.432244,
+    "lat": 37.020382
+  },
+  {
+    "wikiId": "Q673656",
+    "name": "Ferrari World Abu Dhabi",
+    "cat": "themePark",
+    "lon": 54.60704,
+    "lat": 24.48366
+  },
+  {
+    "wikiId": "Q689585",
+    "name": "Gatorland",
+    "cat": "themePark",
+    "lon": -81.4042,
+    "lat": 28.3556
+  },
+  {
+    "wikiId": "Q735257",
+    "name": "Terra Mítica",
+    "cat": "themePark",
+    "lon": -0.158889,
+    "lat": 38.560278
+  },
+  {
+    "wikiId": "Q750684",
+    "name": "Astrid Lindgren's World",
+    "cat": "themePark",
+    "lon": 15.843611111,
+    "lat": 57.674444444
+  },
+  {
+    "wikiId": "Q764906",
+    "name": "Walt Disney Studios Park",
+    "cat": "themePark",
+    "lon": 2.779008333,
+    "lat": 48.8673
+  },
+  {
+    "wikiId": "Q781609",
+    "name": "The Warner Bros",
+    "cat": "themePark",
+    "lon": -3.59429419,
+    "lat": 40.23170824
+  },
+  {
+    "wikiId": "Q811990",
+    "name": "Bavaria Filmstadt",
+    "cat": "themePark",
+    "lon": 11.55399942,
+    "lat": 48.06537208
+  },
+  {
+    "wikiId": "Q843997",
+    "name": "Tokyo Disneyland",
+    "cat": "themePark",
+    "lon": 139.880555555,
+    "lat": 35.632777777
+  },
+  {
+    "wikiId": "Q865312",
+    "name": "Shanghai Disneyland Park",
+    "cat": "themePark",
+    "lon": 121.657,
+    "lat": 31.144
+  },
+  {
+    "wikiId": "Q874796",
+    "name": "Serengeti Park",
+    "cat": "themePark",
+    "lon": 9.61667,
+    "lat": 52.7456
+  },
+  {
+    "wikiId": "Q935388",
+    "name": "Ontario Place",
+    "cat": "themePark",
+    "lon": -79.415048,
+    "lat": 43.628993
+  },
+  {
+    "wikiId": "Q971808",
+    "name": "Plopsa Indoor Hasselt",
+    "cat": "themePark",
+    "lon": 5.361667,
+    "lat": 50.934167
+  },
+  {
+    "wikiId": "Q1018484",
+    "name": "Haw Par Villa",
+    "cat": "themePark",
+    "lon": 103.782,
+    "lat": 1.28426
+  },
+  {
+    "wikiId": "Q1052042",
+    "name": "Epcot",
+    "cat": "themePark",
+    "lon": -81.55,
+    "lat": 28.371
+  },
+  {
+    "wikiId": "Q1094325",
+    "name": "City of Space",
+    "cat": "themePark",
+    "lon": 1.49327778,
+    "lat": 43.58691667
+  },
+  {
+    "wikiId": "Q1202341",
+    "name": "Tokyo DisneySea",
+    "cat": "themePark",
+    "lon": 139.888056,
+    "lat": 35.626667
+  },
+  {
+    "wikiId": "Q1229098",
+    "name": "Disney California Adventure",
+    "cat": "themePark",
+    "lon": -117.919167,
+    "lat": 33.807778
+  },
+  {
+    "wikiId": "Q1324340",
+    "name": "Magic Kingdom",
+    "cat": "themePark",
+    "lon": -81.581111111,
+    "lat": 28.418611111
+  },
+  {
+    "wikiId": "Q1337576",
+    "name": "Universal Studios Hollywood",
+    "cat": "themePark",
+    "lon": -118.3539,
+    "lat": 34.13585556
+  },
+  {
+    "wikiId": "Q1345090",
+    "name": "Disney's Hollywood Studios",
+    "cat": "themePark",
+    "lon": -81.558889,
+    "lat": 28.358333
+  },
+  {
+    "wikiId": "Q1395270",
+    "name": "Familienpark Sottrum",
+    "cat": "themePark",
+    "lon": 10.1333,
+    "lat": 52.0714
+  },
+  {
+    "wikiId": "Q1414854",
+    "name": "Plopsaland",
+    "cat": "themePark",
+    "lon": 2.596944,
+    "lat": 51.079722
+  },
+  {
+    "wikiId": "Q1475214",
+    "name": "Vulcania",
+    "cat": "themePark",
+    "lon": 2.94027778,
+    "lat": 45.81361111
+  },
+  {
+    "wikiId": "Q1475660",
+    "name": "Futuroscope",
+    "cat": "themePark",
+    "lon": 0.368888888,
+    "lat": 46.669166666
+  },
+  {
+    "wikiId": "Q1553178",
+    "name": "Historiecenter Dybbøl Banke",
+    "cat": "themePark",
+    "lon": 9.75444444,
+    "lat": 54.90666667
+  },
+  {
+    "wikiId": "Q1568767",
+    "name": "Kryal Castle",
+    "cat": "themePark",
+    "lon": 143.956,
+    "lat": -37.5719
+  },
+  {
+    "wikiId": "Q1616861",
+    "name": "Witches' Water",
+    "cat": "themePark",
+    "lon": 12.1975,
+    "lat": 47.480555555
+  },
+  {
+    "wikiId": "Q1625335",
+    "name": "Holy Land Experience",
+    "cat": "themePark",
+    "lon": -81.43315,
+    "lat": 28.49593
+  },
+  {
+    "wikiId": "Q1880820",
+    "name": "Universal Studios Florida",
+    "cat": "themePark",
+    "lon": -81.467,
+    "lat": 28.4752
+  },
+  {
+    "wikiId": "Q2265232",
+    "name": "Flevohof",
+    "cat": "themePark",
+    "lon": 5.7625,
+    "lat": 52.44
+  },
+  {
+    "wikiId": "Q2313567",
+    "name": "Disneyland Park",
+    "cat": "themePark",
+    "lon": 2.776747,
+    "lat": 48.872608
+  },
+  {
+    "wikiId": "Q2403850",
+    "name": "Six Flags Over Georgia",
+    "cat": "themePark",
+    "lon": -84.5507,
+    "lat": 33.7679
+  },
+  {
+    "wikiId": "Q2583112",
+    "name": "Universal's Islands of Adventure",
+    "cat": "themePark",
+    "lon": -81.47138889,
+    "lat": 28.47166667
+  },
+  {
+    "wikiId": "Q2669590",
+    "name": "Portugal dos Pequenitos",
+    "cat": "themePark",
+    "lon": -8.4344,
+    "lat": 40.2023
+  },
+  {
+    "wikiId": "Q2677140",
+    "name": "Boudewijn Seapark",
+    "cat": "themePark",
+    "lon": 3.21222222,
+    "lat": 51.18333333
+  },
+  {
+    "wikiId": "Q2742709",
+    "name": "Cinderella Castle",
+    "cat": "themePark",
+    "lon": -81.5812,
+    "lat": 28.4195
+  },
+  {
+    "wikiId": "Q2743662",
+    "name": "Artificial Lake Castle",
+    "cat": "themePark",
+    "lon": 106.92083333,
+    "lat": 47.90916667
+  },
+  {
+    "wikiId": "Q2961111",
+    "name": "Isla Mágica",
+    "cat": "themePark",
+    "lon": -6.00028,
+    "lat": 37.40833
+  },
+  {
+    "wikiId": "Q2974764",
+    "name": "Cité de la Mer",
+    "cat": "themePark",
+    "lon": -1.6174,
+    "lat": 49.6468
+  },
+  {
+    "wikiId": "Q2998295",
+    "name": "Berjaya Times Square Theme Park",
+    "cat": "themePark",
+    "lon": 101.71055556,
+    "lat": 3.14222222
+  },
+  {
+    "wikiId": "Q3038760",
+    "name": "Hopi Hari",
+    "cat": "themePark",
+    "lon": -47.01074722,
+    "lat": -23.09693889
+  },
+  {
+    "wikiId": "Q3039179",
+    "name": "Drayton Manor Theme Park",
+    "cat": "themePark",
+    "lon": -1.71333,
+    "lat": 52.6108
+  },
+  {
+    "wikiId": "Q3046447",
+    "name": "Earth Explorer",
+    "cat": "themePark",
+    "lon": 2.93874,
+    "lat": 51.2378
+  },
+  {
+    "wikiId": "Q3229105",
+    "name": "Legoland Malaysia",
+    "cat": "themePark",
+    "lon": 103.62722222,
+    "lat": 1.425
+  },
+  {
+    "wikiId": "Q3244003",
+    "name": "Kidzania Jakarta",
+    "cat": "themePark",
+    "lon": 106.8099,
+    "lat": -6.2248
+  },
+  {
+    "wikiId": "Q3274095",
+    "name": "Macau Fisherman's Wharf",
+    "cat": "themePark",
+    "lon": 113.55660833,
+    "lat": 22.19145278
+  },
+  {
+    "wikiId": "Q3305037",
+    "name": "Meli Park",
+    "cat": "themePark",
+    "lon": 2.601592,
+    "lat": 51.081353
+  },
+  {
+    "wikiId": "Q3363928",
+    "name": "Upper Clements Parks",
+    "cat": "themePark",
+    "lon": -65.569,
+    "lat": 44.7029
+  },
+  {
+    "wikiId": "Q3364646",
+    "name": "Parc océanique Cousteau",
+    "cat": "themePark",
+    "lon": 2.34343,
+    "lat": 48.8629
+  },
+  {
+    "wikiId": "Q3372842",
+    "name": "Paultons Park",
+    "cat": "themePark",
+    "lon": -1.55236,
+    "lat": 50.9489
+  },
+  {
+    "wikiId": "Q3389163",
+    "name": "Pirenarium",
+    "cat": "themePark",
+    "lon": -0.355916666,
+    "lat": 42.506222222
+  },
+  {
+    "wikiId": "Q3391618",
+    "name": "Planète magique",
+    "cat": "themePark",
+    "lon": 2.35349,
+    "lat": 48.8666
+  },
+  {
+    "wikiId": "Q3400200",
+    "name": "Mamajeva Sloboda",
+    "cat": "themePark",
+    "lon": 30.42866,
+    "lat": 50.43509
+  },
+  {
+    "wikiId": "Q3411109",
+    "name": "Puy du Fou",
+    "cat": "themePark",
+    "lon": -0.931944444,
+    "lat": 46.893333333
+  },
+  {
+    "wikiId": "Q3503999",
+    "name": "Sunway Lagoon",
+    "cat": "themePark",
+    "lon": 101.607,
+    "lat": 3.06921
+  },
+  {
+    "wikiId": "Q3518517",
+    "name": "Terra Botanica",
+    "cat": "themePark",
+    "lon": -0.57,
+    "lat": 47.5011
+  },
+  {
+    "wikiId": "Q3519342",
+    "name": "Texas Hollywood",
+    "cat": "themePark",
+    "lon": -2.42127,
+    "lat": 37.0487
+  },
+  {
+    "wikiId": "Q3570845",
+    "name": "Xcaret",
+    "cat": "themePark",
+    "lon": -87.11916667,
+    "lat": 20.57805556
+  },
+  {
+    "wikiId": "Q3570941",
+    "name": "Xetulul",
+    "cat": "themePark",
+    "lon": -91.611632,
+    "lat": 14.594813
+  },
+  {
+    "wikiId": "Q3571276",
+    "name": "Dinópolis",
+    "cat": "themePark",
+    "lon": -1.080531,
+    "lat": 40.332919
+  },
+  {
+    "wikiId": "Q3823473",
+    "name": "Republic of the Children",
+    "cat": "themePark",
+    "lon": -58.021361,
+    "lat": -34.887917
+  },
+  {
+    "wikiId": "Q4683250",
+    "name": "Imagicaa",
+    "cat": "themePark",
+    "lon": 73.280697,
+    "lat": 18.767075
+  },
+  {
+    "wikiId": "Q4824804",
+    "name": "Australian Wildlife Experience",
+    "cat": "themePark",
+    "lon": 153.318,
+    "lat": -27.8617
+  },
+  {
+    "wikiId": "Q4879400",
+    "name": "Bedrock City",
+    "cat": "themePark",
+    "lon": -103.614,
+    "lat": 43.7613
+  },
+  {
+    "wikiId": "Q4899748",
+    "name": "BeWILDerwood",
+    "cat": "themePark",
+    "lon": 1.4492,
+    "lat": 52.7111
+  },
+  {
+    "wikiId": "Q5183338",
+    "name": "Crealy Theme Park & Resort",
+    "cat": "themePark",
+    "lon": -3.41608025,
+    "lat": 50.705555941
+  },
+  {
+    "wikiId": "Q5278703",
+    "name": "Dinotown",
+    "cat": "themePark",
+    "lon": -121.97322,
+    "lat": 49.07419
+  },
+  {
+    "wikiId": "Q5774785",
+    "name": "History Village",
+    "cat": "themePark",
+    "lon": 141.987986,
+    "lat": 43.067264
+  },
+  {
+    "wikiId": "Q5885706",
+    "name": "Holy Land USA",
+    "cat": "themePark",
+    "lon": -73.03,
+    "lat": 41.547
+  },
+  {
+    "wikiId": "Q6062468",
+    "name": "Q6062468",
+    "cat": "themePark",
+    "lon": -73.10349,
+    "lat": -40.57307
+  },
+  {
+    "wikiId": "Q6124433",
+    "name": "Q6124433",
+    "cat": "themePark",
+    "lon": -5.085613,
+    "lat": 36.462557
+  },
+  {
+    "wikiId": "Q6583260",
+    "name": "Farm Chokchai",
+    "cat": "themePark",
+    "lon": 101.350296944,
+    "lat": 14.652946944
+  },
+  {
+    "wikiId": "Q6774786",
+    "name": "Niagara Amusement Park and Splash World",
+    "cat": "themePark",
+    "lon": -78.9707,
+    "lat": 43.027
+  },
+  {
+    "wikiId": "Q7135338",
+    "name": "London Paramount",
+    "cat": "themePark",
+    "lon": 0.311745,
+    "lat": 51.4618
+  },
+  {
+    "wikiId": "Q7801123",
+    "name": "Tierra Santa",
+    "cat": "themePark",
+    "lon": -58.4325,
+    "lat": -34.5472
+  },
+  {
+    "wikiId": "Q7857535",
+    "name": "Tweetsie Railroad",
+    "cat": "themePark",
+    "lon": -81.649,
+    "lat": 36.1709
+  },
+  {
+    "wikiId": "Q10345199",
+    "name": "Q10345199",
+    "cat": "themePark",
+    "lon": -7.69798333,
+    "lat": 37.39903889
+  },
+  {
+    "wikiId": "Q10345378",
+    "name": "Parque Temático da Madeira",
+    "cat": "themePark",
+    "lon": -16.8855,
+    "lat": 32.80263
+  },
+  {
+    "wikiId": "Q10699808",
+    "name": "Santaworld",
+    "cat": "themePark",
+    "lon": 14.51777778,
+    "lat": 60.87944444
+  },
+  {
+    "wikiId": "Q10891944",
+    "name": "Formosa Fun Coast",
+    "cat": "themePark",
+    "lon": 121.39027778,
+    "lat": 25.14472222
+  },
+  {
+    "wikiId": "Q108908742",
+    "name": "Magic Land Abuja",
+    "cat": "themePark",
+    "lon": 7.452256,
+    "lat": 9.043226
+  },
+  {
+    "wikiId": "Q109348922",
+    "name": "Bogatyrskaya Sloboda",
+    "cat": "themePark",
+    "lon": 49.246638,
+    "lat": 53.338419
+  },
+  {
+    "wikiId": "Q109366865",
+    "name": "Fantasy Land",
+    "cat": "themePark",
+    "lon": 3.432697,
+    "lat": 6.458588
+  },
+  {
+    "wikiId": "Q109379007",
+    "name": "Angle Court",
+    "cat": "themePark",
+    "lon": 3.4268492,
+    "lat": 6.4563976
+  },
+  {
+    "wikiId": "Q110889012",
+    "name": "Deutscher Märchenwald Altenberg",
+    "cat": "themePark",
+    "lon": 7.132258,
+    "lat": 51.059659
+  },
+  {
+    "wikiId": "Q111961812",
+    "name": "Genting Outdoor Theme Park",
+    "cat": "themePark",
+    "lon": 101.795666694,
+    "lat": 3.422611111
+  },
+  {
+    "wikiId": "Q112977126",
+    "name": "Iztapasauria",
+    "cat": "themePark",
+    "lon": -99.048055555,
+    "lat": 19.344166666
+  },
+  {
+    "wikiId": "Q10958042",
+    "name": "Little Ding-Dong Science Park",
+    "cat": "themePark",
+    "lon": 120.97972222,
+    "lat": 24.86916667
+  },
+  {
+    "wikiId": "Q10968241",
+    "name": "Noah's Ark (Hong Kong)",
+    "cat": "themePark",
+    "lon": 114.06155556,
+    "lat": 22.34819444
+  },
+  {
+    "wikiId": "Q11234463",
+    "name": "NASPA Cosmos Garden",
+    "cat": "themePark",
+    "lon": 138.813228,
+    "lat": 36.927717
+  },
+  {
+    "wikiId": "Q11235188",
+    "name": "Country Farm Tokyo German Village",
+    "cat": "themePark",
+    "lon": 140.059444,
+    "lat": 35.405556
+  },
+  {
+    "wikiId": "Q11246213",
+    "name": "Bucheon Fantastic Studio",
+    "cat": "themePark",
+    "lon": 126.744056,
+    "lat": 37.508028
+  },
+  {
+    "wikiId": "Q11259876",
+    "name": "Q11259876",
+    "cat": "themePark",
+    "lon": 139.63055556,
+    "lat": 35.61055556
+  },
+  {
+    "wikiId": "Q11260956",
+    "name": "Ecorin Mura",
+    "cat": "themePark",
+    "lon": 141.547222222,
+    "lat": 42.872222222
+  },
+  {
+    "wikiId": "Q11261002",
+    "name": "Ehime Children's Castle",
+    "cat": "themePark",
+    "lon": 132.797611,
+    "lat": 33.761917
+  },
+  {
+    "wikiId": "Q11294440",
+    "name": "Canadian World Park",
+    "cat": "themePark",
+    "lon": 142.239222222,
+    "lat": 43.566111111
+  },
+  {
+    "wikiId": "Q11317948",
+    "name": "Q11317948",
+    "cat": "themePark",
+    "lon": 132.292472222,
+    "lat": 34.308222222
+  },
+  {
+    "wikiId": "Q11322179",
+    "name": "Torokko Okoku Bifuka",
+    "cat": "themePark",
+    "lon": 142.569833,
+    "lat": 44.5475
+  },
+  {
+    "wikiId": "Q11339218",
+    "name": "Q11339218",
+    "cat": "themePark",
+    "lon": 140.269694,
+    "lat": 35.940417
+  },
+  {
+    "wikiId": "Q11652324",
+    "name": "Nagasaki Holland Village",
+    "cat": "themePark",
+    "lon": 129.757467,
+    "lat": 32.997006
+  },
+  {
+    "wikiId": "Q11729462",
+    "name": "JuraPark Solec Kujawski",
+    "cat": "themePark",
+    "lon": 18.23231,
+    "lat": 53.08054
+  },
+  {
+    "wikiId": "Q12606754",
+    "name": "Ecoland",
+    "cat": "themePark",
+    "lon": 126.667617,
+    "lat": 33.447126
+  },
+  {
+    "wikiId": "Q15925112",
+    "name": "Window of the World",
+    "cat": "themePark",
+    "lon": 113.055,
+    "lat": 28.2389
+  },
+  {
+    "wikiId": "Q16410543",
+    "name": "Q16410543",
+    "cat": "themePark",
+    "lon": 26.585849,
+    "lat": 57.941817
+  },
+  {
+    "wikiId": "Q16668891",
+    "name": "Parc Chlorophylle",
+    "cat": "themePark",
+    "lon": 5.59777,
+    "lat": 50.2409
+  },
+  {
+    "wikiId": "Q16668916",
+    "name": "Parc du Bocasse",
+    "cat": "themePark",
+    "lon": 1.079,
+    "lat": 49.6018
+  },
+  {
+    "wikiId": "Q16833479",
+    "name": "Parc du Petit Prince",
+    "cat": "themePark",
+    "lon": 7.296944444,
+    "lat": 47.860833333
+  },
+  {
+    "wikiId": "Q16879645",
+    "name": "West Lake Resortopia",
+    "cat": "themePark",
+    "lon": 120.759,
+    "lat": 24.3908
+  },
+  {
+    "wikiId": "Q17058506",
+    "name": "Genting SkyWorlds Theme Park",
+    "cat": "themePark",
+    "lon": 101.795666666,
+    "lat": 3.422611111
+  },
+  {
+    "wikiId": "Q17624538",
+    "name": "Mudéjar theme park",
+    "cat": "themePark",
+    "lon": -4.681569,
+    "lat": 41.290138
+  },
+  {
+    "wikiId": "Q17636364",
+    "name": "Q17636364",
+    "cat": "themePark",
+    "lon": -2.31389,
+    "lat": 47.7006
+  },
+  {
+    "wikiId": "Q17995372",
+    "name": "Q17995372",
+    "cat": "themePark",
+    "lon": 140.887444,
+    "lat": 38.264278
+  },
+  {
+    "wikiId": "Q18206594",
+    "name": "IMG Worlds of Adventure",
+    "cat": "themePark",
+    "lon": 55.318055555,
+    "lat": 25.083055555
+  },
+  {
+    "wikiId": "Q18233530",
+    "name": "Universal Studios Beijing",
+    "cat": "themePark",
+    "lon": 116.67886,
+    "lat": 39.85632
+  },
+  {
+    "wikiId": "Q18629465",
+    "name": "Q18629465",
+    "cat": "themePark",
+    "lon": 11.79951,
+    "lat": 48.16997
+  },
+  {
+    "wikiId": "Q19878135",
+    "name": "Everglades Holiday Park",
+    "cat": "themePark",
+    "lon": -80.445,
+    "lat": 26.06
+  },
+  {
+    "wikiId": "Q19891598",
+    "name": "Gobindgarh Fort",
+    "cat": "themePark",
+    "lon": 74.86,
+    "lat": 31.6269
+  },
+  {
+    "wikiId": "Q19974049",
+    "name": "Q19974049",
+    "cat": "themePark",
+    "lon": 4.162188,
+    "lat": 52.019447
+  },
+  {
+    "wikiId": "Q20477030",
+    "name": "Wonderland Eurasia",
+    "cat": "themePark",
+    "lon": 32.783611111,
+    "lat": 39.943055555
+  },
+  {
+    "wikiId": "Q21653491",
+    "name": "Q21653491",
+    "cat": "themePark",
+    "lon": 137.238944444,
+    "lat": 34.814694444
+  },
+  {
+    "wikiId": "Q21654949",
+    "name": "Metsä",
+    "cat": "themePark",
+    "lon": 139.329333333,
+    "lat": 35.8725
+  },
+  {
+    "wikiId": "Q22117790",
+    "name": "Sippo Art Village",
+    "cat": "themePark",
+    "lon": 136.799253,
+    "lat": 35.183669
+  },
+  {
+    "wikiId": "Q24019021",
+    "name": "Sioux City Park",
+    "cat": "themePark",
+    "lon": -15.53487,
+    "lat": 27.78621
+  },
+  {
+    "wikiId": "Q24836146",
+    "name": "Shang Shun Mall",
+    "cat": "themePark",
+    "lon": 120.905842417,
+    "lat": 24.689975816
+  },
+  {
+    "wikiId": "Q24908667",
+    "name": "Ark Encounter",
+    "cat": "themePark",
+    "lon": -84.592280555,
+    "lat": 38.622238888
+  },
+  {
+    "wikiId": "Q26721245",
+    "name": "Baekje Cultural Land",
+    "cat": "themePark",
+    "lon": 126.9066,
+    "lat": 36.3069
+  },
+  {
+    "wikiId": "Q27016919",
+    "name": "Q27016919",
+    "cat": "themePark",
+    "lon": 136.899778,
+    "lat": 34.748028
+  },
+  {
+    "wikiId": "Q28531358",
+    "name": "Tokyo One Piece Tower",
+    "cat": "themePark",
+    "lon": 139.745555555,
+    "lat": 35.658611111
+  },
+  {
+    "wikiId": "Q28693211",
+    "name": "Q28693211",
+    "cat": "themePark",
+    "lon": 139.063416666,
+    "lat": 36.675833333
+  },
+  {
+    "wikiId": "Q30576578",
+    "name": "Tokachi Hills",
+    "cat": "themePark",
+    "lon": 143.243333333,
+    "lat": 42.863333333
+  },
+  {
+    "wikiId": "Q41781250",
+    "name": "Dinoland Zwolle",
+    "cat": "themePark",
+    "lon": 6.0744558,
+    "lat": 52.5047598
+  },
+  {
+    "wikiId": "Q51882881",
+    "name": "Parque dos Dinossauros da Lourinhã",
+    "cat": "themePark",
+    "lon": -9.293051719,
+    "lat": 39.278495788
+  },
+  {
+    "wikiId": "Q54872003",
+    "name": "Al-Qiddiya",
+    "cat": "themePark",
+    "lon": 46.28327,
+    "lat": 24.570208
+  },
+  {
+    "wikiId": "Q55627450",
+    "name": "Old Nayong Pilipino",
+    "cat": "themePark",
+    "lon": 121.008333333,
+    "lat": 14.514444444
+  },
+  {
+    "wikiId": "Q56349920",
+    "name": "Nasu Alpaca Farm",
+    "cat": "themePark",
+    "lon": 140.05555,
+    "lat": 37.12285
+  },
+  {
+    "wikiId": "Q56357681",
+    "name": "Kids play park Kazka",
+    "cat": "themePark",
+    "lon": 31.9851907,
+    "lat": 46.9645943
+  },
+  {
+    "wikiId": "Q56849085",
+    "name": "Plopsa Station Antwerp",
+    "cat": "themePark",
+    "lon": 4.421533,
+    "lat": 51.213372
+  },
+  {
+    "wikiId": "Q56963453",
+    "name": "SHIROI KOIBITO PARK",
+    "cat": "themePark",
+    "lon": 141.271666666,
+    "lat": 43.088611111
+  },
+  {
+    "wikiId": "Q60848847",
+    "name": "Evermore Park",
+    "cat": "themePark",
+    "lon": -111.766,
+    "lat": 40.359
+  },
+  {
+    "wikiId": "Q61366790",
+    "name": "Donhu Jurassic Garden",
+    "cat": "themePark",
+    "lon": 102.567722222,
+    "lat": 2.080194444
+  },
+  {
+    "wikiId": "Q63883313",
+    "name": "Puy du Fou España",
+    "cat": "themePark",
+    "lon": -4.0925199,
+    "lat": 39.8351547
+  },
+  {
+    "wikiId": "Q65239469",
+    "name": "The Hirosawa City",
+    "cat": "themePark",
+    "lon": 140.019566666,
+    "lat": 36.293541666
+  },
+  {
+    "wikiId": "Q65243130",
+    "name": "Q65243130",
+    "cat": "themePark",
+    "lon": 129.973777777,
+    "lat": 33.131111111
+  },
+  {
+    "wikiId": "Q65249640",
+    "name": "Q65249640",
+    "cat": "themePark",
+    "lon": 135.863166666,
+    "lat": 34.492583333
+  },
+  {
+    "wikiId": "Q65268183",
+    "name": "Q65268183",
+    "cat": "themePark",
+    "lon": 134.459694,
+    "lat": 33.893
+  },
+  {
+    "wikiId": "Q66085108",
+    "name": "Universal's Epic Universe",
+    "cat": "themePark",
+    "lon": -81.449166666,
+    "lat": 28.442222222
+  },
+  {
+    "wikiId": "Q68593755",
+    "name": "Q68593755",
+    "cat": "themePark",
+    "lon": 137.916666666,
+    "lat": 36.322305555
+  },
+  {
+    "wikiId": "Q70078592",
+    "name": "Ichikura farm",
+    "cat": "themePark",
+    "lon": 133.183805555,
+    "lat": 33.881888888
+  },
+  {
+    "wikiId": "Q72515975",
+    "name": "Q72515975",
+    "cat": "themePark",
+    "lon": 139.014777777,
+    "lat": 35.10325
+  },
+  {
+    "wikiId": "Q80668281",
+    "name": "Q80668281",
+    "cat": "themePark",
+    "lon": 132.567972222,
+    "lat": 33.530138888
+  },
+  {
+    "wikiId": "Q83199736",
+    "name": "Q83199736",
+    "cat": "themePark",
+    "lon": 133.21075,
+    "lat": 33.940527777
+  },
+  {
+    "wikiId": "Q85976248",
+    "name": "Shahre Gheseh Theme Park",
+    "cat": "themePark",
+    "lon": 51.18251,
+    "lat": 35.764
+  },
+  {
+    "wikiId": "Q87240066",
+    "name": "The Forge: Lemont Quarries Adventure Park",
+    "cat": "themePark",
+    "lon": -87.98,
+    "lat": 41.6825
+  },
+  {
+    "wikiId": "Q95705767",
+    "name": "Angry Birds Activity Park",
+    "cat": "themePark",
+    "lon": 103.762805555,
+    "lat": 1.463694444
+  },
+  {
+    "wikiId": "Q97125735",
+    "name": "Ghibli Park",
+    "cat": "themePark",
+    "lon": 137.089722222,
+    "lat": 35.172777777
+  },
+  {
+    "wikiId": "Q97292925",
+    "name": "Floralix",
+    "cat": "themePark",
+    "lon": 1.9377,
+    "lat": 47.8402
+  },
+  {
+    "wikiId": "Q97312067",
+    "name": "Q97312067",
+    "cat": "themePark",
+    "lon": 140.061111111,
+    "lat": 37.258333333
+  },
+  {
+    "wikiId": "Q97369783",
+    "name": "Q97369783",
+    "cat": "themePark",
+    "lon": 17.16013,
+    "lat": 40.89193
+  },
+  {
+    "wikiId": "Q98225285",
+    "name": "Puxton Park",
+    "cat": "themePark",
+    "lon": -2.8673,
+    "lat": 51.3621
+  },
+  {
+    "wikiId": "Q100147510",
+    "name": "X Park Sunway Iskandar",
+    "cat": "themePark",
+    "lon": 103.625277777,
+    "lat": 1.395305555
+  },
+  {
+    "wikiId": "Q103963818",
+    "name": "Mostaland",
+    "cat": "themePark",
+    "lon": 0.0991824,
+    "lat": 35.955793132
+  },
+  {
+    "wikiId": "Q104462347",
+    "name": "Cavalluna Park",
+    "cat": "themePark",
+    "lon": 11.61834,
+    "lat": 48.20947
+  },
+  {
+    "wikiId": "Q105069972",
+    "name": "Q105069972",
+    "cat": "themePark",
+    "lon": 9.454433,
+    "lat": 49.4102851
+  },
+  {
+    "wikiId": "Q106967027",
+    "name": "Medinat Alzahra Parc",
+    "cat": "themePark",
+    "lon": 10.494432449,
+    "lat": 35.879609998
+  },
+  {
+    "wikiId": "Q108690842",
+    "name": "Rio Tinto Mining Park",
+    "cat": "themePark",
+    "lon": -6.59656976,
+    "lat": 37.693534366
+  },
+  {
+    "wikiId": "Q108803598",
+    "name": "Skytropolis Indoor Theme Park",
+    "cat": "themePark",
+    "lon": 101.795194444,
+    "lat": 3.424694444
+  }
+]

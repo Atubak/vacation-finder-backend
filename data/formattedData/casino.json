@@ -1,0 +1,4048 @@
+[
+  {
+    "wikiId": "Q25007",
+    "name": "Bellagio Hotel & Casino",
+    "cat": "casino",
+    "lon": -115.17534,
+    "lat": 36.11201
+  },
+  {
+    "wikiId": "Q202599",
+    "name": "Stardust Resort and Casino",
+    "cat": "casino",
+    "lon": -115.165833333,
+    "lat": 36.133611111
+  },
+  {
+    "wikiId": "Q257727",
+    "name": "Casino Interlaken",
+    "cat": "casino",
+    "lon": 7.858186111,
+    "lat": 46.688641666
+  },
+  {
+    "wikiId": "Q278380",
+    "name": "The Drew Las Vegas",
+    "cat": "casino",
+    "lon": -115.158889,
+    "lat": 36.1375
+  },
+  {
+    "wikiId": "Q280339",
+    "name": "Tropicana Las Vegas",
+    "cat": "casino",
+    "lon": -115.171,
+    "lat": 36.0992
+  },
+  {
+    "wikiId": "Q338963",
+    "name": "Casino du Lac-Leamy",
+    "cat": "casino",
+    "lon": -75.725,
+    "lat": 45.4458
+  },
+  {
+    "wikiId": "Q359924",
+    "name": "Golden Gate Hotel and Casino",
+    "cat": "casino",
+    "lon": -115.146,
+    "lat": 36.1714
+  },
+  {
+    "wikiId": "Q520432",
+    "name": "MotorCity Casino Hotel",
+    "cat": "casino",
+    "lon": -83.069,
+    "lat": 42.339
+  },
+  {
+    "wikiId": "Q569978",
+    "name": "Caesars Palace",
+    "cat": "casino",
+    "lon": -115.174,
+    "lat": 36.1165
+  },
+  {
+    "wikiId": "Q614631",
+    "name": "Hard Rock Entertainment World",
+    "cat": "casino",
+    "lon": 1.151389,
+    "lat": 41.084722
+  },
+  {
+    "wikiId": "Q616726",
+    "name": "Hooters Casino Hotel",
+    "cat": "casino",
+    "lon": -115.1675,
+    "lat": 36.1
+  },
+  {
+    "wikiId": "Q631906",
+    "name": "Termas de Chillán",
+    "cat": "casino",
+    "lon": -71.5167,
+    "lat": -36.9
+  },
+  {
+    "wikiId": "Q654279",
+    "name": "Aria Resort and Casino",
+    "cat": "casino",
+    "lon": -115.1771,
+    "lat": 36.10766
+  },
+  {
+    "wikiId": "Q691491",
+    "name": "Paris Las Vegas",
+    "cat": "casino",
+    "lon": -115.17155,
+    "lat": 36.11203
+  },
+  {
+    "wikiId": "Q713960",
+    "name": "MGM Grand Las Vegas",
+    "cat": "casino",
+    "lon": -115.16917,
+    "lat": 36.1025
+  },
+  {
+    "wikiId": "Q739914",
+    "name": "Rio All-Suite Hotel and Casino",
+    "cat": "casino",
+    "lon": -115.187,
+    "lat": 36.117
+  },
+  {
+    "wikiId": "Q805467",
+    "name": "Bally's Las Vegas Hotel & Casino",
+    "cat": "casino",
+    "lon": -115.17279,
+    "lat": 36.11358
+  },
+  {
+    "wikiId": "Q845846",
+    "name": "The STRAT Hotel, Casino & SkyPod",
+    "cat": "casino",
+    "lon": -115.15603,
+    "lat": 36.14746
+  },
+  {
+    "wikiId": "Q869378",
+    "name": "California Hotel and Casino",
+    "cat": "casino",
+    "lon": -115.144,
+    "lat": 36.1731
+  },
+  {
+    "wikiId": "Q882865",
+    "name": "Spielbank Wiesbaden",
+    "cat": "casino",
+    "lon": 8.24694,
+    "lat": 50.085
+  },
+  {
+    "wikiId": "Q897221",
+    "name": "Kurhaus of Baden-Baden",
+    "cat": "casino",
+    "lon": 8.23639,
+    "lat": 48.7603
+  },
+  {
+    "wikiId": "Q900983",
+    "name": "The Mirage",
+    "cat": "casino",
+    "lon": -115.17346,
+    "lat": 36.12121
+  },
+  {
+    "wikiId": "Q994890",
+    "name": "Q994890",
+    "cat": "casino",
+    "lon": 6.09314,
+    "lat": 50.7816
+  },
+  {
+    "wikiId": "Q1017078",
+    "name": "Crown Perth",
+    "cat": "casino",
+    "lon": 115.895561111,
+    "lat": -31.960830555
+  },
+  {
+    "wikiId": "Q1025472",
+    "name": "Caesars Windsor",
+    "cat": "casino",
+    "lon": -83.0338,
+    "lat": 42.3204
+  },
+  {
+    "wikiId": "Q1047567",
+    "name": "Spielbank Baden-Baden",
+    "cat": "casino",
+    "lon": 8.2366,
+    "lat": 48.7604
+  },
+  {
+    "wikiId": "Q1047572",
+    "name": "City Palais",
+    "cat": "casino",
+    "lon": 6.772658,
+    "lat": 51.433706
+  },
+  {
+    "wikiId": "Q1047578",
+    "name": "Casino Canberra",
+    "cat": "casino",
+    "lon": 149.134,
+    "lat": -35.2833
+  },
+  {
+    "wikiId": "Q1047584",
+    "name": "Casino Figueira",
+    "cat": "casino",
+    "lon": -8.86374,
+    "lat": 40.15019
+  },
+  {
+    "wikiId": "Q1047597",
+    "name": "Casino Estoril",
+    "cat": "casino",
+    "lon": -9.3975,
+    "lat": 38.706944444
+  },
+  {
+    "wikiId": "Q1047608",
+    "name": "Q1047608",
+    "cat": "casino",
+    "lon": 10.8795,
+    "lat": 53.9649
+  },
+  {
+    "wikiId": "Q1047642",
+    "name": "Casino de Montréal",
+    "cat": "casino",
+    "lon": -73.5259,
+    "lat": 45.5055
+  },
+  {
+    "wikiId": "Q1049209",
+    "name": "The Venetian",
+    "cat": "casino",
+    "lon": -115.17025,
+    "lat": 36.12106
+  },
+  {
+    "wikiId": "Q1051604",
+    "name": "Four Queens",
+    "cat": "casino",
+    "lon": -115.1438,
+    "lat": 36.17
+  },
+  {
+    "wikiId": "Q1064873",
+    "name": "Excalibur Hotel and Casino",
+    "cat": "casino",
+    "lon": -115.175555555,
+    "lat": 36.098888888
+  },
+  {
+    "wikiId": "Q1092961",
+    "name": "Circus Circus Las Vegas",
+    "cat": "casino",
+    "lon": -115.1656005,
+    "lat": 36.1368842
+  },
+  {
+    "wikiId": "Q1107391",
+    "name": "Sands Hotel and Casino",
+    "cat": "casino",
+    "lon": -115.168888888,
+    "lat": 36.121388888
+  },
+  {
+    "wikiId": "Q1136654",
+    "name": "The D Las Vegas",
+    "cat": "casino",
+    "lon": -115.1427,
+    "lat": 36.1695
+  },
+  {
+    "wikiId": "Q1136841",
+    "name": "Fremont Hotel and Casino",
+    "cat": "casino",
+    "lon": -115.143,
+    "lat": 36.1708
+  },
+  {
+    "wikiId": "Q1145115",
+    "name": "Crown Casino and Entertainment Complex",
+    "cat": "casino",
+    "lon": 144.96,
+    "lat": -37.8223
+  },
+  {
+    "wikiId": "Q1150147",
+    "name": "Hippodrome",
+    "cat": "casino",
+    "lon": -0.1286,
+    "lat": 51.5114
+  },
+  {
+    "wikiId": "Q1150966",
+    "name": "New Frontier Hotel and Casino",
+    "cat": "casino",
+    "lon": -115.168,
+    "lat": 36.1294
+  },
+  {
+    "wikiId": "Q1156708",
+    "name": "The Venetian Macao",
+    "cat": "casino",
+    "lon": 113.560556,
+    "lat": 22.148611
+  },
+  {
+    "wikiId": "Q1200583",
+    "name": "Desert Inn",
+    "cat": "casino",
+    "lon": -115.16611111,
+    "lat": 36.12944444
+  },
+  {
+    "wikiId": "Q1309059",
+    "name": "Wynn Las Vegas",
+    "cat": "casino",
+    "lon": -115.166,
+    "lat": 36.1294
+  },
+  {
+    "wikiId": "Q1347033",
+    "name": "Dunes",
+    "cat": "casino",
+    "lon": -115.17472222,
+    "lat": 36.1125
+  },
+  {
+    "wikiId": "Q1360313",
+    "name": "Treasure Island Hotel and Casino",
+    "cat": "casino",
+    "lon": -115.171944444,
+    "lat": 36.125
+  },
+  {
+    "wikiId": "Q1368043",
+    "name": "Mandalay Bay",
+    "cat": "casino",
+    "lon": -115.174722222,
+    "lat": 36.091666666
+  },
+  {
+    "wikiId": "Q1370434",
+    "name": "Estosadok",
+    "cat": "casino",
+    "lon": 40.260833333,
+    "lat": 43.684722222
+  },
+  {
+    "wikiId": "Q1370979",
+    "name": "Kursaal",
+    "cat": "casino",
+    "lon": 8.31052,
+    "lat": 47.4789
+  },
+  {
+    "wikiId": "Q1426968",
+    "name": "Flamingo Las Vegas",
+    "cat": "casino",
+    "lon": -115.170556,
+    "lat": 36.116111
+  },
+  {
+    "wikiId": "Q1436845",
+    "name": "Cosmopolitan of Las Vegas",
+    "cat": "casino",
+    "lon": -115.17605,
+    "lat": 36.1098
+  },
+  {
+    "wikiId": "Q1462035",
+    "name": "Várkert Palace",
+    "cat": "casino",
+    "lon": 19.0436553,
+    "lat": 47.4938833
+  },
+  {
+    "wikiId": "Q1467346",
+    "name": "Grand Casino Basel",
+    "cat": "casino",
+    "lon": 7.563888888,
+    "lat": 47.573611111
+  },
+  {
+    "wikiId": "Q1479346",
+    "name": "Kurhaus Bad Neuenahr",
+    "cat": "casino",
+    "lon": 7.13892,
+    "lat": 50.5426
+  },
+  {
+    "wikiId": "Q1535018",
+    "name": "Golden Nugget Las Vegas Hotel & Casino",
+    "cat": "casino",
+    "lon": -115.1448,
+    "lat": 36.1706
+  },
+  {
+    "wikiId": "Q1535845",
+    "name": "Riviera Hotel and Casino",
+    "cat": "casino",
+    "lon": -115.162,
+    "lat": 36.135
+  },
+  {
+    "wikiId": "Q1546562",
+    "name": "Spielbank Bad Homburg vor der Höhe",
+    "cat": "casino",
+    "lon": 8.62694,
+    "lat": 50.2281
+  },
+  {
+    "wikiId": "Q1585008",
+    "name": "Hard Rock Hotel and Casino",
+    "cat": "casino",
+    "lon": -115.154,
+    "lat": 36.1086
+  },
+  {
+    "wikiId": "Q1637090",
+    "name": "South Point Hotel, Casino & Spa",
+    "cat": "casino",
+    "lon": -115.175,
+    "lat": 36.0114
+  },
+  {
+    "wikiId": "Q1795050",
+    "name": "Palace Station",
+    "cat": "casino",
+    "lon": -115.1743,
+    "lat": 36.1427
+  },
+  {
+    "wikiId": "Q1854509",
+    "name": "Park MGM",
+    "cat": "casino",
+    "lon": -115.176,
+    "lat": 36.104694444
+  },
+  {
+    "wikiId": "Q2048307",
+    "name": "Palms Casino Resort",
+    "cat": "casino",
+    "lon": -115.195,
+    "lat": 36.114444
+  },
+  {
+    "wikiId": "Q2330370",
+    "name": "Slots-A-Fun Casino",
+    "cat": "casino",
+    "lon": -115.163,
+    "lat": 36.1359
+  },
+  {
+    "wikiId": "Q2516946",
+    "name": "Casino Kursaal Ostend",
+    "cat": "casino",
+    "lon": 2.9125,
+    "lat": 51.23139
+  },
+  {
+    "wikiId": "Q2666197",
+    "name": "Casino Oceano",
+    "cat": "casino",
+    "lon": -8.863784,
+    "lat": 40.149762
+  },
+  {
+    "wikiId": "Q2694204",
+    "name": "Feest- en Kultuurpaleis",
+    "cat": "casino",
+    "lon": 2.91821,
+    "lat": 51.23166
+  },
+  {
+    "wikiId": "Q2699028",
+    "name": "Sanremo Casino",
+    "cat": "casino",
+    "lon": 7.77175,
+    "lat": 43.81526
+  },
+  {
+    "wikiId": "Q2801390",
+    "name": "Q2801390",
+    "cat": "casino",
+    "lon": 8.81609,
+    "lat": 52.2141
+  },
+  {
+    "wikiId": "Q2801391",
+    "name": "Casino Bremen",
+    "cat": "casino",
+    "lon": 8.80117,
+    "lat": 53.0773
+  },
+  {
+    "wikiId": "Q2801392",
+    "name": "Spielbank Erfurt",
+    "cat": "casino",
+    "lon": 11.0188234,
+    "lat": 50.9758179
+  },
+  {
+    "wikiId": "Q2801393",
+    "name": "Casino Hohensyburg",
+    "cat": "casino",
+    "lon": 7.488888888,
+    "lat": 51.420833333
+  },
+  {
+    "wikiId": "Q2829469",
+    "name": "Aladdin",
+    "cat": "casino",
+    "lon": -115.170277777,
+    "lat": 36.11
+  },
+  {
+    "wikiId": "Q2869814",
+    "name": "Atrium Casino",
+    "cat": "casino",
+    "lon": -1.055827,
+    "lat": 43.710818
+  },
+  {
+    "wikiId": "Q2910840",
+    "name": "The Borgata",
+    "cat": "casino",
+    "lon": -74.4351,
+    "lat": 39.3775
+  },
+  {
+    "wikiId": "Q2941077",
+    "name": "Palais de Savoie",
+    "cat": "casino",
+    "lon": 5.91281,
+    "lat": 45.6886
+  },
+  {
+    "wikiId": "Q2941080",
+    "name": "Casino Mauresque",
+    "cat": "casino",
+    "lon": -1.172778,
+    "lat": 44.658333
+  },
+  {
+    "wikiId": "Q2941090",
+    "name": "Casino de Deauville",
+    "cat": "casino",
+    "lon": 0.069877,
+    "lat": 49.359193
+  },
+  {
+    "wikiId": "Q2941091",
+    "name": "Q2941091",
+    "cat": "casino",
+    "lon": 1.072832,
+    "lat": 49.925819
+  },
+  {
+    "wikiId": "Q2941092",
+    "name": "Casino de Charlevoix",
+    "cat": "casino",
+    "lon": -70.1444,
+    "lat": 47.6213
+  },
+  {
+    "wikiId": "Q2941093",
+    "name": "Q2941093",
+    "cat": "casino",
+    "lon": -1.09916667,
+    "lat": 45.99194444
+  },
+  {
+    "wikiId": "Q2941096",
+    "name": "Q2941096",
+    "cat": "casino",
+    "lon": -74.567986,
+    "lat": 46.200805
+  },
+  {
+    "wikiId": "Q2941098",
+    "name": "Casino de Montbenon",
+    "cat": "casino",
+    "lon": 6.62499,
+    "lat": 46.52037
+  },
+  {
+    "wikiId": "Q2941099",
+    "name": "Casino de Néris-les-Bains",
+    "cat": "casino",
+    "lon": 2.65835,
+    "lat": 46.2874
+  },
+  {
+    "wikiId": "Q2941104",
+    "name": "Casino de Saint-Denis",
+    "cat": "casino",
+    "lon": 55.44783333,
+    "lat": -20.87355556
+  },
+  {
+    "wikiId": "Q2941106",
+    "name": "Casino de Saint-Gilles",
+    "cat": "casino",
+    "lon": 55.22338889,
+    "lat": -21.07075
+  },
+  {
+    "wikiId": "Q2941109",
+    "name": "Casino de la forêt",
+    "cat": "casino",
+    "lon": 1.59242,
+    "lat": 50.5186
+  },
+  {
+    "wikiId": "Q2941111",
+    "name": "Casino du Sud",
+    "cat": "casino",
+    "lon": 55.47333333,
+    "lat": -21.34347222
+  },
+  {
+    "wikiId": "Q2941112",
+    "name": "Casino de la Vallée",
+    "cat": "casino",
+    "lon": 7.64222,
+    "lat": 45.7522
+  },
+  {
+    "wikiId": "Q14708691",
+    "name": "Treasure Valley Casino",
+    "cat": "casino",
+    "lon": -97.1719,
+    "lat": 34.5089
+  },
+  {
+    "wikiId": "Q16024886",
+    "name": "Casino de Morges",
+    "cat": "casino",
+    "lon": 6.49991,
+    "lat": 46.50878
+  },
+  {
+    "wikiId": "Q16175563",
+    "name": "Imperial Hotel and Casino",
+    "cat": "casino",
+    "lon": 130.38915,
+    "lat": 42.30089
+  },
+  {
+    "wikiId": "Q16258182",
+    "name": "Choctaw Casino",
+    "cat": "casino",
+    "lon": -96.3932,
+    "lat": 34.0166
+  },
+  {
+    "wikiId": "Q16490467",
+    "name": "Q16490467",
+    "cat": "casino",
+    "lon": -68.922286,
+    "lat": -22.455516
+  },
+  {
+    "wikiId": "Q16508381",
+    "name": "Jetée-Promenade de Nice",
+    "cat": "casino",
+    "lon": 7.26642,
+    "lat": 43.6945
+  },
+  {
+    "wikiId": "Q16509965",
+    "name": "Palais Beaumont",
+    "cat": "casino",
+    "lon": -0.362093,
+    "lat": 43.2945
+  },
+  {
+    "wikiId": "Q16536414",
+    "name": "Casino Théâtre Barrière",
+    "cat": "casino",
+    "lon": 1.433854,
+    "lat": 43.572413
+  },
+  {
+    "wikiId": "Q16827750",
+    "name": "Bodines Casino",
+    "cat": "casino",
+    "lon": -119.77372,
+    "lat": 39.11629
+  },
+  {
+    "wikiId": "Q16890127",
+    "name": "Casino Arizona",
+    "cat": "casino",
+    "lon": -111.886,
+    "lat": 33.4543
+  },
+  {
+    "wikiId": "Q16931134",
+    "name": "Excelsior Casino",
+    "cat": "casino",
+    "lon": -70.044197,
+    "lat": 12.575393
+  },
+  {
+    "wikiId": "Q16975539",
+    "name": "Aspinall's",
+    "cat": "casino",
+    "lon": -0.149459,
+    "lat": 51.506364
+  },
+  {
+    "wikiId": "Q16984620",
+    "name": "Hollywood Casino Columbus",
+    "cat": "casino",
+    "lon": -83.10722222,
+    "lat": 39.95055556
+  },
+  {
+    "wikiId": "Q16994405",
+    "name": "Graton Resort & Casino",
+    "cat": "casino",
+    "lon": -122.72317,
+    "lat": 38.36076
+  },
+  {
+    "wikiId": "Q17060492",
+    "name": "Osage Casino",
+    "cat": "casino",
+    "lon": -97.042055555,
+    "lat": 36.681916666
+  },
+  {
+    "wikiId": "Q17066038",
+    "name": "Rail City Casino",
+    "cat": "casino",
+    "lon": -119.77222,
+    "lat": 39.53496
+  },
+  {
+    "wikiId": "Q17111163",
+    "name": "Northern Lights Casino",
+    "cat": "casino",
+    "lon": -105.75638,
+    "lat": 53.17998
+  },
+  {
+    "wikiId": "Q17182494",
+    "name": "Casino Miami Jai-Alai",
+    "cat": "casino",
+    "lon": -80.256811111,
+    "lat": 25.807336111
+  },
+  {
+    "wikiId": "Q17549453",
+    "name": "Les Ambassadeurs Club",
+    "cat": "casino",
+    "lon": -0.150547,
+    "lat": 51.5044
+  },
+  {
+    "wikiId": "Q17623814",
+    "name": "Q17623814",
+    "cat": "casino",
+    "lon": 1.59921,
+    "lat": 50.7217
+  },
+  {
+    "wikiId": "Q17999512",
+    "name": "Binion's Gambling Hall and Hotel",
+    "cat": "casino",
+    "lon": -115.144,
+    "lat": 36.1714
+  },
+  {
+    "wikiId": "Q18151190",
+    "name": "Gulfport Casino",
+    "cat": "casino",
+    "lon": -82.79,
+    "lat": 28.0197
+  },
+  {
+    "wikiId": "Q18649177",
+    "name": "Grand Casino Bern",
+    "cat": "casino",
+    "lon": 7.448593,
+    "lat": 46.953272
+  },
+  {
+    "wikiId": "Q19564500",
+    "name": "Encore Boston Harbor",
+    "cat": "casino",
+    "lon": -71.069365,
+    "lat": 42.395121
+  },
+  {
+    "wikiId": "Q19658408",
+    "name": "Casino of Challes-les-Eaux",
+    "cat": "casino",
+    "lon": 5.98944,
+    "lat": 45.549
+  },
+  {
+    "wikiId": "Q19877725",
+    "name": "Casino M8trix",
+    "cat": "casino",
+    "lon": -121.9199,
+    "lat": 37.3712
+  },
+  {
+    "wikiId": "Q20430171",
+    "name": "Slănic Moldova casino",
+    "cat": "casino",
+    "lon": 26.437085,
+    "lat": 46.20627
+  },
+  {
+    "wikiId": "Q20664335",
+    "name": "Four Winds Dowagiac",
+    "cat": "casino",
+    "lon": -86.13194,
+    "lat": 41.97836
+  },
+  {
+    "wikiId": "Q20664369",
+    "name": "Four Winds Hartford",
+    "cat": "casino",
+    "lon": -86.21243,
+    "lat": 42.20204
+  },
+  {
+    "wikiId": "Q20664414",
+    "name": "Four Winds New Buffalo",
+    "cat": "casino",
+    "lon": -86.7234,
+    "lat": 41.77006
+  },
+  {
+    "wikiId": "Q20731506",
+    "name": "Casino de Namur",
+    "cat": "casino",
+    "lon": 4.86306,
+    "lat": 50.4569
+  },
+  {
+    "wikiId": "Q20751501",
+    "name": "Q20751501",
+    "cat": "casino",
+    "lon": -0.566961,
+    "lat": 44.891731
+  },
+  {
+    "wikiId": "Q20751502",
+    "name": "Q20751502",
+    "cat": "casino",
+    "lon": 3.077638,
+    "lat": 50.636677
+  },
+  {
+    "wikiId": "Q20751503",
+    "name": "Q20751503",
+    "cat": "casino",
+    "lon": 5.438517,
+    "lat": 43.523341
+  },
+  {
+    "wikiId": "Q20751504",
+    "name": "Casino de Forges-les-Eaux",
+    "cat": "casino",
+    "lon": 1.532255,
+    "lat": 49.607749
+  },
+  {
+    "wikiId": "Q20850378",
+    "name": "Casino of Niederbronn-les-Bains",
+    "cat": "casino",
+    "lon": 7.643154,
+    "lat": 48.950491
+  },
+  {
+    "wikiId": "Q20899955",
+    "name": "Casino La Pergola",
+    "cat": "casino",
+    "lon": -1.660437,
+    "lat": 43.391567
+  },
+  {
+    "wikiId": "Q20947144",
+    "name": "Casino of Salies-de-Béarn",
+    "cat": "casino",
+    "lon": -0.927673,
+    "lat": 43.473631
+  },
+  {
+    "wikiId": "Q20947149",
+    "name": "Casino d'Hendaye",
+    "cat": "casino",
+    "lon": -1.785762,
+    "lat": 43.371238
+  },
+  {
+    "wikiId": "Q20970971",
+    "name": "Q20970971",
+    "cat": "casino",
+    "lon": 2.302945,
+    "lat": 48.970185
+  },
+  {
+    "wikiId": "Q20970972",
+    "name": "Casino de Berck",
+    "cat": "casino",
+    "lon": 1.567724,
+    "lat": 50.408143
+  },
+  {
+    "wikiId": "Q20970973",
+    "name": "Q20970973",
+    "cat": "casino",
+    "lon": 3.071988,
+    "lat": 46.584619
+  },
+  {
+    "wikiId": "Q20970974",
+    "name": "Casino of Cabourg",
+    "cat": "casino",
+    "lon": -0.116124,
+    "lat": 49.293714
+  },
+  {
+    "wikiId": "Q20970975",
+    "name": "Q20970975",
+    "cat": "casino",
+    "lon": 1.84885,
+    "lat": 50.95833
+  },
+  {
+    "wikiId": "Q20970976",
+    "name": "Casino-Théâtre de Châtel-Guyon",
+    "cat": "casino",
+    "lon": 3.064408,
+    "lat": 45.91964
+  },
+  {
+    "wikiId": "Q20970977",
+    "name": "Q20970977",
+    "cat": "casino",
+    "lon": 2.388602,
+    "lat": 51.047878
+  },
+  {
+    "wikiId": "Q20970978",
+    "name": "Q20970978",
+    "cat": "casino",
+    "lon": -1.093815,
+    "lat": 44.615645
+  },
+  {
+    "wikiId": "Q20970979",
+    "name": "Casino de Houlgate",
+    "cat": "casino",
+    "lon": -0.074401,
+    "lat": 49.305003
+  },
+  {
+    "wikiId": "Q20970980",
+    "name": "Q20970980",
+    "cat": "casino",
+    "lon": -2.4058771,
+    "lat": 47.2809322
+  },
+  {
+    "wikiId": "Q20970981",
+    "name": "Casino de La Bourboule",
+    "cat": "casino",
+    "lon": 2.73686,
+    "lat": 45.58733
+  },
+  {
+    "wikiId": "Q20970982",
+    "name": "Q20970982",
+    "cat": "casino",
+    "lon": -0.356898,
+    "lat": 49.321061
+  },
+  {
+    "wikiId": "Q20970983",
+    "name": "Casino de Pau",
+    "cat": "casino",
+    "lon": -0.362044,
+    "lat": 43.295269
+  },
+  {
+    "wikiId": "Q20970984",
+    "name": "Q20970984",
+    "cat": "casino",
+    "lon": -2.1031523,
+    "lat": 47.114883
+  },
+  {
+    "wikiId": "Q20970985",
+    "name": "Q20970985",
+    "cat": "casino",
+    "lon": 3.058407,
+    "lat": 45.768241
+  },
+  {
+    "wikiId": "Q20970986",
+    "name": "Q20970986",
+    "cat": "casino",
+    "lon": -2.1760654,
+    "lat": 47.2293463
+  },
+  {
+    "wikiId": "Q20970987",
+    "name": "Casino de Trouville-sur-Mer",
+    "cat": "casino",
+    "lon": 0.078841,
+    "lat": 49.366132
+  },
+  {
+    "wikiId": "Q20970988",
+    "name": "Grand Casino de Vichy",
+    "cat": "casino",
+    "lon": 3.42058,
+    "lat": 46.12333
+  },
+  {
+    "wikiId": "Q20970989",
+    "name": "Q20970989",
+    "cat": "casino",
+    "lon": -0.001354,
+    "lat": 49.324739
+  },
+  {
+    "wikiId": "Q20970990",
+    "name": "Q20970990",
+    "cat": "casino",
+    "lon": 2.809474,
+    "lat": 45.573787
+  },
+  {
+    "wikiId": "Q20970991",
+    "name": "Q20970991",
+    "cat": "casino",
+    "lon": 1.592932,
+    "lat": 50.518679
+  },
+  {
+    "wikiId": "Q21008103",
+    "name": "Q21008103",
+    "cat": "casino",
+    "lon": -0.41857,
+    "lat": 48.557825
+  },
+  {
+    "wikiId": "Q21008209",
+    "name": "Q21008209",
+    "cat": "casino",
+    "lon": -1.621804,
+    "lat": 49.638262
+  },
+  {
+    "wikiId": "Q21008461",
+    "name": "Casino de Granville",
+    "cat": "casino",
+    "lon": -1.5995,
+    "lat": 48.8394
+  },
+  {
+    "wikiId": "Q21016232",
+    "name": "Station Casino Reno",
+    "cat": "casino",
+    "lon": -119.792496,
+    "lat": 39.482993
+  },
+  {
+    "wikiId": "Q21022141",
+    "name": "Cotton Club",
+    "cat": "casino",
+    "lon": -115.148195892,
+    "lat": 36.186316491
+  },
+  {
+    "wikiId": "Q21022142",
+    "name": "El Morocco",
+    "cat": "casino",
+    "lon": -115.148353802,
+    "lat": 36.185211176
+  },
+  {
+    "wikiId": "Q21027210",
+    "name": "Casino de Pougues-les-Eaux",
+    "cat": "casino",
+    "lon": 3.095986,
+    "lat": 47.08308
+  },
+  {
+    "wikiId": "Q21161291",
+    "name": "Comanche Nation Casino",
+    "cat": "casino",
+    "lon": -98.37553,
+    "lat": 34.603437
+  },
+  {
+    "wikiId": "Q21188322",
+    "name": "Louisiana Club",
+    "cat": "casino",
+    "lon": -115.149697902,
+    "lat": 36.188260769
+  },
+  {
+    "wikiId": "Q21188719",
+    "name": "People's Choice Casino",
+    "cat": "casino",
+    "lon": -115.152018802,
+    "lat": 36.188529119
+  },
+  {
+    "wikiId": "Q21188895",
+    "name": "Town Tavern",
+    "cat": "casino",
+    "lon": -115.148371578,
+    "lat": 36.186735677
+  },
+  {
+    "wikiId": "Q21196606",
+    "name": "Scarlet Pearl Casino",
+    "cat": "casino",
+    "lon": -88.89055556,
+    "lat": 30.42583333
+  },
+  {
+    "wikiId": "Q22022477",
+    "name": "Fiesta Henderson",
+    "cat": "casino",
+    "lon": -115.009379,
+    "lat": 36.032138
+  },
+  {
+    "wikiId": "Q22249101",
+    "name": "Casino de Pornichet",
+    "cat": "casino",
+    "lon": -2.3465896,
+    "lat": 47.2670576
+  },
+  {
+    "wikiId": "Q22713751",
+    "name": "Resorts World Birmingham",
+    "cat": "casino",
+    "lon": -1.7182,
+    "lat": 52.4484
+  },
+  {
+    "wikiId": "Q22953250",
+    "name": "Hôtel de l'Officier Général des Salines",
+    "cat": "casino",
+    "lon": 5.8765,
+    "lat": 46.9376
+  },
+  {
+    "wikiId": "Q22960593",
+    "name": "Casino de Vittel",
+    "cat": "casino",
+    "lon": 5.941468,
+    "lat": 48.205456
+  },
+  {
+    "wikiId": "Q22975873",
+    "name": "Hôtel du Parc",
+    "cat": "casino",
+    "lon": -0.928085,
+    "lat": 43.472227
+  },
+  {
+    "wikiId": "Q22976686",
+    "name": "Casino of Bagnères-de-Luchon",
+    "cat": "casino",
+    "lon": 0.596278,
+    "lat": 42.788806
+  },
+  {
+    "wikiId": "Q22979659",
+    "name": "Casino de la Faïencerie",
+    "cat": "casino",
+    "lon": 7.072995,
+    "lat": 49.110737
+  },
+  {
+    "wikiId": "Q22995103",
+    "name": "Q22995103",
+    "cat": "casino",
+    "lon": 5.4440959,
+    "lat": 43.5268873
+  },
+  {
+    "wikiId": "Q22995492",
+    "name": "Centre culturel Valéry Larbaud",
+    "cat": "casino",
+    "lon": 3.422916667,
+    "lat": 46.12236111
+  },
+  {
+    "wikiId": "Q22995509",
+    "name": "Q22995509",
+    "cat": "casino",
+    "lon": 3.421,
+    "lat": 46.12511111
+  },
+  {
+    "wikiId": "Q22998680",
+    "name": "Q22998680",
+    "cat": "casino",
+    "lon": 1.454034,
+    "lat": 50.107721
+  },
+  {
+    "wikiId": "Q23001108",
+    "name": "Kings Club Casino",
+    "cat": "casino",
+    "lon": -84.66479,
+    "lat": 46.4274
+  },
+  {
+    "wikiId": "Q23301468",
+    "name": "Crockfords",
+    "cat": "casino",
+    "lon": -0.149076111,
+    "lat": 51.5064
+  },
+  {
+    "wikiId": "Q24191926",
+    "name": "Grand Villa Edmonton Casino",
+    "cat": "casino",
+    "lon": -113.49583333,
+    "lat": 53.54666667
+  },
+  {
+    "wikiId": "Q24284736",
+    "name": "Grand Casino Portorož",
+    "cat": "casino",
+    "lon": 13.5955,
+    "lat": 45.5103
+  },
+  {
+    "wikiId": "Q24566905",
+    "name": "Klondike Sunset Casino",
+    "cat": "casino",
+    "lon": -115.015015,
+    "lat": 36.063995
+  },
+  {
+    "wikiId": "Q24567007",
+    "name": "Fiesta Rancho",
+    "cat": "casino",
+    "lon": -115.199135,
+    "lat": 36.202816
+  },
+  {
+    "wikiId": "Q24693576",
+    "name": "Lucky Dragon Hotel and Casino",
+    "cat": "casino",
+    "lon": -115.160384,
+    "lat": 36.144052
+  },
+  {
+    "wikiId": "Q25340106",
+    "name": "Key Largo",
+    "cat": "casino",
+    "lon": -115.1556344,
+    "lat": 36.113494
+  },
+  {
+    "wikiId": "Q25377555",
+    "name": "Q25377555",
+    "cat": "casino",
+    "lon": -115.172727777,
+    "lat": 36.11745
+  },
+  {
+    "wikiId": "Q26416432",
+    "name": "Casino Velden",
+    "cat": "casino",
+    "lon": 14.043203,
+    "lat": 46.615068
+  },
+  {
+    "wikiId": "Q26492763",
+    "name": "Hotel Casino",
+    "cat": "casino",
+    "lon": 10.337403,
+    "lat": 36.732898
+  },
+  {
+    "wikiId": "Q3422920",
+    "name": "Redoute de Spa",
+    "cat": "casino",
+    "lon": 5.8653,
+    "lat": 50.4915
+  },
+  {
+    "wikiId": "Q3433525",
+    "name": "Riverwind Casino",
+    "cat": "casino",
+    "lon": -97.5003,
+    "lat": 35.1811
+  },
+  {
+    "wikiId": "Q3503618",
+    "name": "O'Sheas",
+    "cat": "casino",
+    "lon": -115.17222,
+    "lat": 36.1175
+  },
+  {
+    "wikiId": "Q3545225",
+    "name": "Sam's Town Hotel and Gambling Hall, Las Vegas",
+    "cat": "casino",
+    "lon": -115.0614,
+    "lat": 36.112
+  },
+  {
+    "wikiId": "Q3566756",
+    "name": "Waux-hall de Spa",
+    "cat": "casino",
+    "lon": 5.86905,
+    "lat": 50.4883
+  },
+  {
+    "wikiId": "Q3567561",
+    "name": "Westward Ho Hotel and Casino",
+    "cat": "casino",
+    "lon": -115.165833333,
+    "lat": 36.133611111
+  },
+  {
+    "wikiId": "Q3661810",
+    "name": "Casinò di Campione",
+    "cat": "casino",
+    "lon": 8.97163611,
+    "lat": 45.970825
+  },
+  {
+    "wikiId": "Q4216004",
+    "name": "The Star",
+    "cat": "casino",
+    "lon": 151.195,
+    "lat": -33.86833333
+  },
+  {
+    "wikiId": "Q4261094",
+    "name": "Downtown Grand Hotel & Casino",
+    "cat": "casino",
+    "lon": -115.142,
+    "lat": 36.1719
+  },
+  {
+    "wikiId": "Q4261152",
+    "name": "Jokers Wild Casino",
+    "cat": "casino",
+    "lon": -114.995,
+    "lat": 36.052
+  },
+  {
+    "wikiId": "Q4261222",
+    "name": "Eldorado Casino",
+    "cat": "casino",
+    "lon": -114.983,
+    "lat": 36.0321
+  },
+  {
+    "wikiId": "Q4261374",
+    "name": "Suncoast Hotel and Casino",
+    "cat": "casino",
+    "lon": -115.292,
+    "lat": 36.169
+  },
+  {
+    "wikiId": "Q4261384",
+    "name": "Las Vegas Club",
+    "cat": "casino",
+    "lon": -115.145,
+    "lat": 36.1719
+  },
+  {
+    "wikiId": "Q4305041",
+    "name": "Mohegan Sun",
+    "cat": "casino",
+    "lon": -72.0914,
+    "lat": 41.4922
+  },
+  {
+    "wikiId": "Q4678254",
+    "name": "Ada Gaming Center",
+    "cat": "casino",
+    "lon": -96.6517,
+    "lat": 34.7894
+  },
+  {
+    "wikiId": "Q4681684",
+    "name": "SkyCity Adelaide",
+    "cat": "casino",
+    "lon": 138.59758611,
+    "lat": -34.92131667
+  },
+  {
+    "wikiId": "Q4702020",
+    "name": "Akwesasne Mohawk Casino",
+    "cat": "casino",
+    "lon": -74.6414,
+    "lat": 44.9707
+  },
+  {
+    "wikiId": "Q4725573",
+    "name": "Aliante Casino and Hotel",
+    "cat": "casino",
+    "lon": -115.182,
+    "lat": 36.2911
+  },
+  {
+    "wikiId": "Q4774850",
+    "name": "Old Camuy Casino",
+    "cat": "casino",
+    "lon": -66.845556,
+    "lat": 18.486111
+  },
+  {
+    "wikiId": "Q4774851",
+    "name": "Old Ponce Casino",
+    "cat": "casino",
+    "lon": -66.61344,
+    "lat": 18.01021
+  },
+  {
+    "wikiId": "Q4774852",
+    "name": "Antiguo Casino de Puerto Rico",
+    "cat": "casino",
+    "lon": -66.111422,
+    "lat": 18.466146
+  },
+  {
+    "wikiId": "Q4778934",
+    "name": "Apache Nugget Casino",
+    "cat": "casino",
+    "lon": -107.263,
+    "lat": 36.1478
+  },
+  {
+    "wikiId": "Q4791275",
+    "name": "Arizona Charlie's Decatur",
+    "cat": "casino",
+    "lon": -115.207,
+    "lat": 36.1635
+  },
+  {
+    "wikiId": "Q4800851",
+    "name": "Artichoke Joe's Casino",
+    "cat": "casino",
+    "lon": -122.411,
+    "lat": 37.6276
+  },
+  {
+    "wikiId": "Q4862965",
+    "name": "Barona Casino",
+    "cat": "casino",
+    "lon": -116.874,
+    "lat": 32.9398
+  },
+  {
+    "wikiId": "Q4891981",
+    "name": "Casino de Madrid",
+    "cat": "casino",
+    "lon": -3.700228,
+    "lat": 40.417777
+  },
+  {
+    "wikiId": "Q4896126",
+    "name": "Casino Internacional Tibidabo",
+    "cat": "casino",
+    "lon": 2.120071,
+    "lat": 41.42221
+  },
+  {
+    "wikiId": "Q4903744",
+    "name": "Bicycle Casino",
+    "cat": "casino",
+    "lon": -118.166,
+    "lat": 33.9663
+  },
+  {
+    "wikiId": "Q4949600",
+    "name": "Boulder Station",
+    "cat": "casino",
+    "lon": -115.0849,
+    "lat": 36.1333
+  },
+  {
+    "wikiId": "Q4985118",
+    "name": "Texas Station",
+    "cat": "casino",
+    "lon": -115.191,
+    "lat": 36.1978
+  },
+  {
+    "wikiId": "Q5015948",
+    "name": "Cache Creek Casino Resort",
+    "cat": "casino",
+    "lon": -122.142,
+    "lat": 38.7348
+  },
+  {
+    "wikiId": "Q5020330",
+    "name": "California Club",
+    "cat": "casino",
+    "lon": -115.145,
+    "lat": 36.1731
+  },
+  {
+    "wikiId": "Q5048853",
+    "name": "Casino Fandango",
+    "cat": "casino",
+    "lon": -119.77166667,
+    "lat": 39.13166667
+  },
+  {
+    "wikiId": "Q5048865",
+    "name": "Casino Moose Jaw",
+    "cat": "casino",
+    "lon": -105.5334,
+    "lat": 50.3924
+  },
+  {
+    "wikiId": "Q5048870",
+    "name": "Casino Niagara",
+    "cat": "casino",
+    "lon": -79.0707,
+    "lat": 43.0924
+  },
+  {
+    "wikiId": "Q5048871",
+    "name": "Casino Rama",
+    "cat": "casino",
+    "lon": -79.350277777,
+    "lat": 44.647222222
+  },
+  {
+    "wikiId": "Q5048872",
+    "name": "Casino Regina",
+    "cat": "casino",
+    "lon": -104.609,
+    "lat": 50.4527
+  },
+  {
+    "wikiId": "Q5049620",
+    "name": "Castaways",
+    "cat": "casino",
+    "lon": -115.17527778,
+    "lat": 36.12111111
+  },
+  {
+    "wikiId": "Q5092130",
+    "name": "Cherokee Casino Roland",
+    "cat": "casino",
+    "lon": -94.5281,
+    "lat": 35.4067
+  },
+  {
+    "wikiId": "Q5102098",
+    "name": "Chisholm Trail Casino",
+    "cat": "casino",
+    "lon": -97.9672,
+    "lat": 34.5846
+  },
+  {
+    "wikiId": "Q5109059",
+    "name": "Christchurch Casino",
+    "cat": "casino",
+    "lon": 172.633,
+    "lat": -43.5258
+  },
+  {
+    "wikiId": "Q5123666",
+    "name": "City of Dreams",
+    "cat": "casino",
+    "lon": 113.56611111,
+    "lat": 22.14972222
+  },
+  {
+    "wikiId": "Q5136160",
+    "name": "Club Cal Neva",
+    "cat": "casino",
+    "lon": -119.813,
+    "lat": 39.5267
+  },
+  {
+    "wikiId": "Q5136353",
+    "name": "Club Regent Casino",
+    "cat": "casino",
+    "lon": -97.0283,
+    "lat": 49.895
+  },
+  {
+    "wikiId": "Q5152421",
+    "name": "Commerce Casino",
+    "cat": "casino",
+    "lon": -118.145,
+    "lat": 33.9984
+  },
+  {
+    "wikiId": "Q5168172",
+    "name": "Copa Casino",
+    "cat": "casino",
+    "lon": -89.100151,
+    "lat": 30.361826
+  },
+  {
+    "wikiId": "Q5191145",
+    "name": "Crystal Casino",
+    "cat": "casino",
+    "lon": -97.1367,
+    "lat": 49.8878
+  },
+  {
+    "wikiId": "Q5210009",
+    "name": "Dakota Dunes Casino",
+    "cat": "casino",
+    "lon": -106.7039,
+    "lat": 51.8903
+  },
+  {
+    "wikiId": "Q5270840",
+    "name": "Diamond Jo Casino",
+    "cat": "casino",
+    "lon": -90.6594,
+    "lat": 42.4969
+  },
+  {
+    "wikiId": "Q5270841",
+    "name": "Diamond Jo Casino – Worth",
+    "cat": "casino",
+    "lon": -93.354542,
+    "lat": 43.446781
+  },
+  {
+    "wikiId": "Q5302482",
+    "name": "Dover Downs",
+    "cat": "casino",
+    "lon": -75.532675,
+    "lat": 39.189201
+  },
+  {
+    "wikiId": "Q5314963",
+    "name": "Grand Casino Dunedin",
+    "cat": "casino",
+    "lon": 170.501,
+    "lat": -45.8778
+  },
+  {
+    "wikiId": "Q5351982",
+    "name": "El Rancho Vegas",
+    "cat": "casino",
+    "lon": -115.169,
+    "lat": 36.1167
+  },
+  {
+    "wikiId": "Q5407738",
+    "name": "City Center Rosario",
+    "cat": "casino",
+    "lon": -60.662567,
+    "lat": -33.009739
+  },
+  {
+    "wikiId": "Q5434331",
+    "name": "Fantasy Springs Resort Casino",
+    "cat": "casino",
+    "lon": -116.194,
+    "lat": 33.721
+  },
+  {
+    "wikiId": "Q5451280",
+    "name": "FireKeepers Casino",
+    "cat": "casino",
+    "lon": -85.0749,
+    "lat": 42.297
+  },
+  {
+    "wikiId": "Q5451426",
+    "name": "Fire Rock Navajo Casino",
+    "cat": "casino",
+    "lon": -108.628,
+    "lat": 35.532
+  },
+  {
+    "wikiId": "Q5501830",
+    "name": "French Lick Resort Casino",
+    "cat": "casino",
+    "lon": -86.621,
+    "lat": 38.5533
+  },
+  {
+    "wikiId": "Q5578804",
+    "name": "Gold Mountain Casino",
+    "cat": "casino",
+    "lon": -97.1086,
+    "lat": 34.1847
+  },
+  {
+    "wikiId": "Q5617636",
+    "name": "Gulfstream Park",
+    "cat": "casino",
+    "lon": -80.138,
+    "lat": 25.9785
+  },
+  {
+    "wikiId": "Q5637124",
+    "name": "Hoover Dam Lodge",
+    "cat": "casino",
+    "lon": -114.784861111,
+    "lat": 36.009980555
+  },
+  {
+    "wikiId": "Q5663831",
+    "name": "Harrah's Philadelphia",
+    "cat": "casino",
+    "lon": -75.347618,
+    "lat": 39.849873
+  },
+  {
+    "wikiId": "Q5663843",
+    "name": "Harrah's Resort Southern California",
+    "cat": "casino",
+    "lon": -116.956,
+    "lat": 33.2674
+  },
+  {
+    "wikiId": "Q5664548",
+    "name": "Casino Gran Madrid",
+    "cat": "casino",
+    "lon": -3.9162477,
+    "lat": 40.565996
+  },
+  {
+    "wikiId": "Q5697217",
+    "name": "Casino de Toledo",
+    "cat": "casino",
+    "lon": -4.021671,
+    "lat": 39.858669
+  },
+  {
+    "wikiId": "Q5756264",
+    "name": "Casino Cultural",
+    "cat": "casino",
+    "lon": -2.463356642,
+    "lat": 36.83594664
+  },
+  {
+    "wikiId": "Q5796522",
+    "name": "Círculo Oscense",
+    "cat": "casino",
+    "lon": -0.409438,
+    "lat": 42.136147
+  },
+  {
+    "wikiId": "Q5873874",
+    "name": "Ho-Chunk Casino",
+    "cat": "casino",
+    "lon": -89.7747,
+    "lat": 43.5288
+  },
+  {
+    "wikiId": "Q5882632",
+    "name": "Hollywood Casino Lawrenceburg",
+    "cat": "casino",
+    "lon": -84.8427,
+    "lat": 39.0962
+  },
+  {
+    "wikiId": "Q5882634",
+    "name": "Hollywood Casino Perryville",
+    "cat": "casino",
+    "lon": -76.0728,
+    "lat": 39.5964
+  },
+  {
+    "wikiId": "Q5882639",
+    "name": "Hollywood Casino Toledo",
+    "cat": "casino",
+    "lon": -83.5454,
+    "lat": 41.6207
+  },
+  {
+    "wikiId": "Q5884276",
+    "name": "Q5884276",
+    "cat": "casino",
+    "lon": -72.35328889,
+    "lat": -37.46902778
+  },
+  {
+    "wikiId": "Q5905995",
+    "name": "Horseshoe Casino Baltimore",
+    "cat": "casino",
+    "lon": -76.6233,
+    "lat": 39.2808
+  },
+  {
+    "wikiId": "Q5905997",
+    "name": "Hard Rock Casino Cincinnati",
+    "cat": "casino",
+    "lon": -84.50761,
+    "lat": 39.1071
+  },
+  {
+    "wikiId": "Q5906000",
+    "name": "Jack Cleveland Casino",
+    "cat": "casino",
+    "lon": -81.6933,
+    "lat": 41.4987
+  },
+  {
+    "wikiId": "Q5911337",
+    "name": "Hotel Carrasco",
+    "cat": "casino",
+    "lon": -56.0554,
+    "lat": -34.8905
+  },
+  {
+    "wikiId": "Q6022782",
+    "name": "Sun Monticello",
+    "cat": "casino",
+    "lon": -70.721608333,
+    "lat": -33.921425
+  },
+  {
+    "wikiId": "Q6058550",
+    "name": "Palacio del Condestable Iranzo",
+    "cat": "casino",
+    "lon": -3.791666666,
+    "lat": 37.766111111
+  },
+  {
+    "wikiId": "Q6109264",
+    "name": "JW Marriott Las Vegas",
+    "cat": "casino",
+    "lon": -115.2907,
+    "lat": 36.1758
+  },
+  {
+    "wikiId": "Q6183154",
+    "name": "Jerry's Nugget",
+    "cat": "casino",
+    "lon": -115.132615,
+    "lat": 36.192897
+  },
+  {
+    "wikiId": "Q6219539",
+    "name": "Nugget Casino Resort",
+    "cat": "casino",
+    "lon": -119.758,
+    "lat": 39.534
+  },
+  {
+    "wikiId": "Q6307583",
+    "name": "Julian Smith Casino",
+    "cat": "casino",
+    "lon": -82.007169,
+    "lat": 33.490566
+  },
+  {
+    "wikiId": "Q6419534",
+    "name": "Kla-Mo-Ya Casino",
+    "cat": "casino",
+    "lon": -121.883,
+    "lat": 42.5356
+  },
+  {
+    "wikiId": "Q6422960",
+    "name": "Knokke Casino",
+    "cat": "casino",
+    "lon": 3.2786,
+    "lat": 51.3486
+  },
+  {
+    "wikiId": "Q6470369",
+    "name": "Lady Luck Casino Vicksburg",
+    "cat": "casino",
+    "lon": -90.9147,
+    "lat": 32.2943
+  },
+  {
+    "wikiId": "Q6496300",
+    "name": "Latin Casino",
+    "cat": "casino",
+    "lon": -75.044,
+    "lat": 39.9225
+  },
+  {
+    "wikiId": "Q6586935",
+    "name": "Casino da Madeira",
+    "cat": "casino",
+    "lon": -16.916194444,
+    "lat": 32.644194444
+  },
+  {
+    "wikiId": "Q6651955",
+    "name": "Little Six Casino",
+    "cat": "casino",
+    "lon": -93.4728,
+    "lat": 44.7362
+  },
+  {
+    "wikiId": "Q6731868",
+    "name": "Magnolia Bluffs Casino",
+    "cat": "casino",
+    "lon": -91.4051,
+    "lat": 31.5657
+  },
+  {
+    "wikiId": "Q6737708",
+    "name": "Majestic Star Casino",
+    "cat": "casino",
+    "lon": -87.42,
+    "lat": 41.64
+  },
+  {
+    "wikiId": "Q6753798",
+    "name": "Mapes Hotel",
+    "cat": "casino",
+    "lon": -119.813,
+    "lat": 39.5257
+  },
+  {
+    "wikiId": "Q6770080",
+    "name": "Mark Twain Casino",
+    "cat": "casino",
+    "lon": -91.4996,
+    "lat": 40.036
+  },
+  {
+    "wikiId": "Q6901290",
+    "name": "Mono Wind Casino",
+    "cat": "casino",
+    "lon": -119.465,
+    "lat": 37.0849
+  },
+  {
+    "wikiId": "Q6905024",
+    "name": "Montecasino",
+    "cat": "casino",
+    "lon": 28.0128193,
+    "lat": -26.0241333
+  },
+  {
+    "wikiId": "Q6906416",
+    "name": "Montreux Casino",
+    "cat": "casino",
+    "lon": 6.9117,
+    "lat": 46.4295
+  },
+  {
+    "wikiId": "Q6913255",
+    "name": "Morongo Casino, Resort & Spa",
+    "cat": "casino",
+    "lon": -116.795,
+    "lat": 33.92
+  },
+  {
+    "wikiId": "Q6919006",
+    "name": "Moulin Rouge Hotel",
+    "cat": "casino",
+    "lon": -115.153611,
+    "lat": 36.178333
+  },
+  {
+    "wikiId": "Q7001296",
+    "name": "Bat Galim Casino",
+    "cat": "casino",
+    "lon": 34.97691667,
+    "lat": 32.8341
+  },
+  {
+    "wikiId": "Q7017375",
+    "name": "Newcastle Casino",
+    "cat": "casino",
+    "lon": -97.5984296,
+    "lat": 35.2769284
+  },
+  {
+    "wikiId": "Q7018803",
+    "name": "Newport Casino",
+    "cat": "casino",
+    "lon": -71.3075,
+    "lat": 41.482222
+  },
+  {
+    "wikiId": "Q7058891",
+    "name": "Northern Quest Resort & Casino",
+    "cat": "casino",
+    "lon": -117.561,
+    "lat": 47.6586
+  },
+  {
+    "wikiId": "Q7072657",
+    "name": "OLG Casino Brantford",
+    "cat": "casino",
+    "lon": -80.2682,
+    "lat": 43.1381
+  },
+  {
+    "wikiId": "Q7072658",
+    "name": "OLG Casino Sault Ste. Marie",
+    "cat": "casino",
+    "lon": -84.3435,
+    "lat": 46.5175
+  },
+  {
+    "wikiId": "Q7072659",
+    "name": "OLG Casino Thousand Islands",
+    "cat": "casino",
+    "lon": -76.1433,
+    "lat": 44.3422
+  },
+  {
+    "wikiId": "Q7077282",
+    "name": "Odawa Casino Resort",
+    "cat": "casino",
+    "lon": -84.9792,
+    "lat": 45.3529
+  },
+  {
+    "wikiId": "Q7083581",
+    "name": "Old Camp Casino",
+    "cat": "casino",
+    "lon": -119.092,
+    "lat": 43.5855
+  },
+  {
+    "wikiId": "Q7096597",
+    "name": "Opera House Casino, Scarborough",
+    "cat": "casino",
+    "lon": -0.400455,
+    "lat": 54.2841
+  },
+  {
+    "wikiId": "Q7096600",
+    "name": "Opera House Casino",
+    "cat": "casino",
+    "lon": -115.11277778,
+    "lat": 36.20583333
+  },
+  {
+    "wikiId": "Q7115261",
+    "name": "Oxford Casino",
+    "cat": "casino",
+    "lon": -70.4459,
+    "lat": 44.1152
+  },
+  {
+    "wikiId": "Q7126133",
+    "name": "Pala Casino Resort and Spa",
+    "cat": "casino",
+    "lon": -117.084,
+    "lat": 33.363
+  },
+  {
+    "wikiId": "Q7126154",
+    "name": "Palace Bingo and Casino",
+    "cat": "casino",
+    "lon": -94.6509,
+    "lat": 47.4029
+  },
+  {
+    "wikiId": "Q7134251",
+    "name": "Paradise Casino",
+    "cat": "casino",
+    "lon": -114.615,
+    "lat": 32.735
+  },
+  {
+    "wikiId": "Q7141401",
+    "name": "Parx Casino and Racing",
+    "cat": "casino",
+    "lon": -74.95,
+    "lat": 40.123
+  },
+  {
+    "wikiId": "Q7158663",
+    "name": "Pechanga Resort and Casino",
+    "cat": "casino",
+    "lon": -117.107,
+    "lat": 33.456
+  },
+  {
+    "wikiId": "Q7180680",
+    "name": "Pharaoh's Casino",
+    "cat": "casino",
+    "lon": -86.18555556,
+    "lat": 12.14722222
+  },
+  {
+    "wikiId": "Q7196667",
+    "name": "Pioneer Club Las Vegas",
+    "cat": "casino",
+    "lon": -115.146,
+    "lat": 36.171
+  },
+  {
+    "wikiId": "Q7203216",
+    "name": "Playboy Club",
+    "cat": "casino",
+    "lon": -115.198,
+    "lat": 36.1153
+  },
+  {
+    "wikiId": "Q7237931",
+    "name": "Prairie Meadows Racetrack",
+    "cat": "casino",
+    "lon": -93.4884,
+    "lat": 41.6548
+  },
+  {
+    "wikiId": "Q7241590",
+    "name": "Presque Isle Downs",
+    "cat": "casino",
+    "lon": -80.0312,
+    "lat": 42.0665
+  },
+  {
+    "wikiId": "Q7284072",
+    "name": "Railroad Pass Casino",
+    "cat": "casino",
+    "lon": -114.912,
+    "lat": 35.9725
+  },
+  {
+    "wikiId": "Q7284594",
+    "name": "Rainbow Casino",
+    "cat": "casino",
+    "lon": -114.064,
+    "lat": 40.7373
+  },
+  {
+    "wikiId": "Q7290016",
+    "name": "Rampart Casino",
+    "cat": "casino",
+    "lon": -115.291,
+    "lat": 36.1758
+  },
+  {
+    "wikiId": "Q7304180",
+    "name": "Red Garter Casino",
+    "cat": "casino",
+    "lon": -114.066,
+    "lat": 40.7386
+  },
+  {
+    "wikiId": "Q7304924",
+    "name": "Red Rock Casino, Resort & Spa",
+    "cat": "casino",
+    "lon": -115.33,
+    "lat": 36.1544
+  },
+  {
+    "wikiId": "Q7337242",
+    "name": "River City Casino",
+    "cat": "casino",
+    "lon": -90.2645,
+    "lat": 38.5308
+  },
+  {
+    "wikiId": "Q7338292",
+    "name": "Rivers Casino",
+    "cat": "casino",
+    "lon": -80.0215,
+    "lat": 40.4476
+  },
+  {
+    "wikiId": "Q7398996",
+    "name": "Saganing Eagles Landing Casino",
+    "cat": "casino",
+    "lon": -83.9126,
+    "lat": 43.9274
+  },
+  {
+    "wikiId": "Q7415053",
+    "name": "San Pablo Lytton Casino",
+    "cat": "casino",
+    "lon": -122.334,
+    "lat": 37.9525
+  },
+  {
+    "wikiId": "Q7419170",
+    "name": "Santa Ana Star Casino",
+    "cat": "casino",
+    "lon": -106.566,
+    "lat": 35.3288
+  },
+  {
+    "wikiId": "Q7419984",
+    "name": "Santa Ysabel Casino",
+    "cat": "casino",
+    "lon": -116.691,
+    "lat": 33.1797
+  },
+  {
+    "wikiId": "Q7423351",
+    "name": "Saratoga Casino and Raceway",
+    "cat": "casino",
+    "lon": -73.7738,
+    "lat": 43.0615
+  },
+  {
+    "wikiId": "Q7449499",
+    "name": "Seminole Casino Immokalee",
+    "cat": "casino",
+    "lon": -81.41646,
+    "lat": 26.4106
+  },
+  {
+    "wikiId": "Q7449511",
+    "name": "Seminole Hard Rock Hotel and Casino Hollywood",
+    "cat": "casino",
+    "lon": -80.21056,
+    "lat": 26.05072
+  },
+  {
+    "wikiId": "Q7449512",
+    "name": "Seminole Hard Rock Hotel and Casino Tampa",
+    "cat": "casino",
+    "lon": -82.3728,
+    "lat": 27.9935
+  },
+  {
+    "wikiId": "Q7450321",
+    "name": "Seneca Niagara Casino & Hotel",
+    "cat": "casino",
+    "lon": -79.05694,
+    "lat": 43.086145
+  },
+  {
+    "wikiId": "Q7457209",
+    "name": "Seven Clans Casino Thief River Falls",
+    "cat": "casino",
+    "lon": -96.03421,
+    "lat": 48.01865
+  },
+  {
+    "wikiId": "Q7515906",
+    "name": "Silver City Casino",
+    "cat": "casino",
+    "lon": -115.15888889,
+    "lat": 36.1375
+  },
+  {
+    "wikiId": "Q7516319",
+    "name": "Silver Slipper Casino",
+    "cat": "casino",
+    "lon": -89.42547,
+    "lat": 30.2391
+  },
+  {
+    "wikiId": "Q7549862",
+    "name": "Soaring Eagle Casino & Resort",
+    "cat": "casino",
+    "lon": -84.7126,
+    "lat": 43.6082
+  },
+  {
+    "wikiId": "Q7566278",
+    "name": "South Beach Casino",
+    "cat": "casino",
+    "lon": -96.6217,
+    "lat": 50.361
+  },
+  {
+    "wikiId": "Q7577900",
+    "name": "Spirit Mountain Casino",
+    "cat": "casino",
+    "lon": -123.581,
+    "lat": 45.058
+  },
+  {
+    "wikiId": "Q7580071",
+    "name": "Spotlight 29 Casino",
+    "cat": "casino",
+    "lon": -116.183,
+    "lat": 33.7106
+  },
+  {
+    "wikiId": "Q7617941",
+    "name": "Stockbridge Casino",
+    "cat": "casino",
+    "lon": -73.301667,
+    "lat": 42.282222
+  },
+  {
+    "wikiId": "Q7634722",
+    "name": "SugarHouse Casino",
+    "cat": "casino",
+    "lon": -75.1314,
+    "lat": 39.9642
+  },
+  {
+    "wikiId": "Q7634755",
+    "name": "Sugar Bowl Casino",
+    "cat": "casino",
+    "lon": -122.367,
+    "lat": 37.965
+  },
+  {
+    "wikiId": "Q7639045",
+    "name": "Suncoast Casino and Entertainment World",
+    "cat": "casino",
+    "lon": 31.0325,
+    "lat": -29.834444
+  },
+  {
+    "wikiId": "Q7641354",
+    "name": "Sunset Station",
+    "cat": "casino",
+    "lon": -115.04,
+    "lat": 36.0608
+  },
+  {
+    "wikiId": "Q7745429",
+    "name": "The Landmark Hotel and Casino",
+    "cat": "casino",
+    "lon": -115.155808,
+    "lat": 36.133051
+  },
+  {
+    "wikiId": "Q7751608",
+    "name": "The Mint Las Vegas",
+    "cat": "casino",
+    "lon": -115.145,
+    "lat": 36.1708
+  },
+  {
+    "wikiId": "Q7760008",
+    "name": "The Reef Hotel Casino",
+    "cat": "casino",
+    "lon": 145.779,
+    "lat": -16.9233
+  },
+  {
+    "wikiId": "Q7774915",
+    "name": "The Wild Wild West Casino",
+    "cat": "casino",
+    "lon": -74.4313,
+    "lat": 39.3557
+  },
+  {
+    "wikiId": "Q7851907",
+    "name": "Tulalip Resort Casino",
+    "cat": "casino",
+    "lon": -122.189,
+    "lat": 48.0881
+  },
+  {
+    "wikiId": "Q7856040",
+    "name": "Turning Stone Resort & Casino",
+    "cat": "casino",
+    "lon": -75.5898,
+    "lat": 43.1151
+  },
+  {
+    "wikiId": "Q7858263",
+    "name": "Twin Pine Casino",
+    "cat": "casino",
+    "lon": -122.624,
+    "lat": 38.7324
+  },
+  {
+    "wikiId": "Q7858275",
+    "name": "Twin River Casino",
+    "cat": "casino",
+    "lon": -71.4487,
+    "lat": 41.8884
+  },
+  {
+    "wikiId": "Q7912057",
+    "name": "Valley Forge Casino Resort",
+    "cat": "casino",
+    "lon": -75.416851,
+    "lat": 40.09713
+  },
+  {
+    "wikiId": "Q7982555",
+    "name": "Wendover Nugget",
+    "cat": "casino",
+    "lon": -114.044,
+    "lat": 40.7355
+  },
+  {
+    "wikiId": "Q8000667",
+    "name": "Wild Horse Casino",
+    "cat": "casino",
+    "lon": -106.98691667,
+    "lat": 36.93530556
+  },
+  {
+    "wikiId": "Q8000862",
+    "name": "Wild Wild West Gambling Hall & Hotel",
+    "cat": "casino",
+    "lon": -115.185,
+    "lat": 36.1016
+  },
+  {
+    "wikiId": "Q8001263",
+    "name": "Wildhorse Resort & Casino",
+    "cat": "casino",
+    "lon": -118.679,
+    "lat": 45.647
+  },
+  {
+    "wikiId": "Q8023608",
+    "name": "WinStar World Casino",
+    "cat": "casino",
+    "lon": -97.132,
+    "lat": 33.758
+  },
+  {
+    "wikiId": "Q8037767",
+    "name": "Wrest Point Hotel Casino",
+    "cat": "casino",
+    "lon": 147.338055555,
+    "lat": -42.901944444
+  },
+  {
+    "wikiId": "Q8342032",
+    "name": "Q8342032",
+    "cat": "casino",
+    "lon": -2.723641666,
+    "lat": 43.418661111
+  },
+  {
+    "wikiId": "Q8342036",
+    "name": "Casino de Murcia",
+    "cat": "casino",
+    "lon": -1.129032,
+    "lat": 37.985423
+  },
+  {
+    "wikiId": "Q8353176",
+    "name": "Edificio del Círculo Mercantil e Industrial y Teatro Cervantes",
+    "cat": "casino",
+    "lon": -2.463569298,
+    "lat": 36.83708778
+  },
+  {
+    "wikiId": "Q9336994",
+    "name": "Silverton Casino Hotel",
+    "cat": "casino",
+    "lon": -115.184,
+    "lat": 36.0418
+  },
+  {
+    "wikiId": "Q10348902",
+    "name": "Pestana Casino Park",
+    "cat": "casino",
+    "lon": -16.91731667,
+    "lat": 32.64387778
+  },
+  {
+    "wikiId": "Q10443520",
+    "name": "Q10443520",
+    "cat": "casino",
+    "lon": 12.99222222,
+    "lat": 55.6025
+  },
+  {
+    "wikiId": "Q10443521",
+    "name": "Q10443521",
+    "cat": "casino",
+    "lon": 11.95934722,
+    "lat": 57.70754167
+  },
+  {
+    "wikiId": "Q10443522",
+    "name": "Q10443522",
+    "cat": "casino",
+    "lon": 18.055225,
+    "lat": 59.33327778
+  },
+  {
+    "wikiId": "Q10925457",
+    "name": "Q10925457",
+    "cat": "casino",
+    "lon": 113.5526723,
+    "lat": 22.197516
+  },
+  {
+    "wikiId": "Q11855082",
+    "name": "Casino Helsinki",
+    "cat": "casino",
+    "lon": 24.9455,
+    "lat": 60.1718
+  },
+  {
+    "wikiId": "Q11859481",
+    "name": "Fennia Building",
+    "cat": "casino",
+    "lon": 24.945645,
+    "lat": 60.171637
+  },
+  {
+    "wikiId": "Q12261683",
+    "name": "Gran Kursaal, Donostia-San Sebastián",
+    "cat": "casino",
+    "lon": -1.97908889,
+    "lat": 43.32454167
+  },
+  {
+    "wikiId": "Q12305508",
+    "name": "Q12305508",
+    "cat": "casino",
+    "lon": 12.5868,
+    "lat": 55.66713
+  },
+  {
+    "wikiId": "Q12403507",
+    "name": "Oasis",
+    "cat": "casino",
+    "lon": 35.447972222,
+    "lat": 31.8325
+  },
+  {
+    "wikiId": "Q12622010",
+    "name": "Niagara Fallsview Casino Resort",
+    "cat": "casino",
+    "lon": -79.0808,
+    "lat": 43.0828
+  },
+  {
+    "wikiId": "Q12723718",
+    "name": "Arad Casino",
+    "cat": "casino",
+    "lon": 21.3205,
+    "lat": 46.172
+  },
+  {
+    "wikiId": "Q12723723",
+    "name": "Vatra Dornei Casino",
+    "cat": "casino",
+    "lon": 25.354916,
+    "lat": 47.345061
+  },
+  {
+    "wikiId": "Q12723726",
+    "name": "Constanța Casino",
+    "cat": "casino",
+    "lon": 28.6635,
+    "lat": 44.1705
+  },
+  {
+    "wikiId": "Q12723728",
+    "name": "Sinaia Casino",
+    "cat": "casino",
+    "lon": 25.55331,
+    "lat": 45.35516
+  },
+  {
+    "wikiId": "Q13081614",
+    "name": "Officer's Casino",
+    "cat": "casino",
+    "lon": 18.424147222,
+    "lat": 43.857436111
+  },
+  {
+    "wikiId": "Q13518191",
+    "name": "Sporting Casino",
+    "cat": "casino",
+    "lon": -1.43489,
+    "lat": 43.6599
+  },
+  {
+    "wikiId": "Q14682433",
+    "name": "Hustler Casino",
+    "cat": "casino",
+    "lon": -118.292826,
+    "lat": 33.891946
+  },
+  {
+    "wikiId": "Q14684238",
+    "name": "Viejas Casino",
+    "cat": "casino",
+    "lon": -116.705,
+    "lat": 32.8418
+  },
+  {
+    "wikiId": "Q14704299",
+    "name": "Harrah's North Kansas City",
+    "cat": "casino",
+    "lon": -94.5354,
+    "lat": 39.1485
+  },
+  {
+    "wikiId": "Q14705265",
+    "name": "Resorts World Las Vegas",
+    "cat": "casino",
+    "lon": -115.168,
+    "lat": 36.1339
+  },
+  {
+    "wikiId": "Q14705267",
+    "name": "Riverside Hotel",
+    "cat": "casino",
+    "lon": -119.81241111,
+    "lat": 39.5247
+  },
+  {
+    "wikiId": "Q26668940",
+    "name": "The Casino At Blackpool Pleasure Beach",
+    "cat": "casino",
+    "lon": -3.055932,
+    "lat": 53.793068
+  },
+  {
+    "wikiId": "Q28127642",
+    "name": "Okada Manila",
+    "cat": "casino",
+    "lon": 120.980556,
+    "lat": 14.5125
+  },
+  {
+    "wikiId": "Q28368852",
+    "name": "Poker Palace",
+    "cat": "casino",
+    "lon": -115.107274,
+    "lat": 36.209859
+  },
+  {
+    "wikiId": "Q28406099",
+    "name": "Coeur d’Alene Casino",
+    "cat": "casino",
+    "lon": -116.97439,
+    "lat": 47.42682
+  },
+  {
+    "wikiId": "Q28448276",
+    "name": "Skyline Casino",
+    "cat": "casino",
+    "lon": -115.0085,
+    "lat": 36.0625
+  },
+  {
+    "wikiId": "Q28451944",
+    "name": "Oasis",
+    "cat": "casino",
+    "lon": -114.095833333,
+    "lat": 36.804722222
+  },
+  {
+    "wikiId": "Q28494919",
+    "name": "Casino d'Évian",
+    "cat": "casino",
+    "lon": 6.589333333,
+    "lat": 46.401333333
+  },
+  {
+    "wikiId": "Q28842729",
+    "name": "Hollywood Park Casino",
+    "cat": "casino",
+    "lon": -118.338611111,
+    "lat": 33.946416666
+  },
+  {
+    "wikiId": "Q28952558",
+    "name": "Municipal Casino of Cannes",
+    "cat": "casino",
+    "lon": 7.0182056,
+    "lat": 43.5508
+  },
+  {
+    "wikiId": "Q28962236",
+    "name": "Casino Arias Montano",
+    "cat": "casino",
+    "lon": -6.560842197,
+    "lat": 37.89436877
+  },
+  {
+    "wikiId": "Q29096878",
+    "name": "Alon Las Vegas",
+    "cat": "casino",
+    "lon": -115.16833333,
+    "lat": 36.12944444
+  },
+  {
+    "wikiId": "Q29097257",
+    "name": "Meskwaki Casino",
+    "cat": "casino",
+    "lon": -92.6685,
+    "lat": 41.9959
+  },
+  {
+    "wikiId": "Q29831950",
+    "name": "Ilani Casino Resort",
+    "cat": "casino",
+    "lon": -122.707277777,
+    "lat": 45.853361111
+  },
+  {
+    "wikiId": "Q29927326",
+    "name": "Ancien Casino des Bains",
+    "cat": "casino",
+    "lon": 7.17089,
+    "lat": 46.1464
+  },
+  {
+    "wikiId": "Q30061386",
+    "name": "Q30061386",
+    "cat": "casino",
+    "lon": 1.07064,
+    "lat": 49.92644
+  },
+  {
+    "wikiId": "Q31940770",
+    "name": "Royal Victoria Pavilion",
+    "cat": "casino",
+    "lon": 1.423973,
+    "lat": 51.33193
+  },
+  {
+    "wikiId": "Q32443392",
+    "name": "Casino Militar, Melilla",
+    "cat": "casino",
+    "lon": -2.937383333,
+    "lat": 35.292858333
+  },
+  {
+    "wikiId": "Q33100153",
+    "name": "CC-Casino Blankenberge",
+    "cat": "casino",
+    "lon": 3.129497,
+    "lat": 51.316419
+  },
+  {
+    "wikiId": "Q41313476",
+    "name": "Kasino",
+    "cat": "casino",
+    "lon": 9.917774141,
+    "lat": 49.797600691
+  },
+  {
+    "wikiId": "Q41338448",
+    "name": "Kasino",
+    "cat": "casino",
+    "lon": 9.92089,
+    "lat": 50.38723
+  },
+  {
+    "wikiId": "Q41739213",
+    "name": "Villa Spada al Gianicolo",
+    "cat": "casino",
+    "lon": 12.464417,
+    "lat": 41.887722
+  },
+  {
+    "wikiId": "Q42405141",
+    "name": "Casino Joa",
+    "cat": "casino",
+    "lon": 5.88715,
+    "lat": 43.10196
+  },
+  {
+    "wikiId": "Q42786648",
+    "name": "Cazinoul Bistrița",
+    "cat": "casino",
+    "lon": 24.492286,
+    "lat": 47.129764
+  },
+  {
+    "wikiId": "Q47526064",
+    "name": "Vogelsbergstraße 36",
+    "cat": "casino",
+    "lon": 9.396446965,
+    "lat": 50.63343852
+  },
+  {
+    "wikiId": "Q48180129",
+    "name": "Casino de las Termas Pallarés",
+    "cat": "casino",
+    "lon": -1.898499,
+    "lat": 41.295487
+  },
+  {
+    "wikiId": "Q48804229",
+    "name": "Angel of the Winds Casino Resort",
+    "cat": "casino",
+    "lon": -122.18472222,
+    "lat": 48.21444444
+  },
+  {
+    "wikiId": "Q48850901",
+    "name": "Algiers Hotel",
+    "cat": "casino",
+    "lon": -115.161416,
+    "lat": 36.136597
+  },
+  {
+    "wikiId": "Q49477131",
+    "name": "Casa De Tableta",
+    "cat": "casino",
+    "lon": -122.193888888,
+    "lat": 37.382222222
+  },
+  {
+    "wikiId": "Q50385063",
+    "name": "Manila Grand Opera Hotel & Casino",
+    "cat": "casino",
+    "lon": 120.98172,
+    "lat": 14.6056
+  },
+  {
+    "wikiId": "Q52062983",
+    "name": "Casino Militar, Ceuta",
+    "cat": "casino",
+    "lon": -5.308971,
+    "lat": 35.887178
+  },
+  {
+    "wikiId": "Q52833954",
+    "name": "Casino de Vernet-les-Bains",
+    "cat": "casino",
+    "lon": 2.3886,
+    "lat": 42.544
+  },
+  {
+    "wikiId": "Q54958472",
+    "name": "Gardens Casino",
+    "cat": "casino",
+    "lon": -118.078737,
+    "lat": 33.832334
+  },
+  {
+    "wikiId": "Q55075418",
+    "name": "Kansas Crossing Casino",
+    "cat": "casino",
+    "lon": -94.70929,
+    "lat": 37.34386
+  },
+  {
+    "wikiId": "Q55610159",
+    "name": "Dusk Till Dawn (casino)",
+    "cat": "casino",
+    "lon": -1.178704,
+    "lat": 52.935187
+  },
+  {
+    "wikiId": "Q56237318",
+    "name": "Casinò Municipale di San Pellegrino Terme",
+    "cat": "casino",
+    "lon": 9.663667,
+    "lat": 45.84079
+  },
+  {
+    "wikiId": "Q58287828",
+    "name": "Kursaal Blankenberge",
+    "cat": "casino",
+    "lon": 3.129494444,
+    "lat": 51.316416666
+  },
+  {
+    "wikiId": "Q58400707",
+    "name": "Kurhaus Westerland",
+    "cat": "casino",
+    "lon": 8.30641,
+    "lat": 54.90927
+  },
+  {
+    "wikiId": "Q59191908",
+    "name": "Playground Poker Club",
+    "cat": "casino",
+    "lon": -73.7063561,
+    "lat": 45.3768334
+  },
+  {
+    "wikiId": "Q61610111",
+    "name": "Kulturhaus Heringsdorf",
+    "cat": "casino",
+    "lon": 14.1673781,
+    "lat": 53.9569622
+  },
+  {
+    "wikiId": "Q61675982",
+    "name": "Showboat Hotel and Casino",
+    "cat": "casino",
+    "lon": -115.112,
+    "lat": 36.153
+  },
+  {
+    "wikiId": "Q61748018",
+    "name": "Monte Carlo Resort and Casino",
+    "cat": "casino",
+    "lon": -115.176027,
+    "lat": 36.104696
+  },
+  {
+    "wikiId": "Q61773048",
+    "name": "SLS Las Vegas",
+    "cat": "casino",
+    "lon": -115.15639,
+    "lat": 36.14222
+  },
+  {
+    "wikiId": "Q61815247",
+    "name": "Hyatt Regency Lake Las Vegas Resort, Spa and Casino",
+    "cat": "casino",
+    "lon": -114.923443,
+    "lat": 36.114301
+  },
+  {
+    "wikiId": "Q61818855",
+    "name": "Barbary Coast",
+    "cat": "casino",
+    "lon": -115.171944444,
+    "lat": 36.115
+  },
+  {
+    "wikiId": "Q61818899",
+    "name": "Bill's Gamblin' Hall and Saloon",
+    "cat": "casino",
+    "lon": -115.171944444,
+    "lat": 36.115
+  },
+  {
+    "wikiId": "Q61818949",
+    "name": "Sassy Sally's",
+    "cat": "casino",
+    "lon": -115.145,
+    "lat": 36.1714
+  },
+  {
+    "wikiId": "Q61823059",
+    "name": "Category:Cassino da Urca",
+    "cat": "casino",
+    "lon": -43.1632274,
+    "lat": -22.9483587
+  },
+  {
+    "wikiId": "Q61848322",
+    "name": "The Quad Resort and Casino",
+    "cat": "casino",
+    "lon": -115.172777777,
+    "lat": 36.1175
+  },
+  {
+    "wikiId": "Q61858433",
+    "name": "Casino d'Ax-les-Thermes",
+    "cat": "casino",
+    "lon": 1.84,
+    "lat": 42.7211
+  },
+  {
+    "wikiId": "Q61858440",
+    "name": "Casino de Cauterets",
+    "cat": "casino",
+    "lon": -0.11531,
+    "lat": 42.88724
+  },
+  {
+    "wikiId": "Q61858444",
+    "name": "Casino de Font Romeu",
+    "cat": "casino",
+    "lon": 2.0402095,
+    "lat": 42.5049881
+  },
+  {
+    "wikiId": "Q61858462",
+    "name": "Q61858462",
+    "cat": "casino",
+    "lon": 2.6701,
+    "lat": 42.4733
+  },
+  {
+    "wikiId": "Q61859252",
+    "name": "Casino de Saint-Aubin-sur-Mer",
+    "cat": "casino",
+    "lon": -0.38602,
+    "lat": 49.32925
+  },
+  {
+    "wikiId": "Q61860811",
+    "name": "Espace Berlioz",
+    "cat": "casino",
+    "lon": 6.45755,
+    "lat": 47.96349
+  },
+  {
+    "wikiId": "Q61904275",
+    "name": "Lady Luck Casino & Hotel",
+    "cat": "casino",
+    "lon": -115.1414426,
+    "lat": 36.1718518
+  },
+  {
+    "wikiId": "Q61929925",
+    "name": "Q61929925",
+    "cat": "casino",
+    "lon": 16.475305555,
+    "lat": 49.184027777
+  },
+  {
+    "wikiId": "Q61960755",
+    "name": "Terrible's Hotel and Casino",
+    "cat": "casino",
+    "lon": -115.1524,
+    "lat": 36.114
+  },
+  {
+    "wikiId": "Q62571527",
+    "name": "Le Pharaon",
+    "cat": "casino",
+    "lon": 4.852922,
+    "lat": 45.784825
+  },
+  {
+    "wikiId": "Q63002952",
+    "name": "Palacete Rodríguez de Azero",
+    "cat": "casino",
+    "lon": -16.313638888,
+    "lat": 28.4885
+  },
+  {
+    "wikiId": "Q63395212",
+    "name": "Palais de Neptune",
+    "cat": "casino",
+    "lon": 1.59474,
+    "lat": 50.73019
+  },
+  {
+    "wikiId": "Q63410824",
+    "name": "Casino de Calais",
+    "cat": "casino",
+    "lon": 1.8425,
+    "lat": 50.964
+  },
+  {
+    "wikiId": "Q63808903",
+    "name": "Casino Municipal de Wimereux",
+    "cat": "casino",
+    "lon": 1.60594,
+    "lat": 50.76288
+  },
+  {
+    "wikiId": "Q63827236",
+    "name": "Casino Municipal de Biarritz",
+    "cat": "casino",
+    "lon": -1.559583333,
+    "lat": 43.483663888
+  },
+  {
+    "wikiId": "Q63835290",
+    "name": "Casino des Palmiers",
+    "cat": "casino",
+    "lon": 6.13213,
+    "lat": 43.11877
+  },
+  {
+    "wikiId": "Q63949649",
+    "name": "Casino Barrière de Menton",
+    "cat": "casino",
+    "lon": 7.4987815,
+    "lat": 43.772932
+  },
+  {
+    "wikiId": "Q63967283",
+    "name": "Palais des Congrès de Grasse",
+    "cat": "casino",
+    "lon": 6.92086,
+    "lat": 43.65759
+  },
+  {
+    "wikiId": "Q64222701",
+    "name": "Casino-Théatre d'Annecy",
+    "cat": "casino",
+    "lon": 6.1287,
+    "lat": 45.9008
+  },
+  {
+    "wikiId": "Q64222803",
+    "name": "Casino-Théatre d'Annecy",
+    "cat": "casino",
+    "lon": 6.128666666,
+    "lat": 45.900777777
+  },
+  {
+    "wikiId": "Q64658388",
+    "name": "Siena Hotel Spa Casino",
+    "cat": "casino",
+    "lon": -119.8105598,
+    "lat": 39.5250753
+  },
+  {
+    "wikiId": "Q64666028",
+    "name": "Fitzgeralds Casino and Hotel",
+    "cat": "casino",
+    "lon": -119.81388,
+    "lat": 39.52808
+  },
+  {
+    "wikiId": "Q64827173",
+    "name": "Reno Hilton",
+    "cat": "casino",
+    "lon": -119.778391,
+    "lat": 39.52312
+  },
+  {
+    "wikiId": "Q65032482",
+    "name": "Hotel Kursaal",
+    "cat": "casino",
+    "lon": 10.239451,
+    "lat": 43.875524
+  },
+  {
+    "wikiId": "Q65575239",
+    "name": "Q65575239",
+    "cat": "casino",
+    "lon": -2.949493,
+    "lat": 43.403996
+  },
+  {
+    "wikiId": "Q65770643",
+    "name": "Q65770643",
+    "cat": "casino",
+    "lon": -1.790965695,
+    "lat": 43.361505857
+  },
+  {
+    "wikiId": "Q67467907",
+    "name": "Casino de Plombières-les-Bains",
+    "cat": "casino",
+    "lon": 6.451836,
+    "lat": 47.96024
+  },
+  {
+    "wikiId": "Q67505656",
+    "name": "Casino de Vallorbe",
+    "cat": "casino",
+    "lon": 6.379677,
+    "lat": 46.711546
+  },
+  {
+    "wikiId": "Q67508978",
+    "name": "Cristallo",
+    "cat": "casino",
+    "lon": 10.2251417,
+    "lat": 43.8925271
+  },
+  {
+    "wikiId": "Q72113631",
+    "name": "Spielbank Seevetal",
+    "cat": "casino",
+    "lon": 9.980633,
+    "lat": 53.385617
+  },
+  {
+    "wikiId": "Q73415838",
+    "name": "Biblioteca Pública Municipal del Salón",
+    "cat": "casino",
+    "lon": -3.595863,
+    "lat": 37.169244
+  },
+  {
+    "wikiId": "Q81085137",
+    "name": "Montreux Casino",
+    "cat": "casino",
+    "lon": 6.9117,
+    "lat": 46.4295
+  },
+  {
+    "wikiId": "Q81552170",
+    "name": "San Souci Hotel (Las Vegas, Nev.)",
+    "cat": "casino",
+    "lon": -115.1734065,
+    "lat": 36.1230468
+  },
+  {
+    "wikiId": "Q81822599",
+    "name": "Casino do Luso",
+    "cat": "casino",
+    "lon": -8.376666666,
+    "lat": 40.383611111
+  },
+  {
+    "wikiId": "Q85763877",
+    "name": "Gold Horse Casino",
+    "cat": "casino",
+    "lon": -109.9801601,
+    "lat": 53.2760452
+  },
+  {
+    "wikiId": "Q85844010",
+    "name": "Holland Casino Amsterdam",
+    "cat": "casino",
+    "lon": 4.882138888,
+    "lat": 52.362472222
+  },
+  {
+    "wikiId": "Q86692260",
+    "name": "Feestpaleis",
+    "cat": "casino",
+    "lon": 3.722025,
+    "lat": 51.038168888
+  },
+  {
+    "wikiId": "Q87068912",
+    "name": "Palace Casino (Poços de Caldas)",
+    "cat": "casino",
+    "lon": -46.570055555,
+    "lat": -21.785527777
+  },
+  {
+    "wikiId": "Q87760946",
+    "name": "Casino Santa Fe",
+    "cat": "casino",
+    "lon": -60.700871,
+    "lat": -31.649119
+  },
+  {
+    "wikiId": "Q88220539",
+    "name": "Q88220539",
+    "cat": "casino",
+    "lon": 2.47295,
+    "lat": 48.83051
+  },
+  {
+    "wikiId": "Q88220549",
+    "name": "Q88220549",
+    "cat": "casino",
+    "lon": 2.47546,
+    "lat": 48.83111
+  },
+  {
+    "wikiId": "Q95155659",
+    "name": "Holland Casino Valkenburg",
+    "cat": "casino",
+    "lon": 5.823894444,
+    "lat": 50.862366666
+  },
+  {
+    "wikiId": "Q96106263",
+    "name": "Casino du Tréport",
+    "cat": "casino",
+    "lon": 1.3686,
+    "lat": 50.06275
+  },
+  {
+    "wikiId": "Q96106341",
+    "name": "Casino Joa du Tréport",
+    "cat": "casino",
+    "lon": 1.3686,
+    "lat": 50.06275
+  },
+  {
+    "wikiId": "Q96276853",
+    "name": "Q96276853",
+    "cat": "casino",
+    "lon": 5.83005,
+    "lat": 45.14301
+  },
+  {
+    "wikiId": "Q96374550",
+    "name": "Catfish Bend Casino",
+    "cat": "casino",
+    "lon": -91.139355,
+    "lat": 40.822756
+  },
+  {
+    "wikiId": "Q96943035",
+    "name": "Casino Kursaal",
+    "cat": "casino",
+    "lon": 3.709187,
+    "lat": 43.405001
+  },
+  {
+    "wikiId": "Q96943355",
+    "name": "Q96943355",
+    "cat": "casino",
+    "lon": -9.417748,
+    "lat": 38.963165
+  },
+  {
+    "wikiId": "Q97567291",
+    "name": "Éden-Théâtre",
+    "cat": "casino",
+    "lon": 3.421824,
+    "lat": 46.12548
+  },
+  {
+    "wikiId": "Q97571532",
+    "name": "Casino Le Grand Café",
+    "cat": "casino",
+    "lon": 3.42124,
+    "lat": 46.12336
+  },
+  {
+    "wikiId": "Q97616142",
+    "name": "Casino de Villaluenga del Rosario",
+    "cat": "casino",
+    "lon": -5.386232313,
+    "lat": 36.696869714
+  },
+  {
+    "wikiId": "Q97616483",
+    "name": "Círculo de la Unión",
+    "cat": "casino",
+    "lon": -5.365753174,
+    "lat": 36.75815974
+  },
+  {
+    "wikiId": "Q97624950",
+    "name": "Casino Militar",
+    "cat": "casino",
+    "lon": -4.786767586,
+    "lat": 37.88174268
+  },
+  {
+    "wikiId": "Q97640338",
+    "name": "Casino de Montellano",
+    "cat": "casino",
+    "lon": -5.572027247,
+    "lat": 36.994372618
+  },
+  {
+    "wikiId": "Q97691901",
+    "name": "Casino Municipal",
+    "cat": "casino",
+    "lon": -1.16657,
+    "lat": 46.15558
+  },
+  {
+    "wikiId": "Q98058080",
+    "name": "Casinò Lugano",
+    "cat": "casino",
+    "lon": 8.955,
+    "lat": 46.004
+  },
+  {
+    "wikiId": "Q98060388",
+    "name": "Q98060388",
+    "cat": "casino",
+    "lon": -6.582167324,
+    "lat": 37.713419595
+  },
+  {
+    "wikiId": "Q98060797",
+    "name": "Q98060797",
+    "cat": "casino",
+    "lon": -6.854327592,
+    "lat": 37.713102127
+  },
+  {
+    "wikiId": "Q98060809",
+    "name": "Q98060809",
+    "cat": "casino",
+    "lon": -6.871909843,
+    "lat": 37.709092866
+  },
+  {
+    "wikiId": "Q98285971",
+    "name": "Casino des Fumades",
+    "cat": "casino",
+    "lon": 4.228534,
+    "lat": 44.187593
+  },
+  {
+    "wikiId": "Q98310055",
+    "name": "Colégio de São José (Antigo Casino de Vila do Conde)",
+    "cat": "casino",
+    "lon": -8.74849224,
+    "lat": 41.352954864
+  },
+  {
+    "wikiId": "Q98399257",
+    "name": "Casino Municipal  de Sousse",
+    "cat": "casino",
+    "lon": 10.64092,
+    "lat": 35.83014
+  },
+  {
+    "wikiId": "Q98496227",
+    "name": "Kasino",
+    "cat": "casino",
+    "lon": 9.160665061,
+    "lat": 49.972530191
+  },
+  {
+    "wikiId": "Q98496615",
+    "name": "Kasino Flugplatz Kitzingen 1 in Kitzingen",
+    "cat": "casino",
+    "lon": 10.191696293,
+    "lat": 49.743771028
+  },
+  {
+    "wikiId": "Q98623018",
+    "name": "Kasino Carl-Thiersch-Straße 9 in Erlangen",
+    "cat": "casino",
+    "lon": 11.028614638,
+    "lat": 49.595273113
+  },
+  {
+    "wikiId": "Q98676242",
+    "name": "Kasino Leopoldstraße 8 in Amberg",
+    "cat": "casino",
+    "lon": 11.876370874,
+    "lat": 49.43221392
+  },
+  {
+    "wikiId": "Q98678617",
+    "name": "Kasino Silberhüttenstraße 42 in Flossenbürg",
+    "cat": "casino",
+    "lon": 12.355298615,
+    "lat": 49.737213482
+  },
+  {
+    "wikiId": "Q98698066",
+    "name": "Kasino Hans-Adlhoch-Straße 17 in Straubing",
+    "cat": "casino",
+    "lon": 12.564565143,
+    "lat": 48.873347741
+  },
+  {
+    "wikiId": "Q98701815",
+    "name": "Kasino Mitterharthausen 55; Winkelbreite in Feldkirchen (Niederbayern)",
+    "cat": "casino",
+    "lon": 12.554618391,
+    "lat": 48.829631301
+  },
+  {
+    "wikiId": "Q98739324",
+    "name": "Rumfordhaus München",
+    "cat": "casino",
+    "lon": 11.591647686,
+    "lat": 48.15390687
+  },
+  {
+    "wikiId": "Q98739639",
+    "name": "Kasino Infanteriestraße 9 in München",
+    "cat": "casino",
+    "lon": 11.555158843,
+    "lat": 48.157778854
+  },
+  {
+    "wikiId": "Q98742375",
+    "name": "Kasino Gebirgsjägerstraße 15; Nähe Gebirgsjägerstraße in Lenggries",
+    "cat": "casino",
+    "lon": 11.563416015,
+    "lat": 47.683248578
+  },
+  {
+    "wikiId": "Q98835418",
+    "name": "Q98835418",
+    "cat": "casino",
+    "lon": -8.363562583,
+    "lat": 37.101520538
+  },
+  {
+    "wikiId": "Q98968171",
+    "name": "Old Casino",
+    "cat": "casino",
+    "lon": 6.95688,
+    "lat": 49.24122
+  },
+  {
+    "wikiId": "Q100250647",
+    "name": "Gold Town Casino",
+    "cat": "casino",
+    "lon": -115.983236,
+    "lat": 36.209094
+  },
+  {
+    "wikiId": "Q101810323",
+    "name": "Casino de Lamalou-les-Bains",
+    "cat": "casino",
+    "lon": 3.0812728,
+    "lat": 43.593755
+  },
+  {
+    "wikiId": "Q102047185",
+    "name": "Eden-Casino",
+    "cat": "casino",
+    "lon": 1.62326,
+    "lat": 50.21491
+  },
+  {
+    "wikiId": "Q102116465",
+    "name": "Casino Marie-Christine",
+    "cat": "casino",
+    "lon": 0.089979,
+    "lat": 49.499989
+  },
+  {
+    "wikiId": "Q102176594",
+    "name": "Casino des Sables-d'Olonne",
+    "cat": "casino",
+    "lon": -1.7921,
+    "lat": 46.49458
+  },
+  {
+    "wikiId": "Q103316510",
+    "name": "Casino Apache",
+    "cat": "casino",
+    "lon": -105.660451373,
+    "lat": 33.298095552
+  },
+  {
+    "wikiId": "Q104176657",
+    "name": "Casino Barrière Ouistreham",
+    "cat": "casino",
+    "lon": -0.2593758,
+    "lat": 49.2890152
+  },
+  {
+    "wikiId": "Q104294043",
+    "name": "Casino de Pougues-les-Eaux",
+    "cat": "casino",
+    "lon": 3.100054829,
+    "lat": 47.080500965
+  },
+  {
+    "wikiId": "Q104455393",
+    "name": "Casino des Sables-d'Olonne",
+    "cat": "casino",
+    "lon": -1.7921,
+    "lat": 46.494580555
+  },
+  {
+    "wikiId": "Q104655698",
+    "name": "Casino d'Argelès",
+    "cat": "casino",
+    "lon": 3.047039111,
+    "lat": 42.555503615
+  },
+  {
+    "wikiId": "Q104698960",
+    "name": "Grand Casino de Berck-Plage",
+    "cat": "casino",
+    "lon": 1.5616,
+    "lat": 50.40861
+  },
+  {
+    "wikiId": "Q104732316",
+    "name": "Casino Palm Beach",
+    "cat": "casino",
+    "lon": 7.03719,
+    "lat": 43.53612
+  },
+  {
+    "wikiId": "Q104805105",
+    "name": "Casino de Fécamp",
+    "cat": "casino",
+    "lon": 0.35886,
+    "lat": 49.75701
+  },
+  {
+    "wikiId": "Q104805115",
+    "name": "Casino de Fécamp",
+    "cat": "casino",
+    "lon": 0.358876967,
+    "lat": 49.757044259
+  },
+  {
+    "wikiId": "Q104831029",
+    "name": "Casino de Fort-Mahon",
+    "cat": "casino",
+    "lon": 1.55839,
+    "lat": 50.33967
+  },
+  {
+    "wikiId": "Q104831054",
+    "name": "Casino de Fort-Mahon-Plage",
+    "cat": "casino",
+    "lon": 1.558232,
+    "lat": 50.3395843
+  },
+  {
+    "wikiId": "Q104832518",
+    "name": "Grand Casino de Chaudfontaine",
+    "cat": "casino",
+    "lon": 5.6424,
+    "lat": 50.58667
+  },
+  {
+    "wikiId": "Q105085133",
+    "name": "Eden-Casino",
+    "cat": "casino",
+    "lon": 0.08555,
+    "lat": 49.3741
+  },
+  {
+    "wikiId": "Q105094961",
+    "name": "Casino municipal de Villerville",
+    "cat": "casino",
+    "lon": 0.130076405,
+    "lat": 49.402886772
+  },
+  {
+    "wikiId": "Q105989639",
+    "name": "Casino de Bizerte",
+    "cat": "casino",
+    "lon": 9.875660648,
+    "lat": 37.273786168
+  },
+  {
+    "wikiId": "Q106083881",
+    "name": "Casino de Dinard",
+    "cat": "casino",
+    "lon": -2.053479,
+    "lat": 48.635359
+  },
+  {
+    "wikiId": "Q106225458",
+    "name": "Casino de Bray-Dunes",
+    "cat": "casino",
+    "lon": 2.51865,
+    "lat": 51.08056
+  },
+  {
+    "wikiId": "Q106535762",
+    "name": "Comanche Red River Hotel Casino",
+    "cat": "casino",
+    "lon": -98.52428,
+    "lat": 34.164092
+  },
+  {
+    "wikiId": "Q106536754",
+    "name": "Osage Casino Hotel - Skiatook",
+    "cat": "casino",
+    "lon": -96.05375,
+    "lat": 36.369333333
+  },
+  {
+    "wikiId": "Q106618849",
+    "name": "Casino Municipal de Saint-Malo",
+    "cat": "casino",
+    "lon": -2.01946,
+    "lat": 48.65169
+  },
+  {
+    "wikiId": "Q106618861",
+    "name": "Palais du Grand-Large",
+    "cat": "casino",
+    "lon": -2.01946,
+    "lat": 48.65169
+  },
+  {
+    "wikiId": "Q106687480",
+    "name": "Black Orchid",
+    "cat": "casino",
+    "lon": -115.150842144,
+    "lat": 36.178166441
+  },
+  {
+    "wikiId": "Q106687487",
+    "name": "Brown Derby Club",
+    "cat": "casino",
+    "lon": -115.146656315,
+    "lat": 36.185389867
+  },
+  {
+    "wikiId": "Q106687499",
+    "name": "New Brown Derby Club",
+    "cat": "casino",
+    "lon": -115.146720688,
+    "lat": 36.185389867
+  },
+  {
+    "wikiId": "Q106687521",
+    "name": "Carver House Hotel and Casino",
+    "cat": "casino",
+    "lon": -115.147236137,
+    "lat": 36.186422065
+  },
+  {
+    "wikiId": "Q106687539",
+    "name": "The Cove",
+    "cat": "casino",
+    "lon": -115.145617069,
+    "lat": 36.186814707
+  },
+  {
+    "wikiId": "Q106687546",
+    "name": "New El Morocco",
+    "cat": "casino",
+    "lon": -115.148353802,
+    "lat": 36.185211176
+  },
+  {
+    "wikiId": "Q106687561",
+    "name": "Club Ebony",
+    "cat": "casino",
+    "lon": -115.147561208,
+    "lat": 36.18597321
+  },
+  {
+    "wikiId": "Q106687601",
+    "name": "Love’s Cocktail Lounge",
+    "cat": "casino",
+    "lon": -115.148195888,
+    "lat": 36.186316488
+  },
+  {
+    "wikiId": "Q106687618",
+    "name": "Green Lantern",
+    "cat": "casino",
+    "lon": -115.147990362,
+    "lat": 36.18609444
+  },
+  {
+    "wikiId": "Q106687623",
+    "name": "Chickadee",
+    "cat": "casino",
+    "lon": -115.149719359,
+    "lat": 36.188139543
+  },
+  {
+    "wikiId": "Q106687641",
+    "name": "Club Alabama",
+    "cat": "casino",
+    "lon": -115.149611773,
+    "lat": 36.186113343
+  },
+  {
+    "wikiId": "Q106687652",
+    "name": "El Rio",
+    "cat": "casino",
+    "lon": -115.151904033,
+    "lat": 36.192567351
+  },
+  {
+    "wikiId": "Q106687676",
+    "name": "Little Casino",
+    "cat": "casino",
+    "lon": -115.148844086,
+    "lat": 36.185895529
+  },
+  {
+    "wikiId": "Q106687691",
+    "name": "Low Cost Games",
+    "cat": "casino",
+    "lon": -115.148823902,
+    "lat": 36.186297965
+  },
+  {
+    "wikiId": "Q106687718",
+    "name": "Westside Story",
+    "cat": "casino",
+    "lon": -115.153365888,
+    "lat": 36.188560783
+  },
+  {
+    "wikiId": "Q106687721",
+    "name": "Round Up Casino",
+    "cat": "casino",
+    "lon": -115.147797243,
+    "lat": 36.185938573
+  },
+  {
+    "wikiId": "Q106687725",
+    "name": "Silver Club & Café",
+    "cat": "casino",
+    "lon": -115.14798066,
+    "lat": 36.185894869
+  },
+  {
+    "wikiId": "Q107107886",
+    "name": "Black Gold Casino",
+    "cat": "casino",
+    "lon": -97.4138116,
+    "lat": 34.1720703
+  },
+  {
+    "wikiId": "Q107108594",
+    "name": "Border Casino",
+    "cat": "casino",
+    "lon": -97.1441053,
+    "lat": 33.7350565
+  },
+  {
+    "wikiId": "Q107122449",
+    "name": "Apache Casino Hotel",
+    "cat": "casino",
+    "lon": -98.3607663,
+    "lat": 34.6068824
+  },
+  {
+    "wikiId": "Q107429726",
+    "name": "Troia Casino",
+    "cat": "casino",
+    "lon": -8.903413,
+    "lat": 38.493286
+  },
+  {
+    "wikiId": "Q107486379",
+    "name": "Hotel Goldener Greif, Kitzbühel",
+    "cat": "casino",
+    "lon": 12.39018,
+    "lat": 47.44584
+  },
+  {
+    "wikiId": "Q107609915",
+    "name": "Little Nugget Diner",
+    "cat": "casino",
+    "lon": -119.813632671,
+    "lat": 39.527554178
+  },
+  {
+    "wikiId": "Q107656238",
+    "name": "OYO Hotel & Casino",
+    "cat": "casino",
+    "lon": -115.16774732,
+    "lat": 36.100401194
+  },
+  {
+    "wikiId": "Q108474414",
+    "name": "Ramleh Hotel and Casino",
+    "cat": "casino",
+    "lon": 29.9642731,
+    "lat": 31.2456148
+  },
+  {
+    "wikiId": "Q108475584",
+    "name": "Le Casino",
+    "cat": "casino",
+    "lon": 5.93149,
+    "lat": 43.12525
+  },
+  {
+    "wikiId": "Q108513453",
+    "name": "Casino du Fort-de-l'Eau",
+    "cat": "casino",
+    "lon": 3.18602,
+    "lat": 36.7475
+  },
+  {
+    "wikiId": "Q108914478",
+    "name": "Casino de la Roche-Posay",
+    "cat": "casino",
+    "lon": 0.824949333,
+    "lat": 46.778475858
+  },
+  {
+    "wikiId": "Q108916389",
+    "name": "Q108916389",
+    "cat": "casino",
+    "lon": 23.73683,
+    "lat": 38.152102
+  },
+  {
+    "wikiId": "Q109033497",
+    "name": "Grand Lodge Casino",
+    "cat": "casino",
+    "lon": -119.942352207,
+    "lat": 39.240131024
+  },
+  {
+    "wikiId": "Q109690002",
+    "name": "Casino de Beausoleil",
+    "cat": "casino",
+    "lon": 7.42304,
+    "lat": 43.74433
+  },
+  {
+    "wikiId": "Q109801729",
+    "name": "Snoqualmie Casino",
+    "cat": "casino",
+    "lon": -121.841944444,
+    "lat": 47.518888888
+  },
+  {
+    "wikiId": "Q110390692",
+    "name": "Protestant Chapel of Elisabethville",
+    "cat": "casino",
+    "lon": 1.8432976,
+    "lat": 48.9743784
+  },
+  {
+    "wikiId": "Q111309385",
+    "name": "Casino Tampere",
+    "cat": "casino",
+    "lon": 23.774166666,
+    "lat": 61.494444444
+  },
+  {
+    "wikiId": "Q111903385",
+    "name": "Quinta Vigia",
+    "cat": "casino",
+    "lon": -16.916101643,
+    "lat": 32.643922918
+  },
+  {
+    "wikiId": "Q111925535",
+    "name": "Q111925535",
+    "cat": "casino",
+    "lon": 9.69095,
+    "lat": 47.54815
+  },
+  {
+    "wikiId": "Q112093639",
+    "name": "Q112093639",
+    "cat": "casino",
+    "lon": 21.25632,
+    "lat": 48.72342
+  },
+  {
+    "wikiId": "Q112093966",
+    "name": "Q112093966",
+    "cat": "casino",
+    "lon": 21.2611,
+    "lat": 48.71821
+  },
+  {
+    "wikiId": "Q2941113",
+    "name": "Casino du Val-André",
+    "cat": "casino",
+    "lon": -2.5529792,
+    "lat": 48.5908245
+  },
+  {
+    "wikiId": "Q2941116",
+    "name": "Casino municipal",
+    "cat": "casino",
+    "lon": -1.559579,
+    "lat": 43.483666
+  },
+  {
+    "wikiId": "Q2941117",
+    "name": "Casino Municipal de Nice",
+    "cat": "casino",
+    "lon": 7.27090833,
+    "lat": 43.69717222
+  },
+  {
+    "wikiId": "Q2941131",
+    "name": "Casino du Liban",
+    "cat": "casino",
+    "lon": 35.640513,
+    "lat": 34.014976
+  },
+  {
+    "wikiId": "Q2967867",
+    "name": "Château Deganne",
+    "cat": "casino",
+    "lon": -1.1645,
+    "lat": 44.6631
+  },
+  {
+    "wikiId": "Q3149534",
+    "name": "Imperial Palace, Annecy",
+    "cat": "casino",
+    "lon": 6.14453,
+    "lat": 45.90363
+  },
+  {
+    "wikiId": "Q3356472",
+    "name": "The Orleans",
+    "cat": "casino",
+    "lon": -115.202,
+    "lat": 36.1046
+  },
+  {
+    "wikiId": "Q3361055",
+    "name": "Palais de la Méditerranée",
+    "cat": "casino",
+    "lon": 7.26313,
+    "lat": 43.6952
+  },
+  {
+    "wikiId": "Q6781363",
+    "name": "Live! Casino & Hotel",
+    "cat": "casino",
+    "lon": -76.727,
+    "lat": 39.1572
+  },
+  {
+    "wikiId": "Q6795823",
+    "name": "Genting Casino Westcliff",
+    "cat": "casino",
+    "lon": 0.7021,
+    "lat": 51.5333
+  },
+  {
+    "wikiId": "Q6802615",
+    "name": "McPhillips Street Station Casino",
+    "cat": "casino",
+    "lon": -97.1712,
+    "lat": 49.9195
+  },
+  {
+    "wikiId": "Q6819877",
+    "name": "Mermaids Casino",
+    "cat": "casino",
+    "lon": -115.145,
+    "lat": 36.1714
+  },
+  {
+    "wikiId": "Q14708676",
+    "name": "SaltCreek Casino",
+    "cat": "casino",
+    "lon": -97.953,
+    "lat": 35.1719
+  },
+  {
+    "wikiId": "Q112098071",
+    "name": "Q112098071",
+    "cat": "casino",
+    "lon": 20.429326,
+    "lat": 49.135543
+  },
+  {
+    "wikiId": "Q112098590",
+    "name": "Q112098590",
+    "cat": "casino",
+    "lon": 20.58818,
+    "lat": 49.02469
+  },
+  {
+    "wikiId": "Q112101110",
+    "name": "Q112101110",
+    "cat": "casino",
+    "lon": 20.5584,
+    "lat": 49.30496
+  },
+  {
+    "wikiId": "Q112104148",
+    "name": "Q112104148",
+    "cat": "casino",
+    "lon": 17.64646,
+    "lat": 48.20386
+  },
+  {
+    "wikiId": "Q112255832",
+    "name": "Casino Ajax",
+    "cat": "casino",
+    "lon": -79.00226,
+    "lat": 43.87162
+  },
+  {
+    "wikiId": "Q112603193",
+    "name": "Gateway Casinos",
+    "cat": "casino",
+    "lon": -84.3432365,
+    "lat": 46.5174931
+  },
+  {
+    "wikiId": "Q113432920",
+    "name": "Liceo Casino",
+    "cat": "casino",
+    "lon": -8.645861111,
+    "lat": 42.432416666
+  }
+]
