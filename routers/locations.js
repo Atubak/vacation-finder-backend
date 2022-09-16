@@ -39,12 +39,9 @@ router.get("/categories", (req, res, next) => {
 });
 
 //make a post endpoint that recieves an array of categories in the body and returns the ranges that fulfill all the criteria
-router.post("/", (req, res, next) => {
-  //have to split the next line because httpie only accepts one string in the body
-  //when sending httpie post req, make sure to separate each cat with a comma
-  //will fix this when working on frontend
-  console.log(req.body.categories);
-  const categories = req.body.categories;
+router.get("/", (req, res, next) => {
+  //take the query params and split them into an array
+  const categories = req.query.cats.split(",");
 
   try {
     const allLocations = locationFinder(...categories);
