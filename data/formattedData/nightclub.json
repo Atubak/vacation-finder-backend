@@ -1,0 +1,3607 @@
+[
+  {
+    "wikiId": "Q7072247",
+    "name": "O2 ABC Glasgow",
+    "cat": "nightclub",
+    "lon": -4.2641799,
+    "lat": 55.865809
+  },
+  {
+    "wikiId": "Q7126199",
+    "name": "Palace Theatre, Swansea",
+    "cat": "nightclub",
+    "lon": -3.94111111,
+    "lat": 51.6275
+  },
+  {
+    "wikiId": "Q7127710",
+    "name": "Palladium",
+    "cat": "nightclub",
+    "lon": -73.9882,
+    "lat": 40.7333
+  },
+  {
+    "wikiId": "Q7180915",
+    "name": "Phase 1",
+    "cat": "nightclub",
+    "lon": -76.995,
+    "lat": 38.882
+  },
+  {
+    "wikiId": "Q7187001",
+    "name": "Phoenix Theater",
+    "cat": "nightclub",
+    "lon": -122.643,
+    "lat": 38.235
+  },
+  {
+    "wikiId": "Q7203216",
+    "name": "Playboy Club",
+    "cat": "nightclub",
+    "lon": -115.198,
+    "lat": 36.1153
+  },
+  {
+    "wikiId": "Q7226027",
+    "name": "Polson Pier",
+    "cat": "nightclub",
+    "lon": -79.3529,
+    "lat": 43.6414
+  },
+  {
+    "wikiId": "Q7263244",
+    "name": "Pyramid Club",
+    "cat": "nightclub",
+    "lon": -73.9839,
+    "lat": 40.7258
+  },
+  {
+    "wikiId": "Q7284139",
+    "name": "Railway Club",
+    "cat": "nightclub",
+    "lon": -123.1172426,
+    "lat": 49.2828817
+  },
+  {
+    "wikiId": "Q7286133",
+    "name": "Raji's",
+    "cat": "nightclub",
+    "lon": -118.324536111,
+    "lat": 34.101427777
+  },
+  {
+    "wikiId": "Q7296141",
+    "name": "Raul's",
+    "cat": "nightclub",
+    "lon": -97.7417,
+    "lat": 30.2908
+  },
+  {
+    "wikiId": "Q7314401",
+    "name": "Republic Gardens",
+    "cat": "nightclub",
+    "lon": -77.0313,
+    "lat": 38.9173
+  },
+  {
+    "wikiId": "Q7321924",
+    "name": "Rhythm Room",
+    "cat": "nightclub",
+    "lon": -112.059724,
+    "lat": 33.494352
+  },
+  {
+    "wikiId": "Q7337009",
+    "name": "Rive Gauche Nightclub",
+    "cat": "nightclub",
+    "lon": -87.64772222,
+    "lat": 41.88708333
+  },
+  {
+    "wikiId": "Q7356061",
+    "name": "Rococo",
+    "cat": "nightclub",
+    "lon": -0.129,
+    "lat": 51.5113
+  },
+  {
+    "wikiId": "Q7370482",
+    "name": "Rothko",
+    "cat": "nightclub",
+    "lon": -73.9859,
+    "lat": 40.7189
+  },
+  {
+    "wikiId": "Q7374962",
+    "name": "Royal Vauxhall Tavern",
+    "cat": "nightclub",
+    "lon": -0.1219,
+    "lat": 51.4864
+  },
+  {
+    "wikiId": "Q7379106",
+    "name": "Rum Runner",
+    "cat": "nightclub",
+    "lon": -1.91073,
+    "lat": 52.4779
+  },
+  {
+    "wikiId": "Q7420633",
+    "name": "Santos Party House",
+    "cat": "nightclub",
+    "lon": -74.0014,
+    "lat": 40.7177
+  },
+  {
+    "wikiId": "Q7429657",
+    "name": "Scala",
+    "cat": "nightclub",
+    "lon": -0.1208,
+    "lat": 51.5308
+  },
+  {
+    "wikiId": "Q7438884",
+    "name": "Scream",
+    "cat": "nightclub",
+    "lon": -118.2593,
+    "lat": 34.0443
+  },
+  {
+    "wikiId": "Q7439753",
+    "name": "SeOne",
+    "cat": "nightclub",
+    "lon": -0.084725,
+    "lat": 51.5042
+  },
+  {
+    "wikiId": "Q7537148",
+    "name": "SkyBar",
+    "cat": "nightclub",
+    "lon": -118.3742,
+    "lat": 34.09442
+  },
+  {
+    "wikiId": "Q7540651",
+    "name": "Slimelight",
+    "cat": "nightclub",
+    "lon": -0.105277777,
+    "lat": 51.5325
+  },
+  {
+    "wikiId": "Q7572696",
+    "name": "Spaceland",
+    "cat": "nightclub",
+    "lon": -118.26825,
+    "lat": 34.08983333
+  },
+  {
+    "wikiId": "Q7601989",
+    "name": "Starkers!",
+    "cat": "nightclub",
+    "lon": -0.1222,
+    "lat": 51.4871
+  },
+  {
+    "wikiId": "Q7620064",
+    "name": "Stork Club",
+    "cat": "nightclub",
+    "lon": -73.9753,
+    "lat": 40.7603
+  },
+  {
+    "wikiId": "Q7662315",
+    "name": "ABC Cinema, Blackpool",
+    "cat": "nightclub",
+    "lon": -3.0488,
+    "lat": 53.8182
+  },
+  {
+    "wikiId": "Q7699890",
+    "name": "Tenjune",
+    "cat": "nightclub",
+    "lon": -74.0074,
+    "lat": 40.74
+  },
+  {
+    "wikiId": "Q7714188",
+    "name": "The Arches",
+    "cat": "nightclub",
+    "lon": -4.25833,
+    "lat": 55.8592
+  },
+  {
+    "wikiId": "Q7715328",
+    "name": "The Bag O'Nails",
+    "cat": "nightclub",
+    "lon": -0.138889,
+    "lat": 51.5124
+  },
+  {
+    "wikiId": "Q7715358",
+    "name": "The Baked Potato",
+    "cat": "nightclub",
+    "lon": -118.363,
+    "lat": 34.1367
+  },
+  {
+    "wikiId": "Q7715781",
+    "name": "The Bassline",
+    "cat": "nightclub",
+    "lon": 28.030816438,
+    "lat": -26.204719216
+  },
+  {
+    "wikiId": "Q7718922",
+    "name": "The Boarding House",
+    "cat": "nightclub",
+    "lon": -122.413,
+    "lat": 37.7897
+  },
+  {
+    "wikiId": "Q7719580",
+    "name": "The Box Soho",
+    "cat": "nightclub",
+    "lon": -0.134167,
+    "lat": 51.5125
+  },
+  {
+    "wikiId": "Q7719809",
+    "name": "The Brain",
+    "cat": "nightclub",
+    "lon": -0.1319,
+    "lat": 51.5108
+  },
+  {
+    "wikiId": "Q7721787",
+    "name": "The Cave of the Golden Calf",
+    "cat": "nightclub",
+    "lon": -0.1395,
+    "lat": 51.5107
+  },
+  {
+    "wikiId": "Q7721848",
+    "name": "The Cellar Door",
+    "cat": "nightclub",
+    "lon": -77.0678,
+    "lat": 38.9051
+  },
+  {
+    "wikiId": "Q7722365",
+    "name": "The Chestnut Cabaret",
+    "cat": "nightclub",
+    "lon": -75.2019,
+    "lat": 39.9531
+  },
+  {
+    "wikiId": "Q7727653",
+    "name": "The Coronet",
+    "cat": "nightclub",
+    "lon": -0.0989,
+    "lat": 51.4948
+  },
+  {
+    "wikiId": "Q7728776",
+    "name": "The Dame",
+    "cat": "nightclub",
+    "lon": -84.4981,
+    "lat": 38.0469
+  },
+  {
+    "wikiId": "Q7731483",
+    "name": "The Echo",
+    "cat": "nightclub",
+    "lon": -118.26,
+    "lat": 34.0778
+  },
+  {
+    "wikiId": "Q7731956",
+    "name": "The Emporium, Leicestershire",
+    "cat": "nightclub",
+    "lon": -1.3741,
+    "lat": 52.7234
+  },
+  {
+    "wikiId": "Q7732054",
+    "name": "The End",
+    "cat": "nightclub",
+    "lon": -0.1254,
+    "lat": 51.5167
+  },
+  {
+    "wikiId": "Q7732531",
+    "name": "The Establishment",
+    "cat": "nightclub",
+    "lon": -0.130555555,
+    "lat": 51.513888888
+  },
+  {
+    "wikiId": "Q7735292",
+    "name": "The Fridge",
+    "cat": "nightclub",
+    "lon": -0.1169,
+    "lat": 51.4602
+  },
+  {
+    "wikiId": "Q7735636",
+    "name": "The Gallery",
+    "cat": "nightclub",
+    "lon": -73.9978,
+    "lat": 40.7255
+  },
+  {
+    "wikiId": "Q7741268",
+    "name": "The Ice House",
+    "cat": "nightclub",
+    "lon": -118.130687,
+    "lat": 34.146524
+  },
+  {
+    "wikiId": "Q7743999",
+    "name": "The Kashmir Klub",
+    "cat": "nightclub",
+    "lon": -0.1529,
+    "lat": 51.5209
+  },
+  {
+    "wikiId": "Q7750536",
+    "name": "The Mason Jar",
+    "cat": "nightclub",
+    "lon": -112.032,
+    "lat": 33.494
+  },
+  {
+    "wikiId": "Q7761650",
+    "name": "The Roxy",
+    "cat": "nightclub",
+    "lon": -0.1331,
+    "lat": 51.5165
+  },
+  {
+    "wikiId": "Q7762054",
+    "name": "The Saint",
+    "cat": "nightclub",
+    "lon": -74.0121,
+    "lat": 40.2189
+  },
+  {
+    "wikiId": "Q7762468",
+    "name": "The Scene",
+    "cat": "nightclub",
+    "lon": -73.9882,
+    "lat": 40.76
+  },
+  {
+    "wikiId": "Q7763761",
+    "name": "The Shelter",
+    "cat": "nightclub",
+    "lon": -74.0086,
+    "lat": 40.7215
+  },
+  {
+    "wikiId": "Q7765966",
+    "name": "The Spitz",
+    "cat": "nightclub",
+    "lon": -0.0747222,
+    "lat": 51.5197
+  },
+  {
+    "wikiId": "Q7768428",
+    "name": "The Tender Trap",
+    "cat": "nightclub",
+    "lon": 151.224,
+    "lat": -33.8734
+  },
+  {
+    "wikiId": "Q7772636",
+    "name": "The Village",
+    "cat": "nightclub",
+    "lon": -6.26571,
+    "lat": 53.3367
+  },
+  {
+    "wikiId": "Q7773960",
+    "name": "The WayOut Club",
+    "cat": "nightclub",
+    "lon": -0.0765278,
+    "lat": 51.5117
+  },
+  {
+    "wikiId": "Q7774239",
+    "name": "The Wendy House",
+    "cat": "nightclub",
+    "lon": -1.564,
+    "lat": 53.796
+  },
+  {
+    "wikiId": "Q7775921",
+    "name": "The World",
+    "cat": "nightclub",
+    "lon": -73.9814,
+    "lat": 40.7214
+  },
+  {
+    "wikiId": "Q7776858",
+    "name": "The Zap",
+    "cat": "nightclub",
+    "lon": -0.1428807,
+    "lat": 50.8201113
+  },
+  {
+    "wikiId": "Q7777435",
+    "name": "Theatre Royal, Manchester",
+    "cat": "nightclub",
+    "lon": -2.2465,
+    "lat": 53.4777
+  },
+  {
+    "wikiId": "Q7801076",
+    "name": "Tier 3",
+    "cat": "nightclub",
+    "lon": -74.006,
+    "lat": 40.7194
+  },
+  {
+    "wikiId": "Q7801490",
+    "name": "Tiger Tiger",
+    "cat": "nightclub",
+    "lon": -0.13215,
+    "lat": 51.5101
+  },
+  {
+    "wikiId": "Q7811352",
+    "name": "Toad's Place",
+    "cat": "nightclub",
+    "lon": -72.9295,
+    "lat": 41.3115
+  },
+  {
+    "wikiId": "Q7831921",
+    "name": "Trade",
+    "cat": "nightclub",
+    "lon": -0.1058,
+    "lat": 51.5221
+  },
+  {
+    "wikiId": "Q7833171",
+    "name": "Tramp",
+    "cat": "nightclub",
+    "lon": -0.1377,
+    "lat": 51.5082
+  },
+  {
+    "wikiId": "Q7835710",
+    "name": "Trash",
+    "cat": "nightclub",
+    "lon": -0.1254,
+    "lat": 51.5167
+  },
+  {
+    "wikiId": "Q7844816",
+    "name": "Trocadero Transfer",
+    "cat": "nightclub",
+    "lon": -122.398,
+    "lat": 37.7791
+  },
+  {
+    "wikiId": "Q7853273",
+    "name": "Tunnel",
+    "cat": "nightclub",
+    "lon": -74.0075,
+    "lat": 40.7525
+  },
+  {
+    "wikiId": "Q7858049",
+    "name": "Twilo",
+    "cat": "nightclub",
+    "lon": -74.003833333,
+    "lat": 40.750666666
+  },
+  {
+    "wikiId": "Q7908558",
+    "name": "Vague club, Leeds",
+    "cat": "nightclub",
+    "lon": -1.553,
+    "lat": 53.799
+  },
+  {
+    "wikiId": "Q7918905",
+    "name": "Velfarre",
+    "cat": "nightclub",
+    "lon": 139.731,
+    "lat": 35.664
+  },
+  {
+    "wikiId": "Q7922986",
+    "name": "Veruka",
+    "cat": "nightclub",
+    "lon": -74.0046,
+    "lat": 40.7241
+  },
+  {
+    "wikiId": "Q7978928",
+    "name": "Webster Hall",
+    "cat": "nightclub",
+    "lon": -73.9892,
+    "lat": 40.7317
+  },
+  {
+    "wikiId": "Q7993784",
+    "name": "Whirl-Y-Gig",
+    "cat": "nightclub",
+    "lon": -0.125461,
+    "lat": 51.4843
+  },
+  {
+    "wikiId": "Q8056388",
+    "name": "Yost Theater",
+    "cat": "nightclub",
+    "lon": -117.86523,
+    "lat": 33.747511
+  },
+  {
+    "wikiId": "Q8066408",
+    "name": "Zaphod Beeblebrox",
+    "cat": "nightclub",
+    "lon": -75.6938,
+    "lat": 45.4279
+  },
+  {
+    "wikiId": "Q8074037",
+    "name": "Zoo Bar",
+    "cat": "nightclub",
+    "lon": -96.7008,
+    "lat": 40.8144
+  },
+  {
+    "wikiId": "Q10293696",
+    "name": "Hangar 110",
+    "cat": "nightclub",
+    "lon": -46.63232778,
+    "lat": -23.52509722
+  },
+  {
+    "wikiId": "Q10315093",
+    "name": "Sala La Riviera",
+    "cat": "nightclub",
+    "lon": -3.722191666,
+    "lat": 40.412997222
+  },
+  {
+    "wikiId": "Q10336724",
+    "name": "Earl Carroll Theatre",
+    "cat": "nightclub",
+    "lon": -118.32398,
+    "lat": 34.09825
+  },
+  {
+    "wikiId": "Q10475301",
+    "name": "Docklands",
+    "cat": "nightclub",
+    "lon": 18.12450278,
+    "lat": 59.31558611
+  },
+  {
+    "wikiId": "Q10578364",
+    "name": "The Matrix",
+    "cat": "nightclub",
+    "lon": -122.436,
+    "lat": 37.7987
+  },
+  {
+    "wikiId": "Q10676675",
+    "name": "Q10676675",
+    "cat": "nightclub",
+    "lon": 18.07227778,
+    "lat": 59.3365
+  },
+  {
+    "wikiId": "Q11776924",
+    "name": "Photos taken in Mega Club Katowice",
+    "cat": "nightclub",
+    "lon": 19.0063,
+    "lat": 50.265
+  },
+  {
+    "wikiId": "Q11797697",
+    "name": "Q11797697",
+    "cat": "nightclub",
+    "lon": 18.9801,
+    "lat": 50.2093
+  },
+  {
+    "wikiId": "Q28966558",
+    "name": "Palladium Theatre, Edinburgh",
+    "cat": "nightclub",
+    "lon": -3.203,
+    "lat": 55.945
+  },
+  {
+    "wikiId": "Q29483690",
+    "name": "Paradox Nightclub (former Bonded Warehouse)",
+    "cat": "nightclub",
+    "lon": -4.2743039,
+    "lat": 53.138935
+  },
+  {
+    "wikiId": "Q30133833",
+    "name": "Alte Utting",
+    "cat": "nightclub",
+    "lon": 11.5563438,
+    "lat": 48.1199311
+  },
+  {
+    "wikiId": "Q30591492",
+    "name": "Bassiani",
+    "cat": "nightclub",
+    "lon": 44.7908222,
+    "lat": 41.7227728
+  },
+  {
+    "wikiId": "Q31489295",
+    "name": "Palace Theatre",
+    "cat": "nightclub",
+    "lon": -2.101481,
+    "lat": 57.144688
+  },
+  {
+    "wikiId": "Q31504278",
+    "name": "The County",
+    "cat": "nightclub",
+    "lon": -4.1237888,
+    "lat": 53.2292041
+  },
+  {
+    "wikiId": "Q31677464",
+    "name": "People's Palace",
+    "cat": "nightclub",
+    "lon": -2.59555,
+    "lat": 51.45352
+  },
+  {
+    "wikiId": "Q31678311",
+    "name": "Queen's Theatre, Rhyl",
+    "cat": "nightclub",
+    "lon": -3.4922,
+    "lat": 53.321077777
+  },
+  {
+    "wikiId": "Q31679251",
+    "name": "Middlesbrough Empire",
+    "cat": "nightclub",
+    "lon": -1.2332,
+    "lat": 54.5759
+  },
+  {
+    "wikiId": "Q31679565",
+    "name": "Theatre Royal, Bournemouth",
+    "cat": "nightclub",
+    "lon": -1.877893,
+    "lat": 50.721184
+  },
+  {
+    "wikiId": "Q31680803",
+    "name": "Alexandra Theatre",
+    "cat": "nightclub",
+    "lon": -4.1226397,
+    "lat": 51.2093179
+  },
+  {
+    "wikiId": "Q31941715",
+    "name": "Playhouse",
+    "cat": "nightclub",
+    "lon": -1.50217,
+    "lat": 53.68222
+  },
+  {
+    "wikiId": "Q32269833",
+    "name": "Rex, Stratford",
+    "cat": "nightclub",
+    "lon": -0.00092,
+    "lat": 51.53854
+  },
+  {
+    "wikiId": "Q32676129",
+    "name": "Palace Theatre",
+    "cat": "nightclub",
+    "lon": -2.592941,
+    "lat": 53.38731
+  },
+  {
+    "wikiId": "Q33025327",
+    "name": "New Pavilion Cinema",
+    "cat": "nightclub",
+    "lon": -1.599080555,
+    "lat": 53.74285
+  },
+  {
+    "wikiId": "Q33025387",
+    "name": "Gaiety Theatre, Methil",
+    "cat": "nightclub",
+    "lon": -3.021219,
+    "lat": 56.180853
+  },
+  {
+    "wikiId": "Q33083983",
+    "name": "Palace Theatre, Bridgwater",
+    "cat": "nightclub",
+    "lon": -3.00846,
+    "lat": 51.12737
+  },
+  {
+    "wikiId": "Q33261638",
+    "name": "Cine Tropical",
+    "cat": "nightclub",
+    "lon": 13.23569,
+    "lat": -8.8204
+  },
+  {
+    "wikiId": "Q33677814",
+    "name": "Roxy Prague",
+    "cat": "nightclub",
+    "lon": 14.425916666,
+    "lat": 50.090638888
+  },
+  {
+    "wikiId": "Q33996272",
+    "name": "Elysée-Kino",
+    "cat": "nightclub",
+    "lon": 6.08628,
+    "lat": 50.77307
+  },
+  {
+    "wikiId": "Q35590763",
+    "name": "MMA Club",
+    "cat": "nightclub",
+    "lon": 11.566707,
+    "lat": 48.143719
+  },
+  {
+    "wikiId": "Q37993342",
+    "name": "Regent Cinema",
+    "cat": "nightclub",
+    "lon": 4.3739444,
+    "lat": 50.8284051
+  },
+  {
+    "wikiId": "Q38010811",
+    "name": "Q38010811",
+    "cat": "nightclub",
+    "lon": 15.44470278,
+    "lat": 47.06864722
+  },
+  {
+    "wikiId": "Q38244412",
+    "name": "Kino Apollo",
+    "cat": "nightclub",
+    "lon": 19.9432229,
+    "lat": 50.062004
+  },
+  {
+    "wikiId": "Q38518633",
+    "name": "Savoy Cinema",
+    "cat": "nightclub",
+    "lon": -1.4774888,
+    "lat": 51.2062192
+  },
+  {
+    "wikiId": "Q38813925",
+    "name": "Classic Grand",
+    "cat": "nightclub",
+    "lon": -4.2570127,
+    "lat": 55.8579254
+  },
+  {
+    "wikiId": "Q38909232",
+    "name": "Crescent Cinema",
+    "cat": "nightclub",
+    "lon": -1.5694462,
+    "lat": 53.7583477
+  },
+  {
+    "wikiId": "Q39291569",
+    "name": "ABC Middlesbrough",
+    "cat": "nightclub",
+    "lon": -1.23808,
+    "lat": 54.57287
+  },
+  {
+    "wikiId": "Q39666995",
+    "name": "Regal Cinema",
+    "cat": "nightclub",
+    "lon": -2.0178586,
+    "lat": 53.9592674
+  },
+  {
+    "wikiId": "Q39668762",
+    "name": "ABC Scunthorpe",
+    "cat": "nightclub",
+    "lon": -0.6560302,
+    "lat": 53.5908379
+  },
+  {
+    "wikiId": "Q40040825",
+    "name": "MOGRA",
+    "cat": "nightclub",
+    "lon": 139.774972222,
+    "lat": 35.702055555
+  },
+  {
+    "wikiId": "Q40582884",
+    "name": "Classic Yeovil",
+    "cat": "nightclub",
+    "lon": -2.627607,
+    "lat": 50.9405844
+  },
+  {
+    "wikiId": "Q41022258",
+    "name": "Classic Stroud",
+    "cat": "nightclub",
+    "lon": -2.2185452,
+    "lat": 51.7450778
+  },
+  {
+    "wikiId": "Q41105143",
+    "name": "Regal Cinema",
+    "cat": "nightclub",
+    "lon": -2.0633,
+    "lat": 52.33258
+  },
+  {
+    "wikiId": "Q41161094",
+    "name": "Clifton Leamington Spa",
+    "cat": "nightclub",
+    "lon": -1.533677,
+    "lat": 52.2855936
+  },
+  {
+    "wikiId": "Q41521104",
+    "name": "Madame Arthur",
+    "cat": "nightclub",
+    "lon": 2.339543888,
+    "lat": 48.882591111
+  },
+  {
+    "wikiId": "Q41558971",
+    "name": "State Theatre",
+    "cat": "nightclub",
+    "lon": -86.295409,
+    "lat": 32.371726
+  },
+  {
+    "wikiId": "Q41629287",
+    "name": "Cosy Super Cinema",
+    "cat": "nightclub",
+    "lon": -2.5227551,
+    "lat": 53.0668673
+  },
+  {
+    "wikiId": "Q41820139",
+    "name": "Majestic Theatre",
+    "cat": "nightclub",
+    "lon": -0.1355071,
+    "lat": 51.4627113
+  },
+  {
+    "wikiId": "Q42047859",
+    "name": "King's Cinema",
+    "cat": "nightclub",
+    "lon": 0.0253355,
+    "lat": 51.547259
+  },
+  {
+    "wikiId": "Q42212917",
+    "name": "Century Cinema",
+    "cat": "nightclub",
+    "lon": -0.3805039,
+    "lat": 51.5032873
+  },
+  {
+    "wikiId": "Q42213448",
+    "name": "Cannon Sutton",
+    "cat": "nightclub",
+    "lon": -0.19308,
+    "lat": 51.36144
+  },
+  {
+    "wikiId": "Q42296536",
+    "name": "Folies-Pigalle",
+    "cat": "nightclub",
+    "lon": 2.3369766,
+    "lat": 48.8821163
+  },
+  {
+    "wikiId": "Q42664808",
+    "name": "Toulouse Theatre",
+    "cat": "nightclub",
+    "lon": -90.064749,
+    "lat": 29.957032
+  },
+  {
+    "wikiId": "Q43160046",
+    "name": "Rialto Theatre",
+    "cat": "nightclub",
+    "lon": -81.7045469,
+    "lat": 41.4856745
+  },
+  {
+    "wikiId": "Q46698863",
+    "name": "Théâtre de Creil",
+    "cat": "nightclub",
+    "lon": 2.475486,
+    "lat": 49.261273
+  },
+  {
+    "wikiId": "Q47007828",
+    "name": "Národní Dům",
+    "cat": "nightclub",
+    "lon": 14.0419783,
+    "lat": 50.662295
+  },
+  {
+    "wikiId": "Q47163174",
+    "name": "Cassiopeia",
+    "cat": "nightclub",
+    "lon": 13.454798055,
+    "lat": 52.50711
+  },
+  {
+    "wikiId": "Q48909015",
+    "name": "The Banque",
+    "cat": "nightclub",
+    "lon": -76.2256879,
+    "lat": 36.9156177
+  },
+  {
+    "wikiId": "Q50335409",
+    "name": "De Roze Wolk",
+    "cat": "nightclub",
+    "lon": 5.116278,
+    "lat": 52.094917
+  },
+  {
+    "wikiId": "Q50809693",
+    "name": "Melodrom",
+    "cat": "nightclub",
+    "lon": 10.63456,
+    "lat": 47.91309
+  },
+  {
+    "wikiId": "Q50821779",
+    "name": "Melodrom",
+    "cat": "nightclub",
+    "lon": 10.64232,
+    "lat": 47.89991
+  },
+  {
+    "wikiId": "Q50843523",
+    "name": "Club Vaudeville",
+    "cat": "nightclub",
+    "lon": 9.72351,
+    "lat": 47.55113
+  },
+  {
+    "wikiId": "Q51776660",
+    "name": "Avantgarda Music Club",
+    "cat": "nightclub",
+    "lon": 15.590541666,
+    "lat": 49.397306666
+  },
+  {
+    "wikiId": "Q52061662",
+    "name": "Adria cinema",
+    "cat": "nightclub",
+    "lon": 19.413444,
+    "lat": 51.793139
+  },
+  {
+    "wikiId": "Q54165962",
+    "name": "Sala Nasa",
+    "cat": "nightclub",
+    "lon": -8.554505555,
+    "lat": 42.878627777
+  },
+  {
+    "wikiId": "Q54503140",
+    "name": "Nightclub Som das Ilhas",
+    "cat": "nightclub",
+    "lon": -15.47379,
+    "lat": 11.57795
+  },
+  {
+    "wikiId": "Q55154854",
+    "name": "Restaurante Pelicano",
+    "cat": "nightclub",
+    "lon": -15.57808,
+    "lat": 11.85906
+  },
+  {
+    "wikiId": "Q55908721",
+    "name": "Attica",
+    "cat": "nightclub",
+    "lon": -3.532972222,
+    "lat": 40.447027777
+  },
+  {
+    "wikiId": "Q56377416",
+    "name": "His Majesty's Theatre",
+    "cat": "nightclub",
+    "lon": 170.50228,
+    "lat": -45.88026
+  },
+  {
+    "wikiId": "Q56557398",
+    "name": "Tabaris Cabaret",
+    "cat": "nightclub",
+    "lon": 6.63454,
+    "lat": 46.51945
+  },
+  {
+    "wikiId": "Q57263170",
+    "name": "Tanzkabarett Rote Mühle",
+    "cat": "nightclub",
+    "lon": 12.37677,
+    "lat": 51.33364
+  },
+  {
+    "wikiId": "Q57547255",
+    "name": "Schützenhaus Oelsnitz",
+    "cat": "nightclub",
+    "lon": 12.169667,
+    "lat": 50.421083
+  },
+  {
+    "wikiId": "Q57601673",
+    "name": "Aquarium",
+    "cat": "nightclub",
+    "lon": 9.99286,
+    "lat": 48.39961
+  },
+  {
+    "wikiId": "Q57654638",
+    "name": "Tanz-Kabarett Barberina",
+    "cat": "nightclub",
+    "lon": 13.733559,
+    "lat": 51.041924
+  },
+  {
+    "wikiId": "Q57759634",
+    "name": "Delphi-Showpalast",
+    "cat": "nightclub",
+    "lon": 9.95807,
+    "lat": 53.5658
+  },
+  {
+    "wikiId": "Q57838809",
+    "name": "Bahnwärter Thiel",
+    "cat": "nightclub",
+    "lon": 11.55478,
+    "lat": 48.122104
+  },
+  {
+    "wikiId": "Q57901995",
+    "name": "La Fábrica de Chocolate Club",
+    "cat": "nightclub",
+    "lon": -8.717663888,
+    "lat": 42.235330555
+  },
+  {
+    "wikiId": "Q57902708",
+    "name": "La Iguana Club",
+    "cat": "nightclub",
+    "lon": -8.717419444,
+    "lat": 42.235513888
+  },
+  {
+    "wikiId": "Q4036652",
+    "name": "Cream",
+    "cat": "nightclub",
+    "lon": -2.981,
+    "lat": 53.402
+  },
+  {
+    "wikiId": "Q4042682",
+    "name": "The Leadmill",
+    "cat": "nightclub",
+    "lon": -1.4649,
+    "lat": 53.3762
+  },
+  {
+    "wikiId": "Q4637892",
+    "name": "43 Club",
+    "cat": "nightclub",
+    "lon": -0.130278,
+    "lat": 51.5119
+  },
+  {
+    "wikiId": "Q4645896",
+    "name": "93 Feet East",
+    "cat": "nightclub",
+    "lon": -0.071388888,
+    "lat": 51.521666666
+  },
+  {
+    "wikiId": "Q4646354",
+    "name": "9:30 Club",
+    "cat": "nightclub",
+    "lon": -77.0237,
+    "lat": 38.918
+  },
+  {
+    "wikiId": "Q4651989",
+    "name": "AIR",
+    "cat": "nightclub",
+    "lon": -1.8825,
+    "lat": 52.4756
+  },
+  {
+    "wikiId": "Q4767666",
+    "name": "Annabel's",
+    "cat": "nightclub",
+    "lon": -0.1465,
+    "lat": 51.5094
+  },
+  {
+    "wikiId": "Q4788509",
+    "name": "Area",
+    "cat": "nightclub",
+    "lon": -74.0085,
+    "lat": 40.7216
+  },
+  {
+    "wikiId": "Q4822057",
+    "name": "Aura Mayfair",
+    "cat": "nightclub",
+    "lon": -0.136389,
+    "lat": 51.5103
+  },
+  {
+    "wikiId": "Q4913716",
+    "name": "Bimbo's 365 Club",
+    "cat": "nightclub",
+    "lon": -122.416,
+    "lat": 37.8037
+  },
+  {
+    "wikiId": "Q4920503",
+    "name": "Black Cat",
+    "cat": "nightclub",
+    "lon": -77.0316,
+    "lat": 38.9146
+  },
+  {
+    "wikiId": "Q4928529",
+    "name": "Blow Up",
+    "cat": "nightclub",
+    "lon": -0.1409,
+    "lat": 51.5384
+  },
+  {
+    "wikiId": "Q4928830",
+    "name": "Blue Angel",
+    "cat": "nightclub",
+    "lon": -2.976,
+    "lat": 53.401
+  },
+  {
+    "wikiId": "Q4930815",
+    "name": "Blush Boutique Nightclub",
+    "cat": "nightclub",
+    "lon": -115.166,
+    "lat": 36.1293
+  },
+  {
+    "wikiId": "Q4931448",
+    "name": "Boardwalk",
+    "cat": "nightclub",
+    "lon": -1.46622,
+    "lat": 53.3845
+  },
+  {
+    "wikiId": "Q4982912",
+    "name": "Buck Owens Crystal Palace",
+    "cat": "nightclub",
+    "lon": -119.043,
+    "lat": 35.386
+  },
+  {
+    "wikiId": "Q5017277",
+    "name": "Café de Paris",
+    "cat": "nightclub",
+    "lon": -0.13215,
+    "lat": 51.51039
+  },
+  {
+    "wikiId": "Q5094649",
+    "name": "Chez Paree",
+    "cat": "nightclub",
+    "lon": -87.6204,
+    "lat": 41.8932
+  },
+  {
+    "wikiId": "Q5100198",
+    "name": "Chinawhite",
+    "cat": "nightclub",
+    "lon": -0.136389,
+    "lat": 51.5103
+  },
+  {
+    "wikiId": "Q5121935",
+    "name": "Ciro's",
+    "cat": "nightclub",
+    "lon": -118.374,
+    "lat": 34.095
+  },
+  {
+    "wikiId": "Q5123172",
+    "name": "City Gardens",
+    "cat": "nightclub",
+    "lon": -74.7607,
+    "lat": 40.2375
+  },
+  {
+    "wikiId": "Q5128164",
+    "name": "Classic Grand",
+    "cat": "nightclub",
+    "lon": -4.2573,
+    "lat": 55.85795
+  },
+  {
+    "wikiId": "Q5136099",
+    "name": "Club 57",
+    "cat": "nightclub",
+    "lon": -73.9864,
+    "lat": 40.7283
+  },
+  {
+    "wikiId": "Q5136193",
+    "name": "Club DeLuxe",
+    "cat": "nightclub",
+    "lon": -122.44722,
+    "lat": 37.76988
+  },
+  {
+    "wikiId": "Q5136234",
+    "name": "Club Eleven",
+    "cat": "nightclub",
+    "lon": -0.13858,
+    "lat": 51.512543
+  },
+  {
+    "wikiId": "Q5136250",
+    "name": "Club Fugazi",
+    "cat": "nightclub",
+    "lon": -122.41,
+    "lat": 37.7992
+  },
+  {
+    "wikiId": "Q5136277",
+    "name": "Club La Vela",
+    "cat": "nightclub",
+    "lon": -85.79444444,
+    "lat": 30.16916667
+  },
+  {
+    "wikiId": "Q5136384",
+    "name": "Club Space",
+    "cat": "nightclub",
+    "lon": -80.193,
+    "lat": 25.78466667
+  },
+  {
+    "wikiId": "Q5136789",
+    "name": "Clwb Ifor Bach",
+    "cat": "nightclub",
+    "lon": -3.18147,
+    "lat": 51.4805
+  },
+  {
+    "wikiId": "Q5148385",
+    "name": "Colonial Tavern",
+    "cat": "nightclub",
+    "lon": -79.3794,
+    "lat": 43.6534
+  },
+  {
+    "wikiId": "Q5153212",
+    "name": "Commodore Ballroom",
+    "cat": "nightclub",
+    "lon": -123.121,
+    "lat": 49.2806
+  },
+  {
+    "wikiId": "Q5205728",
+    "name": "DNA Lounge",
+    "cat": "nightclub",
+    "lon": -122.412694444,
+    "lat": 37.771008333
+  },
+  {
+    "wikiId": "Q5221127",
+    "name": "Dante's",
+    "cat": "nightclub",
+    "lon": -122.6736,
+    "lat": 45.5229
+  },
+  {
+    "wikiId": "Q5299735",
+    "name": "Double Door",
+    "cat": "nightclub",
+    "lon": -87.677,
+    "lat": 41.91
+  },
+  {
+    "wikiId": "Q5303016",
+    "name": "Down the Street",
+    "cat": "nightclub",
+    "lon": -74.0038,
+    "lat": 40.2174
+  },
+  {
+    "wikiId": "Q5325487",
+    "name": "Ealing Jazz Club",
+    "cat": "nightclub",
+    "lon": -0.302576,
+    "lat": 51.5144
+  },
+  {
+    "wikiId": "Q5357303",
+    "name": "Electric Ballroom",
+    "cat": "nightclub",
+    "lon": -0.143055555,
+    "lat": 51.539722222
+  },
+  {
+    "wikiId": "Q5357333",
+    "name": "Electric Circus",
+    "cat": "nightclub",
+    "lon": -73.9887,
+    "lat": 40.7292
+  },
+  {
+    "wikiId": "Q5374117",
+    "name": "Empire Rock Club",
+    "cat": "nightclub",
+    "lon": -75.0569,
+    "lat": 40.0408
+  },
+  {
+    "wikiId": "Q5452326",
+    "name": "First Avenue",
+    "cat": "nightclub",
+    "lon": -93.2759,
+    "lat": 44.978
+  },
+  {
+    "wikiId": "Q5463237",
+    "name": "Fly by Night Musicians Club",
+    "cat": "nightclub",
+    "lon": 115.749890095,
+    "lat": -32.053573179
+  },
+  {
+    "wikiId": "Q5467321",
+    "name": "Forbidden City",
+    "cat": "nightclub",
+    "lon": -122.4063,
+    "lat": 37.7893
+  },
+  {
+    "wikiId": "Q5467354",
+    "name": "Forbidden London",
+    "cat": "nightclub",
+    "lon": -0.13694444,
+    "lat": 51.50833333
+  },
+  {
+    "wikiId": "Q5509368",
+    "name": "Funny Girls",
+    "cat": "nightclub",
+    "lon": -3.051375,
+    "lat": 53.821415
+  },
+  {
+    "wikiId": "Q5540926",
+    "name": "George IV, Brixton",
+    "cat": "nightclub",
+    "lon": -0.121667,
+    "lat": 51.4522
+  },
+  {
+    "wikiId": "Q5594141",
+    "name": "Granary, Bristol",
+    "cat": "nightclub",
+    "lon": -2.5926,
+    "lat": 51.4521
+  },
+  {
+    "wikiId": "Q5610831",
+    "name": "Groucho Club",
+    "cat": "nightclub",
+    "lon": -0.1321,
+    "lat": 51.5131
+  },
+  {
+    "wikiId": "Q5645704",
+    "name": "Hammerjacks",
+    "cat": "nightclub",
+    "lon": -76.6111,
+    "lat": 39.2931
+  },
+  {
+    "wikiId": "Q5645751",
+    "name": "Hammersmith Palais",
+    "cat": "nightclub",
+    "lon": -0.224138888,
+    "lat": 51.494055555
+  },
+  {
+    "wikiId": "Q5680420",
+    "name": "Hastings Pier",
+    "cat": "nightclub",
+    "lon": 0.572645,
+    "lat": 50.8522
+  },
+  {
+    "wikiId": "Q5694616",
+    "name": "Heaven",
+    "cat": "nightclub",
+    "lon": -0.1245,
+    "lat": 51.5079
+  },
+  {
+    "wikiId": "Q5888137",
+    "name": "Home",
+    "cat": "nightclub",
+    "lon": -0.1309,
+    "lat": 51.5107
+  },
+  {
+    "wikiId": "Q5917670",
+    "name": "How Does It Feel To Be Loved?",
+    "cat": "nightclub",
+    "lon": -0.1125,
+    "lat": 51.46416667
+  },
+  {
+    "wikiId": "Q5947026",
+    "name": "Hurrah",
+    "cat": "nightclub",
+    "lon": -73.9821,
+    "lat": 40.7706
+  },
+  {
+    "wikiId": "Q5967587",
+    "name": "I-Beam",
+    "cat": "nightclub",
+    "lon": -122.451,
+    "lat": 37.7696
+  },
+  {
+    "wikiId": "Q6133636",
+    "name": "Ruby Skye",
+    "cat": "nightclub",
+    "lon": -122.41,
+    "lat": 37.7875
+  },
+  {
+    "wikiId": "Q6307722",
+    "name": "Juliana's",
+    "cat": "nightclub",
+    "lon": 139.75333333,
+    "lat": 35.64638889
+  },
+  {
+    "wikiId": "Q6391481",
+    "name": "Kensington Roof Gardens",
+    "cat": "nightclub",
+    "lon": -0.191944444,
+    "lat": 51.501111111
+  },
+  {
+    "wikiId": "Q6412093",
+    "name": "King Street Garage",
+    "cat": "nightclub",
+    "lon": -122.391,
+    "lat": 37.7789
+  },
+  {
+    "wikiId": "Q6413949",
+    "name": "Kinky Gerlinky",
+    "cat": "nightclub",
+    "lon": -0.1303,
+    "lat": 51.5109
+  },
+  {
+    "wikiId": "Q6421444",
+    "name": "Klub Foot",
+    "cat": "nightclub",
+    "lon": -0.225,
+    "lat": 51.492
+  },
+  {
+    "wikiId": "Q6436508",
+    "name": "Krazy Kat Klub",
+    "cat": "nightclub",
+    "lon": -77.031,
+    "lat": 38.904
+  },
+  {
+    "wikiId": "Q6463526",
+    "name": "La Luna",
+    "cat": "nightclub",
+    "lon": -122.657,
+    "lat": 45.5212
+  },
+  {
+    "wikiId": "Q6463759",
+    "name": "La Martinique",
+    "cat": "nightclub",
+    "lon": -73.9766,
+    "lat": 40.7644
+  },
+  {
+    "wikiId": "Q6471746",
+    "name": "Klub studenata elektrotehnike",
+    "cat": "nightclub",
+    "lon": 15.971116526,
+    "lat": 45.801451297
+  },
+  {
+    "wikiId": "Q6479747",
+    "name": "Lakota",
+    "cat": "nightclub",
+    "lon": -2.58952,
+    "lat": 51.4632
+  },
+  {
+    "wikiId": "Q6489273",
+    "name": "Largo",
+    "cat": "nightclub",
+    "lon": -118.376319,
+    "lat": 34.077849
+  },
+  {
+    "wikiId": "Q6512822",
+    "name": "Lee's Palace",
+    "cat": "nightclub",
+    "lon": -79.4094,
+    "lat": 43.6653
+  },
+  {
+    "wikiId": "Q6620913",
+    "name": "Q6620913",
+    "cat": "nightclub",
+    "lon": 34.77156111,
+    "lat": 32.06336111
+  },
+  {
+    "wikiId": "Q6660525",
+    "name": "Lizard Lounge",
+    "cat": "nightclub",
+    "lon": -71.1195,
+    "lat": 42.3821
+  },
+  {
+    "wikiId": "Q6704780",
+    "name": "Allenby 58",
+    "cat": "nightclub",
+    "lon": 34.770201,
+    "lat": 32.07033
+  },
+  {
+    "wikiId": "Q6721653",
+    "name": "Mabuhay Gardens",
+    "cat": "nightclub",
+    "lon": -122.40452778,
+    "lat": 37.79788889
+  },
+  {
+    "wikiId": "Q6726224",
+    "name": "Madam's Organ Blues Bar",
+    "cat": "nightclub",
+    "lon": -77.0422,
+    "lat": 38.922
+  },
+  {
+    "wikiId": "Q6733984",
+    "name": "Mahiki",
+    "cat": "nightclub",
+    "lon": -0.1414,
+    "lat": 51.5076
+  },
+  {
+    "wikiId": "Q6751526",
+    "name": "Manray",
+    "cat": "nightclub",
+    "lon": -71.1022,
+    "lat": 42.3633
+  },
+  {
+    "wikiId": "Q6760788",
+    "name": "Q6760788",
+    "cat": "nightclub",
+    "lon": 34.83625,
+    "lat": 32.106972
+  },
+  {
+    "wikiId": "Q6789724",
+    "name": "Matter",
+    "cat": "nightclub",
+    "lon": 0.0032,
+    "lat": 51.5042
+  },
+  {
+    "wikiId": "Q6796829",
+    "name": "Mayan Theater",
+    "cat": "nightclub",
+    "lon": -118.259133,
+    "lat": 34.040596
+  },
+  {
+    "wikiId": "Q6838844",
+    "name": "Mickie Finn's",
+    "cat": "nightclub",
+    "lon": -117.154,
+    "lat": 32.7481
+  },
+  {
+    "wikiId": "Q6857969",
+    "name": "Milk & Honey",
+    "cat": "nightclub",
+    "lon": -0.1366,
+    "lat": 51.5137
+  },
+  {
+    "wikiId": "Q6880159",
+    "name": "Mister Kelly's",
+    "cat": "nightclub",
+    "lon": -87.628,
+    "lat": 41.9014
+  },
+  {
+    "wikiId": "Q6887470",
+    "name": "Mocambo",
+    "cat": "nightclub",
+    "lon": -118.378963,
+    "lat": 34.092693
+  },
+  {
+    "wikiId": "Q6958258",
+    "name": "Nag Nag Nag",
+    "cat": "nightclub",
+    "lon": -0.1307,
+    "lat": 51.5161
+  },
+  {
+    "wikiId": "Q6961420",
+    "name": "Nambucca",
+    "cat": "nightclub",
+    "lon": -0.123611,
+    "lat": 51.5608
+  },
+  {
+    "wikiId": "Q6988865",
+    "name": "Q6988865",
+    "cat": "nightclub",
+    "lon": 34.76911111,
+    "lat": 32.07925
+  },
+  {
+    "wikiId": "Q7063569",
+    "name": "Notting Hill Arts Club",
+    "cat": "nightclub",
+    "lon": -0.1946,
+    "lat": 51.5092
+  },
+  {
+    "wikiId": "Q24309",
+    "name": "Troubadour",
+    "cat": "nightclub",
+    "lon": -118.389,
+    "lat": 34.0814
+  },
+  {
+    "wikiId": "Q111556",
+    "name": "Zouk",
+    "cat": "nightclub",
+    "lon": 101.72164,
+    "lat": 3.1420074
+  },
+  {
+    "wikiId": "Q111627",
+    "name": "Womb",
+    "cat": "nightclub",
+    "lon": 139.694949,
+    "lat": 35.658425
+  },
+  {
+    "wikiId": "Q189593",
+    "name": "Zenith",
+    "cat": "nightclub",
+    "lon": 11.6083,
+    "lat": 48.1947
+  },
+  {
+    "wikiId": "Q408982",
+    "name": "Airport (nightclub)",
+    "cat": "nightclub",
+    "lon": 9.99056,
+    "lat": 49.7953
+  },
+  {
+    "wikiId": "Q456140",
+    "name": "Star-Club",
+    "cat": "nightclub",
+    "lon": 9.95777778,
+    "lat": 53.55111111
+  },
+  {
+    "wikiId": "Q473695",
+    "name": "Amnesia",
+    "cat": "nightclub",
+    "lon": 1.408061,
+    "lat": 38.947498
+  },
+  {
+    "wikiId": "Q552863",
+    "name": "Matrix",
+    "cat": "nightclub",
+    "lon": 13.449345555,
+    "lat": 52.504792222
+  },
+  {
+    "wikiId": "Q561850",
+    "name": "So36",
+    "cat": "nightclub",
+    "lon": 13.4222,
+    "lat": 52.5003
+  },
+  {
+    "wikiId": "Q607212",
+    "name": "Studio 54",
+    "cat": "nightclub",
+    "lon": -73.983777777,
+    "lat": 40.764361111
+  },
+  {
+    "wikiId": "Q610919",
+    "name": "Marquee Club",
+    "cat": "nightclub",
+    "lon": -0.1339,
+    "lat": 51.5134
+  },
+  {
+    "wikiId": "Q619124",
+    "name": "Apollo Theater",
+    "cat": "nightclub",
+    "lon": -73.95015,
+    "lat": 40.810047
+  },
+  {
+    "wikiId": "Q661745",
+    "name": "Cabaret Voltaire",
+    "cat": "nightclub",
+    "lon": 8.543888888,
+    "lat": 47.371666666
+  },
+  {
+    "wikiId": "Q678186",
+    "name": "Tresor",
+    "cat": "nightclub",
+    "lon": 13.382777777,
+    "lat": 52.51
+  },
+  {
+    "wikiId": "Q747360",
+    "name": "Café Society",
+    "cat": "nightclub",
+    "lon": -74.0019,
+    "lat": 40.7328
+  },
+  {
+    "wikiId": "Q752561",
+    "name": "The Roxy Club",
+    "cat": "nightclub",
+    "lon": -0.1265,
+    "lat": 51.5147
+  },
+  {
+    "wikiId": "Q770812",
+    "name": "Batcave",
+    "cat": "nightclub",
+    "lon": -0.1326,
+    "lat": 51.5134
+  },
+  {
+    "wikiId": "Q838068",
+    "name": "Knitting Factory",
+    "cat": "nightclub",
+    "lon": -73.95583333,
+    "lat": 40.71416667
+  },
+  {
+    "wikiId": "Q919751",
+    "name": "The Bitter End",
+    "cat": "nightclub",
+    "lon": -73.9992,
+    "lat": 40.7283
+  },
+  {
+    "wikiId": "Q939260",
+    "name": "Alrosa Villa",
+    "cat": "nightclub",
+    "lon": -82.9991029,
+    "lat": 40.0685779
+  },
+  {
+    "wikiId": "Q1022965",
+    "name": "CBGB",
+    "cat": "nightclub",
+    "lon": -73.991944444,
+    "lat": 40.725277777
+  },
+  {
+    "wikiId": "Q1025504",
+    "name": "Cafe Au Go Go",
+    "cat": "nightclub",
+    "lon": -73.999422,
+    "lat": 40.728295
+  },
+  {
+    "wikiId": "Q1025651",
+    "name": "Café Opera",
+    "cat": "nightclub",
+    "lon": 18.071044444,
+    "lat": 59.330097222
+  },
+  {
+    "wikiId": "Q1028419",
+    "name": "KOKO",
+    "cat": "nightclub",
+    "lon": -0.138333,
+    "lat": 51.5347
+  },
+  {
+    "wikiId": "Q1071470",
+    "name": "Q1071470",
+    "cat": "nightclub",
+    "lon": 2.306111,
+    "lat": 48.871644
+  },
+  {
+    "wikiId": "Q1103179",
+    "name": "Club de Sade",
+    "cat": "nightclub",
+    "lon": 9.9604194,
+    "lat": 53.5473999
+  },
+  {
+    "wikiId": "Q1130938",
+    "name": "Copacabana",
+    "cat": "nightclub",
+    "lon": -73.98740943,
+    "lat": 40.760166991
+  },
+  {
+    "wikiId": "Q1139100",
+    "name": "Crawdaddy Club",
+    "cat": "nightclub",
+    "lon": -0.301944,
+    "lat": 51.4636
+  },
+  {
+    "wikiId": "Q1150147",
+    "name": "Hippodrome",
+    "cat": "nightclub",
+    "lon": -0.1286,
+    "lat": 51.5114
+  },
+  {
+    "wikiId": "Q1186730",
+    "name": "Den Atelier",
+    "cat": "nightclub",
+    "lon": 6.126154741,
+    "lat": 49.598745767
+  },
+  {
+    "wikiId": "Q1233759",
+    "name": "Docks",
+    "cat": "nightclub",
+    "lon": 9.96452778,
+    "lat": 53.54925
+  },
+  {
+    "wikiId": "Q1264002",
+    "name": "Miniscule of Sound",
+    "cat": "nightclub",
+    "lon": -0.0611917,
+    "lat": 51.5429
+  },
+  {
+    "wikiId": "Q1277567",
+    "name": "Whisky a Go Go",
+    "cat": "nightclub",
+    "lon": -118.385555555,
+    "lat": 34.090555555
+  },
+  {
+    "wikiId": "Q1390710",
+    "name": "Fabric",
+    "cat": "nightclub",
+    "lon": -0.10254,
+    "lat": 51.51947
+  },
+  {
+    "wikiId": "Q1392467",
+    "name": "Mudd Club",
+    "cat": "nightclub",
+    "lon": -74.0023,
+    "lat": 40.7177
+  },
+  {
+    "wikiId": "Q1408658",
+    "name": "Klooks Kleek",
+    "cat": "nightclub",
+    "lon": -0.191,
+    "lat": 51.5463
+  },
+  {
+    "wikiId": "Q1417720",
+    "name": "Ultraschall",
+    "cat": "nightclub",
+    "lon": 11.608346,
+    "lat": 48.123506
+  },
+  {
+    "wikiId": "Q1423025",
+    "name": "Warehouse",
+    "cat": "nightclub",
+    "lon": -87.6428,
+    "lat": 41.8789
+  },
+  {
+    "wikiId": "Q1426936",
+    "name": "Flamingo Club",
+    "cat": "nightclub",
+    "lon": -0.1322,
+    "lat": 51.5113
+  },
+  {
+    "wikiId": "Q1427302",
+    "name": "Space",
+    "cat": "nightclub",
+    "lon": 1.403616,
+    "lat": 38.885831
+  },
+  {
+    "wikiId": "Q1435233",
+    "name": "Pratersauna",
+    "cat": "nightclub",
+    "lon": 16.4048,
+    "lat": 48.2133
+  },
+  {
+    "wikiId": "Q1445759",
+    "name": "Franz-Club",
+    "cat": "nightclub",
+    "lon": 13.4128,
+    "lat": 52.5383
+  },
+  {
+    "wikiId": "Q1458004",
+    "name": "Max's Kansas City",
+    "cat": "nightclub",
+    "lon": -73.988611111,
+    "lat": 40.736666666
+  },
+  {
+    "wikiId": "Q1535030",
+    "name": "Golden Pudel Club",
+    "cat": "nightclub",
+    "lon": 9.95777778,
+    "lat": 53.54611111
+  },
+  {
+    "wikiId": "Q1550320",
+    "name": "Grünspan Club",
+    "cat": "nightclub",
+    "lon": 9.958178,
+    "lat": 53.551728
+  },
+  {
+    "wikiId": "Q1565972",
+    "name": "Roxy Theatre",
+    "cat": "nightclub",
+    "lon": -118.388,
+    "lat": 34.0908
+  },
+  {
+    "wikiId": "Q1573894",
+    "name": "Ufo",
+    "cat": "nightclub",
+    "lon": 13.4399,
+    "lat": 52.5021
+  },
+  {
+    "wikiId": "Q1586601",
+    "name": "Harry Klein",
+    "cat": "nightclub",
+    "lon": 11.5645,
+    "lat": 48.1377
+  },
+  {
+    "wikiId": "Q1590159",
+    "name": "Aladin Music Hall",
+    "cat": "nightclub",
+    "lon": 8.88528,
+    "lat": 53.0558
+  },
+  {
+    "wikiId": "Q1637934",
+    "name": "hungry i",
+    "cat": "nightclub",
+    "lon": -122.405,
+    "lat": 37.7962
+  },
+  {
+    "wikiId": "Q1678493",
+    "name": "Waschhaus",
+    "cat": "nightclub",
+    "lon": 13.0733,
+    "lat": 52.4033
+  },
+  {
+    "wikiId": "Q1717528",
+    "name": "Lighthouse Café",
+    "cat": "nightclub",
+    "lon": -118.401,
+    "lat": 33.8619
+  },
+  {
+    "wikiId": "Q1724204",
+    "name": "Neues Schauspielhaus",
+    "cat": "nightclub",
+    "lon": 13.3527,
+    "lat": 52.4989
+  },
+  {
+    "wikiId": "Q1776792",
+    "name": "Knaack-Klub",
+    "cat": "nightclub",
+    "lon": 13.4258,
+    "lat": 52.5303
+  },
+  {
+    "wikiId": "Q1783672",
+    "name": "Tropicana",
+    "cat": "nightclub",
+    "lon": -82.41888889,
+    "lat": 23.09416667
+  },
+  {
+    "wikiId": "Q1945689",
+    "name": "Monte",
+    "cat": "nightclub",
+    "lon": 16.3716,
+    "lat": 48.2046
+  },
+  {
+    "wikiId": "Q2034788",
+    "name": "Ost Klub",
+    "cat": "nightclub",
+    "lon": 16.3749,
+    "lat": 48.1976
+  },
+  {
+    "wikiId": "Q2111195",
+    "name": "Privilege Ibiza",
+    "cat": "nightclub",
+    "lon": 1.40805556,
+    "lat": 38.95777778
+  },
+  {
+    "wikiId": "Q2168249",
+    "name": "Rote Sonne",
+    "cat": "nightclub",
+    "lon": 11.570117,
+    "lat": 48.142114
+  },
+  {
+    "wikiId": "Q2304064",
+    "name": "UFO Club",
+    "cat": "nightclub",
+    "lon": -0.132073,
+    "lat": 51.518354
+  },
+  {
+    "wikiId": "Q2339843",
+    "name": "Paradise Garage",
+    "cat": "nightclub",
+    "lon": -74.0064,
+    "lat": 40.7279
+  },
+  {
+    "wikiId": "Q2345516",
+    "name": "Q2345516",
+    "cat": "nightclub",
+    "lon": 4.89196,
+    "lat": 52.36717
+  },
+  {
+    "wikiId": "Q2352319",
+    "name": "Storyville",
+    "cat": "nightclub",
+    "lon": -71.0787,
+    "lat": 42.3482
+  },
+  {
+    "wikiId": "Q2369868",
+    "name": "Cherry Moon",
+    "cat": "nightclub",
+    "lon": 3.951243904,
+    "lat": 51.114241375
+  },
+  {
+    "wikiId": "Q2466442",
+    "name": "U4",
+    "cat": "nightclub",
+    "lon": 16.3281,
+    "lat": 48.1833
+  },
+  {
+    "wikiId": "Q2473531",
+    "name": "Uebel & Gefährlich",
+    "cat": "nightclub",
+    "lon": 9.96968,
+    "lat": 53.55655
+  },
+  {
+    "wikiId": "Q2601061",
+    "name": "Yoshi's",
+    "cat": "nightclub",
+    "lon": -122.278183,
+    "lat": 37.796113
+  },
+  {
+    "wikiId": "Q2617701",
+    "name": "Mzoli's",
+    "cat": "nightclub",
+    "lon": 18.569722222,
+    "lat": -33.976388888
+  },
+  {
+    "wikiId": "Q2908278",
+    "name": "Boccaccio (nightclub)",
+    "cat": "nightclub",
+    "lon": 3.819586111,
+    "lat": 51.056291666
+  },
+  {
+    "wikiId": "Q2928768",
+    "name": "La Bussola",
+    "cat": "nightclub",
+    "lon": 10.21087,
+    "lat": 43.91242
+  },
+  {
+    "wikiId": "Q3029811",
+    "name": "Disco Fever",
+    "cat": "nightclub",
+    "lon": -73.92175,
+    "lat": 40.83626
+  },
+  {
+    "wikiId": "Q3091103",
+    "name": "Fuse",
+    "cat": "nightclub",
+    "lon": 4.344639,
+    "lat": 50.835389
+  },
+  {
+    "wikiId": "Q3108625",
+    "name": "Glazart",
+    "cat": "nightclub",
+    "lon": 2.38587588,
+    "lat": 48.89708922
+  },
+  {
+    "wikiId": "Q3110144",
+    "name": "Golf-Drouot",
+    "cat": "nightclub",
+    "lon": 2.3404,
+    "lat": 48.8719
+  },
+  {
+    "wikiId": "Q3154621",
+    "name": "Irving Plaza",
+    "cat": "nightclub",
+    "lon": -73.9886111,
+    "lat": 40.7345
+  },
+  {
+    "wikiId": "Q3209830",
+    "name": "Q3209830",
+    "cat": "nightclub",
+    "lon": 2.37361,
+    "lat": 48.8708
+  },
+  {
+    "wikiId": "Q3224581",
+    "name": "Mirano Brussels",
+    "cat": "nightclub",
+    "lon": 4.37135,
+    "lat": 50.8494
+  },
+  {
+    "wikiId": "Q3227097",
+    "name": "Le Sept",
+    "cat": "nightclub",
+    "lon": 2.33503,
+    "lat": 48.865807
+  },
+  {
+    "wikiId": "Q3227521",
+    "name": "Le Tango",
+    "cat": "nightclub",
+    "lon": 2.356794,
+    "lat": 48.864501
+  },
+  {
+    "wikiId": "Q3230922",
+    "name": "Les Bains-Douches",
+    "cat": "nightclub",
+    "lon": 2.35208,
+    "lat": 48.8641
+  },
+  {
+    "wikiId": "Q3258938",
+    "name": "London Astoria",
+    "cat": "nightclub",
+    "lon": -0.130555555,
+    "lat": 51.515833333
+  },
+  {
+    "wikiId": "Q3258958",
+    "name": "London Fog",
+    "cat": "nightclub",
+    "lon": -118.386,
+    "lat": 34.0914
+  },
+  {
+    "wikiId": "Q3290475",
+    "name": "Tavastia Club",
+    "cat": "nightclub",
+    "lon": 24.9329,
+    "lat": 60.1686
+  },
+  {
+    "wikiId": "Q3333891",
+    "name": "MTELUS",
+    "cat": "nightclub",
+    "lon": -73.5634,
+    "lat": 45.5106
+  },
+  {
+    "wikiId": "Q3413995",
+    "name": "Le Queen",
+    "cat": "nightclub",
+    "lon": 2.3025,
+    "lat": 48.871
+  },
+  {
+    "wikiId": "Q3486832",
+    "name": "Smalls Paradise",
+    "cat": "nightclub",
+    "lon": -73.944167,
+    "lat": 40.815278
+  },
+  {
+    "wikiId": "Q3522324",
+    "name": "The Printworks",
+    "cat": "nightclub",
+    "lon": -2.24139,
+    "lat": 53.4853
+  },
+  {
+    "wikiId": "Q3542360",
+    "name": "Turnmills",
+    "cat": "nightclub",
+    "lon": -0.1059,
+    "lat": 51.52205
+  },
+  {
+    "wikiId": "Q3627594",
+    "name": "Astoria 2",
+    "cat": "nightclub",
+    "lon": -0.130825,
+    "lat": 51.5159
+  },
+  {
+    "wikiId": "Q3641253",
+    "name": "Boardwalk",
+    "cat": "nightclub",
+    "lon": -2.251,
+    "lat": 53.474
+  },
+  {
+    "wikiId": "Q3988247",
+    "name": "The Masque",
+    "cat": "nightclub",
+    "lon": -118.334989,
+    "lat": 34.100752
+  },
+  {
+    "wikiId": "Q11855687",
+    "name": "DTM",
+    "cat": "nightclub",
+    "lon": 24.942,
+    "lat": 60.1671
+  },
+  {
+    "wikiId": "Q11983435",
+    "name": "Latin Quarter",
+    "cat": "nightclub",
+    "lon": -73.98456,
+    "lat": 40.75986
+  },
+  {
+    "wikiId": "Q11995677",
+    "name": "Pigalle",
+    "cat": "nightclub",
+    "lon": 10.76442389,
+    "lat": 59.91226389
+  },
+  {
+    "wikiId": "Q12321297",
+    "name": "Karel van Mander",
+    "cat": "nightclub",
+    "lon": 12.5832,
+    "lat": 55.6796
+  },
+  {
+    "wikiId": "Q12408945",
+    "name": "Hamam - Jaffa",
+    "cat": "nightclub",
+    "lon": 34.7535,
+    "lat": 32.05469444
+  },
+  {
+    "wikiId": "Q14683070",
+    "name": "Le Prive",
+    "cat": "nightclub",
+    "lon": -118.309,
+    "lat": 34.059
+  },
+  {
+    "wikiId": "Q14706366",
+    "name": "Highline Ballroom",
+    "cat": "nightclub",
+    "lon": -74.0059,
+    "lat": 40.743
+  },
+  {
+    "wikiId": "Q14710337",
+    "name": "Billy Bob's Texas",
+    "cat": "nightclub",
+    "lon": -97.3481,
+    "lat": 32.7914
+  },
+  {
+    "wikiId": "Q14715100",
+    "name": "Ritz Ballroom, Bridgeport",
+    "cat": "nightclub",
+    "lon": -73.2327,
+    "lat": 41.1553
+  },
+  {
+    "wikiId": "Q15051820",
+    "name": "Opera Nightclub",
+    "cat": "nightclub",
+    "lon": -84.38414,
+    "lat": 33.78593
+  },
+  {
+    "wikiId": "Q15108687",
+    "name": "Q15108687",
+    "cat": "nightclub",
+    "lon": -2.99588889,
+    "lat": 53.04572222
+  },
+  {
+    "wikiId": "Q15145712",
+    "name": "Finocchio's Club",
+    "cat": "nightclub",
+    "lon": -122.405827,
+    "lat": 37.798419
+  },
+  {
+    "wikiId": "Q16256108",
+    "name": "Caley Picture House",
+    "cat": "nightclub",
+    "lon": -3.20604,
+    "lat": 55.9482
+  },
+  {
+    "wikiId": "Q16349305",
+    "name": "Kinoteatris Pionieris",
+    "cat": "nightclub",
+    "lon": 24.11575,
+    "lat": 56.95578
+  },
+  {
+    "wikiId": "Q16408616",
+    "name": "Q16408616",
+    "cat": "nightclub",
+    "lon": 26.738722,
+    "lat": 58.383653
+  },
+  {
+    "wikiId": "Q16466727",
+    "name": "Café d'Anvers",
+    "cat": "nightclub",
+    "lon": 4.404,
+    "lat": 51.2262
+  },
+  {
+    "wikiId": "Q16828750",
+    "name": "California Institute of Abnormalarts",
+    "cat": "nightclub",
+    "lon": -118.37742,
+    "lat": 34.17198
+  },
+  {
+    "wikiId": "Q16902253",
+    "name": "U Street Music Hall",
+    "cat": "nightclub",
+    "lon": -77.0277,
+    "lat": 38.9172
+  },
+  {
+    "wikiId": "Q16919553",
+    "name": "West End",
+    "cat": "nightclub",
+    "lon": -87.65797222,
+    "lat": 41.91788889
+  },
+  {
+    "wikiId": "Q16944828",
+    "name": "Mercury Club",
+    "cat": "nightclub",
+    "lon": -79.37879,
+    "lat": 43.65517
+  },
+  {
+    "wikiId": "Q17063229",
+    "name": "State Theater",
+    "cat": "nightclub",
+    "lon": -80.65221111,
+    "lat": 41.10113611
+  },
+  {
+    "wikiId": "Q17276022",
+    "name": "Embers Avenue",
+    "cat": "nightclub",
+    "lon": -122.67725,
+    "lat": 45.52398
+  },
+  {
+    "wikiId": "Q17300071",
+    "name": "NorShor Theatre",
+    "cat": "nightclub",
+    "lon": -92.095246,
+    "lat": 46.7892145
+  },
+  {
+    "wikiId": "Q17375269",
+    "name": "Club Myst",
+    "cat": "nightclub",
+    "lon": 121.56578,
+    "lat": 25.035273
+  },
+  {
+    "wikiId": "Q17515315",
+    "name": "Central Park Casino",
+    "cat": "nightclub",
+    "lon": -73.96972222,
+    "lat": 40.77277778
+  },
+  {
+    "wikiId": "Q17551735",
+    "name": "Regal Cinema",
+    "cat": "nightclub",
+    "lon": -0.474319,
+    "lat": 51.5446
+  },
+  {
+    "wikiId": "Q17722698",
+    "name": "Grand Theatre",
+    "cat": "nightclub",
+    "lon": -3.8162,
+    "lat": 53.3212
+  },
+  {
+    "wikiId": "Q17807033",
+    "name": "King's Theatre",
+    "cat": "nightclub",
+    "lon": -2.96752,
+    "lat": 56.4636
+  },
+  {
+    "wikiId": "Q17986267",
+    "name": "The Caravan Club",
+    "cat": "nightclub",
+    "lon": -0.1262,
+    "lat": 51.5154
+  },
+  {
+    "wikiId": "Q18022373",
+    "name": "Kokett Bar",
+    "cat": "nightclub",
+    "lon": 6.95975361,
+    "lat": 50.94454917
+  },
+  {
+    "wikiId": "Q18159739",
+    "name": "Crab Tree Club",
+    "cat": "nightclub",
+    "lon": -0.1307,
+    "lat": 51.514
+  },
+  {
+    "wikiId": "Q18159883",
+    "name": "Esmeralda's Barn",
+    "cat": "nightclub",
+    "lon": -0.1563,
+    "lat": 51.502
+  },
+  {
+    "wikiId": "Q18159982",
+    "name": "Gargoyle Club",
+    "cat": "nightclub",
+    "lon": -0.132554,
+    "lat": 51.5133
+  },
+  {
+    "wikiId": "Q18162754",
+    "name": "The Reno",
+    "cat": "nightclub",
+    "lon": -2.245030555,
+    "lat": 53.459213888
+  },
+  {
+    "wikiId": "Q18708315",
+    "name": "Roxy Cinema",
+    "cat": "nightclub",
+    "lon": -3.2275,
+    "lat": 54.1136
+  },
+  {
+    "wikiId": "Q19865233",
+    "name": "Basin Street East",
+    "cat": "nightclub",
+    "lon": -73.972805555,
+    "lat": 40.755472222
+  },
+  {
+    "wikiId": "Q19867450",
+    "name": "Paris Theatre",
+    "cat": "nightclub",
+    "lon": -122.6732,
+    "lat": 45.52288
+  },
+  {
+    "wikiId": "Q19921819",
+    "name": "Q19921819",
+    "cat": "nightclub",
+    "lon": 4.912637,
+    "lat": 52.354261
+  },
+  {
+    "wikiId": "Q20657120",
+    "name": "King Tut's Wah Wah Hut",
+    "cat": "nightclub",
+    "lon": -73.983891,
+    "lat": 40.725796
+  },
+  {
+    "wikiId": "Q20858192",
+    "name": "Palladium",
+    "cat": "nightclub",
+    "lon": -90.23116667,
+    "lat": 38.64138889
+  },
+  {
+    "wikiId": "Q20971351",
+    "name": "La Locomotive",
+    "cat": "nightclub",
+    "lon": 2.332222222,
+    "lat": 48.884166666
+  },
+  {
+    "wikiId": "Q21022141",
+    "name": "Cotton Club",
+    "cat": "nightclub",
+    "lon": -115.148195892,
+    "lat": 36.186316491
+  },
+  {
+    "wikiId": "Q21022142",
+    "name": "El Morocco",
+    "cat": "nightclub",
+    "lon": -115.148353802,
+    "lat": 36.185211176
+  },
+  {
+    "wikiId": "Q21188322",
+    "name": "Louisiana Club",
+    "cat": "nightclub",
+    "lon": -115.149697902,
+    "lat": 36.188260769
+  },
+  {
+    "wikiId": "Q21188719",
+    "name": "People's Choice Casino",
+    "cat": "nightclub",
+    "lon": -115.152018802,
+    "lat": 36.188529119
+  },
+  {
+    "wikiId": "Q21188895",
+    "name": "Town Tavern",
+    "cat": "nightclub",
+    "lon": -115.148371578,
+    "lat": 36.186735677
+  },
+  {
+    "wikiId": "Q23020025",
+    "name": "Astor Club",
+    "cat": "nightclub",
+    "lon": -0.1443,
+    "lat": 51.5085
+  },
+  {
+    "wikiId": "Q25006416",
+    "name": "Muldoon's Off 10",
+    "cat": "nightclub",
+    "lon": -93.208,
+    "lat": 45.1225
+  },
+  {
+    "wikiId": "Q25212557",
+    "name": "Dew Drop Inn",
+    "cat": "nightclub",
+    "lon": -90.091638888,
+    "lat": 29.936916666
+  },
+  {
+    "wikiId": "Q25344890",
+    "name": "The Hideout Inn",
+    "cat": "nightclub",
+    "lon": -87.662536,
+    "lat": 41.913808
+  },
+  {
+    "wikiId": "Q25930910",
+    "name": "Q25930910",
+    "cat": "nightclub",
+    "lon": 10.5254,
+    "lat": 57.72802778
+  },
+  {
+    "wikiId": "Q26233918",
+    "name": "Villa Parkzicht",
+    "cat": "nightclub",
+    "lon": 4.471061,
+    "lat": 51.906842
+  },
+  {
+    "wikiId": "Q26327400",
+    "name": "King Edward Picture House",
+    "cat": "nightclub",
+    "lon": -3.050738888,
+    "lat": 53.81243889
+  },
+  {
+    "wikiId": "Q26404595",
+    "name": "Hippodrome",
+    "cat": "nightclub",
+    "lon": 0.899983,
+    "lat": 51.890101
+  },
+  {
+    "wikiId": "Q26490603",
+    "name": "Corn Exchange",
+    "cat": "nightclub",
+    "lon": -0.813144,
+    "lat": 53.076796
+  },
+  {
+    "wikiId": "Q26492107",
+    "name": "Tower Cinema",
+    "cat": "nightclub",
+    "lon": -0.34671,
+    "lat": 53.743393
+  },
+  {
+    "wikiId": "Q26497652",
+    "name": "Warehouse, Former Premises Of Marble Mosiac Company",
+    "cat": "nightclub",
+    "lon": -2.576353,
+    "lat": 51.449368
+  },
+  {
+    "wikiId": "Q26538442",
+    "name": "Regent Theatre",
+    "cat": "nightclub",
+    "lon": 1.732496,
+    "lat": 52.607415
+  },
+  {
+    "wikiId": "Q26550232",
+    "name": "65, Westgate",
+    "cat": "nightclub",
+    "lon": -1.501505,
+    "lat": 53.681993
+  },
+  {
+    "wikiId": "Q26561492",
+    "name": "Empire Cinema",
+    "cat": "nightclub",
+    "lon": 1.736179,
+    "lat": 52.606256
+  },
+  {
+    "wikiId": "Q26561706",
+    "name": "Union Cinema",
+    "cat": "nightclub",
+    "lon": -0.52358,
+    "lat": 51.887517
+  },
+  {
+    "wikiId": "Q26562962",
+    "name": "67 and 69, Westgate",
+    "cat": "nightclub",
+    "lon": -1.501657,
+    "lat": 53.68196
+  },
+  {
+    "wikiId": "Q26636705",
+    "name": "Bognor Regis Pier",
+    "cat": "nightclub",
+    "lon": -0.676004,
+    "lat": 50.78119
+  },
+  {
+    "wikiId": "Q26655867",
+    "name": "Majestic Cinema",
+    "cat": "nightclub",
+    "lon": -1.548888888,
+    "lat": 53.796388888
+  },
+  {
+    "wikiId": "Q26656625",
+    "name": "Fragment of Deva Roman fortress wall",
+    "cat": "nightclub",
+    "lon": -2.88787,
+    "lat": 53.18939
+  },
+  {
+    "wikiId": "Q26663049",
+    "name": "Regal Cinema",
+    "cat": "nightclub",
+    "lon": -2.650282,
+    "lat": 51.206466
+  },
+  {
+    "wikiId": "Q26664318",
+    "name": "Royal Court Theatre, Wigan",
+    "cat": "nightclub",
+    "lon": -2.630355,
+    "lat": 53.544263
+  },
+  {
+    "wikiId": "Q26664819",
+    "name": "Picture House",
+    "cat": "nightclub",
+    "lon": -1.861562,
+    "lat": 53.720693
+  },
+  {
+    "wikiId": "Q26664821",
+    "name": "ABC Cinema",
+    "cat": "nightclub",
+    "lon": -1.860666,
+    "lat": 53.721043
+  },
+  {
+    "wikiId": "Q26664831",
+    "name": "Palace Theatre",
+    "cat": "nightclub",
+    "lon": -1.093202,
+    "lat": 50.795867
+  },
+  {
+    "wikiId": "Q26839257",
+    "name": "Grace's Little Belmont",
+    "cat": "nightclub",
+    "lon": -74.429722222,
+    "lat": 39.36
+  },
+  {
+    "wikiId": "Q27604657",
+    "name": "Velvet Underground",
+    "cat": "nightclub",
+    "lon": -79.4015464,
+    "lat": 43.6478976
+  },
+  {
+    "wikiId": "Q27829539",
+    "name": "Fluc",
+    "cat": "nightclub",
+    "lon": 16.393318,
+    "lat": 48.2177231
+  },
+  {
+    "wikiId": "Q27851387",
+    "name": "Au Jardin Secret",
+    "cat": "nightclub",
+    "lon": 6.9586519,
+    "lat": 46.8334552
+  },
+  {
+    "wikiId": "Q27851511",
+    "name": "Sauna Club Flip",
+    "cat": "nightclub",
+    "lon": 8.6813644,
+    "lat": 47.3793692
+  },
+  {
+    "wikiId": "Q27857579",
+    "name": "Kristallgrotte",
+    "cat": "nightclub",
+    "lon": 7.7125401,
+    "lat": 47.2855965
+  },
+  {
+    "wikiId": "Q27966222",
+    "name": "Wytwórnia",
+    "cat": "nightclub",
+    "lon": 19.44345,
+    "lat": 51.75745
+  },
+  {
+    "wikiId": "Q28098273",
+    "name": "Reina",
+    "cat": "nightclub",
+    "lon": 29.0325,
+    "lat": 41.05
+  },
+  {
+    "wikiId": "Q28681028",
+    "name": "Q28681028",
+    "cat": "nightclub",
+    "lon": -46.6449484,
+    "lat": -23.545893
+  },
+  {
+    "wikiId": "Q28786231",
+    "name": "KW – Das Heizkraftwerk",
+    "cat": "nightclub",
+    "lon": 11.608981,
+    "lat": 48.123356
+  },
+  {
+    "wikiId": "Q28859966",
+    "name": "Natraj Temple",
+    "cat": "nightclub",
+    "lon": 11.608651,
+    "lat": 48.123355
+  },
+  {
+    "wikiId": "Q112604344",
+    "name": "Club 147 (Billiards)",
+    "cat": "nightclub",
+    "lon": -81.335716247,
+    "lat": 48.474967956
+  },
+  {
+    "wikiId": "Q113865774",
+    "name": "The Junction Nightclub",
+    "cat": "nightclub",
+    "lon": -78.319732666,
+    "lat": 44.301498413
+  },
+  {
+    "wikiId": "Q57906725",
+    "name": "Sala Karma",
+    "cat": "nightclub",
+    "lon": -8.646786111,
+    "lat": 42.431308333
+  },
+  {
+    "wikiId": "Q58340408",
+    "name": "Centro Nocturno El Patio",
+    "cat": "nightclub",
+    "lon": -99.152444444,
+    "lat": 19.431361111
+  },
+  {
+    "wikiId": "Q59356758",
+    "name": "Kinoteatr Mir",
+    "cat": "nightclub",
+    "lon": 24.0263,
+    "lat": 49.84751
+  },
+  {
+    "wikiId": "Q60194241",
+    "name": "Kino Ivan Vazov",
+    "cat": "nightclub",
+    "lon": 23.12539,
+    "lat": 43.23529
+  },
+  {
+    "wikiId": "Q60381669",
+    "name": "La Vía Láctea, Madrid",
+    "cat": "nightclub",
+    "lon": -3.7029317,
+    "lat": 40.4268759
+  },
+  {
+    "wikiId": "Q60635988",
+    "name": "Gesellschaftshaus zur Kaufleuten",
+    "cat": "nightclub",
+    "lon": 8.53626,
+    "lat": 47.37173
+  },
+  {
+    "wikiId": "Q60740553",
+    "name": "The HiLo Club",
+    "cat": "nightclub",
+    "lon": -97.532777777,
+    "lat": 35.5225
+  },
+  {
+    "wikiId": "Q60749714",
+    "name": "The Cross",
+    "cat": "nightclub",
+    "lon": -0.126705555,
+    "lat": 51.535286111
+  },
+  {
+    "wikiId": "Q60796685",
+    "name": "Rote Mühle",
+    "cat": "nightclub",
+    "lon": 9.73222,
+    "lat": 52.37445
+  },
+  {
+    "wikiId": "Q61044476",
+    "name": "Schloss-Lichtspiele",
+    "cat": "nightclub",
+    "lon": 8.22193,
+    "lat": 48.29851
+  },
+  {
+    "wikiId": "Q61340650",
+    "name": "Casa de Cultură a Sindicatelor",
+    "cat": "nightclub",
+    "lon": 23.56532,
+    "lat": 46.06752
+  },
+  {
+    "wikiId": "Q61483250",
+    "name": "Haus Imperial",
+    "cat": "nightclub",
+    "lon": 8.66513,
+    "lat": 50.10931
+  },
+  {
+    "wikiId": "Q61656437",
+    "name": "Tao Las Vegas",
+    "cat": "nightclub",
+    "lon": -115.170083,
+    "lat": 36.122666
+  },
+  {
+    "wikiId": "Q61741994",
+    "name": "Hakkasan",
+    "cat": "nightclub",
+    "lon": -115.172052,
+    "lat": 36.101456
+  },
+  {
+    "wikiId": "Q61787891",
+    "name": "Habbels",
+    "cat": "nightclub",
+    "lon": 8.28438,
+    "lat": 51.15343
+  },
+  {
+    "wikiId": "Q61794719",
+    "name": "XS",
+    "cat": "nightclub",
+    "lon": -115.164776,
+    "lat": 36.128034
+  },
+  {
+    "wikiId": "Q61854544",
+    "name": "Q61854544",
+    "cat": "nightclub",
+    "lon": -3.763935,
+    "lat": 48.52244
+  },
+  {
+    "wikiId": "Q61860748",
+    "name": "Les Variétés",
+    "cat": "nightclub",
+    "lon": 6.76575,
+    "lat": 47.88099
+  },
+  {
+    "wikiId": "Q61899269",
+    "name": "ICE",
+    "cat": "nightclub",
+    "lon": -115.163188,
+    "lat": 36.108452
+  },
+  {
+    "wikiId": "Q61906139",
+    "name": "Las Vegas Rocks Cafe",
+    "cat": "nightclub",
+    "lon": -115.141233,
+    "lat": 36.169873
+  },
+  {
+    "wikiId": "Q61939516",
+    "name": "The Beatles Revolution Lounge",
+    "cat": "nightclub",
+    "lon": -115.174444,
+    "lat": 36.121296
+  },
+  {
+    "wikiId": "Q61947491",
+    "name": "Hotel Weißes Lamm",
+    "cat": "nightclub",
+    "lon": 10.893011111,
+    "lat": 48.3708
+  },
+  {
+    "wikiId": "Q61997554",
+    "name": "Pigalle",
+    "cat": "nightclub",
+    "lon": 6.95218,
+    "lat": 50.94162
+  },
+  {
+    "wikiId": "Q62011644",
+    "name": "Postbahnhof",
+    "cat": "nightclub",
+    "lon": 13.437306,
+    "lat": 52.508952
+  },
+  {
+    "wikiId": "Q62018694",
+    "name": "Valencia",
+    "cat": "nightclub",
+    "lon": 12.55651,
+    "lat": 55.67297
+  },
+  {
+    "wikiId": "Q62526509",
+    "name": "Dürer Kert",
+    "cat": "nightclub",
+    "lon": 19.0900181,
+    "lat": 47.5097723
+  },
+  {
+    "wikiId": "Q63254565",
+    "name": "Albani",
+    "cat": "nightclub",
+    "lon": 8.729202777,
+    "lat": 47.498491666
+  },
+  {
+    "wikiId": "Q63382848",
+    "name": "Les Ambassadeurs",
+    "cat": "nightclub",
+    "lon": 4.80646,
+    "lat": 43.94744
+  },
+  {
+    "wikiId": "Q63457301",
+    "name": "Gold Diggers",
+    "cat": "nightclub",
+    "lon": -118.312565,
+    "lat": 34.090591
+  },
+  {
+    "wikiId": "Q65068977",
+    "name": "DC9 Nightclub",
+    "cat": "nightclub",
+    "lon": -77.02425,
+    "lat": 38.91675
+  },
+  {
+    "wikiId": "Q65329914",
+    "name": "Copper Face Jacks",
+    "cat": "nightclub",
+    "lon": -6.2635,
+    "lat": 53.3353
+  },
+  {
+    "wikiId": "Q65590124",
+    "name": "Geneva Concert Hall",
+    "cat": "nightclub",
+    "lon": 28.176,
+    "lat": 59.37968
+  },
+  {
+    "wikiId": "Q66106069",
+    "name": "Kinoteatr im. Tarasa Shevchenka",
+    "cat": "nightclub",
+    "lon": 34.79852,
+    "lat": 50.90831
+  },
+  {
+    "wikiId": "Q67445929",
+    "name": "Q67445929",
+    "cat": "nightclub",
+    "lon": 9.752945,
+    "lat": 49.495533
+  },
+  {
+    "wikiId": "Q67446044",
+    "name": "Q67446044",
+    "cat": "nightclub",
+    "lon": 9.649142,
+    "lat": 49.635549
+  },
+  {
+    "wikiId": "Q69908442",
+    "name": "Blitz Club",
+    "cat": "nightclub",
+    "lon": 11.585611111,
+    "lat": 48.131388888
+  },
+  {
+    "wikiId": "Q72544540",
+    "name": "Dattera til Hagen",
+    "cat": "nightclub",
+    "lon": 10.760138888,
+    "lat": 59.913333333
+  },
+  {
+    "wikiId": "Q73361720",
+    "name": "Blow Up (club)",
+    "cat": "nightclub",
+    "lon": 11.575388888,
+    "lat": 48.157472222
+  },
+  {
+    "wikiId": "Q81829202",
+    "name": "Regina-Palast",
+    "cat": "nightclub",
+    "lon": 13.73756,
+    "lat": 51.04705
+  },
+  {
+    "wikiId": "Q82537435",
+    "name": "Cinematograful Unirea",
+    "cat": "nightclub",
+    "lon": 24.675354,
+    "lat": 45.147303
+  },
+  {
+    "wikiId": "Q84718209",
+    "name": "John Edmondson V.C. Memorial Club",
+    "cat": "nightclub",
+    "lon": 150.92449,
+    "lat": -33.9219
+  },
+  {
+    "wikiId": "Q84718910",
+    "name": "Twin Towns Services Club",
+    "cat": "nightclub",
+    "lon": 153.54434,
+    "lat": -28.16862
+  },
+  {
+    "wikiId": "Q85851376",
+    "name": "Manhattan Club",
+    "cat": "nightclub",
+    "lon": -90.1525,
+    "lat": 38.616944444
+  },
+  {
+    "wikiId": "Q86755708",
+    "name": "The Dude Ranch",
+    "cat": "nightclub",
+    "lon": -122.668389,
+    "lat": 45.534833
+  },
+  {
+    "wikiId": "Q87708943",
+    "name": "Ibiza Club",
+    "cat": "nightclub",
+    "lon": 30.766666666,
+    "lat": 46.428194444
+  },
+  {
+    "wikiId": "Q87900443",
+    "name": "Tonhalle München",
+    "cat": "nightclub",
+    "lon": 11.6070724,
+    "lat": 48.1239882
+  },
+  {
+    "wikiId": "Q90398648",
+    "name": "Café-Concert Can-Can",
+    "cat": "nightclub",
+    "lon": -99.163842,
+    "lat": 19.426287
+  },
+  {
+    "wikiId": "Q91095399",
+    "name": "Yellow Submarine",
+    "cat": "nightclub",
+    "lon": 11.586138888,
+    "lat": 48.174138888
+  },
+  {
+    "wikiId": "Q96105563",
+    "name": "Varieté Femina",
+    "cat": "nightclub",
+    "lon": 6.08781,
+    "lat": 50.77403
+  },
+  {
+    "wikiId": "Q97189909",
+    "name": "Q97189909",
+    "cat": "nightclub",
+    "lon": 139.734111111,
+    "lat": 35.663222222
+  },
+  {
+    "wikiId": "Q97291100",
+    "name": "Új Vigadó",
+    "cat": "nightclub",
+    "lon": 21.631415,
+    "lat": 47.552701
+  },
+  {
+    "wikiId": "Q97623109",
+    "name": "Ministry of Sound",
+    "cat": "nightclub",
+    "lon": -0.066666666,
+    "lat": 51.516666666
+  },
+  {
+    "wikiId": "Q98034465",
+    "name": "Q98034465",
+    "cat": "nightclub",
+    "lon": -70.622602,
+    "lat": -33.42981
+  },
+  {
+    "wikiId": "Q98057069",
+    "name": "Gibson",
+    "cat": "nightclub",
+    "lon": 8.68237,
+    "lat": 50.11412
+  },
+  {
+    "wikiId": "Q98605406",
+    "name": "Wandelhof",
+    "cat": "nightclub",
+    "lon": 13.8473178,
+    "lat": 51.4814298
+  },
+  {
+    "wikiId": "Q99576435",
+    "name": "Casanova-Kabarett",
+    "cat": "nightclub",
+    "lon": 7.0110968,
+    "lat": 51.4543048
+  },
+  {
+    "wikiId": "Q99891922",
+    "name": "Glashaus-Center",
+    "cat": "nightclub",
+    "lon": 10.3505638,
+    "lat": 51.4270248
+  },
+  {
+    "wikiId": "Q104157096",
+    "name": "Al Hirt's Club",
+    "cat": "nightclub",
+    "lon": -90.067068691,
+    "lat": 29.957205038
+  },
+  {
+    "wikiId": "Q104552771",
+    "name": "Cotton Club (Tokyo, Japan)",
+    "cat": "nightclub",
+    "lon": 139.765395529,
+    "lat": 35.678608547
+  },
+  {
+    "wikiId": "Q104786130",
+    "name": "Cairo Jazz Club",
+    "cat": "nightclub",
+    "lon": 31.211933,
+    "lat": 30.062193
+  },
+  {
+    "wikiId": "Q104798099",
+    "name": "Q104798099",
+    "cat": "nightclub",
+    "lon": 6.993056,
+    "lat": 49.235556
+  },
+  {
+    "wikiId": "Q104863919",
+    "name": "Ocean Room",
+    "cat": "nightclub",
+    "lon": 1.73317,
+    "lat": 52.57072
+  },
+  {
+    "wikiId": "Q105071899",
+    "name": "Janka-Lichtspiele",
+    "cat": "nightclub",
+    "lon": 8.28183,
+    "lat": 49.19159
+  },
+  {
+    "wikiId": "Q105193206",
+    "name": "Kulturhaus Lauterbach",
+    "cat": "nightclub",
+    "lon": 13.17842,
+    "lat": 50.68015
+  },
+  {
+    "wikiId": "Q105232805",
+    "name": "Kulturhaus Neuhaus am Rennweg",
+    "cat": "nightclub",
+    "lon": 11.13774,
+    "lat": 50.50916
+  },
+  {
+    "wikiId": "Q105366714",
+    "name": "Deutsches Haus",
+    "cat": "nightclub",
+    "lon": 10.53847,
+    "lat": 50.40323
+  },
+  {
+    "wikiId": "Q105992953",
+    "name": "Ritz",
+    "cat": "nightclub",
+    "lon": 18.073833333,
+    "lat": 59.314388888
+  },
+  {
+    "wikiId": "Q106122242",
+    "name": "Commons Studio Bar",
+    "cat": "nightclub",
+    "lon": -38.486023,
+    "lat": -13.013547
+  },
+  {
+    "wikiId": "Q106328153",
+    "name": "Benidorm Palace",
+    "cat": "nightclub",
+    "lon": -0.10251,
+    "lat": 38.54443
+  },
+  {
+    "wikiId": "Q106548157",
+    "name": "Trem de Cavalaria de Lagos",
+    "cat": "nightclub",
+    "lon": -8.6757583,
+    "lat": 37.1008694
+  },
+  {
+    "wikiId": "Q106687480",
+    "name": "Black Orchid",
+    "cat": "nightclub",
+    "lon": -115.150842144,
+    "lat": 36.178166441
+  },
+  {
+    "wikiId": "Q106687487",
+    "name": "Brown Derby Club",
+    "cat": "nightclub",
+    "lon": -115.146656315,
+    "lat": 36.185389867
+  },
+  {
+    "wikiId": "Q106687499",
+    "name": "New Brown Derby Club",
+    "cat": "nightclub",
+    "lon": -115.146720688,
+    "lat": 36.185389867
+  },
+  {
+    "wikiId": "Q106687546",
+    "name": "New El Morocco",
+    "cat": "nightclub",
+    "lon": -115.148353802,
+    "lat": 36.185211176
+  },
+  {
+    "wikiId": "Q106687561",
+    "name": "Club Ebony",
+    "cat": "nightclub",
+    "lon": -115.147561208,
+    "lat": 36.18597321
+  },
+  {
+    "wikiId": "Q106687601",
+    "name": "Love’s Cocktail Lounge",
+    "cat": "nightclub",
+    "lon": -115.148195888,
+    "lat": 36.186316488
+  },
+  {
+    "wikiId": "Q106687618",
+    "name": "Green Lantern",
+    "cat": "nightclub",
+    "lon": -115.147990362,
+    "lat": 36.18609444
+  },
+  {
+    "wikiId": "Q106687623",
+    "name": "Chickadee",
+    "cat": "nightclub",
+    "lon": -115.149719359,
+    "lat": 36.188139543
+  },
+  {
+    "wikiId": "Q106687641",
+    "name": "Club Alabama",
+    "cat": "nightclub",
+    "lon": -115.149611773,
+    "lat": 36.186113343
+  },
+  {
+    "wikiId": "Q106687645",
+    "name": "Square Deal Club",
+    "cat": "nightclub",
+    "lon": -115.148353802,
+    "lat": 36.185211176
+  },
+  {
+    "wikiId": "Q106687652",
+    "name": "El Rio",
+    "cat": "nightclub",
+    "lon": -115.151904033,
+    "lat": 36.192567351
+  },
+  {
+    "wikiId": "Q106687721",
+    "name": "Round Up Casino",
+    "cat": "nightclub",
+    "lon": -115.147797243,
+    "lat": 36.185938573
+  },
+  {
+    "wikiId": "Q106687725",
+    "name": "Silver Club & Café",
+    "cat": "nightclub",
+    "lon": -115.14798066,
+    "lat": 36.185894869
+  },
+  {
+    "wikiId": "Q106728925",
+    "name": "Sun Trapp",
+    "cat": "nightclub",
+    "lon": -111.9107146,
+    "lat": 40.7669789
+  },
+  {
+    "wikiId": "Q106777578",
+    "name": "Cotton Bowl",
+    "cat": "nightclub",
+    "lon": -115.148195888,
+    "lat": 36.1863165
+  },
+  {
+    "wikiId": "Q106906200",
+    "name": "Aglomerat",
+    "cat": "nightclub",
+    "lon": 37.6652898,
+    "lat": 55.7521304
+  },
+  {
+    "wikiId": "Q106995846",
+    "name": "Hercules (nightclub)",
+    "cat": "nightclub",
+    "lon": 24.9276,
+    "lat": 60.1701
+  },
+  {
+    "wikiId": "Q108130616",
+    "name": "Beverly Hills Supper Club",
+    "cat": "nightclub",
+    "lon": -84.465,
+    "lat": 39.063611111
+  },
+  {
+    "wikiId": "Q108803331",
+    "name": "La Machine du Moulin Rouge",
+    "cat": "nightclub",
+    "lon": 2.332227426,
+    "lat": 48.88413076
+  },
+  {
+    "wikiId": "Q108867012",
+    "name": "The Royal Peacock",
+    "cat": "nightclub",
+    "lon": -84.3815771,
+    "lat": 33.7557215
+  },
+  {
+    "wikiId": "Q109666638",
+    "name": "Molhe",
+    "cat": "nightclub",
+    "lon": -16.91525,
+    "lat": 32.64112
+  },
+  {
+    "wikiId": "Q110267339",
+    "name": "Cheeks",
+    "cat": "nightclub",
+    "lon": -105.989,
+    "lat": 35.657
+  },
+  {
+    "wikiId": "Q110660017",
+    "name": "Tiki Bob's Cantina",
+    "cat": "nightclub",
+    "lon": -86.158061192,
+    "lat": 39.763425051
+  },
+  {
+    "wikiId": "Q110689724",
+    "name": "Metro Nightclub & Restaurant",
+    "cat": "nightclub",
+    "lon": -86.146604653,
+    "lat": 39.776469871
+  },
+  {
+    "wikiId": "Q111226537",
+    "name": "Shimokitazawa THREE",
+    "cat": "nightclub",
+    "lon": 139.667416666,
+    "lat": 35.656777777
+  },
+  {
+    "wikiId": "Q111552171",
+    "name": "Code",
+    "cat": "nightclub",
+    "lon": -1.47074,
+    "lat": 53.37686
+  },
+  {
+    "wikiId": "Q111759031",
+    "name": "The Grand Nightclub",
+    "cat": "nightclub",
+    "lon": -80.996505737,
+    "lat": 46.49382019
+  },
+  {
+    "wikiId": "Q111766892",
+    "name": "SRO Nightclub & Lounge",
+    "cat": "nightclub",
+    "lon": -80.9952995,
+    "lat": 46.4914546
+  },
+  {
+    "wikiId": "Q112112872",
+    "name": "Zodiak",
+    "cat": "nightclub",
+    "lon": 4.35313,
+    "lat": 50.84597
+  }
+]

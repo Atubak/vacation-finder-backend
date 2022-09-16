@@ -1,0 +1,3895 @@
+[
+  {
+    "wikiId": "Q12508",
+    "name": "Giza pyramid complex",
+    "cat": "necropolis",
+    "lon": 31.132778,
+    "lat": 29.976111
+  },
+  {
+    "wikiId": "Q26237",
+    "name": "Hawara",
+    "cat": "necropolis",
+    "lon": 30.899,
+    "lat": 29.274
+  },
+  {
+    "wikiId": "Q29223",
+    "name": "Theban Necropolis",
+    "cat": "necropolis",
+    "lon": 32.61,
+    "lat": 25.720833333
+  },
+  {
+    "wikiId": "Q38214",
+    "name": "Jach'a Phasa",
+    "cat": "necropolis",
+    "lon": -68.51666667,
+    "lat": -17.38333333
+  },
+  {
+    "wikiId": "Q43474",
+    "name": "San Giovenale",
+    "cat": "necropolis",
+    "lon": 11.99972222,
+    "lat": 42.22444444
+  },
+  {
+    "wikiId": "Q56924",
+    "name": "El-Lahun",
+    "cat": "necropolis",
+    "lon": 30.966666666,
+    "lat": 29.228611111
+  },
+  {
+    "wikiId": "Q115314",
+    "name": "Tarkhan",
+    "cat": "necropolis",
+    "lon": 31.21667,
+    "lat": 29.5
+  },
+  {
+    "wikiId": "Q133423",
+    "name": "Valley of the Kings",
+    "cat": "necropolis",
+    "lon": 32.602358,
+    "lat": 25.74025
+  },
+  {
+    "wikiId": "Q155043",
+    "name": "Makli Necropolis",
+    "cat": "necropolis",
+    "lon": 67.9,
+    "lat": 24.761111111
+  },
+  {
+    "wikiId": "Q192134",
+    "name": "Saqqara",
+    "cat": "necropolis",
+    "lon": 31.233333333,
+    "lat": 29.85
+  },
+  {
+    "wikiId": "Q192268",
+    "name": "Abydos",
+    "cat": "necropolis",
+    "lon": 31.918889,
+    "lat": 26.185167
+  },
+  {
+    "wikiId": "Q219898",
+    "name": "Boljuni necropolis",
+    "cat": "necropolis",
+    "lon": 17.8748,
+    "lat": 43.0279
+  },
+  {
+    "wikiId": "Q260386",
+    "name": "Valley of the Queens",
+    "cat": "necropolis",
+    "lon": 32.593055555,
+    "lat": 25.7275
+  },
+  {
+    "wikiId": "Q286169",
+    "name": "El-Tarif",
+    "cat": "necropolis",
+    "lon": 32.637805555,
+    "lat": 25.739644444
+  },
+  {
+    "wikiId": "Q286631",
+    "name": "El-Assasif",
+    "cat": "necropolis",
+    "lon": 32.612833333,
+    "lat": 25.733491666
+  },
+  {
+    "wikiId": "Q287779",
+    "name": "Lisht",
+    "cat": "necropolis",
+    "lon": 31.231111111,
+    "lat": 29.570277777
+  },
+  {
+    "wikiId": "Q295408",
+    "name": "Mramorje",
+    "cat": "necropolis",
+    "lon": 19.42748429,
+    "lat": 43.95043615
+  },
+  {
+    "wikiId": "Q335278",
+    "name": "Abu Rawash",
+    "cat": "necropolis",
+    "lon": 31.074722222,
+    "lat": 30.032222222
+  },
+  {
+    "wikiId": "Q336098",
+    "name": "Abusir",
+    "cat": "necropolis",
+    "lon": 31.203611111,
+    "lat": 29.896111111
+  },
+  {
+    "wikiId": "Q404064",
+    "name": "Mycenaean cemetery of Aidonia",
+    "cat": "necropolis",
+    "lon": 22.583169,
+    "lat": 37.840305
+  },
+  {
+    "wikiId": "Q450348",
+    "name": "The Alyscamps",
+    "cat": "necropolis",
+    "lon": 4.636944444,
+    "lat": 43.671388888
+  },
+  {
+    "wikiId": "Q539095",
+    "name": "Necropolis of Anghelu Ruju",
+    "cat": "necropolis",
+    "lon": 8.32666667,
+    "lat": 40.6325
+  },
+  {
+    "wikiId": "Q586045",
+    "name": "Necropolis of Santu Pedru",
+    "cat": "necropolis",
+    "lon": 8.40302778,
+    "lat": 40.62313889
+  },
+  {
+    "wikiId": "Q597955",
+    "name": "Capilla y necrópolis de San Victor de Barxacova",
+    "cat": "necropolis",
+    "lon": -7.50166667,
+    "lat": 42.37305556
+  },
+  {
+    "wikiId": "Q648705",
+    "name": "Naqsh-e Rustam",
+    "cat": "necropolis",
+    "lon": 52.874722222,
+    "lat": 29.988888888
+  },
+  {
+    "wikiId": "Q675047",
+    "name": "Fraser Tombs",
+    "cat": "necropolis",
+    "lon": 30.776938888,
+    "lat": 28.161938888
+  },
+  {
+    "wikiId": "Q676508",
+    "name": "Dra' Abu el-Naga",
+    "cat": "necropolis",
+    "lon": 32.620561111,
+    "lat": 25.735280555
+  },
+  {
+    "wikiId": "Q685414",
+    "name": "Dahshur",
+    "cat": "necropolis",
+    "lon": 31.233333333,
+    "lat": 29.8
+  },
+  {
+    "wikiId": "Q690841",
+    "name": "Meir",
+    "cat": "necropolis",
+    "lon": 30.711666666,
+    "lat": 27.409722222
+  },
+  {
+    "wikiId": "Q727501",
+    "name": "Necròpolis de Son Real",
+    "cat": "necropolis",
+    "lon": 3.18222,
+    "lat": 39.75497
+  },
+  {
+    "wikiId": "Q750212",
+    "name": "Deir el-Medina",
+    "cat": "necropolis",
+    "lon": 32.601388888,
+    "lat": 25.728888888
+  },
+  {
+    "wikiId": "Q817286",
+    "name": "Beni Hasan",
+    "cat": "necropolis",
+    "lon": 30.875280555,
+    "lat": 27.931388888
+  },
+  {
+    "wikiId": "Q859735",
+    "name": "Necropolis Banditaccia",
+    "cat": "necropolis",
+    "lon": 12.096765,
+    "lat": 41.999083
+  },
+  {
+    "wikiId": "Q898001",
+    "name": "Q898001",
+    "cat": "necropolis",
+    "lon": 11.2589,
+    "lat": 53.7558
+  },
+  {
+    "wikiId": "Q931434",
+    "name": "necropolis of Pantalica",
+    "cat": "necropolis",
+    "lon": 14.98333333,
+    "lat": 37.13333333
+  },
+  {
+    "wikiId": "Q949388",
+    "name": "Radimlja",
+    "cat": "necropolis",
+    "lon": 17.92416667,
+    "lat": 43.09222222
+  },
+  {
+    "wikiId": "Q976364",
+    "name": "Q976364",
+    "cat": "necropolis",
+    "lon": 7.054444444,
+    "lat": 48.735277777
+  },
+  {
+    "wikiId": "Q1069411",
+    "name": "Western Xia mausoleums",
+    "cat": "necropolis",
+    "lon": 105.987167,
+    "lat": 38.435035
+  },
+  {
+    "wikiId": "Q1323768",
+    "name": "El-Khokha",
+    "cat": "necropolis",
+    "lon": 32.612709,
+    "lat": 25.732684
+  },
+  {
+    "wikiId": "Q1369420",
+    "name": "Necropolis of Montessu",
+    "cat": "necropolis",
+    "lon": 8.66861111,
+    "lat": 39.13333333
+  },
+  {
+    "wikiId": "Q1404363",
+    "name": "Artificial caves of Casal do Pardo",
+    "cat": "necropolis",
+    "lon": -8.938637,
+    "lat": 38.564168
+  },
+  {
+    "wikiId": "Q1434073",
+    "name": "Necropolis of Fossa",
+    "cat": "necropolis",
+    "lon": 13.505018,
+    "lat": 42.310764
+  },
+  {
+    "wikiId": "Q1479631",
+    "name": "Naga ed-Deir",
+    "cat": "necropolis",
+    "lon": 31.83333333,
+    "lat": 26.56666667
+  },
+  {
+    "wikiId": "Q1486337",
+    "name": "Q1486337",
+    "cat": "necropolis",
+    "lon": 9.1734861,
+    "lat": 40.3220897
+  },
+  {
+    "wikiId": "Q1510293",
+    "name": "Necropoli di Sos Furrighesos",
+    "cat": "necropolis",
+    "lon": 8.97295,
+    "lat": 40.48126389
+  },
+  {
+    "wikiId": "Q1579766",
+    "name": "Los Millares",
+    "cat": "necropolis",
+    "lon": -2.521640046,
+    "lat": 36.96261102
+  },
+  {
+    "wikiId": "Q1649236",
+    "name": "Chor-Bakr",
+    "cat": "necropolis",
+    "lon": 64.33444444,
+    "lat": 39.77444444
+  },
+  {
+    "wikiId": "Q1664717",
+    "name": "Necropolis of Mesu 'e Montes",
+    "cat": "necropolis",
+    "lon": 8.61888889,
+    "lat": 40.63111111
+  },
+  {
+    "wikiId": "Q1796353",
+    "name": "Tombs of the Kings",
+    "cat": "necropolis",
+    "lon": 32.40472222,
+    "lat": 34.77611111
+  },
+  {
+    "wikiId": "Q1889050",
+    "name": "Necropolis of Mandra Antine",
+    "cat": "necropolis",
+    "lon": 8.62983333,
+    "lat": 40.51516667
+  },
+  {
+    "wikiId": "Q1917052",
+    "name": "Großsteingräber im Haldensleber Forst",
+    "cat": "necropolis",
+    "lon": 11.3430554,
+    "lat": 52.2717459
+  },
+  {
+    "wikiId": "Q1975246",
+    "name": "Pointe du Souc'h necropolis",
+    "cat": "necropolis",
+    "lon": -4.47055556,
+    "lat": 47.98638889
+  },
+  {
+    "wikiId": "Q1975253",
+    "name": "Dolmen de la Boixe",
+    "cat": "necropolis",
+    "lon": 0.1487,
+    "lat": 45.8428
+  },
+  {
+    "wikiId": "Q1975256",
+    "name": "Necropolis of Filigosa",
+    "cat": "necropolis",
+    "lon": 8.76916667,
+    "lat": 40.27805556
+  },
+  {
+    "wikiId": "Q1975266",
+    "name": "Necropolis of Moseddu",
+    "cat": "necropolis",
+    "lon": 8.73053056,
+    "lat": 40.48591389
+  },
+  {
+    "wikiId": "Q2019906",
+    "name": "Archaeological Site of Senhor dos Mártires",
+    "cat": "necropolis",
+    "lon": -8.520448684,
+    "lat": 38.37184906
+  },
+  {
+    "wikiId": "Q2119637",
+    "name": "Vatican Necropolis",
+    "cat": "necropolis",
+    "lon": 12.453293,
+    "lat": 41.902301
+  },
+  {
+    "wikiId": "Q2223903",
+    "name": "necropolis of Sant'Andrea Priu",
+    "cat": "necropolis",
+    "lon": 8.84691667,
+    "lat": 40.42137222
+  },
+  {
+    "wikiId": "Q2225300",
+    "name": "Q2225300",
+    "cat": "necropolis",
+    "lon": 9.17222222,
+    "lat": 40.29138889
+  },
+  {
+    "wikiId": "Q2314811",
+    "name": "Chellah",
+    "cat": "necropolis",
+    "lon": -6.82027778,
+    "lat": 34.00666667
+  },
+  {
+    "wikiId": "Q2564175",
+    "name": "Necropolis of Monterozzi",
+    "cat": "necropolis",
+    "lon": 11.767854,
+    "lat": 42.25008
+  },
+  {
+    "wikiId": "Q2701804",
+    "name": "French military cemetery of Chastre",
+    "cat": "necropolis",
+    "lon": 4.624261111,
+    "lat": 50.604344444
+  },
+  {
+    "wikiId": "Q2782494",
+    "name": "Necropolis of Soderstorf",
+    "cat": "necropolis",
+    "lon": 10.1689,
+    "lat": 53.144
+  },
+  {
+    "wikiId": "Q2804127",
+    "name": "Tustrupgravpladsen",
+    "cat": "necropolis",
+    "lon": 10.5132,
+    "lat": 56.4905
+  },
+  {
+    "wikiId": "Q2860779",
+    "name": "Sovana",
+    "cat": "necropolis",
+    "lon": 11.63436111,
+    "lat": 42.65841667
+  },
+  {
+    "wikiId": "Q2972613",
+    "name": "Cimetière romain de Dabo",
+    "cat": "necropolis",
+    "lon": 7.181442,
+    "lat": 48.636839
+  },
+  {
+    "wikiId": "Q2972673",
+    "name": "Early Christian cemetery of Tárraco",
+    "cat": "necropolis",
+    "lon": 1.23833,
+    "lat": 41.1159
+  },
+  {
+    "wikiId": "Q3346844",
+    "name": "Nécropole d'Édon",
+    "cat": "necropolis",
+    "lon": 0.35583,
+    "lat": 45.5036
+  },
+  {
+    "wikiId": "Q3346851",
+    "name": "Necropolis of Cannicella",
+    "cat": "necropolis",
+    "lon": 12.1170401,
+    "lat": 42.7148665
+  },
+  {
+    "wikiId": "Q3346852",
+    "name": "Necropoli di Dometaia",
+    "cat": "necropolis",
+    "lon": 11.037366,
+    "lat": 43.392819
+  },
+  {
+    "wikiId": "Q3346857",
+    "name": "Monte Abatone necropolis",
+    "cat": "necropolis",
+    "lon": 12.116469,
+    "lat": 41.991566
+  },
+  {
+    "wikiId": "Q3346861",
+    "name": "Pian di Mola necropolis",
+    "cat": "necropolis",
+    "lon": 11.8873701,
+    "lat": 42.4247
+  },
+  {
+    "wikiId": "Q3346863",
+    "name": "Q3346863",
+    "cat": "necropolis",
+    "lon": 11.583611111,
+    "lat": 42.588611111
+  },
+  {
+    "wikiId": "Q3346864",
+    "name": "Poggio Renzo Necropolis",
+    "cat": "necropolis",
+    "lon": 11.951226,
+    "lat": 43.02942
+  },
+  {
+    "wikiId": "Q3346866",
+    "name": "Necropolis of Palastreto",
+    "cat": "necropolis",
+    "lon": 11.2302,
+    "lat": 43.8325
+  },
+  {
+    "wikiId": "Q3346872",
+    "name": "Necropolis of Prato Rosello",
+    "cat": "necropolis",
+    "lon": 11.05555556,
+    "lat": 43.77416667
+  },
+  {
+    "wikiId": "Q3346877",
+    "name": "San Antón necropolis",
+    "cat": "necropolis",
+    "lon": -0.994042,
+    "lat": 37.61564
+  },
+  {
+    "wikiId": "Q3346878",
+    "name": "Q3346878",
+    "cat": "necropolis",
+    "lon": 11.34625,
+    "lat": 42.533111111
+  },
+  {
+    "wikiId": "Q3346880",
+    "name": "Madonna dell'Olivo necropolis",
+    "cat": "necropolis",
+    "lon": 11.87352,
+    "lat": 42.406258
+  },
+  {
+    "wikiId": "Q3346885",
+    "name": "Q3346885",
+    "cat": "necropolis",
+    "lon": 12.09959,
+    "lat": 41.99188
+  },
+  {
+    "wikiId": "Q3346891",
+    "name": "Necropoli delle Pianacce",
+    "cat": "necropolis",
+    "lon": 11.875765,
+    "lat": 42.987827
+  },
+  {
+    "wikiId": "Q3346892",
+    "name": "Necropoli Etrusca del Crocifisso del Tufo",
+    "cat": "necropolis",
+    "lon": 12.102555,
+    "lat": 42.721
+  },
+  {
+    "wikiId": "Q3346915",
+    "name": "Tombs in Saint-Denis",
+    "cat": "necropolis",
+    "lon": 2.35978,
+    "lat": 48.9355
+  },
+  {
+    "wikiId": "Q3346918",
+    "name": "Puig des Molins, Ibiza",
+    "cat": "necropolis",
+    "lon": 1.42951,
+    "lat": 38.9072
+  },
+  {
+    "wikiId": "Q3531069",
+    "name": "Macedonian royal tombs, Vergina",
+    "cat": "necropolis",
+    "lon": 22.319313,
+    "lat": 40.487428
+  },
+  {
+    "wikiId": "Q3662996",
+    "name": "Castelluccio di Noto excavations",
+    "cat": "necropolis",
+    "lon": 14.936944444,
+    "lat": 36.960277777
+  },
+  {
+    "wikiId": "Q3874141",
+    "name": "Necropoli del Poggino",
+    "cat": "necropolis",
+    "lon": 11.299662,
+    "lat": 43.437473
+  },
+  {
+    "wikiId": "Q3874142",
+    "name": "Q3874142",
+    "cat": "necropolis",
+    "lon": 12.48688056,
+    "lat": 41.89199722
+  },
+  {
+    "wikiId": "Q3874143",
+    "name": "Esquiline Necropolis",
+    "cat": "necropolis",
+    "lon": 12.5022,
+    "lat": 41.8957
+  },
+  {
+    "wikiId": "Q3874146",
+    "name": "Necropolis of Coccitelle",
+    "cat": "necropolis",
+    "lon": 13.808328,
+    "lat": 42.000704
+  },
+  {
+    "wikiId": "Q3874149",
+    "name": "Necropolis of Corona Moltana",
+    "cat": "necropolis",
+    "lon": 8.78914722,
+    "lat": 40.51921389
+  },
+  {
+    "wikiId": "Q3874151",
+    "name": "Necropolis of Is Loccis-Santus",
+    "cat": "necropolis",
+    "lon": 8.493,
+    "lat": 39.1196
+  },
+  {
+    "wikiId": "Q3874152",
+    "name": "Necropolis of Montalè",
+    "cat": "necropolis",
+    "lon": 8.51122778,
+    "lat": 40.74825556
+  },
+  {
+    "wikiId": "Q3874155",
+    "name": "Necropolis of Ponte Messato",
+    "cat": "necropolis",
+    "lon": 13.67653056,
+    "lat": 42.64757778
+  },
+  {
+    "wikiId": "Q3874156",
+    "name": "Necropolis of Monte Luna",
+    "cat": "necropolis",
+    "lon": 9.144811,
+    "lat": 39.510661
+  },
+  {
+    "wikiId": "Q3874157",
+    "name": "Necropolis of Ponte Secco",
+    "cat": "necropolis",
+    "lon": 8.46088889,
+    "lat": 40.78983333
+  },
+  {
+    "wikiId": "Q3874159",
+    "name": "Necropolis of S'Elighe Entosu",
+    "cat": "necropolis",
+    "lon": 8.63555556,
+    "lat": 40.66553611
+  },
+  {
+    "wikiId": "Q3874164",
+    "name": "Necropolis of Su Crucifissu Mannu",
+    "cat": "necropolis",
+    "lon": 8.44417778,
+    "lat": 40.81029722
+  },
+  {
+    "wikiId": "Q4054343",
+    "name": "Abat-Baitak",
+    "cat": "necropolis",
+    "lon": 55.906944444,
+    "lat": 50.095277777
+  },
+  {
+    "wikiId": "Q4894815",
+    "name": "Zawyet el-Maiyitin",
+    "cat": "necropolis",
+    "lon": 30.8175,
+    "lat": 28.0625
+  },
+  {
+    "wikiId": "Q5276996",
+    "name": "Dilmun Burial Mounds",
+    "cat": "necropolis",
+    "lon": 50.51277778,
+    "lat": 26.14972222
+  },
+  {
+    "wikiId": "Q5812516",
+    "name": "Dolmen del Portillo de las Cortes",
+    "cat": "necropolis",
+    "lon": -2.40611111,
+    "lat": 41.05638889
+  },
+  {
+    "wikiId": "Q5822827",
+    "name": "El Peñón de las Juntas",
+    "cat": "necropolis",
+    "lon": -2.753705555,
+    "lat": 37.151658333
+  },
+  {
+    "wikiId": "Q6039279",
+    "name": "Necrópolis de Alcaide",
+    "cat": "necropolis",
+    "lon": -4.481040321,
+    "lat": 37.18580993
+  },
+  {
+    "wikiId": "Q6039293",
+    "name": "Necrópolis de La Coba",
+    "cat": "necropolis",
+    "lon": -5.05126476,
+    "lat": 40.63737162
+  },
+  {
+    "wikiId": "Q6039295",
+    "name": "Necrópolis de la Noria",
+    "cat": "necropolis",
+    "lon": -4.730133712,
+    "lat": 37.131100314
+  },
+  {
+    "wikiId": "Q6039299",
+    "name": "Necrópolis de Las Chaperas",
+    "cat": "necropolis",
+    "lon": -4.43509039,
+    "lat": 36.85513742
+  },
+  {
+    "wikiId": "Q6039303",
+    "name": "Necrópolis de Los Villares",
+    "cat": "necropolis",
+    "lon": -1.54335,
+    "lat": 38.918991666
+  },
+  {
+    "wikiId": "Q6039310",
+    "name": "Trayamar necropolis",
+    "cat": "necropolis",
+    "lon": -4.04916667,
+    "lat": 36.74861111
+  },
+  {
+    "wikiId": "Q6039321",
+    "name": "Grupo Megalítico de Gádor",
+    "cat": "necropolis",
+    "lon": -2.511625168,
+    "lat": 36.93968576
+  },
+  {
+    "wikiId": "Q6169495",
+    "name": "Yabal Faruh",
+    "cat": "necropolis",
+    "lon": -4.413163972,
+    "lat": 36.72569196
+  },
+  {
+    "wikiId": "Q6862876",
+    "name": "Mostafa Kamel Necropolis",
+    "cat": "necropolis",
+    "lon": 29.947231,
+    "lat": 31.231024
+  },
+  {
+    "wikiId": "Q6985710",
+    "name": "Necropolis of Kerkouane",
+    "cat": "necropolis",
+    "lon": 11.086291666,
+    "lat": 36.955969444
+  },
+  {
+    "wikiId": "Q7818709",
+    "name": "Tombs of the Nobles",
+    "cat": "necropolis",
+    "lon": 32.595,
+    "lat": 25.7278
+  },
+  {
+    "wikiId": "Q7912356",
+    "name": "Valley of the Golden Mummies",
+    "cat": "necropolis",
+    "lon": 28.826111111,
+    "lat": 28.326811111
+  },
+  {
+    "wikiId": "Q10335950",
+    "name": "Necropolis of Carenque",
+    "cat": "necropolis",
+    "lon": -9.24389,
+    "lat": 38.77341
+  },
+  {
+    "wikiId": "Q10335951",
+    "name": "Necrópole das Forcadas",
+    "cat": "necropolis",
+    "lon": -7.502302,
+    "lat": 40.687167
+  },
+  {
+    "wikiId": "Q11690862",
+    "name": "Q11690862",
+    "cat": "necropolis",
+    "lon": 17.880111,
+    "lat": 50.679417
+  },
+  {
+    "wikiId": "Q11930877",
+    "name": "La Torreta",
+    "cat": "necropolis",
+    "lon": 1.14341944,
+    "lat": 42.25416944
+  },
+  {
+    "wikiId": "Q11938508",
+    "name": "Q11938508",
+    "cat": "necropolis",
+    "lon": 2.829167,
+    "lat": 39.415278
+  },
+  {
+    "wikiId": "Q11938509",
+    "name": "Q11938509",
+    "cat": "necropolis",
+    "lon": 2.827778,
+    "lat": 39.485
+  },
+  {
+    "wikiId": "Q11938510",
+    "name": "Necròpolis romana de Vilassar de Mar",
+    "cat": "necropolis",
+    "lon": 2.395448,
+    "lat": 41.511104
+  },
+  {
+    "wikiId": "Q12185492",
+    "name": "Iglesia mudéjar desconocida en Cuéllar",
+    "cat": "necropolis",
+    "lon": -4.310991661,
+    "lat": 41.402722649
+  },
+  {
+    "wikiId": "Q12193415",
+    "name": "Mo'alla",
+    "cat": "necropolis",
+    "lon": 32.525,
+    "lat": 25.472219444
+  },
+  {
+    "wikiId": "Q12244492",
+    "name": "Gabbanat el-Bagawat",
+    "cat": "necropolis",
+    "lon": 30.554938888,
+    "lat": 25.485769444
+  },
+  {
+    "wikiId": "Q12253935",
+    "name": "Necrópolis of Argiñeta and Hermitage of San Adrián, Elorrio",
+    "cat": "necropolis",
+    "lon": -2.53604,
+    "lat": 43.13986
+  },
+  {
+    "wikiId": "Q12287219",
+    "name": "Mishkova niva",
+    "cat": "necropolis",
+    "lon": 27.5005,
+    "lat": 41.9578
+  },
+  {
+    "wikiId": "Q12382506",
+    "name": "Adro Vello",
+    "cat": "necropolis",
+    "lon": -8.930416666,
+    "lat": 42.477722222
+  },
+  {
+    "wikiId": "Q13085327",
+    "name": "Q13085327",
+    "cat": "necropolis",
+    "lon": 17.677,
+    "lat": 44.0564
+  },
+  {
+    "wikiId": "Q14201288",
+    "name": "Abu el-Awwaf",
+    "cat": "necropolis",
+    "lon": 25.803219444,
+    "lat": 29.170819444
+  },
+  {
+    "wikiId": "Q14203933",
+    "name": "Beit el-Arais",
+    "cat": "necropolis",
+    "lon": 29.081375,
+    "lat": 25.478616666
+  },
+  {
+    "wikiId": "Q14205822",
+    "name": "Qarat Qasr Salim",
+    "cat": "necropolis",
+    "lon": 28.872261111,
+    "lat": 28.351511111
+  },
+  {
+    "wikiId": "Q14205824",
+    "name": "Qarat el-Sheikh Subi",
+    "cat": "necropolis",
+    "lon": 28.869861111,
+    "lat": 28.352361111
+  },
+  {
+    "wikiId": "Q14209830",
+    "name": "Gebel el-Mawta",
+    "cat": "necropolis",
+    "lon": 25.5253,
+    "lat": 29.211488888
+  },
+  {
+    "wikiId": "Q14218523",
+    "name": "Qarat el-Muzawwaqa",
+    "cat": "necropolis",
+    "lon": 28.838330555,
+    "lat": 25.681861111
+  },
+  {
+    "wikiId": "Q14300044",
+    "name": "Qaret Hilwa",
+    "cat": "necropolis",
+    "lon": 28.849969444,
+    "lat": 28.340669444
+  },
+  {
+    "wikiId": "Q14300118",
+    "name": "Qila' el-Dabba",
+    "cat": "necropolis",
+    "lon": 29.2803,
+    "lat": 25.5578
+  },
+  {
+    "wikiId": "Q15060274",
+    "name": "Tyre Necropolis",
+    "cat": "necropolis",
+    "lon": 35.209722,
+    "lat": 33.272222
+  },
+  {
+    "wikiId": "Q15136682",
+    "name": "Via Sepulcral Romana Plaça Villa de Madrid",
+    "cat": "necropolis",
+    "lon": 2.172128,
+    "lat": 41.384666
+  },
+  {
+    "wikiId": "Q15836505",
+    "name": "Necròpolis de Son Morell Nou",
+    "cat": "necropolis",
+    "lon": 3.88255,
+    "lat": 40.049435
+  },
+  {
+    "wikiId": "Q16518404",
+    "name": "Mulisko Gaina",
+    "cat": "necropolis",
+    "lon": -1.94639,
+    "lat": 43.228195
+  },
+  {
+    "wikiId": "Q16581772",
+    "name": "Necropolis of Calancoi",
+    "cat": "necropolis",
+    "lon": 8.625,
+    "lat": 40.72277778
+  },
+  {
+    "wikiId": "Q16581778",
+    "name": "Necropolis of Cassibile",
+    "cat": "necropolis",
+    "lon": 15.165316,
+    "lat": 36.965626
+  },
+  {
+    "wikiId": "Q16679006",
+    "name": "Tanella di Pitagora",
+    "cat": "necropolis",
+    "lon": 11.981805555,
+    "lat": 43.270555555
+  },
+  {
+    "wikiId": "Q16745111",
+    "name": "Kulykove Pole",
+    "cat": "necropolis",
+    "lon": 30.743889,
+    "lat": 46.466111
+  },
+  {
+    "wikiId": "Q17294150",
+    "name": "Necrópole Medieval de Fão",
+    "cat": "necropolis",
+    "lon": -8.776342391,
+    "lat": 41.511192321
+  },
+  {
+    "wikiId": "Q17635895",
+    "name": "nécropole de la Nsele",
+    "cat": "necropolis",
+    "lon": 15.58554,
+    "lat": -4.21408
+  },
+  {
+    "wikiId": "Q17637034",
+    "name": "Necropolis of Sas Concas",
+    "cat": "necropolis",
+    "lon": 9.1965973,
+    "lat": 40.3111943
+  },
+  {
+    "wikiId": "Q18005824",
+    "name": "necròpolis de Can Canyís",
+    "cat": "necropolis",
+    "lon": 1.55821,
+    "lat": 41.2722
+  },
+  {
+    "wikiId": "Q18288702",
+    "name": "Necropolis of Molia",
+    "cat": "necropolis",
+    "lon": 9.03211111,
+    "lat": 40.30583333
+  },
+  {
+    "wikiId": "Q18288709",
+    "name": "necropolis of Su Murrone",
+    "cat": "necropolis",
+    "lon": 8.87514,
+    "lat": 40.7803
+  },
+  {
+    "wikiId": "Q18341358",
+    "name": "Nécropole tumulaire de Conliège",
+    "cat": "necropolis",
+    "lon": 5.6277,
+    "lat": 46.6468
+  },
+  {
+    "wikiId": "Q19368121",
+    "name": "Necròpoli de Finestrelles",
+    "cat": "necropolis",
+    "lon": 2.11378,
+    "lat": 41.3949
+  },
+  {
+    "wikiId": "Q19407127",
+    "name": "Bijača necropolis",
+    "cat": "necropolis",
+    "lon": 17.589611111,
+    "lat": 43.124166666
+  },
+  {
+    "wikiId": "Q19407128",
+    "name": "Biskup necropolis",
+    "cat": "necropolis",
+    "lon": 18.1251,
+    "lat": 43.4955
+  },
+  {
+    "wikiId": "Q19407129",
+    "name": "Borak necropolis",
+    "cat": "necropolis",
+    "lon": 18.8845,
+    "lat": 43.8369
+  },
+  {
+    "wikiId": "Q19407132",
+    "name": "Grebnice-Bunčići necropolis",
+    "cat": "necropolis",
+    "lon": 18.4495,
+    "lat": 42.8969
+  },
+  {
+    "wikiId": "Q19407134",
+    "name": "Kalufi necropolis",
+    "cat": "necropolis",
+    "lon": 18.1985,
+    "lat": 43.3117
+  },
+  {
+    "wikiId": "Q19407138",
+    "name": "Mramor (Crkvina) necropolis",
+    "cat": "necropolis",
+    "lon": 18.943052777,
+    "lat": 43.390275
+  },
+  {
+    "wikiId": "Q19407154",
+    "name": "Luburić field necropolis",
+    "cat": "necropolis",
+    "lon": 18.841,
+    "lat": 43.9558
+  },
+  {
+    "wikiId": "Q19812094",
+    "name": "Q19812094",
+    "cat": "necropolis",
+    "lon": 2.553861111,
+    "lat": 42.747083333
+  },
+  {
+    "wikiId": "Q20050747",
+    "name": "Silwan necropolis",
+    "cat": "necropolis",
+    "lon": 35.2368194,
+    "lat": 31.7733417
+  },
+  {
+    "wikiId": "Q20054462",
+    "name": "necropolis of Arsago Seprio",
+    "cat": "necropolis",
+    "lon": 8.73386,
+    "lat": 45.68686
+  },
+  {
+    "wikiId": "Q20102847",
+    "name": "Jaciment arqueològic de Can Piteu-Can Roqueta",
+    "cat": "necropolis",
+    "lon": 2.13783,
+    "lat": 41.538006
+  },
+  {
+    "wikiId": "Q20182912",
+    "name": "Q20182912",
+    "cat": "necropolis",
+    "lon": 2.7587996,
+    "lat": 39.5369627
+  },
+  {
+    "wikiId": "Q20424374",
+    "name": "necropolis of al-Anfushi",
+    "cat": "necropolis",
+    "lon": 29.874009,
+    "lat": 31.202159
+  },
+  {
+    "wikiId": "Q20497559",
+    "name": "Propada Sanctuary",
+    "cat": "necropolis",
+    "lon": 27.4866,
+    "lat": 41.983
+  },
+  {
+    "wikiId": "Q20644916",
+    "name": "Necròpolis de Cales Coves",
+    "cat": "necropolis",
+    "lon": 4.146244,
+    "lat": 39.864508
+  },
+  {
+    "wikiId": "Q20754391",
+    "name": "Montpalais necropolis",
+    "cat": "necropolis",
+    "lon": -0.1418,
+    "lat": 46.9451
+  },
+  {
+    "wikiId": "Q20971183",
+    "name": "Ca' Morta",
+    "cat": "necropolis",
+    "lon": 9.08333,
+    "lat": 45.81667
+  },
+  {
+    "wikiId": "Q20985087",
+    "name": "Q20985087",
+    "cat": "necropolis",
+    "lon": -2.566666666,
+    "lat": 42.916666666
+  },
+  {
+    "wikiId": "Q21006739",
+    "name": "Via Triumphalis necropolis",
+    "cat": "necropolis",
+    "lon": 12.4558767,
+    "lat": 41.9056115
+  },
+  {
+    "wikiId": "Q21027108",
+    "name": "Nécropole mérovingienne du Brigandin",
+    "cat": "necropolis",
+    "lon": -1.9136,
+    "lat": 47.1227
+  },
+  {
+    "wikiId": "Q21037042",
+    "name": "Necropoli di Genna Salixi",
+    "cat": "necropolis",
+    "lon": 8.9071885,
+    "lat": 39.8497054
+  },
+  {
+    "wikiId": "Q21127583",
+    "name": "Krupac necropolis",
+    "cat": "necropolis",
+    "lon": 18.360686111,
+    "lat": 43.779061111
+  },
+  {
+    "wikiId": "Q21530803",
+    "name": "Necròpoli Medieval de Can Boquet",
+    "cat": "necropolis",
+    "lon": 2.341781,
+    "lat": 41.531561
+  },
+  {
+    "wikiId": "Q21748973",
+    "name": "Necròpolis del Camí de Can Grau",
+    "cat": "necropolis",
+    "lon": 2.299259,
+    "lat": 41.595466
+  },
+  {
+    "wikiId": "Q22942710",
+    "name": "Nécropole préhistorique de la Grande-Mesle",
+    "cat": "necropolis",
+    "lon": 1.295,
+    "lat": 47.6622
+  },
+  {
+    "wikiId": "Q22949736",
+    "name": "Nécropole préromaine d'Aléria",
+    "cat": "necropolis",
+    "lon": 9.5,
+    "lat": 42.084
+  },
+  {
+    "wikiId": "Q22955887",
+    "name": "Nécropole mérovingienne de Civaux",
+    "cat": "necropolis",
+    "lon": 0.66437244,
+    "lat": 46.4465215
+  },
+  {
+    "wikiId": "Q22957642",
+    "name": "Q22957642",
+    "cat": "necropolis",
+    "lon": 6.1172,
+    "lat": 48.9219
+  },
+  {
+    "wikiId": "Q22968833",
+    "name": "Q22968833",
+    "cat": "necropolis",
+    "lon": 5.7695,
+    "lat": 46.6791
+  },
+  {
+    "wikiId": "Q22969307",
+    "name": "Q22969307",
+    "cat": "necropolis",
+    "lon": 6.5524,
+    "lat": 49.229
+  },
+  {
+    "wikiId": "Q22970133",
+    "name": "Q22970133",
+    "cat": "necropolis",
+    "lon": -2.996191666,
+    "lat": 41.9913
+  },
+  {
+    "wikiId": "Q22976535",
+    "name": "Nécropole dolménique",
+    "cat": "necropolis",
+    "lon": 1.0984,
+    "lat": 48.7636
+  },
+  {
+    "wikiId": "Q22997436",
+    "name": "Q22997436",
+    "cat": "necropolis",
+    "lon": 2.975809,
+    "lat": 50.369736
+  },
+  {
+    "wikiId": "Q22997567",
+    "name": "Q22997567",
+    "cat": "necropolis",
+    "lon": 3.227467,
+    "lat": 45.896275
+  },
+  {
+    "wikiId": "Q22997782",
+    "name": "Nécropole d'Ormes-Simandre",
+    "cat": "necropolis",
+    "lon": 4.9524,
+    "lat": 46.6114
+  },
+  {
+    "wikiId": "Q23021642",
+    "name": "Q23021642",
+    "cat": "necropolis",
+    "lon": -0.579378,
+    "lat": 44.754221
+  },
+  {
+    "wikiId": "Q23301956",
+    "name": "Necrópolis megalítica de Panoría",
+    "cat": "necropolis",
+    "lon": -3.297222222,
+    "lat": 37.365833333
+  },
+  {
+    "wikiId": "Q24030881",
+    "name": "Necrópolis de Velilla del Río Carrión",
+    "cat": "necropolis",
+    "lon": -4.853333333,
+    "lat": 42.817777777
+  },
+  {
+    "wikiId": "Q24082343",
+    "name": "Q24082343",
+    "cat": "necropolis",
+    "lon": 7.703255,
+    "lat": 48.72654
+  },
+  {
+    "wikiId": "Q24260030",
+    "name": "Necropoli Realmese",
+    "cat": "necropolis",
+    "lon": 14.2575,
+    "lat": 37.607777777
+  },
+  {
+    "wikiId": "Q24933079",
+    "name": "Q24933079",
+    "cat": "necropolis",
+    "lon": 8.902694,
+    "lat": 40.159181
+  },
+  {
+    "wikiId": "Q25384023",
+    "name": "Necropoli di Monte Siseri",
+    "cat": "necropolis",
+    "lon": 8.4299308,
+    "lat": 40.6066302
+  },
+  {
+    "wikiId": "Q27430411",
+    "name": "Q27430411",
+    "cat": "necropolis",
+    "lon": -3.977635518,
+    "lat": 41.439591231
+  },
+  {
+    "wikiId": "Q27961122",
+    "name": "Necropoli del Mirio",
+    "cat": "necropolis",
+    "lon": 14.518435,
+    "lat": 36.8307
+  },
+  {
+    "wikiId": "Q28035250",
+    "name": "El Maipés Necropolis",
+    "cat": "necropolis",
+    "lon": -15.691199,
+    "lat": 28.096883
+  },
+  {
+    "wikiId": "Q28054824",
+    "name": "Q28054824",
+    "cat": "necropolis",
+    "lon": 30.41028,
+    "lat": 59.65417
+  },
+  {
+    "wikiId": "Q28321182",
+    "name": "Nécropole du Jardin Georges Delaselle",
+    "cat": "necropolis",
+    "lon": -3.992518,
+    "lat": 48.739593
+  },
+  {
+    "wikiId": "Q28322849",
+    "name": "Necropoli di Partulesi (Ittireddu)",
+    "cat": "necropolis",
+    "lon": 8.8912117,
+    "lat": 40.5400664
+  },
+  {
+    "wikiId": "Q28840878",
+    "name": "Mramorje, necropolis in Studenci near Ljubuški",
+    "cat": "necropolis",
+    "lon": 17.603622222,
+    "lat": 43.179927777
+  },
+  {
+    "wikiId": "Q28947955",
+    "name": "Q28947955",
+    "cat": "necropolis",
+    "lon": 6.466614,
+    "lat": 46.356545
+  },
+  {
+    "wikiId": "Q29886465",
+    "name": "Necropolis of Porta Ercolano",
+    "cat": "necropolis",
+    "lon": 14.4800602,
+    "lat": 40.7523434
+  },
+  {
+    "wikiId": "Q29886469",
+    "name": "Porta Vesuvio necropolis",
+    "cat": "necropolis",
+    "lon": 14.4840775,
+    "lat": 40.7537462
+  },
+  {
+    "wikiId": "Q29886472",
+    "name": "Necropolis of Porta Nola",
+    "cat": "necropolis",
+    "lon": 14.4908699,
+    "lat": 40.7540795
+  },
+  {
+    "wikiId": "Q29886478",
+    "name": "Porta Nocera necropolis",
+    "cat": "necropolis",
+    "lon": 14.493754503,
+    "lat": 40.749236515
+  },
+  {
+    "wikiId": "Q29907227",
+    "name": "Q29907227",
+    "cat": "necropolis",
+    "lon": 58.936777,
+    "lat": 53.41566
+  },
+  {
+    "wikiId": "Q30254224",
+    "name": "Necropoli di Tennero (Cheremule)",
+    "cat": "necropolis",
+    "lon": 8.73116,
+    "lat": 40.482163
+  },
+  {
+    "wikiId": "Q30255332",
+    "name": "Necropoli di Ochila",
+    "cat": "necropolis",
+    "lon": 8.595622,
+    "lat": 40.607795
+  },
+  {
+    "wikiId": "Q30259228",
+    "name": "Necropoli di Noeddale",
+    "cat": "necropolis",
+    "lon": 8.593249,
+    "lat": 40.666067
+  },
+  {
+    "wikiId": "Q30265116",
+    "name": "Necropoli di Sos Laccheddos",
+    "cat": "necropolis",
+    "lon": 8.6170911,
+    "lat": 40.7277239
+  },
+  {
+    "wikiId": "Q30321030",
+    "name": "Necropoli di Badde Inza",
+    "cat": "necropolis",
+    "lon": 8.6206895,
+    "lat": 40.734645
+  },
+  {
+    "wikiId": "Q30337793",
+    "name": "Necropoli di Santo Stefano",
+    "cat": "necropolis",
+    "lon": 9.105788,
+    "lat": 40.727775
+  },
+  {
+    "wikiId": "Q30545041",
+    "name": "Necropoli di S'Adde 'e Asile",
+    "cat": "necropolis",
+    "lon": 8.631005,
+    "lat": 40.643184
+  },
+  {
+    "wikiId": "Q30728461",
+    "name": "Duratón Necropolis",
+    "cat": "necropolis",
+    "lon": -3.6826137,
+    "lat": 41.28777778
+  },
+  {
+    "wikiId": "Q30728523",
+    "name": "Q30728523",
+    "cat": "necropolis",
+    "lon": -4.454444,
+    "lat": 39.8875
+  },
+  {
+    "wikiId": "Q30901592",
+    "name": "Necrópolis Ibérica de Tútugi",
+    "cat": "necropolis",
+    "lon": -2.540090967,
+    "lat": 37.749364289
+  },
+  {
+    "wikiId": "Q31082517",
+    "name": "Q31082517",
+    "cat": "necropolis",
+    "lon": 18.8449,
+    "lat": 44.3278
+  },
+  {
+    "wikiId": "Q31191465",
+    "name": "Q31191465",
+    "cat": "necropolis",
+    "lon": 25.4522,
+    "lat": 42.6538
+  },
+  {
+    "wikiId": "Q31365081",
+    "name": "Q31365081",
+    "cat": "necropolis",
+    "lon": 18.6789,
+    "lat": 44.5964
+  },
+  {
+    "wikiId": "Q36698293",
+    "name": "Q36698293",
+    "cat": "necropolis",
+    "lon": -4.33222222,
+    "lat": 42.59305556
+  },
+  {
+    "wikiId": "Q36698379",
+    "name": "Q36698379",
+    "cat": "necropolis",
+    "lon": -3.698811,
+    "lat": 40.009274
+  },
+  {
+    "wikiId": "Q36698381",
+    "name": "Q36698381",
+    "cat": "necropolis",
+    "lon": -3.5208688,
+    "lat": 41.389339
+  },
+  {
+    "wikiId": "Q36698390",
+    "name": "Q36698390",
+    "cat": "necropolis",
+    "lon": -3.6089429,
+    "lat": 40.3912287
+  },
+  {
+    "wikiId": "Q38280738",
+    "name": "Mycenaean cemetery of Voudeni",
+    "cat": "necropolis",
+    "lon": 21.781611111,
+    "lat": 38.253972222
+  },
+  {
+    "wikiId": "Q42564837",
+    "name": "Necropolis of Campovalano",
+    "cat": "necropolis",
+    "lon": 13.67169,
+    "lat": 42.724864
+  },
+  {
+    "wikiId": "Q43078328",
+    "name": "Q43078328",
+    "cat": "necropolis",
+    "lon": 3.941601,
+    "lat": 40.003383
+  },
+  {
+    "wikiId": "Q43083208",
+    "name": "Almizaraque",
+    "cat": "necropolis",
+    "lon": -1.8688,
+    "lat": 37.29381
+  },
+  {
+    "wikiId": "Q43095522",
+    "name": "Q43095522",
+    "cat": "necropolis",
+    "lon": 3.35442,
+    "lat": 39.697297
+  },
+  {
+    "wikiId": "Q43097706",
+    "name": "Q43097706",
+    "cat": "necropolis",
+    "lon": 3.443908,
+    "lat": 39.656767
+  },
+  {
+    "wikiId": "Q43097853",
+    "name": "Q43097853",
+    "cat": "necropolis",
+    "lon": 3.453699,
+    "lat": 39.725982
+  },
+  {
+    "wikiId": "Q43098440",
+    "name": "Q43098440",
+    "cat": "necropolis",
+    "lon": 2.84782,
+    "lat": 39.82561
+  },
+  {
+    "wikiId": "Q43098658",
+    "name": "Q43098658",
+    "cat": "necropolis",
+    "lon": 2.566359,
+    "lat": 39.670195
+  },
+  {
+    "wikiId": "Q43098739",
+    "name": "Q43098739",
+    "cat": "necropolis",
+    "lon": 2.5940851,
+    "lat": 39.6628143
+  },
+  {
+    "wikiId": "Q56518239",
+    "name": "Q56518239",
+    "cat": "necropolis",
+    "lon": 3.045338,
+    "lat": 39.340776
+  },
+  {
+    "wikiId": "Q56849296",
+    "name": "Tabariane",
+    "cat": "necropolis",
+    "lon": 1.7815509,
+    "lat": 43.100152
+  },
+  {
+    "wikiId": "Q58463478",
+    "name": "Nécropole des Cous",
+    "cat": "necropolis",
+    "lon": -0.934166666,
+    "lat": 46.658611111
+  },
+  {
+    "wikiId": "Q59336710",
+    "name": "Q59336710",
+    "cat": "necropolis",
+    "lon": 3.882582,
+    "lat": 40.04945
+  },
+  {
+    "wikiId": "Q59862785",
+    "name": "Q59862785",
+    "cat": "necropolis",
+    "lon": -9.3716,
+    "lat": 38.693780555
+  },
+  {
+    "wikiId": "Q61126420",
+    "name": "Bileća necropolis",
+    "cat": "necropolis",
+    "lon": 18.464444444,
+    "lat": 42.904583333
+  },
+  {
+    "wikiId": "Q62974997",
+    "name": "Q62974997",
+    "cat": "necropolis",
+    "lon": -4.728188888,
+    "lat": 41.645930555
+  },
+  {
+    "wikiId": "Q63456908",
+    "name": "necropolis of Emesa",
+    "cat": "necropolis",
+    "lon": 36.697888888,
+    "lat": 34.729888888
+  },
+  {
+    "wikiId": "Q63975572",
+    "name": "Q63975572",
+    "cat": "necropolis",
+    "lon": 27.09205,
+    "lat": 46.245830555
+  },
+  {
+    "wikiId": "Q64605551",
+    "name": "Q64605551",
+    "cat": "necropolis",
+    "lon": 4.145624,
+    "lat": 39.864415
+  },
+  {
+    "wikiId": "Q64733271",
+    "name": "late antique and proto byzantine necropolis",
+    "cat": "necropolis",
+    "lon": 15.2417827,
+    "lat": 38.2229193
+  },
+  {
+    "wikiId": "Q65174611",
+    "name": "Via Statilia Republican tombs",
+    "cat": "necropolis",
+    "lon": 12.5118411,
+    "lat": 41.8903201
+  },
+  {
+    "wikiId": "Q65553369",
+    "name": "necropolis of Ornavasso",
+    "cat": "necropolis",
+    "lon": 8.402,
+    "lat": 45.984
+  },
+  {
+    "wikiId": "Q65553375",
+    "name": "necropolis of In Persona",
+    "cat": "necropolis",
+    "lon": 8.40092,
+    "lat": 45.98474
+  },
+  {
+    "wikiId": "Q65553376",
+    "name": "necropolis of San Bernardo",
+    "cat": "necropolis",
+    "lon": 8.40334,
+    "lat": 45.98394
+  },
+  {
+    "wikiId": "Q65663324",
+    "name": "Bourzanga Necropolis",
+    "cat": "necropolis",
+    "lon": -1.5461,
+    "lat": 13.6781
+  },
+  {
+    "wikiId": "Q65933458",
+    "name": "Aksin'ino cemetery",
+    "cat": "necropolis",
+    "lon": 36.991186,
+    "lat": 55.740897
+  },
+  {
+    "wikiId": "Q66813541",
+    "name": "Gruta de Dine",
+    "cat": "necropolis",
+    "lon": -6.930152,
+    "lat": 41.910091
+  },
+  {
+    "wikiId": "Q66814021",
+    "name": "Sítio Arqueológico Medieval da Sapateira",
+    "cat": "necropolis",
+    "lon": -6.979556,
+    "lat": 40.731483
+  },
+  {
+    "wikiId": "Q66814022",
+    "name": "Lagar e sepulturas escavadas na rocha na Senhora da Ajuda",
+    "cat": "necropolis",
+    "lon": -7.012848,
+    "lat": 40.735417
+  },
+  {
+    "wikiId": "Q66814024",
+    "name": "Necrópole medieval do Vascoveiro",
+    "cat": "necropolis",
+    "lon": -7.072656,
+    "lat": 40.732445
+  },
+  {
+    "wikiId": "Q66814232",
+    "name": "Cemitério visigótico de Alcoitão",
+    "cat": "necropolis",
+    "lon": -9.398284,
+    "lat": 38.730254
+  },
+  {
+    "wikiId": "Q66814755",
+    "name": "Necrópole megalítica de Luzim (Menir de Luzim - penedo com gravuras rupestres - e conjunto de sete mamoas)",
+    "cat": "necropolis",
+    "lon": -8.255505561,
+    "lat": 41.145030975
+  },
+  {
+    "wikiId": "Q66814913",
+    "name": "Estações arqueológicas da Quinta dos Patudos",
+    "cat": "necropolis",
+    "lon": -8.585762,
+    "lat": 39.249316
+  },
+  {
+    "wikiId": "Q66815017",
+    "name": "Lapa da Bugalheira",
+    "cat": "necropolis",
+    "lon": -8.616063,
+    "lat": 39.502426
+  },
+  {
+    "wikiId": "Q66815050",
+    "name": "Necrópole de cistas das Casas Velhas",
+    "cat": "necropolis",
+    "lon": -8.730632,
+    "lat": 38.119186
+  },
+  {
+    "wikiId": "Q66815153",
+    "name": "Monumentos Megalíticos e Arte Rupestre do Planalto de Castro Laboreiro",
+    "cat": "necropolis",
+    "lon": -8.111293,
+    "lat": 42.065487
+  },
+  {
+    "wikiId": "Q66815299",
+    "name": "Cemitério Mouro",
+    "cat": "necropolis",
+    "lon": -7.676691,
+    "lat": 41.177574
+  },
+  {
+    "wikiId": "Q66815336",
+    "name": "Cemitério lusitano-romano situado na Quinta da Relva",
+    "cat": "necropolis",
+    "lon": -7.566263,
+    "lat": 41.227508
+  },
+  {
+    "wikiId": "Q66815543",
+    "name": "Necrópole da Quinta das Trapas",
+    "cat": "necropolis",
+    "lon": -7.945252,
+    "lat": 41.110691
+  },
+  {
+    "wikiId": "Q67014960",
+    "name": "necropoli Favarotta",
+    "cat": "necropolis",
+    "lon": 14.88269,
+    "lat": 36.900065
+  },
+  {
+    "wikiId": "Q67439146",
+    "name": "Kerma Necropolis",
+    "cat": "necropolis",
+    "lon": 30.3281,
+    "lat": 20.7395
+  },
+  {
+    "wikiId": "Q67495846",
+    "name": "Estação Arqueológica de São Gens",
+    "cat": "necropolis",
+    "lon": -7.396742,
+    "lat": 40.654791
+  },
+  {
+    "wikiId": "Q69548143",
+    "name": "Necropoli San Saturnino",
+    "cat": "necropolis",
+    "lon": 9.123339,
+    "lat": 39.213739
+  },
+  {
+    "wikiId": "Q71990687",
+    "name": "East Necropolis, Cyrene",
+    "cat": "necropolis",
+    "lon": 21.868036,
+    "lat": 32.817783
+  },
+  {
+    "wikiId": "Q71990690",
+    "name": "Cyrene, North Necropolis",
+    "cat": "necropolis",
+    "lon": 21.853426,
+    "lat": 32.824463
+  },
+  {
+    "wikiId": "Q71990907",
+    "name": "Roman necropolis at Šempeter v Savinjski Dolini",
+    "cat": "necropolis",
+    "lon": 15.120966,
+    "lat": 46.255291
+  },
+  {
+    "wikiId": "Q71990932",
+    "name": "Sheikh Abd el-Qurna necropolis at Thebes",
+    "cat": "necropolis",
+    "lon": 32.611404,
+    "lat": 25.731211
+  },
+  {
+    "wikiId": "Q71990941",
+    "name": "Necropolis of Carmona",
+    "cat": "necropolis",
+    "lon": -5.652242,
+    "lat": 37.467476
+  },
+  {
+    "wikiId": "Q71990955",
+    "name": "Valley of the Tombs",
+    "cat": "necropolis",
+    "lon": 38.257141111,
+    "lat": 34.552418055
+  },
+  {
+    "wikiId": "Q71990960",
+    "name": "Necropolis at Wietrzychowice (Kujawsko-Pomorskie Voivodeship)",
+    "cat": "necropolis",
+    "lon": 18.871693,
+    "lat": 52.408867
+  },
+  {
+    "wikiId": "Q71990966",
+    "name": "Necropolis at Zmajevac - Mocsolás",
+    "cat": "necropolis",
+    "lon": 18.807768,
+    "lat": 45.805008
+  },
+  {
+    "wikiId": "Q73486293",
+    "name": "Necropoli di \"Tre ponti\"",
+    "cat": "necropolis",
+    "lon": 12.355993,
+    "lat": 42.282497
+  },
+  {
+    "wikiId": "Q74316991",
+    "name": "Necrópole Megalítica da Serra Amarela",
+    "cat": "necropolis",
+    "lon": -8.269964218,
+    "lat": 41.83719635
+  },
+  {
+    "wikiId": "Q74317046",
+    "name": "Necrópole Megalítica do Alto das Madorras",
+    "cat": "necropolis",
+    "lon": -7.519674,
+    "lat": 41.397857
+  },
+  {
+    "wikiId": "Q77043622",
+    "name": "Nécropole du Mont-Saint-Germain",
+    "cat": "necropolis",
+    "lon": 6.074442,
+    "lat": 49.127002
+  },
+  {
+    "wikiId": "Q78585811",
+    "name": "Roman Necropolis of Santa Pola",
+    "cat": "necropolis",
+    "lon": -0.559583333,
+    "lat": 38.196111111
+  },
+  {
+    "wikiId": "Q81488006",
+    "name": "Necropolis near the Ossetian Church",
+    "cat": "necropolis",
+    "lon": 44.6863,
+    "lat": 43.01987
+  },
+  {
+    "wikiId": "Q85875903",
+    "name": "Necrópole romana de Fonte Velha",
+    "cat": "necropolis",
+    "lon": -8.749763888,
+    "lat": 37.159311111
+  },
+  {
+    "wikiId": "Q86079580",
+    "name": "Greblje necropolis",
+    "cat": "necropolis",
+    "lon": 17.55806,
+    "lat": 42.955633
+  },
+  {
+    "wikiId": "Q86676439",
+    "name": "Šmerlis kapi",
+    "cat": "necropolis",
+    "lon": 24.208557,
+    "lat": 56.988834
+  },
+  {
+    "wikiId": "Q87128484",
+    "name": "Ara del Tufo necropolis",
+    "cat": "necropolis",
+    "lon": 11.8776256,
+    "lat": 42.3952498
+  },
+  {
+    "wikiId": "Q88351675",
+    "name": "Nécropole antique de Tavant",
+    "cat": "necropolis",
+    "lon": 0.386944444,
+    "lat": 47.126944444
+  },
+  {
+    "wikiId": "Q88527182",
+    "name": "Nécropole gauloise de Vaugrignon",
+    "cat": "necropolis",
+    "lon": 0.781111111,
+    "lat": 47.288888888
+  },
+  {
+    "wikiId": "Q89033495",
+    "name": "Santuário Rupestre de Garfe",
+    "cat": "necropolis",
+    "lon": -8.252599716,
+    "lat": 41.527687072
+  },
+  {
+    "wikiId": "Q89601299",
+    "name": "Q89601299",
+    "cat": "necropolis",
+    "lon": -8.766947,
+    "lat": 41.600827
+  },
+  {
+    "wikiId": "Q89766918",
+    "name": "Vollein",
+    "cat": "necropolis",
+    "lon": 7.4502003,
+    "lat": 45.7467132
+  },
+  {
+    "wikiId": "Q89884093",
+    "name": "Nécropole gallo-romaine et mérovingienne des Plantées",
+    "cat": "necropolis",
+    "lon": 5.465327,
+    "lat": 45.78822
+  },
+  {
+    "wikiId": "Q90003084",
+    "name": "Necropoli di Champrotard",
+    "cat": "necropolis",
+    "lon": 7.19125,
+    "lat": 45.69968
+  },
+  {
+    "wikiId": "Q90130535",
+    "name": "Necropoli di Fiusey",
+    "cat": "necropolis",
+    "lon": 7.6636335,
+    "lat": 45.7094929
+  },
+  {
+    "wikiId": "Q90147251",
+    "name": "Q90147251",
+    "cat": "necropolis",
+    "lon": 7.17395,
+    "lat": 45.71193
+  },
+  {
+    "wikiId": "Q90415068",
+    "name": "Ponte Rotto necropolis",
+    "cat": "necropolis",
+    "lon": 11.6359812,
+    "lat": 42.4187341
+  },
+  {
+    "wikiId": "Q91840774",
+    "name": "Necropolis della Casetta",
+    "cat": "necropolis",
+    "lon": 12.0244294,
+    "lat": 42.2806608
+  },
+  {
+    "wikiId": "Q92567666",
+    "name": "Abdal",
+    "cat": "necropolis",
+    "lon": 34.107694444,
+    "lat": 44.986666666
+  },
+  {
+    "wikiId": "Q94969463",
+    "name": "Q94969463",
+    "cat": "necropolis",
+    "lon": -8.466186523,
+    "lat": 37.194221496
+  },
+  {
+    "wikiId": "Q96213716",
+    "name": "Q96213716",
+    "cat": "necropolis",
+    "lon": -6.952823,
+    "lat": 41.620446
+  },
+  {
+    "wikiId": "Q96758167",
+    "name": "Necropolis of piazza Margherita",
+    "cat": "necropolis",
+    "lon": 14.7073745,
+    "lat": 37.1578256
+  },
+  {
+    "wikiId": "Q43098944",
+    "name": "Q43098944",
+    "cat": "necropolis",
+    "lon": 3.156317,
+    "lat": 39.463388
+  },
+  {
+    "wikiId": "Q43099048",
+    "name": "Q43099048",
+    "cat": "necropolis",
+    "lon": 3.088348,
+    "lat": 39.402533
+  },
+  {
+    "wikiId": "Q43099061",
+    "name": "Q43099061",
+    "cat": "necropolis",
+    "lon": 3.14777,
+    "lat": 39.489801
+  },
+  {
+    "wikiId": "Q43099135",
+    "name": "Q43099135",
+    "cat": "necropolis",
+    "lon": 3.131291,
+    "lat": 39.446209
+  },
+  {
+    "wikiId": "Q43099329",
+    "name": "Q43099329",
+    "cat": "necropolis",
+    "lon": 2.945249,
+    "lat": 39.71343
+  },
+  {
+    "wikiId": "Q43099453",
+    "name": "Q43099453",
+    "cat": "necropolis",
+    "lon": 2.976773,
+    "lat": 39.606758
+  },
+  {
+    "wikiId": "Q43099566",
+    "name": "Q43099566",
+    "cat": "necropolis",
+    "lon": 2.857741,
+    "lat": 39.717771
+  },
+  {
+    "wikiId": "Q43099596",
+    "name": "Q43099596",
+    "cat": "necropolis",
+    "lon": 2.86356,
+    "lat": 39.71958
+  },
+  {
+    "wikiId": "Q43101282",
+    "name": "Q43101282",
+    "cat": "necropolis",
+    "lon": 3.263266,
+    "lat": 39.588966
+  },
+  {
+    "wikiId": "Q43101451",
+    "name": "Q43101451",
+    "cat": "necropolis",
+    "lon": 3.194981,
+    "lat": 39.534342
+  },
+  {
+    "wikiId": "Q43102239",
+    "name": "Q43102239",
+    "cat": "necropolis",
+    "lon": 2.993783,
+    "lat": 39.570539
+  },
+  {
+    "wikiId": "Q43102564",
+    "name": "Q43102564",
+    "cat": "necropolis",
+    "lon": 2.755667,
+    "lat": 39.54801
+  },
+  {
+    "wikiId": "Q43102801",
+    "name": "Q43102801",
+    "cat": "necropolis",
+    "lon": 2.715785,
+    "lat": 39.538664
+  },
+  {
+    "wikiId": "Q43104535",
+    "name": "Q43104535",
+    "cat": "necropolis",
+    "lon": 3.146996,
+    "lat": 39.353749
+  },
+  {
+    "wikiId": "Q43104800",
+    "name": "Q43104800",
+    "cat": "necropolis",
+    "lon": 3.010559,
+    "lat": 39.587912
+  },
+  {
+    "wikiId": "Q43105536",
+    "name": "Q43105536",
+    "cat": "necropolis",
+    "lon": 2.329679055,
+    "lat": 39.587964001
+  },
+  {
+    "wikiId": "Q43105630",
+    "name": "Q43105630",
+    "cat": "necropolis",
+    "lon": 4.202333,
+    "lat": 39.910727
+  },
+  {
+    "wikiId": "Q43107045",
+    "name": "Q43107045",
+    "cat": "necropolis",
+    "lon": 3.90248,
+    "lat": 39.988173
+  },
+  {
+    "wikiId": "Q43107360",
+    "name": "Q43107360",
+    "cat": "necropolis",
+    "lon": 3.884451,
+    "lat": 39.973222
+  },
+  {
+    "wikiId": "Q43107525",
+    "name": "Q43107525",
+    "cat": "necropolis",
+    "lon": 3.945481,
+    "lat": 39.977728
+  },
+  {
+    "wikiId": "Q43108322",
+    "name": "Q43108322",
+    "cat": "necropolis",
+    "lon": 3.975093,
+    "lat": 39.963917
+  },
+  {
+    "wikiId": "Q43108331",
+    "name": "Necròpolis d'Algendar Nou",
+    "cat": "necropolis",
+    "lon": 3.974287,
+    "lat": 39.978357
+  },
+  {
+    "wikiId": "Q43108485",
+    "name": "Q43108485",
+    "cat": "necropolis",
+    "lon": 3.961078,
+    "lat": 39.935457
+  },
+  {
+    "wikiId": "Q43109014",
+    "name": "Necròpolis de cala es Canutells",
+    "cat": "necropolis",
+    "lon": 4.168676,
+    "lat": 39.852192
+  },
+  {
+    "wikiId": "Q43948161",
+    "name": "Necropolis with stećak tombstones at Vinac, the historic site",
+    "cat": "necropolis",
+    "lon": 17.282543,
+    "lat": 44.276207
+  },
+  {
+    "wikiId": "Q43951548",
+    "name": "Necropolis with stećak and nišan tombstones (the Old Harem) on Gorica, the historic area",
+    "cat": "necropolis",
+    "lon": 17.93334,
+    "lat": 43.086232
+  },
+  {
+    "wikiId": "Q43951569",
+    "name": "Necropolis with stećak tombstones by the Baškailo houses (Glavica and Haremi), hamlet of Brdo, village of Hodovo, the archaeological site",
+    "cat": "necropolis",
+    "lon": 17.937698,
+    "lat": 43.153739
+  },
+  {
+    "wikiId": "Q43951587",
+    "name": "Necropolis with stećak tombstones by the Baškailo houses (Radan Krst), hamlet of Brdo, village of Hodovo, the archaeological site",
+    "cat": "necropolis",
+    "lon": 17.937698,
+    "lat": 43.153739
+  },
+  {
+    "wikiId": "Q43951611",
+    "name": "Necropolis with stećak tombstones in Perića njiva (Perić meadow), hamlet of Brdo, village of Hodovo, the archaeological site",
+    "cat": "necropolis",
+    "lon": 17.937698,
+    "lat": 43.153739
+  },
+  {
+    "wikiId": "Q43951631",
+    "name": "Necropolis with stećak tombstones in Pogrebnice, hamlet of Brdo, village of Hodovo, the archaeological site",
+    "cat": "necropolis",
+    "lon": 17.937698,
+    "lat": 43.153739
+  },
+  {
+    "wikiId": "Q43951654",
+    "name": "Necropolis of tombstones I and II at Boljuni, the historic site",
+    "cat": "necropolis",
+    "lon": 17.875328,
+    "lat": 43.027495
+  },
+  {
+    "wikiId": "Q43951677",
+    "name": "Necropolis of stecci at Radimlja, the historic site",
+    "cat": "necropolis",
+    "lon": 17.923197,
+    "lat": 43.092559
+  },
+  {
+    "wikiId": "Q43953178",
+    "name": "Two stećak tombstones at Gromile in the hamlet of Račica, the historic site",
+    "cat": "necropolis",
+    "lon": 18.113211,
+    "lat": 43.51126
+  },
+  {
+    "wikiId": "Q43953283",
+    "name": "Necropolis with stećak tombstones in the village of Krupac, the historic site",
+    "cat": "necropolis",
+    "lon": 18.124949,
+    "lat": 43.493371
+  },
+  {
+    "wikiId": "Q43953306",
+    "name": "Necropolis with stećak tombstones in the village of Lađanica, the historic site",
+    "cat": "necropolis",
+    "lon": 18.135506,
+    "lat": 43.498139
+  },
+  {
+    "wikiId": "Q43953326",
+    "name": "Česmina glava necropolis with stećak tombstones in Odžaci, the historic site",
+    "cat": "necropolis",
+    "lon": 18.226932,
+    "lat": 43.518815
+  },
+  {
+    "wikiId": "Q43953346",
+    "name": "Gradić necropolis with stećak tombstones in Odžaci, the historic site",
+    "cat": "necropolis",
+    "lon": 18.226932,
+    "lat": 43.518815
+  },
+  {
+    "wikiId": "Q43953369",
+    "name": "Necropolis with stećak tombstones and graves in Gračani, the historic site",
+    "cat": "necropolis",
+    "lon": 18.07992,
+    "lat": 43.510003
+  },
+  {
+    "wikiId": "Q43953390",
+    "name": "Necropolis with stećak tombstones and graves in Muzga Argud, the historic site",
+    "cat": "necropolis",
+    "lon": 18.282223,
+    "lat": 43.518205
+  },
+  {
+    "wikiId": "Q43953416",
+    "name": "Grčka Glavica – necropolis with stećak tombstones and the ruins of a church in the village of Biskup, the historic area",
+    "cat": "necropolis",
+    "lon": 18.121547,
+    "lat": 43.496284
+  },
+  {
+    "wikiId": "Q43953438",
+    "name": "Necropolis with stećak tombstones and the remains of a mediaeval church at “Crkvina” in Razići, the historic site",
+    "cat": "necropolis",
+    "lon": 18.114111,
+    "lat": 43.511704
+  },
+  {
+    "wikiId": "Q43953464",
+    "name": "Necropolis with stećak tombstones Jesenice - Argud, the historic site",
+    "cat": "necropolis",
+    "lon": 18.279906,
+    "lat": 43.514323
+  },
+  {
+    "wikiId": "Q43953480",
+    "name": "Necropolis with stećak tombstones on the site of the Kaursko burial ground in (Ciklice) and Brdo in Vrbljani, the historic site",
+    "cat": "necropolis",
+    "lon": 17.974861,
+    "lat": 43.728834
+  },
+  {
+    "wikiId": "Q43953501",
+    "name": "Necropolis with stećak tombstones on the site of Kaursko groblje in Borci, the historic site",
+    "cat": "necropolis",
+    "lon": 18.009684,
+    "lat": 43.582375
+  },
+  {
+    "wikiId": "Q43953520",
+    "name": "Necropolis with stećak tombstones on the locality of Križevac, the historic site",
+    "cat": "necropolis",
+    "lon": 18.279914,
+    "lat": 43.514275
+  },
+  {
+    "wikiId": "Q43953540",
+    "name": "Necropolis with stećak tombstones on the locality of Kunja, in the village Argud, the historic site",
+    "cat": "necropolis",
+    "lon": 18.281924,
+    "lat": 43.519923
+  },
+  {
+    "wikiId": "Q43953558",
+    "name": "Necropolis with stećak tombstones at Mašeti in the hamlet of Velika, Bradina, the historic site",
+    "cat": "necropolis",
+    "lon": 18.025823,
+    "lat": 43.738419
+  },
+  {
+    "wikiId": "Q43953582",
+    "name": "Necropolis with stećak tombstones at Ograda (Vlah), the historic site",
+    "cat": "necropolis",
+    "lon": 18.062958,
+    "lat": 43.517814
+  },
+  {
+    "wikiId": "Q43953605",
+    "name": "Necropolis with stećak tombstones at Ravnice in Dubočani, the historic site",
+    "cat": "necropolis",
+    "lon": 18.07233,
+    "lat": 43.585798
+  },
+  {
+    "wikiId": "Q43953629",
+    "name": "Necropolis with stećak tombstones at Poljice, Veliko Jezero, the historic site",
+    "cat": "necropolis",
+    "lon": 18.211427,
+    "lat": 43.580063
+  },
+  {
+    "wikiId": "Q43953651",
+    "name": "Necropolis with stećak tombstones in Glavatičevo at Gajine, the historic site",
+    "cat": "necropolis",
+    "lon": 18.095809,
+    "lat": 43.508692
+  },
+  {
+    "wikiId": "Q43953669",
+    "name": "Necropolis with stećak tombstones at Dub in the village of Bulatovići, the historic site",
+    "cat": "necropolis",
+    "lon": 17.945061,
+    "lat": 43.754489
+  },
+  {
+    "wikiId": "Q43953692",
+    "name": "Necropolis with stećak tombstones at Greblje in the village of Tuhobići, the historic site",
+    "cat": "necropolis",
+    "lon": 17.952017,
+    "lat": 43.758564
+  },
+  {
+    "wikiId": "Q43953713",
+    "name": "Necropolis with stećak tombstones, nišans and crosses in the Gornja (Upper) Bradina, the historic site",
+    "cat": "necropolis",
+    "lon": 18.025823,
+    "lat": 43.738419
+  },
+  {
+    "wikiId": "Q43953737",
+    "name": "Necropolis with stećak tombstones in the village of Ribari, the historic site",
+    "cat": "necropolis",
+    "lon": 18.092599,
+    "lat": 43.522451
+  },
+  {
+    "wikiId": "Q43953752",
+    "name": "Necropolis with stećak tombstones in the village of Zukići, the historic site",
+    "cat": "necropolis",
+    "lon": 17.995501,
+    "lat": 43.72718
+  },
+  {
+    "wikiId": "Q43953776",
+    "name": "Necropolises with stećak tombstones in the village of Čičevo, the historic site",
+    "cat": "necropolis",
+    "lon": 18.063014,
+    "lat": 43.517896
+  },
+  {
+    "wikiId": "Q43957610",
+    "name": "Necropolis with stećak and nišan tombstones in Faletići, the historic site",
+    "cat": "necropolis",
+    "lon": 18.4688778,
+    "lat": 43.8825521
+  },
+  {
+    "wikiId": "Q43957632",
+    "name": "Donji Močioci necropolis",
+    "cat": "necropolis",
+    "lon": 18.441227777,
+    "lat": 43.9251
+  },
+  {
+    "wikiId": "Q47293803",
+    "name": "Necròpolis de Cal Banyes",
+    "cat": "necropolis",
+    "lon": 1.743589,
+    "lat": 41.847474
+  },
+  {
+    "wikiId": "Q47529971",
+    "name": "Necropoli di Li Curuneddi",
+    "cat": "necropolis",
+    "lon": 8.497227,
+    "lat": 40.728629
+  },
+  {
+    "wikiId": "Q47530064",
+    "name": "Necropoli di Luzzanas",
+    "cat": "necropolis",
+    "lon": 9.1242743,
+    "lat": 40.4351888
+  },
+  {
+    "wikiId": "Q47699640",
+    "name": "Necropoli di Ittiari",
+    "cat": "necropolis",
+    "lon": 8.659042,
+    "lat": 40.763595
+  },
+  {
+    "wikiId": "Q48807767",
+    "name": "Boralday",
+    "cat": "necropolis",
+    "lon": 76.8683583,
+    "lat": 43.3373312
+  },
+  {
+    "wikiId": "Q48808682",
+    "name": "Marchianna necropolis",
+    "cat": "necropolis",
+    "lon": 8.641389,
+    "lat": 39.095
+  },
+  {
+    "wikiId": "Q51779022",
+    "name": "Necropolis of Peciña",
+    "cat": "necropolis",
+    "lon": -2.725833,
+    "lat": 42.578056
+  },
+  {
+    "wikiId": "Q52568678",
+    "name": "Necropoli di Enas de Cannuja",
+    "cat": "necropolis",
+    "lon": 8.6260217,
+    "lat": 40.5610948
+  },
+  {
+    "wikiId": "Q52864327",
+    "name": "Q52864327",
+    "cat": "necropolis",
+    "lon": -4.145987,
+    "lat": 42.836458
+  },
+  {
+    "wikiId": "Q52866418",
+    "name": "Q52866418",
+    "cat": "necropolis",
+    "lon": -3.148152,
+    "lat": 41.329508
+  },
+  {
+    "wikiId": "Q52866486",
+    "name": "Las Ruedas",
+    "cat": "necropolis",
+    "lon": -4.169708,
+    "lat": 41.618017
+  },
+  {
+    "wikiId": "Q52866614",
+    "name": "Q52866614",
+    "cat": "necropolis",
+    "lon": -3.044444,
+    "lat": 41.708056
+  },
+  {
+    "wikiId": "Q52866666",
+    "name": "Q52866666",
+    "cat": "necropolis",
+    "lon": -0.749978,
+    "lat": 42.738329
+  },
+  {
+    "wikiId": "Q52866736",
+    "name": "Q52866736",
+    "cat": "necropolis",
+    "lon": -4.025455,
+    "lat": 39.866921
+  },
+  {
+    "wikiId": "Q52873143",
+    "name": "Q52873143",
+    "cat": "necropolis",
+    "lon": -3.611419,
+    "lat": 37.190764
+  },
+  {
+    "wikiId": "Q54958692",
+    "name": "Poljice necropolis",
+    "cat": "necropolis",
+    "lon": 18.23707,
+    "lat": 43.57849
+  },
+  {
+    "wikiId": "Q55686621",
+    "name": "Q55686621",
+    "cat": "necropolis",
+    "lon": 12.28808,
+    "lat": 42.663963
+  },
+  {
+    "wikiId": "Q55705604",
+    "name": "Castillo de Dos Hermanas",
+    "cat": "necropolis",
+    "lon": -4.623811221,
+    "lat": 37.65838118
+  },
+  {
+    "wikiId": "Q55869028",
+    "name": "Brštanica necropolis",
+    "cat": "necropolis",
+    "lon": 17.776111111,
+    "lat": 42.996944444
+  },
+  {
+    "wikiId": "Q56193304",
+    "name": "Volodarskoe memorial cemetery",
+    "cat": "necropolis",
+    "lon": 30.071264,
+    "lat": 59.829853
+  },
+  {
+    "wikiId": "Q56222720",
+    "name": "Western Necropolis",
+    "cat": "necropolis",
+    "lon": -4.281593,
+    "lat": 55.9017352
+  },
+  {
+    "wikiId": "Q56258634",
+    "name": "Necropolis of Puttu Codinu",
+    "cat": "necropolis",
+    "lon": 8.51916667,
+    "lat": 40.48666667
+  },
+  {
+    "wikiId": "Q56258636",
+    "name": "Necropoli di Li Muri",
+    "cat": "necropolis",
+    "lon": 9.3215755,
+    "lat": 41.0701478
+  },
+  {
+    "wikiId": "Q56258637",
+    "name": "Necropoli di Monte Pucci",
+    "cat": "necropolis",
+    "lon": 15.965198,
+    "lat": 41.8946
+  },
+  {
+    "wikiId": "Q56438581",
+    "name": "necropolis of Golasecca",
+    "cat": "necropolis",
+    "lon": 8.6623,
+    "lat": 45.7101
+  },
+  {
+    "wikiId": "Q96758174",
+    "name": "Necropolis of piazza Don Bosco",
+    "cat": "necropolis",
+    "lon": 14.7099656,
+    "lat": 37.1576658
+  },
+  {
+    "wikiId": "Q96981165",
+    "name": "Necrópolis in Avenida da Liberdade, Braga",
+    "cat": "necropolis",
+    "lon": -8.422388888,
+    "lat": 41.549305555
+  },
+  {
+    "wikiId": "Q97061540",
+    "name": "Q97061540",
+    "cat": "necropolis",
+    "lon": -7.326181,
+    "lat": 40.697703
+  },
+  {
+    "wikiId": "Q97083837",
+    "name": "Q97083837",
+    "cat": "necropolis",
+    "lon": -8.684818,
+    "lat": 39.139587
+  },
+  {
+    "wikiId": "Q97254266",
+    "name": "Ričina necropolis",
+    "cat": "necropolis",
+    "lon": 17.300377777,
+    "lat": 43.483655555
+  },
+  {
+    "wikiId": "Q97286885",
+    "name": "Sudeste de El Daymun",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97287926",
+    "name": "Abrigo del Bombín",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97288210",
+    "name": "Cortijo Riquelme/Loma Blanca",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97320218",
+    "name": "Q97320218",
+    "cat": "necropolis",
+    "lon": -9.424108,
+    "lat": 38.754669
+  },
+  {
+    "wikiId": "Q97364397",
+    "name": "Q97364397",
+    "cat": "necropolis",
+    "lon": -7.637911,
+    "lat": 41.079464
+  },
+  {
+    "wikiId": "Q97466170",
+    "name": "Q97466170",
+    "cat": "necropolis",
+    "lon": 4.304231,
+    "lat": 39.859661
+  },
+  {
+    "wikiId": "Q97466174",
+    "name": "Q97466174",
+    "cat": "necropolis",
+    "lon": 4.30447,
+    "lat": 39.862754
+  },
+  {
+    "wikiId": "Q97466181",
+    "name": "Q97466181",
+    "cat": "necropolis",
+    "lon": 4.2743,
+    "lat": 39.880663
+  },
+  {
+    "wikiId": "Q97466182",
+    "name": "Q97466182",
+    "cat": "necropolis",
+    "lon": 4.274517,
+    "lat": 39.881519
+  },
+  {
+    "wikiId": "Q97466389",
+    "name": "Q97466389",
+    "cat": "necropolis",
+    "lon": 3.909618,
+    "lat": 39.990438
+  },
+  {
+    "wikiId": "Q97466391",
+    "name": "Q97466391",
+    "cat": "necropolis",
+    "lon": 3.903932,
+    "lat": 39.989147
+  },
+  {
+    "wikiId": "Q97466413",
+    "name": "Q97466413",
+    "cat": "necropolis",
+    "lon": 3.831491,
+    "lat": 39.979784
+  },
+  {
+    "wikiId": "Q97466570",
+    "name": "Q97466570",
+    "cat": "necropolis",
+    "lon": 4.222104,
+    "lat": 39.904608
+  },
+  {
+    "wikiId": "Q97466573",
+    "name": "Q97466573",
+    "cat": "necropolis",
+    "lon": 4.265951,
+    "lat": 39.889699
+  },
+  {
+    "wikiId": "Q97466574",
+    "name": "Q97466574",
+    "cat": "necropolis",
+    "lon": 4.260254,
+    "lat": 39.891623
+  },
+  {
+    "wikiId": "Q97466577",
+    "name": "Q97466577",
+    "cat": "necropolis",
+    "lon": 4.266685,
+    "lat": 39.875455
+  },
+  {
+    "wikiId": "Q97466578",
+    "name": "Q97466578",
+    "cat": "necropolis",
+    "lon": 4.219253,
+    "lat": 39.891262
+  },
+  {
+    "wikiId": "Q97601252",
+    "name": "La Ventanilla",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97601720",
+    "name": "Loma de La Encantada",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97601800",
+    "name": "Teresa",
+    "cat": "necropolis",
+    "lon": -1.95306,
+    "lat": 37.10861
+  },
+  {
+    "wikiId": "Q97602452",
+    "name": "Necrópolis Quebrada del Risco",
+    "cat": "necropolis",
+    "lon": -2.62222,
+    "lat": 36.88007
+  },
+  {
+    "wikiId": "Q97602912",
+    "name": "Las Cruces",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97603776",
+    "name": "Cubierta de protección de necrópolis púnica",
+    "cat": "necropolis",
+    "lon": -3.700900536,
+    "lat": 36.73843158
+  },
+  {
+    "wikiId": "Q97605087",
+    "name": "Sierra Martilla",
+    "cat": "necropolis",
+    "lon": -4.1856274,
+    "lat": 37.233366
+  },
+  {
+    "wikiId": "Q97619095",
+    "name": "Cerro de Marín",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97619414",
+    "name": "Viña Cabeza Alcaide",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97620186",
+    "name": "Necropolis of Punta de la Vaca",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97620192",
+    "name": "Rosario 1",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97620193",
+    "name": "Rosario 2",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97620194",
+    "name": "Rosario 3",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97620195",
+    "name": "Rosario 4",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97620219",
+    "name": "Haza de La Torre",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97623925",
+    "name": "Isla Mezquita",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97623927",
+    "name": "Los Torviscales",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97623946",
+    "name": "Cerro de las Cabezas",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97623950",
+    "name": "Necrópolis de La Cabezuela",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97624447",
+    "name": "Trascortijos",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97624799",
+    "name": "Cueva Agustín",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97625674",
+    "name": "Búnker del Cortijo de El Francés",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97626013",
+    "name": "La Cueva",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97628614",
+    "name": "Avenida de Andalucía",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97630765",
+    "name": "Fuente de La Torre",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97631037",
+    "name": "Vega Baja",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97632352",
+    "name": "Cortijo Casa de la Viña",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97632468",
+    "name": "Necrópolis prehistórica de Hacho",
+    "cat": "necropolis",
+    "lon": -4.69775135,
+    "lat": 36.7593502
+  },
+  {
+    "wikiId": "Q97632801",
+    "name": "Poblado y Necrópolis de La Angostura",
+    "cat": "necropolis",
+    "lon": -4.481086111,
+    "lat": 37.065522222
+  },
+  {
+    "wikiId": "Q97632922",
+    "name": "Cortijo de Uceda",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97633447",
+    "name": "Necrópolis de Los Gigantes",
+    "cat": "necropolis",
+    "lon": -5.2609777,
+    "lat": 36.78512494
+  },
+  {
+    "wikiId": "Q97633478",
+    "name": "Cerro de los Cancharrales",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97633484",
+    "name": "Camino Viejo de Vélez",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97633495",
+    "name": "Necrópolis de Bonilla Alta",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97633503",
+    "name": "Pizarro",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97633504",
+    "name": "Despoblado de Albenda",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97633525",
+    "name": "Los Castillejos",
+    "cat": "necropolis",
+    "lon": -4.931133333,
+    "lat": 36.945002777
+  },
+  {
+    "wikiId": "Q97633627",
+    "name": "Camino Río de la Cueva",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97633633",
+    "name": "El Calvario",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97633636",
+    "name": "Necrópolis de la Alquería",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97633651",
+    "name": "Pesebre del Mulo",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97633656",
+    "name": "Rotonda Venta Vázquez, Circunvalación de Alhaurín de la Torre",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97633657",
+    "name": "Cortijo Peralta Alto",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97633660",
+    "name": "Santa Amalia, Torre Bermeja",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97633668",
+    "name": "Arroyo Pilones",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97633671",
+    "name": "Necrópolis de La Planilla",
+    "cat": "necropolis",
+    "lon": -5.149292184,
+    "lat": 36.731364063
+  },
+  {
+    "wikiId": "Q97633885",
+    "name": "Necrópolis de La Angostura",
+    "cat": "necropolis",
+    "lon": -5.32646,
+    "lat": 36.83693
+  },
+  {
+    "wikiId": "Q97633886",
+    "name": "Necrópolis de El Moral",
+    "cat": "necropolis",
+    "lon": -5.2903,
+    "lat": 36.8372
+  },
+  {
+    "wikiId": "Q97634208",
+    "name": "El Llano de la Virgen",
+    "cat": "necropolis",
+    "lon": -4.785980555,
+    "lat": 36.644322222
+  },
+  {
+    "wikiId": "Q97634217",
+    "name": "Necrópolis Sierra de San Jorge",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97634221",
+    "name": "Solana",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97634230",
+    "name": "Necrópolis Puerto del Sol",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97634255",
+    "name": "Necrópolis de Melendre",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97636739",
+    "name": "El Moral",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97645601",
+    "name": "Q97645601",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97647853",
+    "name": "La Atalaya",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97688670",
+    "name": "Iglesia Parroquial de San Sebastián",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q97728054",
+    "name": "Casinalbo necropolis",
+    "cat": "necropolis",
+    "lon": 10.855972222,
+    "lat": 44.595444444
+  },
+  {
+    "wikiId": "Q98012705",
+    "name": "Necropoli Santa Panagia",
+    "cat": "necropolis",
+    "lon": 15.281094,
+    "lat": 37.085867
+  },
+  {
+    "wikiId": "Q98059727",
+    "name": "Q98059727",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q98059732",
+    "name": "Q98059732",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q98059786",
+    "name": "Q98059786",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q98059812",
+    "name": "Q98059812",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q98060608",
+    "name": "Q98060608",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q98061565",
+    "name": "Q98061565",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q98061591",
+    "name": "Q98061591",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q98061593",
+    "name": "Q98061593",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q98062047",
+    "name": "Q98062047",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q98062052",
+    "name": "Q98062052",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q98062061",
+    "name": "Q98062061",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q98062063",
+    "name": "Q98062063",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q98062071",
+    "name": "Q98062071",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q98062079",
+    "name": "Q98062079",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q98062540",
+    "name": "Q98062540",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q98062552",
+    "name": "Q98062552",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q98062553",
+    "name": "Q98062553",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q98062557",
+    "name": "Q98062557",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q98062570",
+    "name": "Q98062570",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q98062581",
+    "name": "Q98062581",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q98498554",
+    "name": "Q98498554",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q98498569",
+    "name": "Q98498569",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q98498585",
+    "name": "Q98498585",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q98498595",
+    "name": "Q98498595",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q98501858",
+    "name": "Q98501858",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q98501966",
+    "name": "Q98501966",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q98501981",
+    "name": "Q98501981",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q98501986",
+    "name": "Q98501986",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q98501992",
+    "name": "Q98501992",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q98501993",
+    "name": "Q98501993",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q98502001",
+    "name": "Q98502001",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q98502178",
+    "name": "Q98502178",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q98502377",
+    "name": "Q98502377",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q98502489",
+    "name": "Q98502489",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q98505210",
+    "name": "Q98505210",
+    "cat": "necropolis",
+    "lon": null
+  },
+  {
+    "wikiId": "Q98838782",
+    "name": "Q98838782",
+    "cat": "necropolis",
+    "lon": -8.253449,
+    "lat": 37.604634
+  },
+  {
+    "wikiId": "Q98918702",
+    "name": "Q98918702",
+    "cat": "necropolis",
+    "lon": -6.891873,
+    "lat": 40.799909
+  },
+  {
+    "wikiId": "Q98960955",
+    "name": "Q98960955",
+    "cat": "necropolis",
+    "lon": -8.300900459,
+    "lat": 37.577907562
+  },
+  {
+    "wikiId": "Q98960966",
+    "name": "Q98960966",
+    "cat": "necropolis",
+    "lon": -8.372480392,
+    "lat": 37.149887084
+  },
+  {
+    "wikiId": "Q98960967",
+    "name": "Necrópole de Vale de Fuzeiros / Carrasqueira",
+    "cat": "necropolis",
+    "lon": -8.355761528,
+    "lat": 37.248283386
+  },
+  {
+    "wikiId": "Q99014920",
+    "name": "Tombes de Can Robert",
+    "cat": "necropolis",
+    "lon": 2.003163364,
+    "lat": 41.63362317
+  },
+  {
+    "wikiId": "Q99427485",
+    "name": "Galassina Necropolis",
+    "cat": "necropolis",
+    "lon": 10.944361111,
+    "lat": 44.506416666
+  },
+  {
+    "wikiId": "Q99868473",
+    "name": "Q99868473",
+    "cat": "necropolis",
+    "lon": -8.085772,
+    "lat": 40.721473
+  },
+  {
+    "wikiId": "Q100730937",
+    "name": "Old cemetery",
+    "cat": "necropolis",
+    "lon": 34.134,
+    "lat": 44.486541
+  },
+  {
+    "wikiId": "Q100868888",
+    "name": "Cantone",
+    "cat": "necropolis",
+    "lon": 13.604608,
+    "lat": 41.919828
+  },
+  {
+    "wikiId": "Q102257989",
+    "name": "Q102257989",
+    "cat": "necropolis",
+    "lon": -8.096111111,
+    "lat": 40.721944444
+  },
+  {
+    "wikiId": "Q102277364",
+    "name": "Vicenne necropolis",
+    "cat": "necropolis",
+    "lon": 14.5342113,
+    "lat": 41.4565959
+  },
+  {
+    "wikiId": "Q102278616",
+    "name": "Termoli necropolis",
+    "cat": "necropolis",
+    "lon": 14.9712,
+    "lat": 41.9943
+  },
+  {
+    "wikiId": "Q104531130",
+    "name": "necropolis of Heuleu",
+    "cat": "necropolis",
+    "lon": 4.25391,
+    "lat": 50.33867
+  },
+  {
+    "wikiId": "Q105105133",
+    "name": "Nécropole",
+    "cat": "necropolis",
+    "lon": -1.08605,
+    "lat": 46.05981
+  },
+  {
+    "wikiId": "Q105293276",
+    "name": "Dessueri",
+    "cat": "necropolis",
+    "lon": 14.29278,
+    "lat": 37.180562
+  },
+  {
+    "wikiId": "Q105394681",
+    "name": "Acqua Acetosa",
+    "cat": "necropolis",
+    "lon": 12.477671,
+    "lat": 41.802176
+  },
+  {
+    "wikiId": "Q105604746",
+    "name": "Tre Ponti necropolis",
+    "cat": "necropolis",
+    "lon": 12.3559929,
+    "lat": 42.2824968
+  },
+  {
+    "wikiId": "Q105863185",
+    "name": "Necropolis of Oco",
+    "cat": "necropolis",
+    "lon": -4.968791666,
+    "lat": 40.623263888
+  },
+  {
+    "wikiId": "Q105954332",
+    "name": "Necròpolis de Can Robert",
+    "cat": "necropolis",
+    "lon": 2.005763888,
+    "lat": 41.634533333
+  },
+  {
+    "wikiId": "Q106023446",
+    "name": "Zuaya",
+    "cat": "necropolis",
+    "lon": 13.756685,
+    "lat": 26.687195
+  },
+  {
+    "wikiId": "Q106115396",
+    "name": "Tombes de la Creueta",
+    "cat": "necropolis",
+    "lon": 1.915035213,
+    "lat": 41.720472077
+  },
+  {
+    "wikiId": "Q106115397",
+    "name": "Tombes de la Solella de les Monges",
+    "cat": "necropolis",
+    "lon": 1.896372604,
+    "lat": 41.695435204
+  },
+  {
+    "wikiId": "Q106338318",
+    "name": "Q106338318",
+    "cat": "necropolis",
+    "lon": 10.335261111,
+    "lat": 45.178130555
+  },
+  {
+    "wikiId": "Q106484526",
+    "name": "East Necropolis, Ptolemais",
+    "cat": "necropolis",
+    "lon": 20.9645,
+    "lat": 32.7132
+  },
+  {
+    "wikiId": "Q106495269",
+    "name": "Al Abyad",
+    "cat": "necropolis",
+    "lon": 13.998333333,
+    "lat": 26.757777777
+  },
+  {
+    "wikiId": "Q106495669",
+    "name": "Ad Disah",
+    "cat": "necropolis",
+    "lon": 12.812222222,
+    "lat": 26.586388888
+  },
+  {
+    "wikiId": "Q106520047",
+    "name": "Necropolis of Santa Maria in Borraccia",
+    "cat": "necropolis",
+    "lon": 11.3110786,
+    "lat": 42.5937801
+  },
+  {
+    "wikiId": "Q106523309",
+    "name": "Q106523309",
+    "cat": "necropolis",
+    "lon": -5.208165573,
+    "lat": 36.447347656
+  },
+  {
+    "wikiId": "Q106546933",
+    "name": "Q106546933",
+    "cat": "necropolis",
+    "lon": -8.45915,
+    "lat": 41.695811
+  },
+  {
+    "wikiId": "Q106641413",
+    "name": "La Tesa",
+    "cat": "necropolis",
+    "lon": 11.207,
+    "lat": 44.9046
+  },
+  {
+    "wikiId": "Q106977682",
+    "name": "Q106977682",
+    "cat": "necropolis",
+    "lon": -2.852972222,
+    "lat": 43.316416666
+  },
+  {
+    "wikiId": "Q107018612",
+    "name": "Q107018612",
+    "cat": "necropolis",
+    "lon": -8.022666666,
+    "lat": 37.684277777
+  },
+  {
+    "wikiId": "Q107050004",
+    "name": "Simonovskoe cemetery",
+    "cat": "necropolis",
+    "lon": 31.344094,
+    "lat": 57.977552598
+  },
+  {
+    "wikiId": "Q107170965",
+    "name": "Cementiri dels Jueus",
+    "cat": "necropolis",
+    "lon": 2.961614608,
+    "lat": 41.899179039
+  },
+  {
+    "wikiId": "Q107279033",
+    "name": "Necròpolis de Can Bec de Baix",
+    "cat": "necropolis",
+    "lon": 2.826739528,
+    "lat": 42.403567671
+  },
+  {
+    "wikiId": "Q107294813",
+    "name": "Q107294813",
+    "cat": "necropolis",
+    "lon": 1.441238888,
+    "lat": 43.60805
+  },
+  {
+    "wikiId": "Q107305740",
+    "name": "Q107305740",
+    "cat": "necropolis",
+    "lon": -8.024827,
+    "lat": 37.681461
+  },
+  {
+    "wikiId": "Q107310254",
+    "name": "Necròpolis d'Hortó",
+    "cat": "necropolis",
+    "lon": 1.371129277,
+    "lat": 42.325617978
+  },
+  {
+    "wikiId": "Q107370154",
+    "name": "Pantano di Grano necropolis",
+    "cat": "necropolis",
+    "lon": 12.390519,
+    "lat": 42.021338
+  },
+  {
+    "wikiId": "Q108211447",
+    "name": "Necropolis with stećci (Greek graveyard)",
+    "cat": "necropolis",
+    "lon": 19.624124,
+    "lat": 43.299038
+  },
+  {
+    "wikiId": "Q108211457",
+    "name": "Necropolis in Priboj",
+    "cat": "necropolis",
+    "lon": 19.519022,
+    "lat": 43.583979
+  },
+  {
+    "wikiId": "Q108520639",
+    "name": "Necrópole de Vale Fuzeiros / Forneca",
+    "cat": "necropolis",
+    "lon": -8.348067283,
+    "lat": 37.254066467
+  },
+  {
+    "wikiId": "Q108520717",
+    "name": "Necrópole da Pedreirinha",
+    "cat": "necropolis",
+    "lon": -8.338592529,
+    "lat": 37.249752044
+  },
+  {
+    "wikiId": "Q108521375",
+    "name": "Q108521375",
+    "cat": "necropolis",
+    "lon": -8.326189041,
+    "lat": 37.260829925
+  },
+  {
+    "wikiId": "Q108521481",
+    "name": "Q108521481",
+    "cat": "necropolis",
+    "lon": -8.272411346,
+    "lat": 37.253231048
+  },
+  {
+    "wikiId": "Q108602724",
+    "name": "Binmanji Ishibotokedani Necropolis",
+    "cat": "necropolis",
+    "lon": 136.287222222,
+    "lat": 35.213055555
+  },
+  {
+    "wikiId": "Q108888650",
+    "name": "Q108888650",
+    "cat": "necropolis",
+    "lon": -8.739944444,
+    "lat": 37.338916666
+  },
+  {
+    "wikiId": "Q108934418",
+    "name": "Q108934418",
+    "cat": "necropolis",
+    "lon": -8.795444444,
+    "lat": 37.316527777
+  },
+  {
+    "wikiId": "Q109646474",
+    "name": "Necròpolis del Salatar",
+    "cat": "necropolis",
+    "lon": 0.718011543,
+    "lat": 41.461206415
+  },
+  {
+    "wikiId": "Q109914775",
+    "name": "Necropolis of Wollschow",
+    "cat": "necropolis",
+    "lon": 14.22087,
+    "lat": 53.39373
+  },
+  {
+    "wikiId": "Q109923783",
+    "name": "Via Ostiensis necropolis",
+    "cat": "necropolis",
+    "lon": 12.2965651,
+    "lat": 41.757571
+  },
+  {
+    "wikiId": "Q110091146",
+    "name": "Ponte Galeria necropolis",
+    "cat": "necropolis",
+    "lon": 12.333678,
+    "lat": 41.82212
+  },
+  {
+    "wikiId": "Q110220734",
+    "name": "Q110220734",
+    "cat": "necropolis",
+    "lon": -7.506,
+    "lat": 40.566
+  },
+  {
+    "wikiId": "Q110470994",
+    "name": "Q110470994",
+    "cat": "necropolis",
+    "lon": -8.651805555,
+    "lat": 37.170777777
+  },
+  {
+    "wikiId": "Q110629014",
+    "name": "Q110629014",
+    "cat": "necropolis",
+    "lon": 4.7607,
+    "lat": 44.34348
+  },
+  {
+    "wikiId": "Q110686216",
+    "name": "Q110686216",
+    "cat": "necropolis",
+    "lon": -0.717965416,
+    "lat": 38.114208366
+  },
+  {
+    "wikiId": "Q110730647",
+    "name": "Grundwald, Hallstatt necropolis",
+    "cat": "necropolis",
+    "lon": 8.0404,
+    "lat": 47.1901
+  },
+  {
+    "wikiId": "Q110953265",
+    "name": "Q110953265",
+    "cat": "necropolis",
+    "lon": -7.878427058,
+    "lat": 42.370380295
+  },
+  {
+    "wikiId": "Q111698495",
+    "name": "Q111698495",
+    "cat": "necropolis",
+    "lon": 15.65679,
+    "lat": 40.34661
+  },
+  {
+    "wikiId": "Q111918242",
+    "name": "Q111918242",
+    "cat": "necropolis",
+    "lon": -8.356111111,
+    "lat": 37.600944444
+  },
+  {
+    "wikiId": "Q111957932",
+    "name": "Q111957932",
+    "cat": "necropolis",
+    "lon": 12.8319,
+    "lat": 37.5978
+  },
+  {
+    "wikiId": "Q111977375",
+    "name": "Q111977375",
+    "cat": "necropolis",
+    "lon": 22.738903419,
+    "lat": 40.712158773
+  },
+  {
+    "wikiId": "Q112655430",
+    "name": "Q112655430",
+    "cat": "necropolis",
+    "lon": 14.842937007,
+    "lat": 36.834622293
+  },
+  {
+    "wikiId": "Q113006292",
+    "name": "Telendos necropolis",
+    "cat": "necropolis",
+    "lon": 26.919568,
+    "lat": 36.994226
+  },
+  {
+    "wikiId": "Q113571458",
+    "name": "Archaeological site of Agia Photia",
+    "cat": "necropolis",
+    "lon": 26.147825,
+    "lat": 35.195894
+  }
+]

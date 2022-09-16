@@ -1,0 +1,2291 @@
+[
+  {
+    "wikiId": "Q7201464",
+    "name": "Plant Bath",
+    "cat": "publicBath",
+    "lon": -75.7146,
+    "lat": 45.4078
+  },
+  {
+    "wikiId": "Q7257326",
+    "name": "Public Bath No. 7",
+    "cat": "publicBath",
+    "lon": -73.983055555,
+    "lat": 40.676805555
+  },
+  {
+    "wikiId": "Q7257703",
+    "name": "Public baths, Chester",
+    "cat": "publicBath",
+    "lon": -2.8829,
+    "lat": 53.1907
+  },
+  {
+    "wikiId": "Q7270021",
+    "name": "Queen's Laundry Bath House",
+    "cat": "publicBath",
+    "lon": -110.870568388,
+    "lat": 44.563674578
+  },
+  {
+    "wikiId": "Q7285757",
+    "name": "Rajaportti Sauna",
+    "cat": "publicBath",
+    "lon": 23.71972222,
+    "lat": 61.50222222
+  },
+  {
+    "wikiId": "Q7374745",
+    "name": "Royal Pump Rooms",
+    "cat": "publicBath",
+    "lon": -1.534309,
+    "lat": 52.286876
+  },
+  {
+    "wikiId": "Q7517722",
+    "name": "Simhallsbadet",
+    "cat": "publicBath",
+    "lon": 12.7031,
+    "lat": 56.0391
+  },
+  {
+    "wikiId": "Q9647985",
+    "name": "Edifício dos Banhos de São Paulo",
+    "cat": "publicBath",
+    "lon": -9.145861,
+    "lat": 38.707798
+  },
+  {
+    "wikiId": "Q10332167",
+    "name": "Monumento Castrejo de Santa Maria de Galegos",
+    "cat": "publicBath",
+    "lon": -8.570015,
+    "lat": 41.568525
+  },
+  {
+    "wikiId": "Q10515887",
+    "name": "Hagabadet",
+    "cat": "publicBath",
+    "lon": 11.95626944,
+    "lat": 57.69958333
+  },
+  {
+    "wikiId": "Q10539305",
+    "name": "Q10539305",
+    "cat": "publicBath",
+    "lon": 17.8256,
+    "lat": 59.4194
+  },
+  {
+    "wikiId": "Q10660767",
+    "name": "Saltsjöbadens friluftsbad",
+    "cat": "publicBath",
+    "lon": 18.31777778,
+    "lat": 59.275
+  },
+  {
+    "wikiId": "Q10677211",
+    "name": "Q10677211",
+    "cat": "publicBath",
+    "lon": 12.93944444,
+    "lat": 57.71805556
+  },
+  {
+    "wikiId": "Q10682249",
+    "name": "Q10682249",
+    "cat": "publicBath",
+    "lon": 11.16623333,
+    "lat": 58.93748611
+  },
+  {
+    "wikiId": "Q10688586",
+    "name": "Södermalms tvätt- och badinrättning",
+    "cat": "publicBath",
+    "lon": 18.06663889,
+    "lat": 59.32044444
+  },
+  {
+    "wikiId": "Q11873340",
+    "name": "Kulttuurisauna",
+    "cat": "publicBath",
+    "lon": 24.96311951,
+    "lat": 60.17803955
+  },
+  {
+    "wikiId": "Q12029487",
+    "name": "Klánovické lázně",
+    "cat": "publicBath",
+    "lon": 14.6755556,
+    "lat": 50.0986111
+  },
+  {
+    "wikiId": "Q12058753",
+    "name": "Termální lázně Chrastava",
+    "cat": "publicBath",
+    "lon": 14.9483,
+    "lat": 50.8169
+  },
+  {
+    "wikiId": "Q12529700",
+    "name": "Arasan",
+    "cat": "publicBath",
+    "lon": 76.94861,
+    "lat": 43.25917
+  },
+  {
+    "wikiId": "Q12770020",
+    "name": "Q12770020",
+    "cat": "publicBath",
+    "lon": 20.795058,
+    "lat": 48.717697
+  },
+  {
+    "wikiId": "Q12868419",
+    "name": "Q12868419",
+    "cat": "publicBath",
+    "lon": 44.806841,
+    "lat": 41.69373
+  },
+  {
+    "wikiId": "Q14627648",
+    "name": "Bains municipaux de Mulhouse",
+    "cat": "publicBath",
+    "lon": 7.335,
+    "lat": 47.75059
+  },
+  {
+    "wikiId": "Q14627731",
+    "name": "Bains municipaux",
+    "cat": "publicBath",
+    "lon": 7.75974,
+    "lat": 48.58358
+  },
+  {
+    "wikiId": "Q14684930",
+    "name": "Manitou Bathhouse",
+    "cat": "publicBath",
+    "lon": -104.918,
+    "lat": 38.8596
+  },
+  {
+    "wikiId": "Q14689510",
+    "name": "Fowler Swimming Pool and Bathhouse",
+    "cat": "publicBath",
+    "lon": -100.192,
+    "lat": 37.385
+  },
+  {
+    "wikiId": "Q15134390",
+    "name": "Q15134390",
+    "cat": "publicBath",
+    "lon": 10.915766,
+    "lat": 48.36208
+  },
+  {
+    "wikiId": "Q15271693",
+    "name": "Ramsden Hall",
+    "cat": "publicBath",
+    "lon": -3.23,
+    "lat": 54.115
+  },
+  {
+    "wikiId": "Q15714084",
+    "name": "Bains chinois (Paris)",
+    "cat": "publicBath",
+    "lon": 2.33533,
+    "lat": 48.8708
+  },
+  {
+    "wikiId": "Q15767820",
+    "name": "Sundhöllin",
+    "cat": "publicBath",
+    "lon": -21.9203,
+    "lat": 64.1417
+  },
+  {
+    "wikiId": "Q15880398",
+    "name": "Hilversumsche Bad- en Zweminrichting",
+    "cat": "publicBath",
+    "lon": 5.164164,
+    "lat": 52.221547
+  },
+  {
+    "wikiId": "Q15954169",
+    "name": "Q15954169",
+    "cat": "publicBath",
+    "lon": 7.2231,
+    "lat": 47.9691
+  },
+  {
+    "wikiId": "Q15954173",
+    "name": "Établissement thermal de Luxeuil-les-Bains",
+    "cat": "publicBath",
+    "lon": 6.3765,
+    "lat": 47.8207
+  },
+  {
+    "wikiId": "Q15978917",
+    "name": "Brentford Baths",
+    "cat": "publicBath",
+    "lon": -0.3068,
+    "lat": 51.4868
+  },
+  {
+    "wikiId": "Q16255874",
+    "name": "Burlington Community Swimming Pools and Bathhouse",
+    "cat": "publicBath",
+    "lon": -88.28603,
+    "lat": 42.68013
+  },
+  {
+    "wikiId": "Q16667440",
+    "name": "Round Baths (Saint Petersburg)",
+    "cat": "publicBath",
+    "lon": 30.362536,
+    "lat": 59.997295
+  },
+  {
+    "wikiId": "Q16706994",
+    "name": "Q16706994",
+    "cat": "publicBath",
+    "lon": 56.241666666,
+    "lat": 58.017222222
+  },
+  {
+    "wikiId": "Q16891550",
+    "name": "Gary Bathing Beach Aquatorium",
+    "cat": "publicBath",
+    "lon": -87.2567,
+    "lat": 41.6197
+  },
+  {
+    "wikiId": "Q17193251",
+    "name": "Q17193251",
+    "cat": "publicBath",
+    "lon": 136.129777777,
+    "lat": 34.761888888
+  },
+  {
+    "wikiId": "Q17202168",
+    "name": "Q17202168",
+    "cat": "publicBath",
+    "lon": 4.61153,
+    "lat": 52.35608
+  },
+  {
+    "wikiId": "Q17255292",
+    "name": "Q17255292",
+    "cat": "publicBath",
+    "lon": 4.62391,
+    "lat": 52.37976
+  },
+  {
+    "wikiId": "Q17292027",
+    "name": "Boerhaaveplein 28, Amsterdam",
+    "cat": "publicBath",
+    "lon": 4.912716666,
+    "lat": 52.359477777
+  },
+  {
+    "wikiId": "Q17292428",
+    "name": "Badhuis Diamantstraat, Amsterdam",
+    "cat": "publicBath",
+    "lon": 4.906237,
+    "lat": 52.35083
+  },
+  {
+    "wikiId": "Q17449964",
+    "name": "Volksbadhuis",
+    "cat": "publicBath",
+    "lon": 5.16706,
+    "lat": 52.21795
+  },
+  {
+    "wikiId": "Q17455702",
+    "name": "Vliek Castle: bath house",
+    "cat": "publicBath",
+    "lon": 5.77205,
+    "lat": 50.90117
+  },
+  {
+    "wikiId": "Q17456624",
+    "name": "Gemeentelijk Badhuis",
+    "cat": "publicBath",
+    "lon": 4.29543,
+    "lat": 52.06114
+  },
+  {
+    "wikiId": "Q17458315",
+    "name": "Q17458315",
+    "cat": "publicBath",
+    "lon": 6.76075,
+    "lat": 52.29949
+  },
+  {
+    "wikiId": "Q17458336",
+    "name": "Stationsstraat 9, Borne",
+    "cat": "publicBath",
+    "lon": 6.75291,
+    "lat": 52.29989
+  },
+  {
+    "wikiId": "Q17459672",
+    "name": "Singraven: bathhouse",
+    "cat": "publicBath",
+    "lon": 6.98549,
+    "lat": 52.38235
+  },
+  {
+    "wikiId": "Q17460179",
+    "name": "Q17460179",
+    "cat": "publicBath",
+    "lon": 5.40049,
+    "lat": 52.04483
+  },
+  {
+    "wikiId": "Q17461464",
+    "name": "Q17461464",
+    "cat": "publicBath",
+    "lon": 6.82612,
+    "lat": 52.23408
+  },
+  {
+    "wikiId": "Q17465627",
+    "name": "Q17465627",
+    "cat": "publicBath",
+    "lon": 4.4931,
+    "lat": 51.79493
+  },
+  {
+    "wikiId": "Q17532730",
+    "name": "Old Royal Baths",
+    "cat": "publicBath",
+    "lon": -2.36109,
+    "lat": 51.3805
+  },
+  {
+    "wikiId": "Q17535704",
+    "name": "Former Public Bath Salford",
+    "cat": "publicBath",
+    "lon": -2.25145,
+    "lat": 53.4875
+  },
+  {
+    "wikiId": "Q17546663",
+    "name": "Pithead Baths At Lynemouth Colliery Including Offices And Canteen (now The Medical Wing)",
+    "cat": "publicBath",
+    "lon": -1.53389,
+    "lat": 55.2074
+  },
+  {
+    "wikiId": "Q17549149",
+    "name": "Former Municipal Baths",
+    "cat": "publicBath",
+    "lon": -2.10165,
+    "lat": 53.4849
+  },
+  {
+    "wikiId": "Q17555275",
+    "name": "Chatterley Whitfield: Pithead Baths Complex (18-21)",
+    "cat": "publicBath",
+    "lon": -2.17528,
+    "lat": 53.0775
+  },
+  {
+    "wikiId": "Q17589602",
+    "name": "Q17589602",
+    "cat": "publicBath",
+    "lon": 5.7317,
+    "lat": 51.74678
+  },
+  {
+    "wikiId": "Q17591583",
+    "name": "Badhuis",
+    "cat": "publicBath",
+    "lon": 6.57189,
+    "lat": 51.98761
+  },
+  {
+    "wikiId": "Q17592074",
+    "name": "Q17592074",
+    "cat": "publicBath",
+    "lon": 6.52394,
+    "lat": 52.11551
+  },
+  {
+    "wikiId": "Q17595839",
+    "name": "Soeria",
+    "cat": "publicBath",
+    "lon": 6.07247,
+    "lat": 52.07741
+  },
+  {
+    "wikiId": "Q17602483",
+    "name": "Q17602483",
+    "cat": "publicBath",
+    "lon": 4.64865,
+    "lat": 52.55821
+  },
+  {
+    "wikiId": "Q17604400",
+    "name": "Q17604400",
+    "cat": "publicBath",
+    "lon": 4.897752,
+    "lat": 51.536236
+  },
+  {
+    "wikiId": "Q17604455",
+    "name": "Q17604455",
+    "cat": "publicBath",
+    "lon": 4.90289,
+    "lat": 51.53446
+  },
+  {
+    "wikiId": "Q17606565",
+    "name": "Aerwinkel Castle: bathhouse",
+    "cat": "publicBath",
+    "lon": 6.012602777,
+    "lat": 51.125888888
+  },
+  {
+    "wikiId": "Q17746496",
+    "name": "Bains Lillois",
+    "cat": "publicBath",
+    "lon": 3.067272222,
+    "lat": 50.628819444
+  },
+  {
+    "wikiId": "Q17812575",
+    "name": "Govanhill Baths",
+    "cat": "publicBath",
+    "lon": -4.26319,
+    "lat": 55.8383
+  },
+  {
+    "wikiId": "Q17830931",
+    "name": "Largs, 30 Bath Street, Brisbane Centre, Library",
+    "cat": "publicBath",
+    "lon": -4.87106,
+    "lat": 55.7936
+  },
+  {
+    "wikiId": "Q17848042",
+    "name": "Clydebank, Hall Street, Baths & Fire Station Tenement",
+    "cat": "publicBath",
+    "lon": -4.40855,
+    "lat": 55.9009
+  },
+  {
+    "wikiId": "Q18290140",
+    "name": "Q18290140",
+    "cat": "publicBath",
+    "lon": 18.06277778,
+    "lat": 59.32638889
+  },
+  {
+    "wikiId": "Q18335156",
+    "name": "Q18335156",
+    "cat": "publicBath",
+    "lon": 18.06111111,
+    "lat": 59.32527778
+  },
+  {
+    "wikiId": "Q18538483",
+    "name": "Neptun bathhouse in Băile Herculane",
+    "cat": "publicBath",
+    "lon": 22.423095,
+    "lat": 44.888475
+  },
+  {
+    "wikiId": "Q18661887",
+    "name": "Q18661887",
+    "cat": "publicBath",
+    "lon": 24.965331,
+    "lat": 60.193385
+  },
+  {
+    "wikiId": "Q18709245",
+    "name": "König-Karls-Bad (Bad Wildbad)",
+    "cat": "publicBath",
+    "lon": 8.549848,
+    "lat": 48.749343
+  },
+  {
+    "wikiId": "Q19362433",
+    "name": "Schwimm- und Sonnenbad",
+    "cat": "publicBath",
+    "lon": 9.53487,
+    "lat": 47.4422
+  },
+  {
+    "wikiId": "Q19865733",
+    "name": "Bard Springs Bathhouse",
+    "cat": "publicBath",
+    "lon": -94.0106,
+    "lat": 34.3906
+  },
+  {
+    "wikiId": "Q20110074",
+    "name": "Q20110074",
+    "cat": "publicBath",
+    "lon": 51.429549,
+    "lat": 35.672188
+  },
+  {
+    "wikiId": "Q20639069",
+    "name": "El Reno Municipal Swimming Pool Bath House",
+    "cat": "publicBath",
+    "lon": -97.9647,
+    "lat": 35.5256
+  },
+  {
+    "wikiId": "Q20972508",
+    "name": "Bains-douches de Laval",
+    "cat": "publicBath",
+    "lon": -0.769185,
+    "lat": 48.067001
+  },
+  {
+    "wikiId": "Q21974432",
+    "name": "Anciens bains municipaux",
+    "cat": "publicBath",
+    "lon": 7.35557,
+    "lat": 48.080359
+  },
+  {
+    "wikiId": "Q22276641",
+    "name": "Q22276641",
+    "cat": "publicBath",
+    "lon": 18.002666666,
+    "lat": 59.306472222
+  },
+  {
+    "wikiId": "Q22922102",
+    "name": "Bains d'Odessa",
+    "cat": "publicBath",
+    "lon": 2.324526,
+    "lat": 48.842894
+  },
+  {
+    "wikiId": "Q22927289",
+    "name": "Q22927289",
+    "cat": "publicBath",
+    "lon": -3.082724,
+    "lat": 47.567329
+  },
+  {
+    "wikiId": "Q22962992",
+    "name": "Bains et lavoirs publics des Herbiers",
+    "cat": "publicBath",
+    "lon": -1.0123,
+    "lat": 46.8701
+  },
+  {
+    "wikiId": "Q22976212",
+    "name": "Bains-douches de Charleville-Mézières",
+    "cat": "publicBath",
+    "lon": 4.722753,
+    "lat": 49.770615
+  },
+  {
+    "wikiId": "Q22986645",
+    "name": "Bains Pommer (Avignon)",
+    "cat": "publicBath",
+    "lon": 4.81221,
+    "lat": 43.94725
+  },
+  {
+    "wikiId": "Q22992272",
+    "name": "Spa house in Mont-Dore",
+    "cat": "publicBath",
+    "lon": 2.810934,
+    "lat": 45.573944
+  },
+  {
+    "wikiId": "Q22992838",
+    "name": "Q22992838",
+    "cat": "publicBath",
+    "lon": 3.05705,
+    "lat": 45.767863
+  },
+  {
+    "wikiId": "Q22992857",
+    "name": "Thermes de Châtel-Guyon",
+    "cat": "publicBath",
+    "lon": 3.0634,
+    "lat": 45.9192
+  },
+  {
+    "wikiId": "Q22993035",
+    "name": "Thermes de Royat",
+    "cat": "publicBath",
+    "lon": 3.056817,
+    "lat": 45.767725
+  },
+  {
+    "wikiId": "Q22996069",
+    "name": "Q22996069",
+    "cat": "publicBath",
+    "lon": 1.7668,
+    "lat": 45.2639
+  },
+  {
+    "wikiId": "Q22996463",
+    "name": "Q22996463",
+    "cat": "publicBath",
+    "lon": 0.74192,
+    "lat": 43.04999
+  },
+  {
+    "wikiId": "Q22997499",
+    "name": "Q22997499",
+    "cat": "publicBath",
+    "lon": 3.058231,
+    "lat": 45.769033
+  },
+  {
+    "wikiId": "Q22997574",
+    "name": "Thermes du Mont Cornadore",
+    "cat": "publicBath",
+    "lon": 2.991444,
+    "lat": 45.589083
+  },
+  {
+    "wikiId": "Q22997849",
+    "name": "Bath of the Capucins of Plombières-les-Bains",
+    "cat": "publicBath",
+    "lon": 6.459017,
+    "lat": 47.965512
+  },
+  {
+    "wikiId": "Q22997855",
+    "name": "Bain Montaigne",
+    "cat": "publicBath",
+    "lon": 6.460326,
+    "lat": 47.965643
+  },
+  {
+    "wikiId": "Q22997857",
+    "name": "Plombières-les-Bains roman bath",
+    "cat": "publicBath",
+    "lon": 6.459569,
+    "lat": 47.96568
+  },
+  {
+    "wikiId": "Q22997858",
+    "name": "Bain Tempéré de Plombières-les-bains",
+    "cat": "publicBath",
+    "lon": 6.459215,
+    "lat": 47.96556
+  },
+  {
+    "wikiId": "Q24066986",
+    "name": "Upper Hot Springs Bath House",
+    "cat": "publicBath",
+    "lon": -115.561111111,
+    "lat": 51.150833333
+  },
+  {
+    "wikiId": "Q25006752",
+    "name": "Cove Lake Bathhouse",
+    "cat": "publicBath",
+    "lon": -93.62916667,
+    "lat": 35.22888889
+  },
+  {
+    "wikiId": "Q25461975",
+    "name": "Löyly",
+    "cat": "publicBath",
+    "lon": 24.93011,
+    "lat": 60.15192
+  },
+  {
+    "wikiId": "Q25474830",
+    "name": "Q25474830",
+    "cat": "publicBath",
+    "lon": 10.78437,
+    "lat": 51.50592
+  },
+  {
+    "wikiId": "Q26203275",
+    "name": "Sompasauna",
+    "cat": "publicBath",
+    "lon": 24.984922222,
+    "lat": 60.194058333
+  },
+  {
+    "wikiId": "Q26256814",
+    "name": "Q26256814",
+    "cat": "publicBath",
+    "lon": 16.507222222,
+    "lat": 59.376944444
+  },
+  {
+    "wikiId": "Q26256889",
+    "name": "Allmänna bastun",
+    "cat": "publicBath",
+    "lon": 11.959691666,
+    "lat": 57.717177777
+  },
+  {
+    "wikiId": "Q26403655",
+    "name": "Roman Bath House",
+    "cat": "publicBath",
+    "lon": -1.653905,
+    "lat": 53.276307
+  },
+  {
+    "wikiId": "Q26432031",
+    "name": "St Pancras Public Baths",
+    "cat": "publicBath",
+    "lon": -0.144094,
+    "lat": 51.547102
+  },
+  {
+    "wikiId": "Q26442380",
+    "name": "Royal Baths",
+    "cat": "publicBath",
+    "lon": -1.544327,
+    "lat": 53.994261
+  },
+  {
+    "wikiId": "Q26443000",
+    "name": "Spa Baths",
+    "cat": "publicBath",
+    "lon": -1.527554,
+    "lat": 54.136097
+  },
+  {
+    "wikiId": "Q26480096",
+    "name": "Pithead Baths (Premises Of Elemore Auto Parts Limited) And Wall And Railings In Front",
+    "cat": "publicBath",
+    "lon": -1.445375,
+    "lat": 54.80417
+  },
+  {
+    "wikiId": "Q26482442",
+    "name": "Bristol North Baths",
+    "cat": "publicBath",
+    "lon": -2.591678,
+    "lat": 51.474909
+  },
+  {
+    "wikiId": "Q26486783",
+    "name": "Public Baths",
+    "cat": "publicBath",
+    "lon": -1.486424,
+    "lat": 53.55126
+  },
+  {
+    "wikiId": "Q26497843",
+    "name": "Bristol South Baths And Attached Railings And Gates",
+    "cat": "publicBath",
+    "lon": -2.600841,
+    "lat": 51.442128
+  },
+  {
+    "wikiId": "Q26502718",
+    "name": "Hornsey Road Baths And Attached Railings",
+    "cat": "publicBath",
+    "lon": -0.115841,
+    "lat": 51.5614
+  },
+  {
+    "wikiId": "Q26514765",
+    "name": "Former Lockwood Baths",
+    "cat": "publicBath",
+    "lon": -1.790355,
+    "lat": 53.63487
+  },
+  {
+    "wikiId": "Q26537961",
+    "name": "Stirchley Public Baths",
+    "cat": "publicBath",
+    "lon": -1.922979,
+    "lat": 52.429057
+  },
+  {
+    "wikiId": "Q26545691",
+    "name": "Public Baths",
+    "cat": "publicBath",
+    "lon": -1.63405,
+    "lat": 53.712584
+  },
+  {
+    "wikiId": "Q26547370",
+    "name": "Bramley Baths",
+    "cat": "publicBath",
+    "lon": -1.638861,
+    "lat": 53.814262
+  },
+  {
+    "wikiId": "Q26547814",
+    "name": "Gipton Spa",
+    "cat": "publicBath",
+    "lon": -1.515734,
+    "lat": 53.822116
+  },
+  {
+    "wikiId": "Q26549219",
+    "name": "Natural Mineral Baths",
+    "cat": "publicBath",
+    "lon": -1.915176,
+    "lat": 53.258486
+  },
+  {
+    "wikiId": "Q26560804",
+    "name": "Harpurhey Baths and Laundry",
+    "cat": "publicBath",
+    "lon": -2.212112,
+    "lat": 53.514655
+  },
+  {
+    "wikiId": "Q26561702",
+    "name": "Public Baths",
+    "cat": "publicBath",
+    "lon": -1.870779,
+    "lat": 53.719463
+  },
+  {
+    "wikiId": "Q26568013",
+    "name": "Reginald Street Baths",
+    "cat": "publicBath",
+    "lon": -1.46955,
+    "lat": 52.910796
+  },
+  {
+    "wikiId": "Q26580866",
+    "name": "Hotwells Public Baths",
+    "cat": "publicBath",
+    "lon": -2.608517,
+    "lat": 51.451615
+  },
+  {
+    "wikiId": "Q26598800",
+    "name": "Public Wash House And Baths With Adjoining Public Convenience",
+    "cat": "publicBath",
+    "lon": -2.748637,
+    "lat": 54.326722
+  },
+  {
+    "wikiId": "Q26600356",
+    "name": "Public Baths",
+    "cat": "publicBath",
+    "lon": -1.911077,
+    "lat": 53.868215
+  },
+  {
+    "wikiId": "Q26633538",
+    "name": "Smethwick Baths",
+    "cat": "publicBath",
+    "lon": -1.974364,
+    "lat": 52.480258
+  },
+  {
+    "wikiId": "Q26638072",
+    "name": "Gibson Street Baths",
+    "cat": "publicBath",
+    "lon": -1.598416,
+    "lat": 54.974175
+  },
+  {
+    "wikiId": "Q26659966",
+    "name": "Former Victoria Baths",
+    "cat": "publicBath",
+    "lon": -3.006418,
+    "lat": 53.650514
+  },
+  {
+    "wikiId": "Q26660078",
+    "name": "Bath House At Sir Moses Montefiore Synagogue",
+    "cat": "publicBath",
+    "lon": -0.072252,
+    "lat": 53.56794
+  },
+  {
+    "wikiId": "Q26665458",
+    "name": "Manor Place Baths",
+    "cat": "publicBath",
+    "lon": -0.09815,
+    "lat": 51.488464
+  },
+  {
+    "wikiId": "Q26667670",
+    "name": "Former Public Bath Bolton",
+    "cat": "publicBath",
+    "lon": -2.421346,
+    "lat": 53.574772
+  },
+  {
+    "wikiId": "Q26668018",
+    "name": "Bath House Inside North Wall Of Lincoln Castle",
+    "cat": "publicBath",
+    "lon": -0.540665,
+    "lat": 53.235501
+  },
+  {
+    "wikiId": "Q26671378",
+    "name": "Manningham Baths",
+    "cat": "publicBath",
+    "lon": -1.773975,
+    "lat": 53.804393
+  },
+  {
+    "wikiId": "Q26675693",
+    "name": "Woolton Baths, Quarry Street South, Liverpool",
+    "cat": "publicBath",
+    "lon": -2.870119,
+    "lat": 53.373753
+  },
+  {
+    "wikiId": "Q26676135",
+    "name": "Mounts Baths",
+    "cat": "publicBath",
+    "lon": -0.893342,
+    "lat": 52.241593
+  },
+  {
+    "wikiId": "Q26676760",
+    "name": "Byrne Avenue swimming baths, Rock Ferry",
+    "cat": "publicBath",
+    "lon": -3.014269,
+    "lat": 53.370354
+  },
+  {
+    "wikiId": "Q26724571",
+    "name": "Q26724571",
+    "cat": "publicBath",
+    "lon": 15.783055555,
+    "lat": 58.708888888
+  },
+  {
+    "wikiId": "Q27082492",
+    "name": "Laurie Grove Baths",
+    "cat": "publicBath",
+    "lon": -0.037524,
+    "lat": 51.475019
+  },
+  {
+    "wikiId": "Q27085035",
+    "name": "Cheshire Street Baths",
+    "cat": "publicBath",
+    "lon": -0.065304,
+    "lat": 51.524283
+  },
+  {
+    "wikiId": "Q27949541",
+    "name": "Simmering Bath",
+    "cat": "publicBath",
+    "lon": 16.429273,
+    "lat": 48.163649
+  },
+  {
+    "wikiId": "Q29534177",
+    "name": "Former thermal baths of Spa",
+    "cat": "publicBath",
+    "lon": 5.864166666,
+    "lat": 50.491944444
+  },
+  {
+    "wikiId": "Q29573102",
+    "name": "Stadtbad Schöneberg",
+    "cat": "publicBath",
+    "lon": 13.351362,
+    "lat": 52.484557
+  },
+  {
+    "wikiId": "Q29575952",
+    "name": "Jewish bathhouse",
+    "cat": "publicBath",
+    "lon": 8.29139,
+    "lat": 47.53643
+  },
+  {
+    "wikiId": "Q30315892",
+    "name": "Q30315892",
+    "cat": "publicBath",
+    "lon": 15.5887,
+    "lat": 56.16586
+  },
+  {
+    "wikiId": "Q37813975",
+    "name": "Orta mezar bath",
+    "cat": "publicBath",
+    "lon": 24.741285,
+    "lat": 42.149282
+  },
+  {
+    "wikiId": "Q38279634",
+    "name": "Q38279634",
+    "cat": "publicBath",
+    "lon": 24.676315,
+    "lat": 35.332865
+  },
+  {
+    "wikiId": "Q38280930",
+    "name": "Q38280930",
+    "cat": "publicBath",
+    "lon": 20.511382,
+    "lat": 39.464561
+  },
+  {
+    "wikiId": "Q41282464",
+    "name": "Cave and Basin Bathing Pavilion",
+    "cat": "publicBath",
+    "lon": -115.591021,
+    "lat": 51.169169
+  },
+  {
+    "wikiId": "Q41345300",
+    "name": "Badehaus",
+    "cat": "publicBath",
+    "lon": 10.30139,
+    "lat": 49.43335
+  },
+  {
+    "wikiId": "Q41349588",
+    "name": "Badehaus",
+    "cat": "publicBath",
+    "lon": 10.351098423,
+    "lat": 49.741502042
+  },
+  {
+    "wikiId": "Q41385403",
+    "name": "Ehemaliges Badestube in Hersbruck",
+    "cat": "publicBath",
+    "lon": 11.43242,
+    "lat": 49.50855
+  },
+  {
+    "wikiId": "Q41390847",
+    "name": "Ehem. Badhaus in Pommelsbrunn",
+    "cat": "publicBath",
+    "lon": 11.51416,
+    "lat": 49.5023
+  },
+  {
+    "wikiId": "Q41391151",
+    "name": "Ehemalige Badestube in Lauf an der Pegnitz",
+    "cat": "publicBath",
+    "lon": 11.28025,
+    "lat": 49.51041
+  },
+  {
+    "wikiId": "Q41392360",
+    "name": "Ehem. Badhaus mit zugehöriger Hofanlage, Wohnstallhaus in Schnaittach",
+    "cat": "publicBath",
+    "lon": 11.341773512,
+    "lat": 49.558324616
+  },
+  {
+    "wikiId": "Q41392381",
+    "name": "Ehem. Neue oder Obere Badstube in Schnaittach",
+    "cat": "publicBath",
+    "lon": 11.34209,
+    "lat": 49.55976
+  },
+  {
+    "wikiId": "Q41776646",
+    "name": "Rauhaniemi Public Baths",
+    "cat": "publicBath",
+    "lon": 23.786575987,
+    "lat": 61.515338568
+  },
+  {
+    "wikiId": "Q43089500",
+    "name": "Q43089500",
+    "cat": "publicBath",
+    "lon": -0.87521,
+    "lat": 41.650943055
+  },
+  {
+    "wikiId": "Q43113393",
+    "name": "Baños de la Judería",
+    "cat": "publicBath",
+    "lon": -2.769777161,
+    "lat": 37.489860505
+  },
+  {
+    "wikiId": "Q46818950",
+    "name": "Residenztheater",
+    "cat": "publicBath",
+    "lon": 12.08585,
+    "lat": 50.8705
+  },
+  {
+    "wikiId": "Q46996819",
+    "name": "Holton Bath House",
+    "cat": "publicBath",
+    "lon": -95.74194444,
+    "lat": 39.46472222
+  },
+  {
+    "wikiId": "Q47469517",
+    "name": "Augustabad",
+    "cat": "publicBath",
+    "lon": 8.243197,
+    "lat": 48.76311
+  },
+  {
+    "wikiId": "Q49741890",
+    "name": "Q49741890",
+    "cat": "publicBath",
+    "lon": 1.94663,
+    "lat": 42.48503
+  },
+  {
+    "wikiId": "Q52846736",
+    "name": "Baño de la Morería",
+    "cat": "publicBath",
+    "lon": -2.777947,
+    "lat": 37.491098
+  },
+  {
+    "wikiId": "Q53946161",
+    "name": "Bains de Saint-Thomas",
+    "cat": "publicBath",
+    "lon": 2.1672,
+    "lat": 42.5
+  },
+  {
+    "wikiId": "Q54425978",
+    "name": "Q54425978",
+    "cat": "publicBath",
+    "lon": 2.5852,
+    "lat": 42.531177777
+  },
+  {
+    "wikiId": "Q54910032",
+    "name": "Loutra Lagkada",
+    "cat": "publicBath",
+    "lon": 23.085305555,
+    "lat": 40.7335
+  },
+  {
+    "wikiId": "Q55659530",
+    "name": "Surskie bani",
+    "cat": "publicBath",
+    "lon": 44.50906,
+    "lat": 48.70675
+  },
+  {
+    "wikiId": "Q55702542",
+    "name": "Haji Majid bathhouse",
+    "cat": "publicBath",
+    "lon": 49.71113,
+    "lat": 40.57466
+  },
+  {
+    "wikiId": "Q56397558",
+    "name": "Balatzian baths",
+    "cat": "publicBath",
+    "lon": 23.626594,
+    "lat": 37.952581
+  },
+  {
+    "wikiId": "Q58642028",
+    "name": "Casa de los Bañones",
+    "cat": "publicBath",
+    "lon": -2.096767067,
+    "lat": 37.69292252
+  },
+  {
+    "wikiId": "Q59238501",
+    "name": "Q59238501",
+    "cat": "publicBath",
+    "lon": 4.89474,
+    "lat": 52.35546
+  },
+  {
+    "wikiId": "Q59537984",
+    "name": "Bains-douches de Carcassonne",
+    "cat": "publicBath",
+    "lon": 2.3568,
+    "lat": 43.2133
+  },
+  {
+    "wikiId": "Q61793543",
+    "name": "Bains et Lavoirs municipaux",
+    "cat": "publicBath",
+    "lon": -1.551,
+    "lat": 47.213
+  },
+  {
+    "wikiId": "Q63147789",
+    "name": "Richardson Bath House - Macdonald Park",
+    "cat": "publicBath",
+    "lon": -76.488951,
+    "lat": 44.222165
+  },
+  {
+    "wikiId": "Q63456306",
+    "name": "Q63456306",
+    "cat": "publicBath",
+    "lon": 2.060841666,
+    "lat": 42.451669444
+  },
+  {
+    "wikiId": "Q65074556",
+    "name": "Finnish Sauna",
+    "cat": "publicBath",
+    "lon": -92.53163889,
+    "lat": 47.5225
+  },
+  {
+    "wikiId": "Q65172414",
+    "name": "Saunakylä (Jämsä)",
+    "cat": "publicBath",
+    "lon": 25.353,
+    "lat": 61.929
+  },
+  {
+    "wikiId": "Q66491142",
+    "name": "Public bath in Prudnik",
+    "cat": "publicBath",
+    "lon": 17.573667,
+    "lat": 50.320167
+  },
+  {
+    "wikiId": "Q69149190",
+    "name": "Silchester Baths",
+    "cat": "publicBath",
+    "lon": -0.21545,
+    "lat": 51.5145
+  },
+  {
+    "wikiId": "Q77119246",
+    "name": "Blue Baths",
+    "cat": "publicBath",
+    "lon": 176.257594,
+    "lat": -38.136498
+  },
+  {
+    "wikiId": "Q77224443",
+    "name": "Q77224443",
+    "cat": "publicBath",
+    "lon": 17.825555555,
+    "lat": 59.419444444
+  },
+  {
+    "wikiId": "Q79309804",
+    "name": "Miners Bath House",
+    "cat": "publicBath",
+    "lon": 171.407515,
+    "lat": -42.361164
+  },
+  {
+    "wikiId": "Q79950749",
+    "name": "Baños de las Delicias",
+    "cat": "publicBath",
+    "lon": -4.423555555,
+    "lat": 36.724388888
+  },
+  {
+    "wikiId": "Q83865179",
+    "name": "Badhuis Polanenstraat",
+    "cat": "publicBath",
+    "lon": 4.878472222,
+    "lat": 52.387972222
+  },
+  {
+    "wikiId": "Q83867936",
+    "name": "Badhuis Meteorenweg",
+    "cat": "publicBath",
+    "lon": 4.886833333,
+    "lat": 52.412416666
+  },
+  {
+    "wikiId": "Q88230730",
+    "name": "Bains-douches du Banc de Sable",
+    "cat": "publicBath",
+    "lon": 2.47093,
+    "lat": 48.81887
+  },
+  {
+    "wikiId": "Q88341699",
+    "name": "Bains-douches de Créteil",
+    "cat": "publicBath",
+    "lon": 2.466181,
+    "lat": 48.792058
+  },
+  {
+    "wikiId": "Q88403776",
+    "name": "Bains-douches d'Ivry-sur-Seine",
+    "cat": "publicBath",
+    "lon": 2.38886,
+    "lat": 48.8108
+  },
+  {
+    "wikiId": "Q88484895",
+    "name": "Bains-douches de Gentilly",
+    "cat": "publicBath",
+    "lon": 2.346181,
+    "lat": 48.81566
+  },
+  {
+    "wikiId": "Q88484909",
+    "name": "Bains-douches de Villejuif",
+    "cat": "publicBath",
+    "lon": 2.366239,
+    "lat": 48.796228
+  },
+  {
+    "wikiId": "Q89108981",
+    "name": "Q89108981",
+    "cat": "publicBath",
+    "lon": 1.61854526,
+    "lat": 42.82421924
+  },
+  {
+    "wikiId": "Q89345686",
+    "name": "Q89345686",
+    "cat": "publicBath",
+    "lon": 0.74210543,
+    "lat": 43.05041956
+  },
+  {
+    "wikiId": "Q90289700",
+    "name": "Warm Bath House in Hjo",
+    "cat": "publicBath",
+    "lon": 14.296666666,
+    "lat": 58.305555555
+  },
+  {
+    "wikiId": "Q90561218",
+    "name": "Kariya Yokujo",
+    "cat": "publicBath",
+    "lon": 136.996208,
+    "lat": 34.988548
+  },
+  {
+    "wikiId": "Q92209954",
+    "name": "Gamla varmbadhuset, Södertälje",
+    "cat": "publicBath",
+    "lon": 17.624166666,
+    "lat": 59.193611111
+  },
+  {
+    "wikiId": "Q93362878",
+    "name": "Q93362878",
+    "cat": "publicBath",
+    "lon": -0.5908712,
+    "lat": 43.12046364
+  },
+  {
+    "wikiId": "Q96376719",
+    "name": "Q96376719",
+    "cat": "publicBath",
+    "lon": 15.285555555,
+    "lat": 56.198888888
+  },
+  {
+    "wikiId": "Q96417926",
+    "name": "Buxton Baths",
+    "cat": "publicBath",
+    "lon": -1.9158,
+    "lat": 53.2585
+  },
+  {
+    "wikiId": "Q96483656",
+    "name": "Q96483656",
+    "cat": "publicBath",
+    "lon": 2.50914,
+    "lat": 48.75002
+  },
+  {
+    "wikiId": "Q96599728",
+    "name": "Lavoir et bains-douches de Châtillon",
+    "cat": "publicBath",
+    "lon": 2.28789,
+    "lat": 48.80072
+  },
+  {
+    "wikiId": "Q96600159",
+    "name": "Q96600159",
+    "cat": "publicBath",
+    "lon": 2.208377641,
+    "lat": 48.86569722
+  },
+  {
+    "wikiId": "Q96600339",
+    "name": "Q96600339",
+    "cat": "publicBath",
+    "lon": 2.215824616,
+    "lat": 48.886118891
+  },
+  {
+    "wikiId": "Q96600401",
+    "name": "Q96600401",
+    "cat": "publicBath",
+    "lon": 2.196859899,
+    "lat": 48.889784191
+  },
+  {
+    "wikiId": "Q96600856",
+    "name": "Q96600856",
+    "cat": "publicBath",
+    "lon": 2.281996684,
+    "lat": 48.914721955
+  },
+  {
+    "wikiId": "Q96604644",
+    "name": "Q96604644",
+    "cat": "publicBath",
+    "lon": 2.31721,
+    "lat": 48.81717
+  },
+  {
+    "wikiId": "Q98577616",
+    "name": "Badehaus",
+    "cat": "publicBath",
+    "lon": 10.964421274,
+    "lat": 50.261192383
+  },
+  {
+    "wikiId": "Q98581808",
+    "name": "Badehaus",
+    "cat": "publicBath",
+    "lon": 10.963807175,
+    "lat": 50.258931993
+  },
+  {
+    "wikiId": "Q98582625",
+    "name": "Q98582625",
+    "cat": "publicBath",
+    "lon": 12.31605736,
+    "lat": 46.91315625
+  },
+  {
+    "wikiId": "Q98584116",
+    "name": "Badehaus Nähe Parkweg in PommersfeLenn",
+    "cat": "publicBath",
+    "lon": 10.816633963,
+    "lat": 49.764876672
+  },
+  {
+    "wikiId": "Q98584119",
+    "name": "Badehaus Nägleinsgasse 4 in Coburg",
+    "cat": "publicBath",
+    "lon": 10.963659083,
+    "lat": 50.258972157
+  },
+  {
+    "wikiId": "Q98584122",
+    "name": "Badehaus Gundelsheimer Straße 14 a in Bamberg",
+    "cat": "publicBath",
+    "lon": 10.89227567,
+    "lat": 49.907993447
+  },
+  {
+    "wikiId": "Q98607313",
+    "name": "Badehaus",
+    "cat": "publicBath",
+    "lon": 10.317841815,
+    "lat": 49.068361957
+  },
+  {
+    "wikiId": "Q98607619",
+    "name": "Badehaus",
+    "cat": "publicBath",
+    "lon": 10.319315158,
+    "lat": 49.070572287
+  },
+  {
+    "wikiId": "Q98608433",
+    "name": "Badehaus",
+    "cat": "publicBath",
+    "lon": 11.073801816,
+    "lat": 49.455379234
+  },
+  {
+    "wikiId": "Q98621400",
+    "name": "Badehaus Bertholdsdorf 23 in Windsbach",
+    "cat": "publicBath",
+    "lon": 10.877167059,
+    "lat": 49.289241204
+  },
+  {
+    "wikiId": "Q98621934",
+    "name": "Q98621934",
+    "cat": "publicBath",
+    "lon": 11.316176948,
+    "lat": 49.355184957
+  },
+  {
+    "wikiId": "Q98624526",
+    "name": "Badehaus Königstraße 147 in Fürth",
+    "cat": "publicBath",
+    "lon": 10.993710863,
+    "lat": 49.472562575
+  },
+  {
+    "wikiId": "Q98627734",
+    "name": "Badehaus Münsterplatz 6 in Heilsbronn",
+    "cat": "publicBath",
+    "lon": 10.792677319,
+    "lat": 49.337742524
+  },
+  {
+    "wikiId": "Q98700757",
+    "name": "Badehaus Bräuhausplatz 10 in Passau",
+    "cat": "publicBath",
+    "lon": 13.442747306,
+    "lat": 48.578836746
+  },
+  {
+    "wikiId": "Q98746458",
+    "name": "Badehaus Donauwörther Straße B 80 in Neuburg an der Donau",
+    "cat": "publicBath",
+    "lon": 11.173566434,
+    "lat": 48.734040544
+  },
+  {
+    "wikiId": "Q98930957",
+    "name": "Roaring River State Park Bath House",
+    "cat": "publicBath",
+    "lon": -93.830519444,
+    "lat": 36.57955
+  },
+  {
+    "wikiId": "Q99486409",
+    "name": "Robbers Cave State Park Nature Center",
+    "cat": "publicBath",
+    "lon": -95.361079,
+    "lat": 34.979773
+  },
+  {
+    "wikiId": "Q99487331",
+    "name": "Boiling Springs State Park Pool Bathhouse",
+    "cat": "publicBath",
+    "lon": -99.30155,
+    "lat": 36.453482
+  },
+  {
+    "wikiId": "Q99577177",
+    "name": "Mike Roess Gold Head Branch State Park Bathhouse",
+    "cat": "publicBath",
+    "lon": -81.952071,
+    "lat": 29.825718
+  },
+  {
+    "wikiId": "Q100151783",
+    "name": "Quadrium",
+    "cat": "publicBath",
+    "lon": 9.4179,
+    "lat": 48.69028
+  },
+  {
+    "wikiId": "Q100280675",
+    "name": "Bain public et gymnase de Maisonneuve",
+    "cat": "publicBath",
+    "lon": -73.538309,
+    "lat": 45.553452
+  },
+  {
+    "wikiId": "Q102219398",
+    "name": "Balneário do Alto das Eiras",
+    "cat": "publicBath",
+    "lon": -8.444805555,
+    "lat": 41.433833333
+  },
+  {
+    "wikiId": "Q104043606",
+    "name": "Langford Hot Springs",
+    "cat": "publicBath",
+    "lon": -102.995508346,
+    "lat": 29.179539162
+  },
+  {
+    "wikiId": "Q104713297",
+    "name": "Byzantine bath-house, Taucheira",
+    "cat": "publicBath",
+    "lon": 20.568766666,
+    "lat": 32.536991666
+  },
+  {
+    "wikiId": "Q104808525",
+    "name": "Late Baths, Ptolemais",
+    "cat": "publicBath",
+    "lon": 20.951656666,
+    "lat": 32.709783333
+  },
+  {
+    "wikiId": "Q105367485",
+    "name": "Q105367485",
+    "cat": "publicBath",
+    "lon": 12.36459777,
+    "lat": 47.45635045
+  },
+  {
+    "wikiId": "Q106011038",
+    "name": "Q106011038",
+    "cat": "publicBath",
+    "lon": 20.26579,
+    "lat": 63.823485
+  },
+  {
+    "wikiId": "Q106309209",
+    "name": "Q106309209",
+    "cat": "publicBath",
+    "lon": 110.5389,
+    "lat": -7.50315
+  },
+  {
+    "wikiId": "Q106309220",
+    "name": "Q106309220",
+    "cat": "publicBath",
+    "lon": 112.66908,
+    "lat": -7.89765
+  },
+  {
+    "wikiId": "Q106309223",
+    "name": "Q106309223",
+    "cat": "publicBath",
+    "lon": 112.49278,
+    "lat": -7.86722
+  },
+  {
+    "wikiId": "Q106309224",
+    "name": "Q106309224",
+    "cat": "publicBath",
+    "lon": 112.20992,
+    "lat": -8.01702
+  },
+  {
+    "wikiId": "Q106628345",
+    "name": "Q106628345",
+    "cat": "publicBath",
+    "lon": 29.92068,
+    "lat": 40.766978
+  },
+  {
+    "wikiId": "Q106654651",
+    "name": "Ekudden public bath",
+    "cat": "publicBath",
+    "lon": 13.798881,
+    "lat": 58.716054
+  },
+  {
+    "wikiId": "Q107093360",
+    "name": "Q107093360",
+    "cat": "publicBath",
+    "lon": 15.3877392,
+    "lat": 50.4740486
+  },
+  {
+    "wikiId": "Q107109808",
+    "name": "Baños de Sierra Alhamilla",
+    "cat": "publicBath",
+    "lon": -2.396807,
+    "lat": 36.960891
+  },
+  {
+    "wikiId": "Q107320142",
+    "name": "Hancock Springs Bathhouse",
+    "cat": "publicBath",
+    "lon": -98.18471,
+    "lat": 31.05372
+  },
+  {
+    "wikiId": "Q107467325",
+    "name": "Q107467325",
+    "cat": "publicBath",
+    "lon": 18.1517903,
+    "lat": 49.971675
+  },
+  {
+    "wikiId": "Q108073126",
+    "name": "Barton Springs Bath House",
+    "cat": "publicBath",
+    "lon": -97.771289585,
+    "lat": 30.264094987
+  },
+  {
+    "wikiId": "Q108337054",
+    "name": "Q108337054",
+    "cat": "publicBath",
+    "lon": 4.841295,
+    "lat": 47.026315
+  },
+  {
+    "wikiId": "Q108767111",
+    "name": "Kallbadhuset i Hjo",
+    "cat": "publicBath",
+    "lon": 14.295416666,
+    "lat": 58.302916666
+  },
+  {
+    "wikiId": "Q108800272",
+    "name": "Ancien établissement de bains des Manufactures Hartmann",
+    "cat": "publicBath",
+    "lon": 7.13660089,
+    "lat": 48.042502082
+  },
+  {
+    "wikiId": "Q108842751",
+    "name": "Q108842751",
+    "cat": "publicBath",
+    "lon": 7.11798233,
+    "lat": 48.030728263
+  },
+  {
+    "wikiId": "Q108858986",
+    "name": "Q108858986",
+    "cat": "publicBath",
+    "lon": 7.202245403,
+    "lat": 48.033069841
+  },
+  {
+    "wikiId": "Q108904901",
+    "name": "Q108904901",
+    "cat": "publicBath",
+    "lon": 7.103157712,
+    "lat": 48.02404608
+  },
+  {
+    "wikiId": "Q109350518",
+    "name": "Mairie de Soultzeren",
+    "cat": "publicBath",
+    "lon": 7.102699759,
+    "lat": 48.063764925
+  },
+  {
+    "wikiId": "Q109519605",
+    "name": "Spa Excess",
+    "cat": "publicBath",
+    "lon": -79.3774445,
+    "lat": 43.662167
+  },
+  {
+    "wikiId": "Q109911799",
+    "name": "Kent Street Baths",
+    "cat": "publicBath",
+    "lon": -1.89816,
+    "lat": 52.4715
+  },
+  {
+    "wikiId": "Q111154740",
+    "name": "Q111154740",
+    "cat": "publicBath",
+    "lon": 22.999949,
+    "lat": 40.657827
+  },
+  {
+    "wikiId": "Q111170093",
+    "name": "Gina Smith Campbell Bathhouse",
+    "cat": "publicBath",
+    "lon": -96.702166666,
+    "lat": 43.819916666
+  },
+  {
+    "wikiId": "Q111193934",
+    "name": "Q111193934",
+    "cat": "publicBath",
+    "lon": 23.421134,
+    "lat": 40.655757
+  },
+  {
+    "wikiId": "Q111203435",
+    "name": "Q111203435",
+    "cat": "publicBath",
+    "lon": 17.091944444,
+    "lat": 59.63
+  },
+  {
+    "wikiId": "Q112663541",
+    "name": "Q112663541",
+    "cat": "publicBath",
+    "lon": 14.358536111,
+    "lat": 47.523466666
+  },
+  {
+    "wikiId": "Q112670959",
+    "name": "Q112670959",
+    "cat": "publicBath",
+    "lon": 24.424505,
+    "lat": 37.441061
+  },
+  {
+    "wikiId": "Q112842590",
+    "name": "Q112842590",
+    "cat": "publicBath",
+    "lon": 16.372083333,
+    "lat": 56.665138888
+  },
+  {
+    "wikiId": "Q112895250",
+    "name": "Q112895250",
+    "cat": "publicBath",
+    "lon": 19.809629,
+    "lat": 39.788856
+  },
+  {
+    "wikiId": "Q113006214",
+    "name": "Kos Hammam",
+    "cat": "publicBath",
+    "lon": 27.291703,
+    "lat": 36.894374
+  },
+  {
+    "wikiId": "Q113367135",
+    "name": "Q113367135",
+    "cat": "publicBath",
+    "lon": 8.24411,
+    "lat": 50.08412
+  },
+  {
+    "wikiId": "Q5884005",
+    "name": "Q5884005",
+    "cat": "publicBath",
+    "lon": 51.419832,
+    "lat": 35.670244
+  },
+  {
+    "wikiId": "Q5890565",
+    "name": "Homestead caldera",
+    "cat": "publicBath",
+    "lon": -111.485,
+    "lat": 40.5239
+  },
+  {
+    "wikiId": "Q5890943",
+    "name": "Gap Hammam",
+    "cat": "publicBath",
+    "lon": 48.3501189,
+    "lat": 33.4848933
+  },
+  {
+    "wikiId": "Q5890957",
+    "name": "Mesbah Hammam",
+    "cat": "publicBath",
+    "lon": 50.994280555,
+    "lat": 35.824033333
+  },
+  {
+    "wikiId": "Q5892701",
+    "name": "Q5892701",
+    "cat": "publicBath",
+    "lon": 50.654430555,
+    "lat": 31.993030555
+  },
+  {
+    "wikiId": "Q5894435",
+    "name": "Q5894435",
+    "cat": "publicBath",
+    "lon": 58.5117,
+    "lat": 33.857341666
+  },
+  {
+    "wikiId": "Q5896025",
+    "name": "Q5896025",
+    "cat": "publicBath",
+    "lon": 50.833091666,
+    "lat": 28.922041666
+  },
+  {
+    "wikiId": "Q5897471",
+    "name": "Q5897471",
+    "cat": "publicBath",
+    "lon": 48.532477777,
+    "lat": 34.936455555
+  },
+  {
+    "wikiId": "Q5899561",
+    "name": "Q5899561",
+    "cat": "publicBath",
+    "lon": 51.423083333,
+    "lat": 35.681127777
+  },
+  {
+    "wikiId": "Q5900948",
+    "name": "Q5900948",
+    "cat": "publicBath",
+    "lon": 48.286927777,
+    "lat": 38.246994444
+  },
+  {
+    "wikiId": "Q5901802",
+    "name": "Q5901802",
+    "cat": "publicBath",
+    "lon": 51.413094444,
+    "lat": 35.680338888
+  },
+  {
+    "wikiId": "Q5902556",
+    "name": "Q5902556",
+    "cat": "publicBath",
+    "lon": 57.426447222,
+    "lat": 30.547622222
+  },
+  {
+    "wikiId": "Q5903032",
+    "name": "Q5903032",
+    "cat": "publicBath",
+    "lon": 57.086522222,
+    "lat": 30.075547222
+  },
+  {
+    "wikiId": "Q5905133",
+    "name": "Q5905133",
+    "cat": "publicBath",
+    "lon": 54.233333333,
+    "lat": 31.983333333
+  },
+  {
+    "wikiId": "Q5905575",
+    "name": "Q5905575",
+    "cat": "publicBath",
+    "lon": 57.057644444,
+    "lat": 30.278330555
+  },
+  {
+    "wikiId": "Q5905972",
+    "name": "Q5905972",
+    "cat": "publicBath",
+    "lon": 51.450094444,
+    "lat": 33.987994444
+  },
+  {
+    "wikiId": "Q5907671",
+    "name": "Q5907671",
+    "cat": "publicBath",
+    "lon": 58.799036111,
+    "lat": 36.198552777
+  },
+  {
+    "wikiId": "Q5909955",
+    "name": "Q5909955",
+    "cat": "publicBath",
+    "lon": 51.65445,
+    "lat": 35.8242122
+  },
+  {
+    "wikiId": "Q5919054",
+    "name": "Q5919054",
+    "cat": "publicBath",
+    "lon": 46.268227777,
+    "lat": 38.085738888
+  },
+  {
+    "wikiId": "Q5929559",
+    "name": "Q5929559",
+    "cat": "publicBath",
+    "lon": 54.301636111,
+    "lat": 27.662783333
+  },
+  {
+    "wikiId": "Q22734",
+    "name": "Herschel bath",
+    "cat": "publicBath",
+    "lon": 8.47186,
+    "lat": 49.4907
+  },
+  {
+    "wikiId": "Q194783",
+    "name": "Széchenyi thermal bath",
+    "cat": "publicBath",
+    "lon": 19.082222222,
+    "lat": 47.518333333
+  },
+  {
+    "wikiId": "Q511925",
+    "name": "Banys de l'Almirall",
+    "cat": "publicBath",
+    "lon": -0.373461,
+    "lat": 39.474969
+  },
+  {
+    "wikiId": "Q646140",
+    "name": "Gellért Baths",
+    "cat": "publicBath",
+    "lon": 19.05097222,
+    "lat": 47.48370833
+  },
+  {
+    "wikiId": "Q798867",
+    "name": "Rosneath Castle Bathhouse",
+    "cat": "publicBath",
+    "lon": -4.78519444,
+    "lat": 55.99888889
+  },
+  {
+    "wikiId": "Q803871",
+    "name": "Bain National de Plombières-les-Bains",
+    "cat": "publicBath",
+    "lon": 6.459277,
+    "lat": 47.965389
+  },
+  {
+    "wikiId": "Q897824",
+    "name": "Rudas Baths",
+    "cat": "publicBath",
+    "lon": 19.04786667,
+    "lat": 47.48909167
+  },
+  {
+    "wikiId": "Q901162",
+    "name": "Dagály thermal baths",
+    "cat": "publicBath",
+    "lon": 19.061389,
+    "lat": 47.539444
+  },
+  {
+    "wikiId": "Q972427",
+    "name": "Frauenbad Stadthausquai",
+    "cat": "publicBath",
+    "lon": 8.54214,
+    "lat": 47.3685
+  },
+  {
+    "wikiId": "Q1018764",
+    "name": "Byzantine Bath",
+    "cat": "publicBath",
+    "lon": 22.952772,
+    "lat": 40.639609
+  },
+  {
+    "wikiId": "Q1470112",
+    "name": "Q1470112",
+    "cat": "publicBath",
+    "lon": 21.1038,
+    "lat": 46.67558
+  },
+  {
+    "wikiId": "Q1620873",
+    "name": "Q1620873",
+    "cat": "publicBath",
+    "lon": 9.21518,
+    "lat": 52.4376
+  },
+  {
+    "wikiId": "Q1654326",
+    "name": "Petersbrunnen",
+    "cat": "publicBath",
+    "lon": 12.3693,
+    "lat": 51.3384
+  },
+  {
+    "wikiId": "Q1727230",
+    "name": "Bains-douches d'Abbeville",
+    "cat": "publicBath",
+    "lon": 1.83075517,
+    "lat": 50.10834214
+  },
+  {
+    "wikiId": "Q1756200",
+    "name": "Baths of Zeuxippus",
+    "cat": "publicBath",
+    "lon": 28.978611111,
+    "lat": 41.006944444
+  },
+  {
+    "wikiId": "Q1758807",
+    "name": "Q1758807",
+    "cat": "publicBath",
+    "lon": 9.384586111,
+    "lat": 47.428363888
+  },
+  {
+    "wikiId": "Q1902237",
+    "name": "Q1902237",
+    "cat": "publicBath",
+    "lon": 9.49961,
+    "lat": 51.3104
+  },
+  {
+    "wikiId": "Q1935797",
+    "name": "Q1935797",
+    "cat": "publicBath",
+    "lon": 7.38494,
+    "lat": 51.3093
+  },
+  {
+    "wikiId": "Q1988060",
+    "name": "Sanduny",
+    "cat": "publicBath",
+    "lon": 37.62138889,
+    "lat": 55.76416667
+  },
+  {
+    "wikiId": "Q2388267",
+    "name": "Demeure des Vieux Bains",
+    "cat": "publicBath",
+    "lon": 3.29573,
+    "lat": 48.5616
+  },
+  {
+    "wikiId": "Q2419818",
+    "name": "Thermalstrandbad Baden",
+    "cat": "publicBath",
+    "lon": 16.2188,
+    "lat": 48.0063
+  },
+  {
+    "wikiId": "Q2419852",
+    "name": "Thermes Napoléon de Plombières-les-Bains",
+    "cat": "publicBath",
+    "lon": 6.45555556,
+    "lat": 47.96283333
+  },
+  {
+    "wikiId": "Q2786840",
+    "name": "City Baths, Melbourne",
+    "cat": "publicBath",
+    "lon": 144.963056,
+    "lat": -37.806944
+  },
+  {
+    "wikiId": "Q2879943",
+    "name": "Bains de Bruxelles",
+    "cat": "publicBath",
+    "lon": 4.34611111,
+    "lat": 50.8375
+  },
+  {
+    "wikiId": "Q2879958",
+    "name": "Bains de la Sauvenière",
+    "cat": "publicBath",
+    "lon": 5.56792,
+    "lat": 50.6435
+  },
+  {
+    "wikiId": "Q2879960",
+    "name": "Bains des Pâquis",
+    "cat": "publicBath",
+    "lon": 6.15489,
+    "lat": 46.2104
+  },
+  {
+    "wikiId": "Q3230922",
+    "name": "Les Bains-Douches",
+    "cat": "publicBath",
+    "lon": 2.35208,
+    "lat": 48.8641
+  },
+  {
+    "wikiId": "Q3346415",
+    "name": "Great Bath, Mohenjo-daro",
+    "cat": "publicBath",
+    "lon": 68.13888889,
+    "lat": 27.32916667
+  },
+  {
+    "wikiId": "Q3591591",
+    "name": "Q3591591",
+    "cat": "publicBath",
+    "lon": 3.05578,
+    "lat": 46.585
+  },
+  {
+    "wikiId": "Q3591592",
+    "name": "Établissement thermal de Néris-les-Bains",
+    "cat": "publicBath",
+    "lon": 2.65975,
+    "lat": 46.2862
+  },
+  {
+    "wikiId": "Q3632906",
+    "name": "Hamamni Persian Baths",
+    "cat": "publicBath",
+    "lon": 39.19098,
+    "lat": -6.16233
+  },
+  {
+    "wikiId": "Q3632911",
+    "name": "municipal bath of Florence",
+    "cat": "publicBath",
+    "lon": 11.2465,
+    "lat": 43.7668
+  },
+  {
+    "wikiId": "Q4077310",
+    "name": "Gigant Baths",
+    "cat": "publicBath",
+    "lon": 30.268905,
+    "lat": 59.893725
+  },
+  {
+    "wikiId": "Q4077517",
+    "name": "Kali Yunus Bath",
+    "cat": "publicBath",
+    "lon": 71.3877,
+    "lat": 42.8944
+  },
+  {
+    "wikiId": "Q4311123",
+    "name": "Moika, 80-82",
+    "cat": "publicBath",
+    "lon": 30.303333333,
+    "lat": 59.929722222
+  },
+  {
+    "wikiId": "Q4394209",
+    "name": "Q4394209",
+    "cat": "publicBath",
+    "lon": 37.631,
+    "lat": 55.787
+  },
+  {
+    "wikiId": "Q4519905",
+    "name": "Champagne Bath",
+    "cat": "publicBath",
+    "lon": -75.6867,
+    "lat": 45.4307
+  },
+  {
+    "wikiId": "Q4783150",
+    "name": "Arab Baths",
+    "cat": "publicBath",
+    "lon": -5.306493,
+    "lat": 35.88958
+  },
+  {
+    "wikiId": "Q4916552",
+    "name": "Birley Spa",
+    "cat": "publicBath",
+    "lon": -1.386771,
+    "lat": 53.347737
+  },
+  {
+    "wikiId": "Q5175453",
+    "name": "Badhuis Daalseweg",
+    "cat": "publicBath",
+    "lon": 5.87667,
+    "lat": 51.8371
+  },
+  {
+    "wikiId": "Q5188234",
+    "name": "Cross Bath",
+    "cat": "publicBath",
+    "lon": -2.36139,
+    "lat": 51.3811
+  },
+  {
+    "wikiId": "Q5638689",
+    "name": "Haggerston Baths",
+    "cat": "publicBath",
+    "lon": -0.071228,
+    "lat": 51.535235
+  },
+  {
+    "wikiId": "Q5723868",
+    "name": "Q5723868",
+    "cat": "publicBath",
+    "lon": -2.865840238,
+    "lat": 36.832466482
+  },
+  {
+    "wikiId": "Q5723871",
+    "name": "Baños de la Reina Mora",
+    "cat": "publicBath",
+    "lon": -5.998529081,
+    "lat": 37.395025833
+  },
+  {
+    "wikiId": "Q5877659",
+    "name": "Q5877659",
+    "cat": "publicBath",
+    "lon": 52.07052778,
+    "lat": 35.72066667
+  }
+]

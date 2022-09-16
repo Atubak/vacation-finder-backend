@@ -1,0 +1,4895 @@
+[
+  {
+    "wikiId": "Q45107",
+    "name": "Angelina",
+    "cat": "coffeeHouse",
+    "lon": 2.32808333,
+    "lat": 48.86516667
+  },
+  {
+    "wikiId": "Q83463",
+    "name": "Caffè Fiorio",
+    "cat": "coffeeHouse",
+    "lon": 7.688097222,
+    "lat": 45.069394444
+  },
+  {
+    "wikiId": "Q119168",
+    "name": "Café Kranzler",
+    "cat": "coffeeHouse",
+    "lon": 13.3308,
+    "lat": 52.5042
+  },
+  {
+    "wikiId": "Q181729",
+    "name": "Grand Café",
+    "cat": "coffeeHouse",
+    "lon": 10.73933333,
+    "lat": 59.91377778
+  },
+  {
+    "wikiId": "Q228926",
+    "name": "Coffe Baum",
+    "cat": "coffeeHouse",
+    "lon": 12.3729,
+    "lat": 51.3411
+  },
+  {
+    "wikiId": "Q269481",
+    "name": "Café Prückel",
+    "cat": "coffeeHouse",
+    "lon": 16.3804,
+    "lat": 48.2076
+  },
+  {
+    "wikiId": "Q315379",
+    "name": "Romanisches Café",
+    "cat": "coffeeHouse",
+    "lon": 13.3345,
+    "lat": 52.5053
+  },
+  {
+    "wikiId": "Q521045",
+    "name": "Café Slavia",
+    "cat": "coffeeHouse",
+    "lon": 14.413258,
+    "lat": 50.08182
+  },
+  {
+    "wikiId": "Q575012",
+    "name": "Antico Caffè Greco",
+    "cat": "coffeeHouse",
+    "lon": 12.481436,
+    "lat": 41.905558
+  },
+  {
+    "wikiId": "Q624311",
+    "name": "Arabisches Café",
+    "cat": "coffeeHouse",
+    "lon": 6.7825,
+    "lat": 51.2192
+  },
+  {
+    "wikiId": "Q641473",
+    "name": "Café de Fornos, Madrid",
+    "cat": "coffeeHouse",
+    "lon": -3.699533,
+    "lat": 40.417981
+  },
+  {
+    "wikiId": "Q652299",
+    "name": "Café des Westens",
+    "cat": "coffeeHouse",
+    "lon": 13.331,
+    "lat": 52.504
+  },
+  {
+    "wikiId": "Q672804",
+    "name": "Jama Michalika",
+    "cat": "coffeeHouse",
+    "lon": 19.94094167,
+    "lat": 50.06413333
+  },
+  {
+    "wikiId": "Q701982",
+    "name": "Café Mayer",
+    "cat": "coffeeHouse",
+    "lon": 17.10843333,
+    "lat": 48.14322778
+  },
+  {
+    "wikiId": "Q751293",
+    "name": "Café Procope",
+    "cat": "coffeeHouse",
+    "lon": 2.33875,
+    "lat": 48.853055555
+  },
+  {
+    "wikiId": "Q759261",
+    "name": "Auermühle",
+    "cat": "coffeeHouse",
+    "lon": 6.88111,
+    "lat": 51.3067
+  },
+  {
+    "wikiId": "Q785041",
+    "name": "Café Gondrée",
+    "cat": "coffeeHouse",
+    "lon": -0.274972222,
+    "lat": 49.242416666
+  },
+  {
+    "wikiId": "Q881270",
+    "name": "Café Josty",
+    "cat": "coffeeHouse",
+    "lon": 13.3736,
+    "lat": 52.51
+  },
+  {
+    "wikiId": "Q919751",
+    "name": "The Bitter End",
+    "cat": "coffeeHouse",
+    "lon": -73.9992,
+    "lat": 40.7283
+  },
+  {
+    "wikiId": "Q960610",
+    "name": "Caffè Florian",
+    "cat": "coffeeHouse",
+    "lon": 12.338208333,
+    "lat": 45.433675
+  },
+  {
+    "wikiId": "Q1018198",
+    "name": "Button's Coffee House",
+    "cat": "coffeeHouse",
+    "lon": -0.1217,
+    "lat": 51.51235
+  },
+  {
+    "wikiId": "Q1025502",
+    "name": "Cafe Kies",
+    "cat": "coffeeHouse",
+    "lon": 11.6682,
+    "lat": 52.0697
+  },
+  {
+    "wikiId": "Q1025546",
+    "name": "Paszkowski",
+    "cat": "coffeeHouse",
+    "lon": 11.2539,
+    "lat": 43.7718
+  },
+  {
+    "wikiId": "Q1025547",
+    "name": "Caffè Giubbe Rosse",
+    "cat": "coffeeHouse",
+    "lon": 11.253975,
+    "lat": 43.77115
+  },
+  {
+    "wikiId": "Q1025549",
+    "name": "Caffè Tommaseo",
+    "cat": "coffeeHouse",
+    "lon": 13.769095,
+    "lat": 45.651323
+  },
+  {
+    "wikiId": "Q1025570",
+    "name": "Kavárna Arco",
+    "cat": "coffeeHouse",
+    "lon": 14.43243056,
+    "lat": 50.08713333
+  },
+  {
+    "wikiId": "Q1025571",
+    "name": "Café Bauer",
+    "cat": "coffeeHouse",
+    "lon": 8.67854,
+    "lat": 50.1133
+  },
+  {
+    "wikiId": "Q1025572",
+    "name": "Café Bauer",
+    "cat": "coffeeHouse",
+    "lon": 13.3891,
+    "lat": 52.5167
+  },
+  {
+    "wikiId": "Q1025574",
+    "name": "Café Bazar",
+    "cat": "coffeeHouse",
+    "lon": 13.0439,
+    "lat": 47.8019
+  },
+  {
+    "wikiId": "Q1025575",
+    "name": "Café Bauer",
+    "cat": "coffeeHouse",
+    "lon": 12.3779,
+    "lat": 51.3358
+  },
+  {
+    "wikiId": "Q1025576",
+    "name": "Café Bonorand",
+    "cat": "coffeeHouse",
+    "lon": 12.3688,
+    "lat": 51.3481
+  },
+  {
+    "wikiId": "Q1025589",
+    "name": "Café Donnersberg",
+    "cat": "coffeeHouse",
+    "lon": 13.7407,
+    "lat": 51.0592
+  },
+  {
+    "wikiId": "Q1025594",
+    "name": "Cafe Einstein Stammhaus",
+    "cat": "coffeeHouse",
+    "lon": 13.354732,
+    "lat": 52.502105
+  },
+  {
+    "wikiId": "Q1025595",
+    "name": "Café Einstein Unter den Linden",
+    "cat": "coffeeHouse",
+    "lon": 13.386,
+    "lat": 52.5172
+  },
+  {
+    "wikiId": "Q1025601",
+    "name": "Café Felsche",
+    "cat": "coffeeHouse",
+    "lon": 12.3797,
+    "lat": 51.3393
+  },
+  {
+    "wikiId": "Q1025608",
+    "name": "Café Gijón",
+    "cat": "coffeeHouse",
+    "lon": -3.692364,
+    "lat": 40.422242
+  },
+  {
+    "wikiId": "Q1025611",
+    "name": "Café Guerbois",
+    "cat": "coffeeHouse",
+    "lon": 2.326773251,
+    "lat": 48.884457597
+  },
+  {
+    "wikiId": "Q1025612",
+    "name": "Q1025612",
+    "cat": "coffeeHouse",
+    "lon": 7.54984,
+    "lat": 50.3447
+  },
+  {
+    "wikiId": "Q1025613",
+    "name": "Café Hausberg",
+    "cat": "coffeeHouse",
+    "lon": 13.8728,
+    "lat": 51.014
+  },
+  {
+    "wikiId": "Q1025615",
+    "name": "Cafe Hélms",
+    "cat": "coffeeHouse",
+    "lon": 13.4001,
+    "lat": 52.5161
+  },
+  {
+    "wikiId": "Q1025619",
+    "name": "Cafe Jasmin",
+    "cat": "coffeeHouse",
+    "lon": 11.563694444,
+    "lat": 48.15
+  },
+  {
+    "wikiId": "Q1025623",
+    "name": "Café Keese",
+    "cat": "coffeeHouse",
+    "lon": 9.96639,
+    "lat": 53.55014
+  },
+  {
+    "wikiId": "Q1025630",
+    "name": "Q1025630",
+    "cat": "coffeeHouse",
+    "lon": 8.66237,
+    "lat": 50.118
+  },
+  {
+    "wikiId": "Q1025633",
+    "name": "Café Luitpold",
+    "cat": "coffeeHouse",
+    "lon": 11.575,
+    "lat": 48.143
+  },
+  {
+    "wikiId": "Q1025644",
+    "name": "Café Mozart",
+    "cat": "coffeeHouse",
+    "lon": 13.0426,
+    "lat": 47.8002
+  },
+  {
+    "wikiId": "Q1025648",
+    "name": "Q1025648",
+    "cat": "coffeeHouse",
+    "lon": 10.5355,
+    "lat": 52.2632
+  },
+  {
+    "wikiId": "Q1025650",
+    "name": "Café Novelty",
+    "cat": "coffeeHouse",
+    "lon": -5.663711,
+    "lat": 40.965329
+  },
+  {
+    "wikiId": "Q1025653",
+    "name": "Café Orient",
+    "cat": "coffeeHouse",
+    "lon": 8.21912,
+    "lat": 50.0957
+  },
+  {
+    "wikiId": "Q1025660",
+    "name": "Café Reale",
+    "cat": "coffeeHouse",
+    "lon": 13.7425,
+    "lat": 51.0531
+  },
+  {
+    "wikiId": "Q1025667",
+    "name": "Café Stefanie",
+    "cat": "coffeeHouse",
+    "lon": 11.5767,
+    "lat": 48.1478
+  },
+  {
+    "wikiId": "Q1025671",
+    "name": "Q1025671",
+    "cat": "coffeeHouse",
+    "lon": 14.28722222,
+    "lat": 48.30444444
+  },
+  {
+    "wikiId": "Q1025674",
+    "name": "Café Tortoni",
+    "cat": "coffeeHouse",
+    "lon": -58.378306099,
+    "lat": -34.608789305
+  },
+  {
+    "wikiId": "Q1025676",
+    "name": "Café Wildau",
+    "cat": "coffeeHouse",
+    "lon": 13.6504,
+    "lat": 52.907
+  },
+  {
+    "wikiId": "Q1025680",
+    "name": "Zemanova kavárna",
+    "cat": "coffeeHouse",
+    "lon": 16.613444444,
+    "lat": 49.197597222
+  },
+  {
+    "wikiId": "Q1025684",
+    "name": "Café de Oriente",
+    "cat": "coffeeHouse",
+    "lon": -3.711603,
+    "lat": 40.417736
+  },
+  {
+    "wikiId": "Q1025686",
+    "name": "Café de Flore",
+    "cat": "coffeeHouse",
+    "lon": 2.3325,
+    "lat": 48.853889
+  },
+  {
+    "wikiId": "Q1025693",
+    "name": "Café de la Régence",
+    "cat": "coffeeHouse",
+    "lon": 2.342579,
+    "lat": 48.859863
+  },
+  {
+    "wikiId": "Q1092410",
+    "name": "Cinema Condes",
+    "cat": "coffeeHouse",
+    "lon": -9.141739,
+    "lat": 38.716717
+  },
+  {
+    "wikiId": "Q1099873",
+    "name": "Q1099873",
+    "cat": "coffeeHouse",
+    "lon": 19.062304499,
+    "lat": 47.504295894
+  },
+  {
+    "wikiId": "Q1127356",
+    "name": "Ladó Café",
+    "cat": "coffeeHouse",
+    "lon": 19.067998,
+    "lat": 47.49746
+  },
+  {
+    "wikiId": "Q1147912",
+    "name": "Les Deux Magots",
+    "cat": "coffeeHouse",
+    "lon": 2.333056,
+    "lat": 48.853889
+  },
+  {
+    "wikiId": "Q1434050",
+    "name": "Flugzeugcafé Preußisch Oldendorf",
+    "cat": "coffeeHouse",
+    "lon": 8.097718,
+    "lat": 52.09691
+  },
+  {
+    "wikiId": "Q1441258",
+    "name": "Closerie des Lilas",
+    "cat": "coffeeHouse",
+    "lon": 2.33604,
+    "lat": 48.8401
+  },
+  {
+    "wikiId": "Q1590621",
+    "name": "Haus Vaterland",
+    "cat": "coffeeHouse",
+    "lon": 13.3772,
+    "lat": 52.5081
+  },
+  {
+    "wikiId": "Q1737363",
+    "name": "Scottish Café",
+    "cat": "coffeeHouse",
+    "lon": 24.03245278,
+    "lat": 49.83572222
+  },
+  {
+    "wikiId": "Q1915088",
+    "name": "Q1915088",
+    "cat": "coffeeHouse",
+    "lon": 5.910425,
+    "lat": 51.982171
+  },
+  {
+    "wikiId": "Q1977544",
+    "name": "Neon",
+    "cat": "coffeeHouse",
+    "lon": 23.72864444,
+    "lat": 37.98460556
+  },
+  {
+    "wikiId": "Q2075141",
+    "name": "Q2075141",
+    "cat": "coffeeHouse",
+    "lon": 4.71167,
+    "lat": 52.01183
+  },
+  {
+    "wikiId": "Q2153460",
+    "name": "Ring-Café",
+    "cat": "coffeeHouse",
+    "lon": 12.3804,
+    "lat": 51.3359
+  },
+  {
+    "wikiId": "Q2168610",
+    "name": "Rothe Mühle",
+    "cat": "coffeeHouse",
+    "lon": 10.8153,
+    "lat": 51.8606
+  },
+  {
+    "wikiId": "Q2256413",
+    "name": "Q2256413",
+    "cat": "coffeeHouse",
+    "lon": 12.3675,
+    "lat": 51.3494
+  },
+  {
+    "wikiId": "Q2287307",
+    "name": "De Bogt fen Guné, Franeker",
+    "cat": "coffeeHouse",
+    "lon": 5.53823,
+    "lat": 53.1862
+  },
+  {
+    "wikiId": "Q2328585",
+    "name": "Q2328585",
+    "cat": "coffeeHouse",
+    "lon": 3.727361,
+    "lat": 51.048778
+  },
+  {
+    "wikiId": "Q2334312",
+    "name": "Municipal House",
+    "cat": "coffeeHouse",
+    "lon": 14.42824,
+    "lat": 50.08762
+  },
+  {
+    "wikiId": "Q2335251",
+    "name": "Dorpsstraat 17, Ouderkerk aan den IJssel",
+    "cat": "coffeeHouse",
+    "lon": 4.634297,
+    "lat": 51.935569
+  },
+  {
+    "wikiId": "Q2382361",
+    "name": "Café de la Gare",
+    "cat": "coffeeHouse",
+    "lon": 2.3524656,
+    "lat": 48.8573719
+  },
+  {
+    "wikiId": "Q2458137",
+    "name": "Grote Markt 42 (Groningen)",
+    "cat": "coffeeHouse",
+    "lon": 6.56758,
+    "lat": 53.21813
+  },
+  {
+    "wikiId": "Q2461154",
+    "name": "Q2461154",
+    "cat": "coffeeHouse",
+    "lon": 4.289008,
+    "lat": 51.489928
+  },
+  {
+    "wikiId": "Q2547006",
+    "name": "Café A Brasileira",
+    "cat": "coffeeHouse",
+    "lon": -9.142047,
+    "lat": 38.710692
+  },
+  {
+    "wikiId": "Q2593762",
+    "name": "Café des 2 Moulins",
+    "cat": "coffeeHouse",
+    "lon": 2.33361111,
+    "lat": 48.88493056
+  },
+  {
+    "wikiId": "Q2739545",
+    "name": "Pedrocchi Café",
+    "cat": "coffeeHouse",
+    "lon": 11.87722222,
+    "lat": 45.40777778
+  },
+  {
+    "wikiId": "Q2782675",
+    "name": "Neues Haus (Hannover)",
+    "cat": "coffeeHouse",
+    "lon": 9.753295,
+    "lat": 52.37743
+  },
+  {
+    "wikiId": "Q2836371",
+    "name": "Fru Petersens Café",
+    "cat": "coffeeHouse",
+    "lon": 14.99739,
+    "lat": 55.13655
+  },
+  {
+    "wikiId": "Q2845894",
+    "name": "Motte Montferland",
+    "cat": "coffeeHouse",
+    "lon": 6.242358,
+    "lat": 51.895814
+  },
+  {
+    "wikiId": "Q2892984",
+    "name": "Babington's tea room",
+    "cat": "coffeeHouse",
+    "lon": 12.4823,
+    "lat": 41.906
+  },
+  {
+    "wikiId": "Q2932912",
+    "name": "Caffè Aragno",
+    "cat": "coffeeHouse",
+    "lon": 12.479983,
+    "lat": 41.902443
+  },
+  {
+    "wikiId": "Q2932914",
+    "name": "Gilli",
+    "cat": "coffeeHouse",
+    "lon": 11.2543,
+    "lat": 43.7719
+  },
+  {
+    "wikiId": "Q2932919",
+    "name": "Caffè Gambrinus, Naples",
+    "cat": "coffeeHouse",
+    "lon": 14.248444444,
+    "lat": 40.836722222
+  },
+  {
+    "wikiId": "Q2932926",
+    "name": "Caffè Quadri",
+    "cat": "coffeeHouse",
+    "lon": 12.33806,
+    "lat": 45.43442
+  },
+  {
+    "wikiId": "Q2932940",
+    "name": "Café Bibent",
+    "cat": "coffeeHouse",
+    "lon": 1.44341,
+    "lat": 43.6038
+  },
+  {
+    "wikiId": "Q2932968",
+    "name": "Tortoni",
+    "cat": "coffeeHouse",
+    "lon": 2.336917,
+    "lat": 48.87162
+  },
+  {
+    "wikiId": "Q2932969",
+    "name": "Café Voltaire",
+    "cat": "coffeeHouse",
+    "lon": 2.338881,
+    "lat": 48.850072
+  },
+  {
+    "wikiId": "Q2932974",
+    "name": "café de Buci",
+    "cat": "coffeeHouse",
+    "lon": 2.33847,
+    "lat": 48.8538
+  },
+  {
+    "wikiId": "Q2932977",
+    "name": "Café Zimmermann",
+    "cat": "coffeeHouse",
+    "lon": 12.3751,
+    "lat": 51.3418
+  },
+  {
+    "wikiId": "Q2932985",
+    "name": "Café de la Paix",
+    "cat": "coffeeHouse",
+    "lon": -1.1522,
+    "lat": 46.1626
+  },
+  {
+    "wikiId": "Q2932993",
+    "name": "Café des Phares",
+    "cat": "coffeeHouse",
+    "lon": 2.36826,
+    "lat": 48.8536
+  },
+  {
+    "wikiId": "Q2932996",
+    "name": "Café du Cadran",
+    "cat": "coffeeHouse",
+    "lon": 2.33257,
+    "lat": 48.869
+  },
+  {
+    "wikiId": "Q2932997",
+    "name": "Café du Croissant",
+    "cat": "coffeeHouse",
+    "lon": 2.34328,
+    "lat": 48.8692
+  },
+  {
+    "wikiId": "Q3208231",
+    "name": "Café A Brasileira",
+    "cat": "coffeeHouse",
+    "lon": -8.609297,
+    "lat": 41.1469533
+  },
+  {
+    "wikiId": "Q3208239",
+    "name": "Café Majestic",
+    "cat": "coffeeHouse",
+    "lon": -8.606553,
+    "lat": 41.147169
+  },
+  {
+    "wikiId": "Q3208551",
+    "name": "Café A Brasileira",
+    "cat": "coffeeHouse",
+    "lon": -8.423536,
+    "lat": 41.550858
+  },
+  {
+    "wikiId": "Q3211300",
+    "name": "La Palette",
+    "cat": "coffeeHouse",
+    "lon": 2.33687,
+    "lat": 48.8554
+  },
+  {
+    "wikiId": "Q3257512",
+    "name": "Lloyd's Coffee House",
+    "cat": "coffeeHouse",
+    "lon": -0.087,
+    "lat": 51.5125
+  },
+  {
+    "wikiId": "Q3643086",
+    "name": "Bottegone",
+    "cat": "coffeeHouse",
+    "lon": 11.255675,
+    "lat": 43.77356944
+  },
+  {
+    "wikiId": "Q3649592",
+    "name": "Q3649592",
+    "cat": "coffeeHouse",
+    "lon": 9.32679167,
+    "lat": 44.31595833
+  },
+  {
+    "wikiId": "Q3649595",
+    "name": "Q3649595",
+    "cat": "coffeeHouse",
+    "lon": 13.778955,
+    "lat": 45.64773
+  },
+  {
+    "wikiId": "Q3649612",
+    "name": "Q3649612",
+    "cat": "coffeeHouse",
+    "lon": 7.681118,
+    "lat": 45.062182
+  },
+  {
+    "wikiId": "Q3949256",
+    "name": "Santa Tecla (club)",
+    "cat": "coffeeHouse",
+    "lon": 9.1929388,
+    "lat": 45.46259135
+  },
+  {
+    "wikiId": "Q4405171",
+    "name": "Saigon Café",
+    "cat": "coffeeHouse",
+    "lon": 30.348333333,
+    "lat": 59.932444444
+  },
+  {
+    "wikiId": "Q4711938",
+    "name": "College Street Coffee House",
+    "cat": "coffeeHouse",
+    "lon": 88.36179722,
+    "lat": 22.57615
+  },
+  {
+    "wikiId": "Q4857936",
+    "name": "Bar Italia",
+    "cat": "coffeeHouse",
+    "lon": -0.1313484,
+    "lat": 51.5133868
+  },
+  {
+    "wikiId": "Q4985436",
+    "name": "Buena Vista Cafe",
+    "cat": "coffeeHouse",
+    "lon": -122.420782,
+    "lat": 37.806528
+  },
+  {
+    "wikiId": "Q4989606",
+    "name": "Café De Unie",
+    "cat": "coffeeHouse",
+    "lon": 4.4725,
+    "lat": 51.91917
+  },
+  {
+    "wikiId": "Q5015241",
+    "name": "Cabaret Concert Theatre",
+    "cat": "coffeeHouse",
+    "lon": -118.2824,
+    "lat": 34.0938
+  },
+  {
+    "wikiId": "Q5017146",
+    "name": "Caffe Mediterraneum",
+    "cat": "coffeeHouse",
+    "lon": -122.258,
+    "lat": 37.8656
+  },
+  {
+    "wikiId": "Q5017150",
+    "name": "Caffe Reggio",
+    "cat": "coffeeHouse",
+    "lon": -74.0003,
+    "lat": 40.7303
+  },
+  {
+    "wikiId": "Q5017151",
+    "name": "Caffe Trieste",
+    "cat": "coffeeHouse",
+    "lon": -122.407,
+    "lat": 37.7987
+  },
+  {
+    "wikiId": "Q5017189",
+    "name": "Caffè Lavena",
+    "cat": "coffeeHouse",
+    "lon": 12.33848,
+    "lat": 45.43457
+  },
+  {
+    "wikiId": "Q5017199",
+    "name": "Caffé Vita Coffee Roasting Company",
+    "cat": "coffeeHouse",
+    "lon": -122.31902,
+    "lat": 47.614004
+  },
+  {
+    "wikiId": "Q5017216",
+    "name": "Café Allegro",
+    "cat": "coffeeHouse",
+    "lon": -122.313,
+    "lat": 47.6585
+  },
+  {
+    "wikiId": "Q5017237",
+    "name": "Café Comercial",
+    "cat": "coffeeHouse",
+    "lon": -3.70205556,
+    "lat": 40.42863889
+  },
+  {
+    "wikiId": "Q5017239",
+    "name": "Café Hafa",
+    "cat": "coffeeHouse",
+    "lon": -5.8218,
+    "lat": 35.7915
+  },
+  {
+    "wikiId": "Q5293466",
+    "name": "Don Saltero's",
+    "cat": "coffeeHouse",
+    "lon": -0.1661,
+    "lat": 51.4839
+  },
+  {
+    "wikiId": "Q5307746",
+    "name": "Drinkmore Cafe",
+    "cat": "coffeeHouse",
+    "lon": -122.326,
+    "lat": 47.6206
+  },
+  {
+    "wikiId": "Q5327835",
+    "name": "East Beach Cafe",
+    "cat": "coffeeHouse",
+    "lon": -0.532491,
+    "lat": 50.8029
+  },
+  {
+    "wikiId": "Q5468805",
+    "name": "Forest Café",
+    "cat": "coffeeHouse",
+    "lon": -3.1899,
+    "lat": 55.9461
+  },
+  {
+    "wikiId": "Q5473046",
+    "name": "Forum Cafeteria",
+    "cat": "coffeeHouse",
+    "lon": -93.2732,
+    "lat": 44.9775
+  },
+  {
+    "wikiId": "Q5563355",
+    "name": "Giolitti",
+    "cat": "coffeeHouse",
+    "lon": 12.47733,
+    "lat": 41.90107
+  },
+  {
+    "wikiId": "Q5599342",
+    "name": "Great House Barn",
+    "cat": "coffeeHouse",
+    "lon": -2.562,
+    "lat": 53.62
+  },
+  {
+    "wikiId": "Q5739055",
+    "name": "La Giralda",
+    "cat": "coffeeHouse",
+    "lon": -58.387319,
+    "lat": -34.60373
+  },
+  {
+    "wikiId": "Q5739134",
+    "name": "Q5739134",
+    "cat": "coffeeHouse",
+    "lon": -3.59817,
+    "lat": 37.1723
+  },
+  {
+    "wikiId": "Q5739141",
+    "name": "Q5739141",
+    "cat": "coffeeHouse",
+    "lon": -3.70253611,
+    "lat": 40.416625
+  },
+  {
+    "wikiId": "Q5739144",
+    "name": "Café de Pombo (Madrid, Spain)",
+    "cat": "coffeeHouse",
+    "lon": -3.703275,
+    "lat": 40.41602222
+  },
+  {
+    "wikiId": "Q5739155",
+    "name": "Café Suizo",
+    "cat": "coffeeHouse",
+    "lon": -3.69964722,
+    "lat": 40.4176
+  },
+  {
+    "wikiId": "Q5739159",
+    "name": "Q5739159",
+    "cat": "coffeeHouse",
+    "lon": -3.70240278,
+    "lat": 40.41707778
+  },
+  {
+    "wikiId": "Q5739192",
+    "name": "Café de García",
+    "cat": "coffeeHouse",
+    "lon": -58.510737,
+    "lat": -34.606394
+  },
+  {
+    "wikiId": "Q5739208",
+    "name": "Q5739208",
+    "cat": "coffeeHouse",
+    "lon": -3.70226389,
+    "lat": 40.41684722
+  },
+  {
+    "wikiId": "Q5782924",
+    "name": "Confitería Ideal",
+    "cat": "coffeeHouse",
+    "lon": -58.379831,
+    "lat": -34.603935
+  },
+  {
+    "wikiId": "Q5939175",
+    "name": "Peter Café Sport",
+    "cat": "coffeeHouse",
+    "lon": -28.6267818,
+    "lat": 38.5295513
+  },
+  {
+    "wikiId": "Q5946116",
+    "name": "Cafe Naderi",
+    "cat": "coffeeHouse",
+    "lon": 51.416555555,
+    "lat": 35.694722222
+  },
+  {
+    "wikiId": "Q5946853",
+    "name": "Aladren Jewelry",
+    "cat": "coffeeHouse",
+    "lon": -0.88068,
+    "lat": 41.65465
+  },
+  {
+    "wikiId": "Q5954426",
+    "name": "Queen's Lane Coffee House",
+    "cat": "coffeeHouse",
+    "lon": -1.25044,
+    "lat": 51.7527
+  },
+  {
+    "wikiId": "Q5964968",
+    "name": "La Puerto Rico",
+    "cat": "coffeeHouse",
+    "lon": -58.372363,
+    "lat": -34.610371
+  },
+  {
+    "wikiId": "Q5979239",
+    "name": "Los 36 Billares",
+    "cat": "coffeeHouse",
+    "lon": -58.384356,
+    "lat": -34.60914
+  },
+  {
+    "wikiId": "Q6098442",
+    "name": "Ivar Matlaus",
+    "cat": "coffeeHouse",
+    "lon": 10.42201389,
+    "lat": 63.43835278
+  },
+  {
+    "wikiId": "Q6436508",
+    "name": "Krazy Kat Klub",
+    "cat": "coffeeHouse",
+    "lon": -77.031,
+    "lat": 38.904
+  },
+  {
+    "wikiId": "Q6467706",
+    "name": "Labworth Café",
+    "cat": "coffeeHouse",
+    "lon": 0.59459,
+    "lat": 51.5118
+  },
+  {
+    "wikiId": "Q6553463",
+    "name": "Café Las Violetas",
+    "cat": "coffeeHouse",
+    "lon": -58.420856,
+    "lat": -34.611148
+  },
+  {
+    "wikiId": "Q6581803",
+    "name": "Café California",
+    "cat": "coffeeHouse",
+    "lon": 34.77361111,
+    "lat": 32.07952778
+  },
+  {
+    "wikiId": "Q6586732",
+    "name": "Café Rowell",
+    "cat": "coffeeHouse",
+    "lon": 34.77375,
+    "lat": 32.08033333
+  },
+  {
+    "wikiId": "Q6757577",
+    "name": "Café Groppi",
+    "cat": "coffeeHouse",
+    "lon": 31.238122,
+    "lat": 30.0476341
+  },
+  {
+    "wikiId": "Q6866455",
+    "name": "Café Riche",
+    "cat": "coffeeHouse",
+    "lon": 31.238229,
+    "lat": 30.046938
+  },
+  {
+    "wikiId": "Q6880607",
+    "name": "Q6880607",
+    "cat": "coffeeHouse",
+    "lon": 34.76725,
+    "lat": 32.078361111
+  },
+  {
+    "wikiId": "Q6901928",
+    "name": "Monorail Espresso",
+    "cat": "coffeeHouse",
+    "lon": -122.335,
+    "lat": 47.6111
+  },
+  {
+    "wikiId": "Q6906244",
+    "name": "Montreal, arts interculturels",
+    "cat": "coffeeHouse",
+    "lon": -73.576216666,
+    "lat": 45.511502777
+  },
+  {
+    "wikiId": "Q7006839",
+    "name": "New Deal Cafe",
+    "cat": "coffeeHouse",
+    "lon": -76.87653,
+    "lat": 39.00135
+  },
+  {
+    "wikiId": "Q7009192",
+    "name": "Lorenz Cafe",
+    "cat": "coffeeHouse",
+    "lon": 34.766305,
+    "lat": 32.059114
+  },
+  {
+    "wikiId": "Q7024318",
+    "name": "Q7024318",
+    "cat": "coffeeHouse",
+    "lon": 34.77288889,
+    "lat": 32.07136111
+  },
+  {
+    "wikiId": "Q7102558",
+    "name": "Original Pantry Cafe",
+    "cat": "coffeeHouse",
+    "lon": -118.26292,
+    "lat": 34.046397
+  },
+  {
+    "wikiId": "Q7140615",
+    "name": "Partisan Coffee House",
+    "cat": "coffeeHouse",
+    "lon": -0.13382,
+    "lat": 51.5148
+  },
+  {
+    "wikiId": "Q7171806",
+    "name": "Pete's Eats Cafe",
+    "cat": "coffeeHouse",
+    "lon": -4.1271,
+    "lat": 53.1215
+  },
+  {
+    "wikiId": "Q7304105",
+    "name": "Red Emma's",
+    "cat": "coffeeHouse",
+    "lon": -76.614225,
+    "lat": 39.29890556
+  },
+  {
+    "wikiId": "Q7305267",
+    "name": "Red and Black Cafe",
+    "cat": "coffeeHouse",
+    "lon": -122.653,
+    "lat": 45.5204
+  },
+  {
+    "wikiId": "Q7458172",
+    "name": "Seward Community Cafe",
+    "cat": "coffeeHouse",
+    "lon": -93.241155,
+    "lat": 44.962596
+  },
+  {
+    "wikiId": "Q7721614",
+    "name": "The Cat's Whisker",
+    "cat": "coffeeHouse",
+    "lon": -0.138611,
+    "lat": 51.5121
+  },
+  {
+    "wikiId": "Q7758051",
+    "name": "The Premises Studios",
+    "cat": "coffeeHouse",
+    "lon": -0.0715833,
+    "lat": 51.5312
+  },
+  {
+    "wikiId": "Q7759129",
+    "name": "The Quorum",
+    "cat": "coffeeHouse",
+    "lon": -90.0592,
+    "lat": 29.9631
+  },
+  {
+    "wikiId": "Q7802817",
+    "name": "Tilley's",
+    "cat": "coffeeHouse",
+    "lon": 149.124,
+    "lat": -35.2519
+  },
+  {
+    "wikiId": "Q7930350",
+    "name": "Villa Hannala",
+    "cat": "coffeeHouse",
+    "lon": 25.4375,
+    "lat": 65.029722222
+  },
+  {
+    "wikiId": "Q8073520",
+    "name": "Zoka Coffee Roaster & Tea Company",
+    "cat": "coffeeHouse",
+    "lon": -122.373,
+    "lat": 47.6556
+  },
+  {
+    "wikiId": "Q9018816",
+    "name": "Bar La Perla",
+    "cat": "coffeeHouse",
+    "lon": -58.405538,
+    "lat": -34.609824
+  },
+  {
+    "wikiId": "Q9199780",
+    "name": "Czuły Barbarzyńca",
+    "cat": "coffeeHouse",
+    "lon": 21.0272,
+    "lat": 52.2386
+  },
+  {
+    "wikiId": "Q9672601",
+    "name": "Q9672601",
+    "cat": "coffeeHouse",
+    "lon": -9.1401849,
+    "lat": 38.7143009
+  },
+  {
+    "wikiId": "Q9672613",
+    "name": "Q9672613",
+    "cat": "coffeeHouse",
+    "lon": -43.17745,
+    "lat": -22.9339177
+  },
+  {
+    "wikiId": "Q9672628",
+    "name": "Café Vianna",
+    "cat": "coffeeHouse",
+    "lon": -8.42335,
+    "lat": 41.55134167
+  },
+  {
+    "wikiId": "Q9672655",
+    "name": "Café Águias de Ouro",
+    "cat": "coffeeHouse",
+    "lon": -7.58708,
+    "lat": 38.842515
+  },
+  {
+    "wikiId": "Q10326949",
+    "name": "Café Martinho da Arcada",
+    "cat": "coffeeHouse",
+    "lon": -9.135888,
+    "lat": 38.708699
+  },
+  {
+    "wikiId": "Q10439352",
+    "name": "Q10439352",
+    "cat": "coffeeHouse",
+    "lon": 18.03136111,
+    "lat": 59.333
+  },
+  {
+    "wikiId": "Q10654620",
+    "name": "Rialto",
+    "cat": "coffeeHouse",
+    "lon": 18.05594444,
+    "lat": 59.34386111
+  },
+  {
+    "wikiId": "Q10707851",
+    "name": "Tysta Mari",
+    "cat": "coffeeHouse",
+    "lon": 18.0617,
+    "lat": 59.3289
+  },
+  {
+    "wikiId": "Q10940854",
+    "name": "Tianma Tea House",
+    "cat": "coffeeHouse",
+    "lon": 121.512,
+    "lat": 25.054
+  },
+  {
+    "wikiId": "Q11087103",
+    "name": "Palác Elektra",
+    "cat": "coffeeHouse",
+    "lon": 18.2877534,
+    "lat": 49.8340256
+  },
+  {
+    "wikiId": "Q11240392",
+    "name": "Q11240392",
+    "cat": "coffeeHouse",
+    "lon": 139.760888888,
+    "lat": 35.670722222
+  },
+  {
+    "wikiId": "Q11316176",
+    "name": "Tazza D'Oro",
+    "cat": "coffeeHouse",
+    "lon": -79.9188,
+    "lat": 40.4747
+  },
+  {
+    "wikiId": "Q11330452",
+    "name": "Berg",
+    "cat": "coffeeHouse",
+    "lon": 139.70107,
+    "lat": 35.69184
+  },
+  {
+    "wikiId": "Q11619945",
+    "name": "Q11619945",
+    "cat": "coffeeHouse",
+    "lon": 142.360833333,
+    "lat": 43.338055555
+  },
+  {
+    "wikiId": "Q11857235",
+    "name": "Q11857235",
+    "cat": "coffeeHouse",
+    "lon": 24.93778889,
+    "lat": 60.16475278
+  },
+  {
+    "wikiId": "Q11910489",
+    "name": "Cafè Monumental",
+    "cat": "coffeeHouse",
+    "lon": 2.156925,
+    "lat": 41.39850556
+  },
+  {
+    "wikiId": "Q12029033",
+    "name": "Café Era",
+    "cat": "coffeeHouse",
+    "lon": 16.6192,
+    "lat": 49.2106
+  },
+  {
+    "wikiId": "Q12244698",
+    "name": "El Fishawy café",
+    "cat": "coffeeHouse",
+    "lon": 31.262265,
+    "lat": 30.04746
+  },
+  {
+    "wikiId": "Q12305023",
+    "name": "Q12305023",
+    "cat": "coffeeHouse",
+    "lon": 12.53219,
+    "lat": 55.67718
+  },
+  {
+    "wikiId": "Q12305024",
+    "name": "Café Bernina",
+    "cat": "coffeeHouse",
+    "lon": 12.5746,
+    "lat": 55.6786
+  },
+  {
+    "wikiId": "Q12305026",
+    "name": "Café Hack",
+    "cat": "coffeeHouse",
+    "lon": 10.211,
+    "lat": 56.1562
+  },
+  {
+    "wikiId": "Q12305029",
+    "name": "Café Ketchup",
+    "cat": "coffeeHouse",
+    "lon": 12.5805,
+    "lat": 55.6803
+  },
+  {
+    "wikiId": "Q12305030",
+    "name": "Café Sommersko",
+    "cat": "coffeeHouse",
+    "lon": 12.5791,
+    "lat": 55.6806
+  },
+  {
+    "wikiId": "Q12305031",
+    "name": "Q12305031",
+    "cat": "coffeeHouse",
+    "lon": 12.5747,
+    "lat": 55.704
+  },
+  {
+    "wikiId": "Q12305035",
+    "name": "Q12305035",
+    "cat": "coffeeHouse",
+    "lon": 10.0329,
+    "lat": 56.4606
+  },
+  {
+    "wikiId": "Q12317164",
+    "name": "Holte Havn",
+    "cat": "coffeeHouse",
+    "lon": 12.4685,
+    "lat": 55.8099
+  },
+  {
+    "wikiId": "Q12321302",
+    "name": "Q12321302",
+    "cat": "coffeeHouse",
+    "lon": 36.7136,
+    "lat": -1.345
+  },
+  {
+    "wikiId": "Q12331890",
+    "name": "Q12331890",
+    "cat": "coffeeHouse",
+    "lon": 10.211519444,
+    "lat": 56.156102777
+  },
+  {
+    "wikiId": "Q12333557",
+    "name": "Ris Ras Filliongongong",
+    "cat": "coffeeHouse",
+    "lon": 10.212253564,
+    "lat": 56.158422293
+  },
+  {
+    "wikiId": "Q12364649",
+    "name": "Q12364649",
+    "cat": "coffeeHouse",
+    "lon": 24.7053,
+    "lat": 59.3827
+  },
+  {
+    "wikiId": "Q12367212",
+    "name": "Q12367212",
+    "cat": "coffeeHouse",
+    "lon": 26.721094,
+    "lat": 58.380443
+  },
+  {
+    "wikiId": "Q12408523",
+    "name": "Café Kassit",
+    "cat": "coffeeHouse",
+    "lon": 34.77366667,
+    "lat": 32.08102778
+  },
+  {
+    "wikiId": "Q12770318",
+    "name": "Lví dvůr",
+    "cat": "coffeeHouse",
+    "lon": 14.3985928,
+    "lat": 50.0929036
+  },
+  {
+    "wikiId": "Q12842023",
+    "name": "Q12842023",
+    "cat": "coffeeHouse",
+    "lon": 49.842295,
+    "lat": 40.367663
+  },
+  {
+    "wikiId": "Q12879005",
+    "name": "Athénée Athens",
+    "cat": "coffeeHouse",
+    "lon": 23.7359,
+    "lat": 37.9772
+  },
+  {
+    "wikiId": "Q12879006",
+    "name": "Q12879006",
+    "cat": "coffeeHouse",
+    "lon": 14.42766,
+    "lat": 50.082407
+  },
+  {
+    "wikiId": "Q12879008",
+    "name": "Café Imperial, Prague",
+    "cat": "coffeeHouse",
+    "lon": 14.432861,
+    "lat": 50.089867
+  },
+  {
+    "wikiId": "Q12879009",
+    "name": "Café Louvre, Prague",
+    "cat": "coffeeHouse",
+    "lon": 14.418599,
+    "lat": 50.082014
+  },
+  {
+    "wikiId": "Q14704654",
+    "name": "Lake McDonald Lodge Coffee Shop",
+    "cat": "coffeeHouse",
+    "lon": -113.876435,
+    "lat": 48.617683
+  },
+  {
+    "wikiId": "Q14850075",
+    "name": "De Seinpost",
+    "cat": "coffeeHouse",
+    "lon": 4.27579,
+    "lat": 52.10915
+  },
+  {
+    "wikiId": "Q14906517",
+    "name": "Caffè degli Specchi",
+    "cat": "coffeeHouse",
+    "lon": 13.76832222,
+    "lat": 45.6502
+  },
+  {
+    "wikiId": "Q14955993",
+    "name": "Q14955993",
+    "cat": "coffeeHouse",
+    "lon": 24.6996,
+    "lat": 59.3805
+  },
+  {
+    "wikiId": "Q15108545",
+    "name": "Café Corso (Salzburg)",
+    "cat": "coffeeHouse",
+    "lon": 13.0490144,
+    "lat": 47.8005488
+  },
+  {
+    "wikiId": "Q15221133",
+    "name": "Freud",
+    "cat": "coffeeHouse",
+    "lon": -1.26478,
+    "lat": 51.75946
+  },
+  {
+    "wikiId": "Q15272240",
+    "name": "Regency Café",
+    "cat": "coffeeHouse",
+    "lon": -0.132195,
+    "lat": 51.494001
+  },
+  {
+    "wikiId": "Q15272755",
+    "name": "Café Pushkin",
+    "cat": "coffeeHouse",
+    "lon": 37.6037872,
+    "lat": 55.7623118
+  },
+  {
+    "wikiId": "Q15857030",
+    "name": "Café New York",
+    "cat": "coffeeHouse",
+    "lon": 19.07055556,
+    "lat": 47.49833333
+  },
+  {
+    "wikiId": "Q15911268",
+    "name": "Taichung Shiyakusho",
+    "cat": "coffeeHouse",
+    "lon": 120.67906944,
+    "lat": 24.13843889
+  },
+  {
+    "wikiId": "Q15945188",
+    "name": "Café de la paix (Valréas)",
+    "cat": "coffeeHouse",
+    "lon": 4.98786,
+    "lat": 44.3832
+  },
+  {
+    "wikiId": "Q15945588",
+    "name": "Café Milani",
+    "cat": "coffeeHouse",
+    "lon": 8.67972222,
+    "lat": 50.11416667
+  },
+  {
+    "wikiId": "Q15980263",
+    "name": "ascii",
+    "cat": "coffeeHouse",
+    "lon": 13.72316,
+    "lat": 51.02515
+  },
+  {
+    "wikiId": "Q16128428",
+    "name": "Q16128428",
+    "cat": "coffeeHouse",
+    "lon": 44.3875,
+    "lat": 33.34333333
+  },
+  {
+    "wikiId": "Q16141820",
+    "name": "Café A Brasileira",
+    "cat": "coffeeHouse",
+    "lon": -8.42889578,
+    "lat": 40.20865542
+  },
+  {
+    "wikiId": "Q16412643",
+    "name": "Maiasmokk",
+    "cat": "coffeeHouse",
+    "lon": 24.745475,
+    "lat": 59.43816667
+  },
+  {
+    "wikiId": "Q16534580",
+    "name": "Caffè Gnocchi",
+    "cat": "coffeeHouse",
+    "lon": 9.207616,
+    "lat": 45.464901
+  },
+  {
+    "wikiId": "Q16535985",
+    "name": "Bar Britanico",
+    "cat": "coffeeHouse",
+    "lon": -58.371075,
+    "lat": -34.62521
+  },
+  {
+    "wikiId": "Q16627189",
+    "name": "Caffè Bardi",
+    "cat": "coffeeHouse",
+    "lon": 10.311,
+    "lat": 43.5479
+  },
+  {
+    "wikiId": "Q16861591",
+    "name": "Blue Barber Shop",
+    "cat": "coffeeHouse",
+    "lon": 130.368166,
+    "lat": 32.791547
+  },
+  {
+    "wikiId": "Q16896241",
+    "name": "Original Starbucks",
+    "cat": "coffeeHouse",
+    "lon": -122.34261,
+    "lat": 47.61013
+  },
+  {
+    "wikiId": "Q17123948",
+    "name": "Q17123948",
+    "cat": "coffeeHouse",
+    "lon": 12.998753,
+    "lat": 50.258418
+  },
+  {
+    "wikiId": "Q17131199",
+    "name": "Café du Rhône",
+    "cat": "coffeeHouse",
+    "lon": 4.841,
+    "lat": 45.7581
+  },
+  {
+    "wikiId": "Q17144463",
+    "name": "Tango Café",
+    "cat": "coffeeHouse",
+    "lon": -79.923155,
+    "lat": 40.429588
+  },
+  {
+    "wikiId": "Q17228156",
+    "name": "Café Paulista",
+    "cat": "coffeeHouse",
+    "lon": 139.761484,
+    "lat": 35.668087
+  },
+  {
+    "wikiId": "Q17228157",
+    "name": "Café Lion",
+    "cat": "coffeeHouse",
+    "lon": 139.765009,
+    "lat": 35.670776
+  },
+  {
+    "wikiId": "Q17291689",
+    "name": "Oostelijke Handelskade 44, Amsterdam",
+    "cat": "coffeeHouse",
+    "lon": 4.93629,
+    "lat": 52.37398
+  },
+  {
+    "wikiId": "Q17305044",
+    "name": "Le Café Marly",
+    "cat": "coffeeHouse",
+    "lon": 2.33561,
+    "lat": 48.86176
+  },
+  {
+    "wikiId": "Q17310692",
+    "name": "Café Weinberg",
+    "cat": "coffeeHouse",
+    "lon": 13.732222,
+    "lat": 51.016111
+  },
+  {
+    "wikiId": "Q17511523",
+    "name": "La Giaconda",
+    "cat": "coffeeHouse",
+    "lon": -0.129567,
+    "lat": 51.5151
+  },
+  {
+    "wikiId": "Q17526214",
+    "name": "Mol's Coffee House",
+    "cat": "coffeeHouse",
+    "lon": -3.52994,
+    "lat": 50.7234
+  },
+  {
+    "wikiId": "Q17535078",
+    "name": "Cafe Blanchfleur",
+    "cat": "coffeeHouse",
+    "lon": 1.15734,
+    "lat": 52.0592
+  },
+  {
+    "wikiId": "Q17570278",
+    "name": "Dumfries, 24 Castle Street",
+    "cat": "coffeeHouse",
+    "lon": -3.61343,
+    "lat": 55.0708
+  },
+  {
+    "wikiId": "Q17793524",
+    "name": "Edinburgh, 70 - 71 Princes Street, Edinburgh Cafe",
+    "cat": "coffeeHouse",
+    "lon": -3.19596,
+    "lat": 55.9524
+  },
+  {
+    "wikiId": "Q17805789",
+    "name": "Tayport, 36 William Street, Tayport Cafe",
+    "cat": "coffeeHouse",
+    "lon": -2.88147,
+    "lat": 56.4485
+  },
+  {
+    "wikiId": "Q17809803",
+    "name": "Edinburgh, Cramond, 4, 5 Riverside, Cramond Cafe",
+    "cat": "coffeeHouse",
+    "lon": -3.30072,
+    "lat": 55.9797
+  },
+  {
+    "wikiId": "Q17838909",
+    "name": "Dunkeld, Atholl Street, Atholl Cafe",
+    "cat": "coffeeHouse",
+    "lon": -3.5854,
+    "lat": 56.5662
+  },
+  {
+    "wikiId": "Q17854092",
+    "name": "Lewis, Callanish, Tea Rooms",
+    "cat": "coffeeHouse",
+    "lon": -6.74496,
+    "lat": 58.1988
+  },
+  {
+    "wikiId": "Q18018939",
+    "name": "Q18018939",
+    "cat": "coffeeHouse",
+    "lon": 2.337295,
+    "lat": 48.853898
+  },
+  {
+    "wikiId": "Q18018940",
+    "name": "Café Resi",
+    "cat": "coffeeHouse",
+    "lon": 11.330915,
+    "lat": 50.980059
+  },
+  {
+    "wikiId": "Q18160553",
+    "name": "Lisboa Patisserie",
+    "cat": "coffeeHouse",
+    "lon": -0.207475,
+    "lat": 51.5223
+  },
+  {
+    "wikiId": "Q18214244",
+    "name": "Café des Aveugles",
+    "cat": "coffeeHouse",
+    "lon": 2.33879396,
+    "lat": 48.865935395
+  },
+  {
+    "wikiId": "Q18648895",
+    "name": "Cereal Killer Cafe",
+    "cat": "coffeeHouse",
+    "lon": -0.0716,
+    "lat": 51.52391
+  },
+  {
+    "wikiId": "Q18660427",
+    "name": "Lahnajärven rest area",
+    "cat": "coffeeHouse",
+    "lon": 23.7012425,
+    "lat": 60.3721549
+  },
+  {
+    "wikiId": "Q18808434",
+    "name": "Café Fantasy",
+    "cat": "coffeeHouse",
+    "lon": 41.625361,
+    "lat": 41.650074
+  },
+  {
+    "wikiId": "Q18814015",
+    "name": "Q18814015",
+    "cat": "coffeeHouse",
+    "lon": 6.81341,
+    "lat": 53.37256
+  },
+  {
+    "wikiId": "Q18913085",
+    "name": "Cafe Regatta",
+    "cat": "coffeeHouse",
+    "lon": 24.911725,
+    "lat": 60.180161111
+  },
+  {
+    "wikiId": "Q19278981",
+    "name": "Krudttønden",
+    "cat": "coffeeHouse",
+    "lon": 12.57466,
+    "lat": 55.70542
+  },
+  {
+    "wikiId": "Q19703159",
+    "name": "Café Âncora d'Ouro",
+    "cat": "coffeeHouse",
+    "lon": -8.616552,
+    "lat": 41.146846
+  },
+  {
+    "wikiId": "Q19945491",
+    "name": "Café le Sébastopol (Granges-sur-Lot)",
+    "cat": "coffeeHouse",
+    "lon": 0.465555555,
+    "lat": 44.376666666
+  },
+  {
+    "wikiId": "Q19962124",
+    "name": "Q19962124",
+    "cat": "coffeeHouse",
+    "lon": 10.53063,
+    "lat": 52.26604
+  },
+  {
+    "wikiId": "Q20057632",
+    "name": "Q20057632",
+    "cat": "coffeeHouse",
+    "lon": 16.59555,
+    "lat": 49.1995278
+  },
+  {
+    "wikiId": "Q20083774",
+    "name": "Café des chiens blancs",
+    "cat": "coffeeHouse",
+    "lon": 4.3641,
+    "lat": 47.8431
+  },
+  {
+    "wikiId": "Q20424692",
+    "name": "Shabandar Cafe",
+    "cat": "coffeeHouse",
+    "lon": 44.38805556,
+    "lat": 33.34027778
+  },
+  {
+    "wikiId": "Q20502824",
+    "name": "Q20502824",
+    "cat": "coffeeHouse",
+    "lon": 34.77511389,
+    "lat": 32.101275
+  },
+  {
+    "wikiId": "Q20650556",
+    "name": "Marienhöhe",
+    "cat": "coffeeHouse",
+    "lon": 7.138388888,
+    "lat": 53.707027777
+  },
+  {
+    "wikiId": "Q20754278",
+    "name": "Café Brant (Strasbourg)",
+    "cat": "coffeeHouse",
+    "lon": 7.761793,
+    "lat": 48.585931
+  },
+  {
+    "wikiId": "Q20755448",
+    "name": "Q20755448",
+    "cat": "coffeeHouse",
+    "lon": 14.4313889,
+    "lat": 50.0772222
+  },
+  {
+    "wikiId": "Q20859660",
+    "name": "Café Iruña",
+    "cat": "coffeeHouse",
+    "lon": -2.92854722,
+    "lat": 43.26261111
+  },
+  {
+    "wikiId": "Q20908817",
+    "name": "Café de Madrid",
+    "cat": "coffeeHouse",
+    "lon": -3.7005,
+    "lat": 40.41689722
+  },
+  {
+    "wikiId": "Q20908818",
+    "name": "Café Lion d'Or",
+    "cat": "coffeeHouse",
+    "lon": -3.698925,
+    "lat": 40.41795
+  },
+  {
+    "wikiId": "Q20908859",
+    "name": "Café Barbieri",
+    "cat": "coffeeHouse",
+    "lon": -3.70098611,
+    "lat": 40.40929722
+  },
+  {
+    "wikiId": "Q21015636",
+    "name": "Café La Granja",
+    "cat": "coffeeHouse",
+    "lon": -2.92714333,
+    "lat": 43.26157639
+  },
+  {
+    "wikiId": "Q21027207",
+    "name": "Café de la mairie de Château-Gontier",
+    "cat": "coffeeHouse",
+    "lon": -0.7073,
+    "lat": 47.827
+  },
+  {
+    "wikiId": "Q21592188",
+    "name": "British Coffee House",
+    "cat": "coffeeHouse",
+    "lon": -0.1299,
+    "lat": 51.5074
+  },
+  {
+    "wikiId": "Q21639014",
+    "name": "Lutheran Church of Saint Piter houses",
+    "cat": "coffeeHouse",
+    "lon": 30.323153,
+    "lat": 59.936113
+  },
+  {
+    "wikiId": "Q21656696",
+    "name": "Café Amokka",
+    "cat": "coffeeHouse",
+    "lon": 12.5806,
+    "lat": 55.69581
+  },
+  {
+    "wikiId": "Q21658059",
+    "name": "Le Pont traversé",
+    "cat": "coffeeHouse",
+    "lon": 2.331799053,
+    "lat": 48.848557195
+  },
+  {
+    "wikiId": "Q21710338",
+    "name": "Café Stærkodder",
+    "cat": "coffeeHouse",
+    "lon": 12.5920868,
+    "lat": 55.6736157
+  },
+  {
+    "wikiId": "Q21855744",
+    "name": "Café Nick",
+    "cat": "coffeeHouse",
+    "lon": 12.58244,
+    "lat": 55.67803
+  },
+  {
+    "wikiId": "Q21855761",
+    "name": "Kanal Cafeen",
+    "cat": "coffeeHouse",
+    "lon": 12.57666,
+    "lat": 55.6744
+  },
+  {
+    "wikiId": "Q21917313",
+    "name": "Café Dan Turèll",
+    "cat": "coffeeHouse",
+    "lon": 12.58155,
+    "lat": 55.6815
+  },
+  {
+    "wikiId": "Q21936663",
+    "name": "Café Klaptræet",
+    "cat": "coffeeHouse",
+    "lon": 12.57358,
+    "lat": 55.68228
+  },
+  {
+    "wikiId": "Q22330084",
+    "name": "Cafe Mondegar",
+    "cat": "coffeeHouse",
+    "lon": 72.832126,
+    "lat": 18.924158
+  },
+  {
+    "wikiId": "Q22674527",
+    "name": "Café Continental",
+    "cat": "coffeeHouse",
+    "lon": 9.738532,
+    "lat": 52.374181
+  },
+  {
+    "wikiId": "Q22920960",
+    "name": "3 rue Étienne-Marcel, Paris",
+    "cat": "coffeeHouse",
+    "lon": 2.350556,
+    "lat": 48.863611
+  },
+  {
+    "wikiId": "Q22920962",
+    "name": "91 rue Saint-Denis - 79 rue Rambuteau, Paris",
+    "cat": "coffeeHouse",
+    "lon": 2.349444,
+    "lat": 48.862222
+  },
+  {
+    "wikiId": "Q22921176",
+    "name": "Café-Bar, 143 rue Saint-Denis",
+    "cat": "coffeeHouse",
+    "lon": 2.350278,
+    "lat": 48.864444
+  },
+  {
+    "wikiId": "Q22921255",
+    "name": "105 rue du Temple, Paris",
+    "cat": "coffeeHouse",
+    "lon": 2.3575,
+    "lat": 48.862222
+  },
+  {
+    "wikiId": "Q22922068",
+    "name": "Bistrot du Peintre",
+    "cat": "coffeeHouse",
+    "lon": 2.3775,
+    "lat": 48.853333
+  },
+  {
+    "wikiId": "Q22922156",
+    "name": "Aviatic Bar",
+    "cat": "coffeeHouse",
+    "lon": 2.292933,
+    "lat": 48.835687
+  },
+  {
+    "wikiId": "Q22922166",
+    "name": "Hôtel Eiffel Seine",
+    "cat": "coffeeHouse",
+    "lon": 2.288889,
+    "lat": 48.854444
+  },
+  {
+    "wikiId": "Q22922207",
+    "name": "Le Petit Rétro",
+    "cat": "coffeeHouse",
+    "lon": 2.285,
+    "lat": 48.869167
+  },
+  {
+    "wikiId": "Q22922282",
+    "name": "Q22922282",
+    "cat": "coffeeHouse",
+    "lon": 2.337222,
+    "lat": 48.8825
+  },
+  {
+    "wikiId": "Q22922519",
+    "name": "Marteau House",
+    "cat": "coffeeHouse",
+    "lon": 2.696346,
+    "lat": 48.401585
+  },
+  {
+    "wikiId": "Q22923145",
+    "name": "Café Saint-Rémy",
+    "cat": "coffeeHouse",
+    "lon": 2.7045,
+    "lat": 48.8216
+  },
+  {
+    "wikiId": "Q22933238",
+    "name": "Café américain",
+    "cat": "coffeeHouse",
+    "lon": 3.3322444,
+    "lat": 46.5679583
+  },
+  {
+    "wikiId": "Q22933275",
+    "name": "Grand café de Moulins",
+    "cat": "coffeeHouse",
+    "lon": 3.3308028,
+    "lat": 46.5644056
+  },
+  {
+    "wikiId": "Q22952862",
+    "name": "Brasserie du Commerce",
+    "cat": "coffeeHouse",
+    "lon": 6.02528,
+    "lat": 47.23861
+  },
+  {
+    "wikiId": "Q22953990",
+    "name": "Café Plana",
+    "cat": "coffeeHouse",
+    "lon": 2.7294,
+    "lat": 43.2845
+  },
+  {
+    "wikiId": "Q22959617",
+    "name": "Café des Arcades",
+    "cat": "coffeeHouse",
+    "lon": 5.550853,
+    "lat": 48.887316
+  },
+  {
+    "wikiId": "Q22964940",
+    "name": "Q22964940",
+    "cat": "coffeeHouse",
+    "lon": 4.1061,
+    "lat": 47.4245
+  },
+  {
+    "wikiId": "Q22967002",
+    "name": "Café des Arts",
+    "cat": "coffeeHouse",
+    "lon": 5.7522,
+    "lat": 44.8195
+  },
+  {
+    "wikiId": "Q22975911",
+    "name": "Café de la Bourse",
+    "cat": "coffeeHouse",
+    "lon": 4.297038,
+    "lat": 46.952175
+  },
+  {
+    "wikiId": "Q22976852",
+    "name": "Q22976852",
+    "cat": "coffeeHouse",
+    "lon": 3.0393,
+    "lat": 43.368
+  },
+  {
+    "wikiId": "Q22979866",
+    "name": "Q22979866",
+    "cat": "coffeeHouse",
+    "lon": 3.217026,
+    "lat": 50.701819
+  },
+  {
+    "wikiId": "Q22979867",
+    "name": "Q22979867",
+    "cat": "coffeeHouse",
+    "lon": 3.219372,
+    "lat": 50.699706
+  },
+  {
+    "wikiId": "Q22986648",
+    "name": "Cavaillon - immeuble place clos",
+    "cat": "coffeeHouse",
+    "lon": 5.03606,
+    "lat": 43.83492
+  },
+  {
+    "wikiId": "Q22996252",
+    "name": "Restaurant",
+    "cat": "coffeeHouse",
+    "lon": 6.3611,
+    "lat": 47.3518
+  },
+  {
+    "wikiId": "Q22997366",
+    "name": "Q22997366",
+    "cat": "coffeeHouse",
+    "lon": 0.090139,
+    "lat": 48.43125
+  },
+  {
+    "wikiId": "Q22997697",
+    "name": "Café de la Loge de Salses-le-Château",
+    "cat": "coffeeHouse",
+    "lon": 2.919505,
+    "lat": 42.8340796
+  },
+  {
+    "wikiId": "Q24025888",
+    "name": "Blue Willow Café",
+    "cat": "coffeeHouse",
+    "lon": -112.0733964,
+    "lat": 33.5066764
+  },
+  {
+    "wikiId": "Q24025889",
+    "name": "Fair Trade Café",
+    "cat": "coffeeHouse",
+    "lon": -112.0743067,
+    "lat": 33.4594583
+  },
+  {
+    "wikiId": "Q24041846",
+    "name": "Q24041846",
+    "cat": "coffeeHouse",
+    "lon": 13.378761,
+    "lat": 52.552417
+  },
+  {
+    "wikiId": "Q24170561",
+    "name": "Ruche verrière",
+    "cat": "coffeeHouse",
+    "lon": 4.448111111,
+    "lat": 50.431277777
+  },
+  {
+    "wikiId": "Q24229388",
+    "name": "St. Oberholz",
+    "cat": "coffeeHouse",
+    "lon": 13.40178,
+    "lat": 52.52946
+  },
+  {
+    "wikiId": "Q24341266",
+    "name": "Café de l'Òpera",
+    "cat": "coffeeHouse",
+    "lon": 2.173766666,
+    "lat": 41.380908333
+  },
+  {
+    "wikiId": "Q24877394",
+    "name": "Q24877394",
+    "cat": "coffeeHouse",
+    "lon": 14.4189592,
+    "lat": 50.0824519
+  },
+  {
+    "wikiId": "Q24941343",
+    "name": "Caffè Martini",
+    "cat": "coffeeHouse",
+    "lon": 9.189972,
+    "lat": 45.467223
+  },
+  {
+    "wikiId": "Q25489624",
+    "name": "Café Margoa",
+    "cat": "coffeeHouse",
+    "lon": 35.103333333,
+    "lat": 32.801722222
+  },
+  {
+    "wikiId": "Q25491276",
+    "name": "Q25491276",
+    "cat": "coffeeHouse",
+    "lon": 34.788361111,
+    "lat": 31.23725
+  },
+  {
+    "wikiId": "Q25507781",
+    "name": "Q25507781",
+    "cat": "coffeeHouse",
+    "lon": 24.498690349,
+    "lat": 58.374012729
+  },
+  {
+    "wikiId": "Q26317832",
+    "name": "23 And 25, Eastcheap Ec3",
+    "cat": "coffeeHouse",
+    "lon": -0.08413273,
+    "lat": 51.51081813
+  },
+  {
+    "wikiId": "Q26484238",
+    "name": "Cafe Royal",
+    "cat": "coffeeHouse",
+    "lon": -1.191955,
+    "lat": 54.47031
+  },
+  {
+    "wikiId": "Q26491330",
+    "name": "Cafe 89",
+    "cat": "coffeeHouse",
+    "lon": -2.714464,
+    "lat": 52.055453
+  },
+  {
+    "wikiId": "Q26504502",
+    "name": "Jireh House",
+    "cat": "coffeeHouse",
+    "lon": -1.499666,
+    "lat": 50.705849
+  },
+  {
+    "wikiId": "Q26505230",
+    "name": "Cafe Bar",
+    "cat": "coffeeHouse",
+    "lon": -2.883016,
+    "lat": 53.568335
+  },
+  {
+    "wikiId": "Q26532709",
+    "name": "Route 2",
+    "cat": "coffeeHouse",
+    "lon": -3.464336,
+    "lat": 50.681274
+  },
+  {
+    "wikiId": "Q26556142",
+    "name": "Wetton Mill Cafe",
+    "cat": "coffeeHouse",
+    "lon": -1.858758,
+    "lat": 53.102098
+  },
+  {
+    "wikiId": "Q26584384",
+    "name": "The Dalesman Cafe",
+    "cat": "coffeeHouse",
+    "lon": -2.10596,
+    "lat": 53.983289
+  },
+  {
+    "wikiId": "Q26585145",
+    "name": "30 and 31, High Street",
+    "cat": "coffeeHouse",
+    "lon": -3.031028,
+    "lat": 52.203156
+  },
+  {
+    "wikiId": "Q26591608",
+    "name": "The Painswick Pooch",
+    "cat": "coffeeHouse",
+    "lon": -2.194114,
+    "lat": 51.786512
+  },
+  {
+    "wikiId": "Q26602506",
+    "name": "Bramblewick Cafe",
+    "cat": "coffeeHouse",
+    "lon": -0.532487,
+    "lat": 54.430443
+  },
+  {
+    "wikiId": "Q26659969",
+    "name": "Cafe On Lakeside Approximately 20 Metres West Of Boathouse Adjacent To Lakeside Inn",
+    "cat": "coffeeHouse",
+    "lon": -3.005117,
+    "lat": 53.653725
+  },
+  {
+    "wikiId": "Q26674873",
+    "name": "Stockport Museum in Vernon Park",
+    "cat": "coffeeHouse",
+    "lon": -2.141436,
+    "lat": 53.411953
+  },
+  {
+    "wikiId": "Q26774277",
+    "name": "Café Nimrod",
+    "cat": "coffeeHouse",
+    "lon": 12.714416666,
+    "lat": 50.009694444
+  },
+  {
+    "wikiId": "Q26794408",
+    "name": "Café Nicola (Lisbon)",
+    "cat": "coffeeHouse",
+    "lon": -9.13971,
+    "lat": 38.713034
+  },
+  {
+    "wikiId": "Q26818514",
+    "name": "Café Nutid",
+    "cat": "coffeeHouse",
+    "lon": 12.57139,
+    "lat": 55.67979
+  },
+  {
+    "wikiId": "Q26912693",
+    "name": "Café Katz",
+    "cat": "coffeeHouse",
+    "lon": 12.57513,
+    "lat": 55.67597
+  },
+  {
+    "wikiId": "Q27602995",
+    "name": "Q27602995",
+    "cat": "coffeeHouse",
+    "lon": 4.2289,
+    "lat": 47.2792
+  },
+  {
+    "wikiId": "Q27671572",
+    "name": "Din nye ven",
+    "cat": "coffeeHouse",
+    "lon": 12.567280555,
+    "lat": 55.678830555
+  },
+  {
+    "wikiId": "Q27927511",
+    "name": "Pressed",
+    "cat": "coffeeHouse",
+    "lon": -75.70534,
+    "lat": 45.40703
+  },
+  {
+    "wikiId": "Q27981116",
+    "name": "Café Amalie",
+    "cat": "coffeeHouse",
+    "lon": 12.50267,
+    "lat": 55.77088
+  },
+  {
+    "wikiId": "Q28031563",
+    "name": "Q28031563",
+    "cat": "coffeeHouse",
+    "lon": 16.2424,
+    "lat": 47.8127
+  },
+  {
+    "wikiId": "Q28403115",
+    "name": "Café Terminus",
+    "cat": "coffeeHouse",
+    "lon": 2.325538201,
+    "lat": 48.875631208
+  },
+  {
+    "wikiId": "Q28405732",
+    "name": "Jean Cocteau Cinema",
+    "cat": "coffeeHouse",
+    "lon": -105.946666666,
+    "lat": 35.685
+  },
+  {
+    "wikiId": "Q28494431",
+    "name": "Le Rostand",
+    "cat": "coffeeHouse",
+    "lon": 2.340274786,
+    "lat": 48.847803157
+  },
+  {
+    "wikiId": "Q28495864",
+    "name": "Les Deux Garçons",
+    "cat": "coffeeHouse",
+    "lon": 5.450477777,
+    "lat": 43.527094444
+  },
+  {
+    "wikiId": "Q28656899",
+    "name": "Q28656899",
+    "cat": "coffeeHouse",
+    "lon": 4.895417,
+    "lat": 52.368056
+  },
+  {
+    "wikiId": "Q28791184",
+    "name": "Q28791184",
+    "cat": "coffeeHouse",
+    "lon": 10.012777777,
+    "lat": 53.558888888
+  },
+  {
+    "wikiId": "Q28804296",
+    "name": "SOJO",
+    "cat": "coffeeHouse",
+    "lon": 139.72338,
+    "lat": 35.7083
+  },
+  {
+    "wikiId": "Q29482555",
+    "name": "Former Assembly Room and Market House, Conrad House",
+    "cat": "coffeeHouse",
+    "lon": -2.6744617,
+    "lat": 51.642042
+  },
+  {
+    "wikiId": "Q29482557",
+    "name": "6&7 Beaufort Square",
+    "cat": "coffeeHouse",
+    "lon": -2.6745094,
+    "lat": 51.64233
+  },
+  {
+    "wikiId": "Q29482559",
+    "name": "9, Beaufort Square, Chepstow",
+    "cat": "coffeeHouse",
+    "lon": -2.6749592,
+    "lat": 51.642453
+  },
+  {
+    "wikiId": "Q29484649",
+    "name": "Aber Cafe, Smithfield Street",
+    "cat": "coffeeHouse",
+    "lon": -3.8847636,
+    "lat": 52.743853
+  },
+  {
+    "wikiId": "Q29502904",
+    "name": "Caffi'r Cyfnod",
+    "cat": "coffeeHouse",
+    "lon": -3.597559,
+    "lat": 52.910716
+  },
+  {
+    "wikiId": "Q29503397",
+    "name": "Caffi Maes",
+    "cat": "coffeeHouse",
+    "lon": -4.2753348,
+    "lat": 53.13977
+  },
+  {
+    "wikiId": "Q30038525",
+    "name": "Q30038525",
+    "cat": "coffeeHouse",
+    "lon": 10.41312,
+    "lat": 45.22077
+  },
+  {
+    "wikiId": "Q30063711",
+    "name": "Summer café in the Spa Park in Jastrzębie-Zdrój",
+    "cat": "coffeeHouse",
+    "lon": 18.56731,
+    "lat": 49.9503
+  },
+  {
+    "wikiId": "Q30146310",
+    "name": "Gut Wulfshagen",
+    "cat": "coffeeHouse",
+    "lon": 10.0151995,
+    "lat": 54.3891992
+  },
+  {
+    "wikiId": "Q31086378",
+    "name": "Villa Ullas",
+    "cat": "coffeeHouse",
+    "lon": 25.134849,
+    "lat": 60.200499
+  },
+  {
+    "wikiId": "Q31522697",
+    "name": "Props",
+    "cat": "coffeeHouse",
+    "lon": 12.56,
+    "lat": 55.6877
+  },
+  {
+    "wikiId": "Q31786861",
+    "name": "Coffeehouse Union",
+    "cat": "coffeeHouse",
+    "lon": 14.53675,
+    "lat": 50.6844244
+  },
+  {
+    "wikiId": "Q31862961",
+    "name": "Riegrova 25",
+    "cat": "coffeeHouse",
+    "lon": 14.47723,
+    "lat": 48.97848
+  },
+  {
+    "wikiId": "Q33310955",
+    "name": "Q33310955",
+    "cat": "coffeeHouse",
+    "lon": 14.5570089,
+    "lat": 50.9526664
+  },
+  {
+    "wikiId": "Q34349702",
+    "name": "House Gespinstmarkt 29",
+    "cat": "coffeeHouse",
+    "lon": 9.61554,
+    "lat": 47.78176
+  },
+  {
+    "wikiId": "Q37737924",
+    "name": "Fuggergasse 2",
+    "cat": "coffeeHouse",
+    "lon": 11.708904,
+    "lat": 47.344831
+  },
+  {
+    "wikiId": "Q37831718",
+    "name": "Q37831718",
+    "cat": "coffeeHouse",
+    "lon": 16.366978,
+    "lat": 48.194242
+  },
+  {
+    "wikiId": "Q37839663",
+    "name": "Cortisches Kaffeehaus",
+    "cat": "coffeeHouse",
+    "lon": 16.360933,
+    "lat": 48.206854
+  },
+  {
+    "wikiId": "Q38027879",
+    "name": "Q38027879",
+    "cat": "coffeeHouse",
+    "lon": 13.094279,
+    "lat": 47.68258
+  },
+  {
+    "wikiId": "Q38191479",
+    "name": "Q38191479",
+    "cat": "coffeeHouse",
+    "lon": 15.8791836,
+    "lat": 49.2162517
+  },
+  {
+    "wikiId": "Q38281267",
+    "name": "Brinkmann",
+    "cat": "coffeeHouse",
+    "lon": 4.63615,
+    "lat": 52.38167
+  },
+  {
+    "wikiId": "Q40310164",
+    "name": "56, Corn Street",
+    "cat": "coffeeHouse",
+    "lon": -2.59336,
+    "lat": 51.45469
+  },
+  {
+    "wikiId": "Q41149379",
+    "name": "Café Granja El Henar",
+    "cat": "coffeeHouse",
+    "lon": -3.69721111,
+    "lat": 40.41827778
+  },
+  {
+    "wikiId": "Q41322761",
+    "name": "Café",
+    "cat": "coffeeHouse",
+    "lon": 10.66712,
+    "lat": 49.97178
+  },
+  {
+    "wikiId": "Q41793044",
+    "name": "Q41793044",
+    "cat": "coffeeHouse",
+    "lon": 8.810025,
+    "lat": 53.072665
+  },
+  {
+    "wikiId": "Q42614489",
+    "name": "Literaturnoye Kafe",
+    "cat": "coffeeHouse",
+    "lon": 30.318249,
+    "lat": 59.936557
+  },
+  {
+    "wikiId": "Q46637335",
+    "name": "Le Domjohn Bar",
+    "cat": "coffeeHouse",
+    "lon": 4.997427,
+    "lat": 45.839067
+  },
+  {
+    "wikiId": "Q46719869",
+    "name": "Scheltema",
+    "cat": "coffeeHouse",
+    "lon": 4.890391666,
+    "lat": 52.372083333
+  },
+  {
+    "wikiId": "Q46999655",
+    "name": "restaurant du Midi",
+    "cat": "coffeeHouse",
+    "lon": 4.998539,
+    "lat": 45.839311
+  },
+  {
+    "wikiId": "Q47052870",
+    "name": "Penguin",
+    "cat": "coffeeHouse",
+    "lon": 35.093741,
+    "lat": 33.006499
+  },
+  {
+    "wikiId": "Q47117291",
+    "name": "Die Kiste",
+    "cat": "coffeeHouse",
+    "lon": 13.6094,
+    "lat": 52.5361
+  },
+  {
+    "wikiId": "Q47437961",
+    "name": "Q47437961",
+    "cat": "coffeeHouse",
+    "lon": -3.70200556,
+    "lat": 40.41723611
+  },
+  {
+    "wikiId": "Q47471773",
+    "name": "Q47471773",
+    "cat": "coffeeHouse",
+    "lon": -3.694025,
+    "lat": 40.42371111
+  },
+  {
+    "wikiId": "Q47472245",
+    "name": "Q47472245",
+    "cat": "coffeeHouse",
+    "lon": -3.702691944,
+    "lat": 40.429246944
+  },
+  {
+    "wikiId": "Q47490581",
+    "name": "Q47490581",
+    "cat": "coffeeHouse",
+    "lon": -3.69146944,
+    "lat": 40.41978889
+  },
+  {
+    "wikiId": "Q47497985",
+    "name": "Kino & Café am Ufer",
+    "cat": "coffeeHouse",
+    "lon": 13.373489,
+    "lat": 52.551176
+  },
+  {
+    "wikiId": "Q47502518",
+    "name": "Q47502518",
+    "cat": "coffeeHouse",
+    "lon": -3.69183611,
+    "lat": 40.42316389
+  },
+  {
+    "wikiId": "Q49348237",
+    "name": "Hauptstraße 64",
+    "cat": "coffeeHouse",
+    "lon": 14.664808,
+    "lat": 50.895778
+  },
+  {
+    "wikiId": "Q50805115",
+    "name": "Café des Délices",
+    "cat": "coffeeHouse",
+    "lon": 10.351344,
+    "lat": 36.870069
+  },
+  {
+    "wikiId": "Q51616732",
+    "name": "Q51616732",
+    "cat": "coffeeHouse",
+    "lon": 12.50355,
+    "lat": 55.77071
+  },
+  {
+    "wikiId": "Q51844440",
+    "name": "Casa Piccola, Vienna",
+    "cat": "coffeeHouse",
+    "lon": 16.360762,
+    "lat": 48.201753
+  },
+  {
+    "wikiId": "Q52158829",
+    "name": "L’Anticafé, Lyon",
+    "cat": "coffeeHouse",
+    "lon": 4.83539,
+    "lat": 45.76616
+  },
+  {
+    "wikiId": "Q53228380",
+    "name": "Veletržní kino",
+    "cat": "coffeeHouse",
+    "lon": 16.5825106,
+    "lat": 49.1893019
+  },
+  {
+    "wikiId": "Q53673342",
+    "name": "Alsur Café, Llúria",
+    "cat": "coffeeHouse",
+    "lon": 2.17132,
+    "lat": 41.39101
+  },
+  {
+    "wikiId": "Q55023990",
+    "name": "Zeman's café and sweet-shop",
+    "cat": "coffeeHouse",
+    "lon": 16.611779661,
+    "lat": 49.193093803
+  },
+  {
+    "wikiId": "Q55061771",
+    "name": "Maracay Coffee",
+    "cat": "coffeeHouse",
+    "lon": 13.38373,
+    "lat": 52.50362
+  },
+  {
+    "wikiId": "Q55078453",
+    "name": "Fazer commercial",
+    "cat": "coffeeHouse",
+    "lon": 24.94787488,
+    "lat": 60.16854505
+  },
+  {
+    "wikiId": "Q55121647",
+    "name": "Cervecería Alemana, Madrid",
+    "cat": "coffeeHouse",
+    "lon": -3.700513888,
+    "lat": 40.414622222
+  },
+  {
+    "wikiId": "Q55154854",
+    "name": "Restaurante Pelicano",
+    "cat": "coffeeHouse",
+    "lon": -15.57808,
+    "lat": 11.85906
+  },
+  {
+    "wikiId": "Q55638015",
+    "name": "Y Service Station and Cafe",
+    "cat": "coffeeHouse",
+    "lon": -98.97972222,
+    "lat": 35.4825
+  },
+  {
+    "wikiId": "Q55695850",
+    "name": "Q55695850",
+    "cat": "coffeeHouse",
+    "lon": 12.58928,
+    "lat": 55.74975
+  },
+  {
+    "wikiId": "Q55759152",
+    "name": "Cafe Welling",
+    "cat": "coffeeHouse",
+    "lon": 4.877266666,
+    "lat": 52.355972222
+  },
+  {
+    "wikiId": "Q55865230",
+    "name": "Q55865230",
+    "cat": "coffeeHouse",
+    "lon": 11.45329,
+    "lat": 49.20378
+  },
+  {
+    "wikiId": "Q55966225",
+    "name": "Truth Coffee",
+    "cat": "coffeeHouse",
+    "lon": 18.422694444,
+    "lat": -33.928222222
+  },
+  {
+    "wikiId": "Q56050281",
+    "name": "The Africa Cafe",
+    "cat": "coffeeHouse",
+    "lon": 18.4155453,
+    "lat": -33.920539
+  },
+  {
+    "wikiId": "Q56085053",
+    "name": "Clayton Hotel Birmingham",
+    "cat": "coffeeHouse",
+    "lon": -1.890718709,
+    "lat": 52.480968
+  },
+  {
+    "wikiId": "Q56085075",
+    "name": "Clayton Hotel Belfast",
+    "cat": "coffeeHouse",
+    "lon": -5.930481,
+    "lat": 54.59299
+  },
+  {
+    "wikiId": "Q56244744",
+    "name": "Café Shakespeare & Company",
+    "cat": "coffeeHouse",
+    "lon": 2.34719,
+    "lat": 48.85246
+  },
+  {
+    "wikiId": "Q56244998",
+    "name": "Cafe Mig og Annie",
+    "cat": "coffeeHouse",
+    "lon": 12.50427,
+    "lat": 55.76968
+  },
+  {
+    "wikiId": "Q56350199",
+    "name": "Plażowa",
+    "cat": "coffeeHouse",
+    "lon": 21.042794444,
+    "lat": 52.237861111
+  },
+  {
+    "wikiId": "Q56405834",
+    "name": "Corso-Café",
+    "cat": "coffeeHouse",
+    "lon": 9.73823,
+    "lat": 52.37478
+  },
+  {
+    "wikiId": "Q56557751",
+    "name": "Talgarten-Lichtspiele",
+    "cat": "coffeeHouse",
+    "lon": 8.72575,
+    "lat": 47.5017
+  },
+  {
+    "wikiId": "Q56599533",
+    "name": "Q56599533",
+    "cat": "coffeeHouse",
+    "lon": 5.0008,
+    "lat": 47.266
+  },
+  {
+    "wikiId": "Q56599588",
+    "name": "Grand Hôtel Le Broussy",
+    "cat": "coffeeHouse",
+    "lon": 2.5722,
+    "lat": 44.3474
+  },
+  {
+    "wikiId": "Q56620473",
+    "name": "Oak Cafe, 11 Bank Street, Mid Calder",
+    "cat": "coffeeHouse",
+    "lon": -3.4807523,
+    "lat": 55.892486
+  },
+  {
+    "wikiId": "Q56629484",
+    "name": "Volcano Cafe, 62, 64 Crossgate, Cupar",
+    "cat": "coffeeHouse",
+    "lon": -3.0117528,
+    "lat": 56.317815
+  },
+  {
+    "wikiId": "Q56635425",
+    "name": "Lido Cafe, 10-12 Gordon Street, Huntly",
+    "cat": "coffeeHouse",
+    "lon": -2.7868175,
+    "lat": 57.446727
+  },
+  {
+    "wikiId": "Q56642929",
+    "name": "Colinatrum",
+    "cat": "coffeeHouse",
+    "lon": -8.42831,
+    "lat": 41.54598
+  },
+  {
+    "wikiId": "Q56647569",
+    "name": "The Central Cafe, 17 George Street, Whithorn",
+    "cat": "coffeeHouse",
+    "lon": -4.4152005,
+    "lat": 54.733888
+  },
+  {
+    "wikiId": "Q56695398",
+    "name": "Cafe Herzoghof",
+    "cat": "coffeeHouse",
+    "lon": 16.35554,
+    "lat": 48.06864
+  },
+  {
+    "wikiId": "Q56759840",
+    "name": "Chai Thung Coffee",
+    "cat": "coffeeHouse",
+    "lon": 100.6943925,
+    "lat": 14.0033923
+  },
+  {
+    "wikiId": "Q56826635",
+    "name": "Confitería Castelar",
+    "cat": "coffeeHouse",
+    "lon": -58.382712,
+    "lat": -34.609477
+  },
+  {
+    "wikiId": "Q57065928",
+    "name": "Big Bites Cafe",
+    "cat": "coffeeHouse",
+    "lon": 103.764361111,
+    "lat": 1.456555555
+  },
+  {
+    "wikiId": "Q58172679",
+    "name": "Café Grundmann",
+    "cat": "coffeeHouse",
+    "lon": 12.369416666,
+    "lat": 51.325111111
+  },
+  {
+    "wikiId": "Q58213334",
+    "name": "Paviljoen De Posbank",
+    "cat": "coffeeHouse",
+    "lon": 6.021833333,
+    "lat": 52.029416666
+  },
+  {
+    "wikiId": "Q58395126",
+    "name": "Q58395126",
+    "cat": "coffeeHouse",
+    "lon": 8.70239,
+    "lat": 54.322893
+  },
+  {
+    "wikiId": "Q58481453",
+    "name": "Pellegrini's Espresso Bar",
+    "cat": "coffeeHouse",
+    "lon": 144.971194444,
+    "lat": -37.811722222
+  },
+  {
+    "wikiId": "Q58930687",
+    "name": "Livresse",
+    "cat": "coffeeHouse",
+    "lon": 6.14259,
+    "lat": 46.196463
+  },
+  {
+    "wikiId": "Q59247001",
+    "name": "Q59247001",
+    "cat": "coffeeHouse",
+    "lon": 4.356,
+    "lat": 43.8376
+  },
+  {
+    "wikiId": "Q59957759",
+    "name": "Old Village Cafe",
+    "cat": "coffeeHouse",
+    "lon": 0.0166706,
+    "lat": 51.379399
+  },
+  {
+    "wikiId": "Q60038178",
+    "name": "Former Picture House Cinema",
+    "cat": "coffeeHouse",
+    "lon": -0.203097,
+    "lat": 54.088995
+  },
+  {
+    "wikiId": "Q60221065",
+    "name": "GONZO",
+    "cat": "coffeeHouse",
+    "lon": 12.54377,
+    "lat": 55.69293
+  },
+  {
+    "wikiId": "Q60441312",
+    "name": "Caffè Pasticceria Balzola",
+    "cat": "coffeeHouse",
+    "lon": 8.17205,
+    "lat": 44.00559
+  },
+  {
+    "wikiId": "Q60640483",
+    "name": "Captain + Stoker",
+    "cat": "coffeeHouse",
+    "lon": -121.891679,
+    "lat": 36.5994
+  },
+  {
+    "wikiId": "Q60733138",
+    "name": "Bavaria-Varieté",
+    "cat": "coffeeHouse",
+    "lon": 7.14587,
+    "lat": 51.25525
+  },
+  {
+    "wikiId": "Q60797030",
+    "name": "Tivoli",
+    "cat": "coffeeHouse",
+    "lon": 9.74753,
+    "lat": 52.3749
+  },
+  {
+    "wikiId": "Q60807925",
+    "name": "Stadsschaal",
+    "cat": "coffeeHouse",
+    "lon": 2.7224,
+    "lat": 50.85521
+  },
+  {
+    "wikiId": "Q60813858",
+    "name": "Café Retiro",
+    "cat": "coffeeHouse",
+    "lon": -58.375004,
+    "lat": -34.5916651
+  },
+  {
+    "wikiId": "Q60907195",
+    "name": "Frøken Friis",
+    "cat": "coffeeHouse",
+    "lon": 12.50458,
+    "lat": 55.77659
+  },
+  {
+    "wikiId": "Q61396366",
+    "name": "Café Tuljak",
+    "cat": "coffeeHouse",
+    "lon": 24.806697222,
+    "lat": 59.448436111
+  },
+  {
+    "wikiId": "Q61418337",
+    "name": "Bevar's",
+    "cat": "coffeeHouse",
+    "lon": 12.56201,
+    "lat": 55.68844
+  },
+  {
+    "wikiId": "Q61463454",
+    "name": "Barcode Cafe",
+    "cat": "coffeeHouse",
+    "lon": 91.824358,
+    "lat": 22.365184
+  },
+  {
+    "wikiId": "Q61740349",
+    "name": "Krispy Kreme",
+    "cat": "coffeeHouse",
+    "lon": -115.175078,
+    "lat": 36.098837
+  },
+  {
+    "wikiId": "Q61758980",
+    "name": "Café Vettro",
+    "cat": "coffeeHouse",
+    "lon": -115.176674,
+    "lat": 36.108276
+  },
+  {
+    "wikiId": "Q61759147",
+    "name": "ARIA Patisserie",
+    "cat": "coffeeHouse",
+    "lon": -115.176582,
+    "lat": 36.107352
+  },
+  {
+    "wikiId": "Q63038952",
+    "name": "Kleinkunstbühne Viktoria Luise",
+    "cat": "coffeeHouse",
+    "lon": 10.52562,
+    "lat": 52.26274
+  },
+  {
+    "wikiId": "Q63063857",
+    "name": "Q63063857",
+    "cat": "coffeeHouse",
+    "lon": 12.909888888,
+    "lat": 50.238166666
+  },
+  {
+    "wikiId": "Q63168650",
+    "name": "Paludan Bog & Café",
+    "cat": "coffeeHouse",
+    "lon": 12.57322,
+    "lat": 55.68052
+  },
+  {
+    "wikiId": "Q63253420",
+    "name": "Esperanto restaurant and cafe in Białystok",
+    "cat": "coffeeHouse",
+    "lon": 23.15833,
+    "lat": 53.13234
+  },
+  {
+    "wikiId": "Q63349559",
+    "name": "Sülüklü Inn",
+    "cat": "coffeeHouse",
+    "lon": 40.23744,
+    "lat": 37.91157
+  },
+  {
+    "wikiId": "Q63392036",
+    "name": "Zætteberg Coffee & Wine",
+    "cat": "coffeeHouse",
+    "lon": 12.504,
+    "lat": 55.77159
+  },
+  {
+    "wikiId": "Q64176579",
+    "name": "Cafe Engel",
+    "cat": "coffeeHouse",
+    "lon": 8.86958,
+    "lat": 54.93429
+  },
+  {
+    "wikiId": "Q64224622",
+    "name": "Café des Oiseaux",
+    "cat": "coffeeHouse",
+    "lon": 5.15983,
+    "lat": 48.77354
+  },
+  {
+    "wikiId": "Q64358034",
+    "name": "One House Bakery",
+    "cat": "coffeeHouse",
+    "lon": -122.1571111,
+    "lat": 38.0515532
+  },
+  {
+    "wikiId": "Q65062524",
+    "name": "Two Dollar Radio Headquarters",
+    "cat": "coffeeHouse",
+    "lon": -82.98291,
+    "lat": 39.940623
+  },
+  {
+    "wikiId": "Q65095488",
+    "name": "Cafe Eden",
+    "cat": "coffeeHouse",
+    "lon": 103.199694,
+    "lat": 13.103051
+  },
+  {
+    "wikiId": "Q65230564",
+    "name": "Q65230564",
+    "cat": "coffeeHouse",
+    "lon": 141.559166666,
+    "lat": 43.113583333
+  },
+  {
+    "wikiId": "Q65356760",
+    "name": "Café Tramvaj",
+    "cat": "coffeeHouse",
+    "lon": 14.426669,
+    "lat": 50.081972
+  },
+  {
+    "wikiId": "Q65552587",
+    "name": "Q65552587",
+    "cat": "coffeeHouse",
+    "lon": 10.39253,
+    "lat": 55.3972
+  },
+  {
+    "wikiId": "Q65665536",
+    "name": "Starbucks Reserve Roastery Tokyo",
+    "cat": "coffeeHouse",
+    "lon": 139.69267,
+    "lat": 35.64917
+  },
+  {
+    "wikiId": "Q65677719",
+    "name": "Café Pudding",
+    "cat": "coffeeHouse",
+    "lon": 7.89999,
+    "lat": 53.79321
+  },
+  {
+    "wikiId": "Q66591506",
+    "name": "Cafe Holberg no 19",
+    "cat": "coffeeHouse",
+    "lon": 12.5904,
+    "lat": 55.67866
+  },
+  {
+    "wikiId": "Q66680665",
+    "name": "Q66680665",
+    "cat": "coffeeHouse",
+    "lon": 49.374747222,
+    "lat": 53.475683333
+  },
+  {
+    "wikiId": "Q66725315",
+    "name": "Zalencentrum Theothorne",
+    "cat": "coffeeHouse",
+    "lon": 6.10108,
+    "lat": 52.05176
+  },
+  {
+    "wikiId": "Q66813849",
+    "name": "Café Aliança (Faro)",
+    "cat": "coffeeHouse",
+    "lon": -7.934628,
+    "lat": 37.016125
+  },
+  {
+    "wikiId": "Q66814985",
+    "name": "Café Central",
+    "cat": "coffeeHouse",
+    "lon": -8.684326171,
+    "lat": 39.235618591
+  },
+  {
+    "wikiId": "Q66816045",
+    "name": "Mercado Velho de Machico",
+    "cat": "coffeeHouse",
+    "lon": -16.764128,
+    "lat": 32.717878
+  },
+  {
+    "wikiId": "Q66913377",
+    "name": "Sunrise Coffeehouse",
+    "cat": "coffeeHouse",
+    "lon": 103.196349,
+    "lat": 13.10255
+  },
+  {
+    "wikiId": "Q66942093",
+    "name": "Igreja de São João das Donas",
+    "cat": "coffeeHouse",
+    "lon": -8.42884,
+    "lat": 40.2108
+  },
+  {
+    "wikiId": "Q67375962",
+    "name": "Caffè Platti",
+    "cat": "coffeeHouse",
+    "lon": 7.674594,
+    "lat": 45.064655
+  },
+  {
+    "wikiId": "Q67508978",
+    "name": "Cristallo",
+    "cat": "coffeeHouse",
+    "lon": 10.2251417,
+    "lat": 43.8925271
+  },
+  {
+    "wikiId": "Q67941242",
+    "name": "Nurmijärvi Museum Cafe",
+    "cat": "coffeeHouse",
+    "lon": 24.80876,
+    "lat": 60.458845
+  },
+  {
+    "wikiId": "Q68290696",
+    "name": "Horchatería de Santa Catalina",
+    "cat": "coffeeHouse",
+    "lon": -0.37613,
+    "lat": 39.47406
+  },
+  {
+    "wikiId": "Q68324649",
+    "name": "Café und Technisches Rathaus",
+    "cat": "coffeeHouse",
+    "lon": 8.403333333,
+    "lat": 49.009361111
+  },
+  {
+    "wikiId": "Q68606671",
+    "name": "Market House",
+    "cat": "coffeeHouse",
+    "lon": -117.918844,
+    "lat": 33.8109
+  },
+  {
+    "wikiId": "Q68806227",
+    "name": "Jolly Holiday Bakery Cafe",
+    "cat": "coffeeHouse",
+    "lon": -117.919366,
+    "lat": 33.811599
+  },
+  {
+    "wikiId": "Q72726588",
+    "name": "Eden-Arkadia",
+    "cat": "coffeeHouse",
+    "lon": 12.37958,
+    "lat": 51.33515
+  },
+  {
+    "wikiId": "Q73501916",
+    "name": "Q73501916",
+    "cat": "coffeeHouse",
+    "lon": 23.74148,
+    "lat": 37.98996
+  },
+  {
+    "wikiId": "Q74581860",
+    "name": "Café Muttern",
+    "cat": "coffeeHouse",
+    "lon": 18.063277777,
+    "lat": 59.332197222
+  },
+  {
+    "wikiId": "Q75380563",
+    "name": "Fiddler, Fifer & Practical Cafe",
+    "cat": "coffeeHouse",
+    "lon": -117.919354,
+    "lat": 33.807947
+  },
+  {
+    "wikiId": "Q75468697",
+    "name": "Schmoozies!",
+    "cat": "coffeeHouse",
+    "lon": -117.917658,
+    "lat": 33.807745
+  },
+  {
+    "wikiId": "Q75612315",
+    "name": "Le Café neuf",
+    "cat": "coffeeHouse",
+    "lon": 5.685987,
+    "lat": 45.760335
+  },
+  {
+    "wikiId": "Q75683454",
+    "name": "Pacific Wharf Café",
+    "cat": "coffeeHouse",
+    "lon": -117.920097,
+    "lat": 33.8059
+  },
+  {
+    "wikiId": "Q76064077",
+    "name": "Mint Julep Bar",
+    "cat": "coffeeHouse",
+    "lon": -117.92162,
+    "lat": 33.811202
+  },
+  {
+    "wikiId": "Q77994056",
+    "name": "River Cottage Cafe",
+    "cat": "coffeeHouse",
+    "lon": 175.145588,
+    "lat": -40.768772
+  },
+  {
+    "wikiId": "Q78366989",
+    "name": "Cafè Espanyol",
+    "cat": "coffeeHouse",
+    "lon": 2.16945,
+    "lat": 41.375111111
+  },
+  {
+    "wikiId": "Q79684482",
+    "name": "Banx Cafe Bar",
+    "cat": "coffeeHouse",
+    "lon": -3.525798655,
+    "lat": 50.462889547
+  },
+  {
+    "wikiId": "Q79755835",
+    "name": "Bäckerei Schmidl, Dürnstein",
+    "cat": "coffeeHouse",
+    "lon": 15.520606,
+    "lat": 48.395089
+  },
+  {
+    "wikiId": "Q80307238",
+    "name": "Otonari Stand and Works",
+    "cat": "coffeeHouse",
+    "lon": 139.711473,
+    "lat": 35.751472
+  },
+  {
+    "wikiId": "Q81440566",
+    "name": "Demens Café",
+    "cat": "coffeeHouse",
+    "lon": 9.444286111,
+    "lat": 55.502122222
+  },
+  {
+    "wikiId": "Q81638232",
+    "name": "BABY TAPI",
+    "cat": "coffeeHouse",
+    "lon": 135.49838889,
+    "lat": 34.67230556
+  },
+  {
+    "wikiId": "Q83617420",
+    "name": "TAPISTA",
+    "cat": "coffeeHouse",
+    "lon": 139.70369444,
+    "lat": 35.64813889
+  },
+  {
+    "wikiId": "Q84256583",
+    "name": "Handsome Her",
+    "cat": "coffeeHouse",
+    "lon": 144.961244,
+    "lat": -37.772935
+  },
+  {
+    "wikiId": "Q84603118",
+    "name": "Q84603118",
+    "cat": "coffeeHouse",
+    "lon": 13.363055555,
+    "lat": 52.497638888
+  },
+  {
+    "wikiId": "Q85851957",
+    "name": "Specs' Twelve Adler Museum Cafe",
+    "cat": "coffeeHouse",
+    "lon": -122.405993888,
+    "lat": 37.797658055
+  },
+  {
+    "wikiId": "Q87429859",
+    "name": "Café Belén",
+    "cat": "coffeeHouse",
+    "lon": -3.696694444,
+    "lat": 40.42425
+  },
+  {
+    "wikiId": "Q88383283",
+    "name": "Pink Cloud",
+    "cat": "coffeeHouse",
+    "lon": 135.436944444,
+    "lat": 34.668138888
+  },
+  {
+    "wikiId": "Q88403235",
+    "name": "Café au Lion d'Or",
+    "cat": "coffeeHouse",
+    "lon": 2.39603,
+    "lat": 48.80344
+  },
+  {
+    "wikiId": "Q88719003",
+    "name": "Café de la Station",
+    "cat": "coffeeHouse",
+    "lon": 2.54225,
+    "lat": 48.82361
+  },
+  {
+    "wikiId": "Q88965315",
+    "name": "Café Zum süßen Löchle",
+    "cat": "coffeeHouse",
+    "lon": 7.87404,
+    "lat": 48.34162
+  },
+  {
+    "wikiId": "Q89132014",
+    "name": "Valkyrien Restaurant",
+    "cat": "coffeeHouse",
+    "lon": 10.7167,
+    "lat": 59.92946
+  },
+  {
+    "wikiId": "Q90360840",
+    "name": "Dawson Saloon",
+    "cat": "coffeeHouse",
+    "lon": -98.20223,
+    "lat": 32.219577
+  },
+  {
+    "wikiId": "Q91013264",
+    "name": "The Loovre",
+    "cat": "coffeeHouse",
+    "lon": -2.006796,
+    "lat": 55.770599
+  },
+  {
+    "wikiId": "Q92310300",
+    "name": "Q92310300",
+    "cat": "coffeeHouse",
+    "lon": 4.495788787,
+    "lat": 46.744722174
+  },
+  {
+    "wikiId": "Q92310340",
+    "name": "Q92310340",
+    "cat": "coffeeHouse",
+    "lon": 4.513872577,
+    "lat": 46.758984386
+  },
+  {
+    "wikiId": "Q92310463",
+    "name": "Q92310463",
+    "cat": "coffeeHouse",
+    "lon": 4.578839009,
+    "lat": 46.807461468
+  },
+  {
+    "wikiId": "Q92310656",
+    "name": "Q92310656",
+    "cat": "coffeeHouse",
+    "lon": 4.967551565,
+    "lat": 46.877819218
+  },
+  {
+    "wikiId": "Q92310736",
+    "name": "Q92310736",
+    "cat": "coffeeHouse",
+    "lon": 4.68017284,
+    "lat": 46.890320066
+  },
+  {
+    "wikiId": "Q92310986",
+    "name": "Q92310986",
+    "cat": "coffeeHouse",
+    "lon": 5.286974278,
+    "lat": 46.920302435
+  },
+  {
+    "wikiId": "Q92311089",
+    "name": "Q92311089",
+    "cat": "coffeeHouse",
+    "lon": 5.240367301,
+    "lat": 46.956079233
+  },
+  {
+    "wikiId": "Q92311097",
+    "name": "Q92311097",
+    "cat": "coffeeHouse",
+    "lon": 5.172287986,
+    "lat": 46.956566242
+  },
+  {
+    "wikiId": "Q93932210",
+    "name": "Breads On Oak",
+    "cat": "coffeeHouse",
+    "lon": -90.134927,
+    "lat": 29.95104
+  },
+  {
+    "wikiId": "Q94142816",
+    "name": "10-11 Westmoreland Street, Dublin",
+    "cat": "coffeeHouse",
+    "lon": -6.2595,
+    "lat": 53.346
+  },
+  {
+    "wikiId": "Q94143709",
+    "name": "Bewley's Café",
+    "cat": "coffeeHouse",
+    "lon": -6.2604,
+    "lat": 53.34168
+  },
+  {
+    "wikiId": "Q95693837",
+    "name": "Q95693837",
+    "cat": "coffeeHouse",
+    "lon": 10.56684722,
+    "lat": 47.13696906
+  },
+  {
+    "wikiId": "Q95969377",
+    "name": "Modigliani Traditional Coffeehouse & Meze",
+    "cat": "coffeeHouse",
+    "lon": 22.942178,
+    "lat": 40.635914
+  },
+  {
+    "wikiId": "Q96146826",
+    "name": "Q96146826",
+    "cat": "coffeeHouse",
+    "lon": 4.83148,
+    "lat": 45.77667
+  },
+  {
+    "wikiId": "Q96474837",
+    "name": "Café Verona",
+    "cat": "coffeeHouse",
+    "lon": 26.09946014,
+    "lat": 44.443045091
+  },
+  {
+    "wikiId": "Q96476702",
+    "name": "Q96476702",
+    "cat": "coffeeHouse",
+    "lon": 17.715111111,
+    "lat": 59.383805555
+  },
+  {
+    "wikiId": "Q96972280",
+    "name": "Q96972280",
+    "cat": "coffeeHouse",
+    "lon": 10.92685457,
+    "lat": 47.29834952
+  },
+  {
+    "wikiId": "Q97284998",
+    "name": "U Volbrechtů",
+    "cat": "coffeeHouse",
+    "lon": 14.476944444,
+    "lat": 48.976388888
+  },
+  {
+    "wikiId": "Q97287199",
+    "name": "Marionettentheater im Stadtgarten",
+    "cat": "coffeeHouse",
+    "lon": 10.88715,
+    "lat": 48.36056
+  },
+  {
+    "wikiId": "Q97754608",
+    "name": "Hoppes Café og Bar",
+    "cat": "coffeeHouse",
+    "lon": 12.57783,
+    "lat": 55.67793
+  },
+  {
+    "wikiId": "Q97872336",
+    "name": "Senso Art Gallery Cafe",
+    "cat": "coffeeHouse",
+    "lon": 103.763527777,
+    "lat": 1.456444444
+  },
+  {
+    "wikiId": "Q97924790",
+    "name": "Fantova kavárna",
+    "cat": "coffeeHouse",
+    "lon": 14.4353381,
+    "lat": 50.0831286
+  },
+  {
+    "wikiId": "Q98059164",
+    "name": "Q98059164",
+    "cat": "coffeeHouse",
+    "lon": -6.298409203,
+    "lat": 36.534730024
+  },
+  {
+    "wikiId": "Q98624905",
+    "name": "Café Engelhardtstraße 20 in Fürth",
+    "cat": "coffeeHouse",
+    "lon": 10.99591335,
+    "lat": 49.473640167
+  },
+  {
+    "wikiId": "Q98642649",
+    "name": "7 Gramm",
+    "cat": "coffeeHouse",
+    "lon": 11.969912,
+    "lat": 51.485444
+  },
+  {
+    "wikiId": "Q98643545",
+    "name": "Café",
+    "cat": "coffeeHouse",
+    "lon": 12.878107485,
+    "lat": 47.723355036
+  },
+  {
+    "wikiId": "Q98740092",
+    "name": "Café Maria-Ward-Straße 1k in München",
+    "cat": "coffeeHouse",
+    "lon": 11.500299266,
+    "lat": 48.162691033
+  },
+  {
+    "wikiId": "Q98957757",
+    "name": "Café de Unie",
+    "cat": "coffeeHouse",
+    "lon": 4.48066,
+    "lat": 51.91987
+  },
+  {
+    "wikiId": "Q98969070",
+    "name": "Edifício do Café Palladium",
+    "cat": "coffeeHouse",
+    "lon": -9.142895,
+    "lat": 38.716218
+  },
+  {
+    "wikiId": "Q99517078",
+    "name": "Niqiu Space",
+    "cat": "coffeeHouse",
+    "lon": 102.927388888,
+    "lat": 1.850555555
+  },
+  {
+    "wikiId": "Q99521249",
+    "name": "Q99521249",
+    "cat": "coffeeHouse",
+    "lon": -7.431954,
+    "lat": 39.290864
+  },
+  {
+    "wikiId": "Q99736102",
+    "name": "Qahwat Badran",
+    "cat": "coffeeHouse",
+    "lon": 35.10685,
+    "lat": 31.52466
+  },
+  {
+    "wikiId": "Q100250471",
+    "name": "Coffeelatte",
+    "cat": "coffeeHouse",
+    "lon": 14.334352,
+    "lat": 51.761048
+  },
+  {
+    "wikiId": "Q100387201",
+    "name": "Da Capo",
+    "cat": "coffeeHouse",
+    "lon": 14.333336,
+    "lat": 51.760528
+  },
+  {
+    "wikiId": "Q100397016",
+    "name": "Matheson Cafe",
+    "cat": "coffeeHouse",
+    "lon": 169.9704453,
+    "lat": -43.4476334
+  },
+  {
+    "wikiId": "Q100772555",
+    "name": "Café Apolo",
+    "cat": "coffeeHouse",
+    "lon": -16.908805555,
+    "lat": 32.647833333
+  },
+  {
+    "wikiId": "Q100772991",
+    "name": "Golden Gate Grand Café",
+    "cat": "coffeeHouse",
+    "lon": -16.909611111,
+    "lat": 32.64775
+  },
+  {
+    "wikiId": "Q101152297",
+    "name": "Café Baba",
+    "cat": "coffeeHouse",
+    "lon": -5.81154,
+    "lat": 35.78781
+  },
+  {
+    "wikiId": "Q101153876",
+    "name": "Gran Café de Paris",
+    "cat": "coffeeHouse",
+    "lon": -5.8126051,
+    "lat": 35.7811246
+  },
+  {
+    "wikiId": "Q101252465",
+    "name": "Bemböle Coffeehouse",
+    "cat": "coffeeHouse",
+    "lon": 24.6735,
+    "lat": 60.2227
+  },
+  {
+    "wikiId": "Q101542078",
+    "name": "Thermopolium",
+    "cat": "coffeeHouse",
+    "lon": 18.069111111,
+    "lat": 59.325777777
+  },
+  {
+    "wikiId": "Q101567389",
+    "name": "Nokkalan Majakka",
+    "cat": "coffeeHouse",
+    "lon": 24.755,
+    "lat": 60.148
+  },
+  {
+    "wikiId": "Q102368861",
+    "name": "Pied Cow Coffeehouse",
+    "cat": "coffeeHouse",
+    "lon": -122.63138,
+    "lat": 45.51636
+  },
+  {
+    "wikiId": "Q103801636",
+    "name": "Güntherska",
+    "cat": "coffeeHouse",
+    "lon": 17.638305555,
+    "lat": 59.857833333
+  },
+  {
+    "wikiId": "Q103841597",
+    "name": "La Java",
+    "cat": "coffeeHouse",
+    "lon": 5.992208596,
+    "lat": 49.226922154
+  },
+  {
+    "wikiId": "Q103844498",
+    "name": "Le Consulat",
+    "cat": "coffeeHouse",
+    "lon": 2.339878303,
+    "lat": 48.887066541
+  },
+  {
+    "wikiId": "Q103845316",
+    "name": "La Bonne Franquette",
+    "cat": "coffeeHouse",
+    "lon": 2.33984855,
+    "lat": 48.887171834
+  },
+  {
+    "wikiId": "Q104144782",
+    "name": "Coffee Time (Portland, Oregon)",
+    "cat": "coffeeHouse",
+    "lon": -122.6942,
+    "lat": 45.528
+  },
+  {
+    "wikiId": "Q104156006",
+    "name": "Southeast Grind",
+    "cat": "coffeeHouse",
+    "lon": -122.6524,
+    "lat": 45.501
+  },
+  {
+    "wikiId": "Q104376981",
+    "name": "1988's Florist Cafe",
+    "cat": "coffeeHouse",
+    "lon": 102.567638888,
+    "lat": 2.046361111
+  },
+  {
+    "wikiId": "Q104819512",
+    "name": "URSA mtl",
+    "cat": "coffeeHouse",
+    "lon": -73.602748201,
+    "lat": 45.522858835
+  },
+  {
+    "wikiId": "Q104869803",
+    "name": "Vienna Café",
+    "cat": "coffeeHouse",
+    "lon": -0.1246,
+    "lat": 51.5173
+  },
+  {
+    "wikiId": "Q105192885",
+    "name": "Cardiff MADE",
+    "cat": "coffeeHouse",
+    "lon": -3.167617656,
+    "lat": 51.495674854
+  },
+  {
+    "wikiId": "Q105201933",
+    "name": "Café Annast",
+    "cat": "coffeeHouse",
+    "lon": 11.57818,
+    "lat": 48.14292
+  },
+  {
+    "wikiId": "Q105317140",
+    "name": "Miyama Omoshiro Noumin Club",
+    "cat": "coffeeHouse",
+    "lon": 135.620070618,
+    "lat": 35.304608258
+  },
+  {
+    "wikiId": "Q105359901",
+    "name": "Q105359901",
+    "cat": "coffeeHouse",
+    "lon": 28.664288,
+    "lat": 55.522171
+  },
+  {
+    "wikiId": "Q105675420",
+    "name": "Q105675420",
+    "cat": "coffeeHouse",
+    "lon": 14.634124,
+    "lat": 47.171716
+  },
+  {
+    "wikiId": "Q105709975",
+    "name": "Oscar Bergs konditori",
+    "cat": "coffeeHouse",
+    "lon": 18.068638888,
+    "lat": 59.330777777
+  },
+  {
+    "wikiId": "Q105710716",
+    "name": "Q105710716",
+    "cat": "coffeeHouse",
+    "lon": 12.42716965,
+    "lat": 47.52151571
+  },
+  {
+    "wikiId": "Q105748589",
+    "name": "Q105748589",
+    "cat": "coffeeHouse",
+    "lon": 18.073166666,
+    "lat": 59.334166666
+  },
+  {
+    "wikiId": "Q105949455",
+    "name": "Mammy's coffee",
+    "cat": "coffeeHouse",
+    "lon": 136.891318411,
+    "lat": 35.176134376
+  },
+  {
+    "wikiId": "Q105973768",
+    "name": "Q105973768",
+    "cat": "coffeeHouse",
+    "lon": 11.77270377,
+    "lat": 47.39220295
+  },
+  {
+    "wikiId": "Q105979435",
+    "name": "Q105979435",
+    "cat": "coffeeHouse",
+    "lon": 11.77222147,
+    "lat": 47.39200211
+  },
+  {
+    "wikiId": "Q106362263",
+    "name": "Skyline Queenstown",
+    "cat": "coffeeHouse",
+    "lon": 168.656235328,
+    "lat": -45.028549234
+  },
+  {
+    "wikiId": "Q106420412",
+    "name": "SHRUB Coop",
+    "cat": "coffeeHouse",
+    "lon": -3.2044775,
+    "lat": 55.9456931
+  },
+  {
+    "wikiId": "Q106494229",
+    "name": "Q106494229",
+    "cat": "coffeeHouse",
+    "lon": 21.026131,
+    "lat": 52.218946
+  },
+  {
+    "wikiId": "Q106638297",
+    "name": "Sylvis Döttrar",
+    "cat": "coffeeHouse",
+    "lon": 19.233957,
+    "lat": 57.96789
+  },
+  {
+    "wikiId": "Q106687725",
+    "name": "Silver Club & Café",
+    "cat": "coffeeHouse",
+    "lon": -115.14798066,
+    "lat": 36.185894869
+  },
+  {
+    "wikiId": "Q107129387",
+    "name": "Good Seed Coffee Roasters",
+    "cat": "coffeeHouse",
+    "lon": -120.1414914,
+    "lat": 34.5961871
+  },
+  {
+    "wikiId": "Q107401952",
+    "name": "Harvey's Gourmet Donut Bar",
+    "cat": "coffeeHouse",
+    "lon": -122.456206149,
+    "lat": 38.293241438
+  },
+  {
+    "wikiId": "Q107421358",
+    "name": "Ihana Kahvila (Nihti)",
+    "cat": "coffeeHouse",
+    "lon": 24.97185,
+    "lat": 60.177905555
+  },
+  {
+    "wikiId": "Q107607706",
+    "name": "Wiener Straße 4, Friesach",
+    "cat": "coffeeHouse",
+    "lon": 14.406156,
+    "lat": 46.951032
+  },
+  {
+    "wikiId": "Q107985196",
+    "name": "Serra Doce",
+    "cat": "coffeeHouse",
+    "lon": -74.35676,
+    "lat": 40.71703
+  },
+  {
+    "wikiId": "Q108104072",
+    "name": "Emil-Erlenmeyer-Forum 7",
+    "cat": "coffeeHouse",
+    "lon": 11.72431,
+    "lat": 48.39833
+  },
+  {
+    "wikiId": "Q108179858",
+    "name": "Binnenpad 68,  8355BV  Giethoorn",
+    "cat": "coffeeHouse",
+    "lon": 6.0899,
+    "lat": 52.72057
+  },
+  {
+    "wikiId": "Q108188049",
+    "name": "Q108188049",
+    "cat": "coffeeHouse",
+    "lon": 9.90232,
+    "lat": 53.72139
+  },
+  {
+    "wikiId": "Q108330656",
+    "name": "Café Kröpcke",
+    "cat": "coffeeHouse",
+    "lon": 9.739126,
+    "lat": 52.3741382
+  },
+  {
+    "wikiId": "Q108688297",
+    "name": "Holanka Bar",
+    "cat": "coffeeHouse",
+    "lon": 9.003161787,
+    "lat": 48.708436526
+  },
+  {
+    "wikiId": "Q108688314",
+    "name": "Q108688314",
+    "cat": "coffeeHouse",
+    "lon": 8.986027836,
+    "lat": 48.728433163
+  },
+  {
+    "wikiId": "Q108688327",
+    "name": "Ingrids Café",
+    "cat": "coffeeHouse",
+    "lon": 8.970578312,
+    "lat": 48.722052799
+  },
+  {
+    "wikiId": "Q108688343",
+    "name": "´s Café",
+    "cat": "coffeeHouse",
+    "lon": 9.001080393,
+    "lat": 48.709017071
+  },
+  {
+    "wikiId": "Q108697944",
+    "name": "Die Drei Billardcafé und Sportsbar",
+    "cat": "coffeeHouse",
+    "lon": 9.029565453,
+    "lat": 48.702559896
+  },
+  {
+    "wikiId": "Q108741922",
+    "name": "Le Café Richelieu",
+    "cat": "coffeeHouse",
+    "lon": 2.336204341,
+    "lat": 48.861637964
+  },
+  {
+    "wikiId": "Q108772756",
+    "name": "Pavillon des Canaux",
+    "cat": "coffeeHouse",
+    "lon": 2.378684577,
+    "lat": 48.887435511
+  },
+  {
+    "wikiId": "Q108781645",
+    "name": "Aux Tours de Notre-Dame",
+    "cat": "coffeeHouse",
+    "lon": 2.349433111,
+    "lat": 48.853630384
+  },
+  {
+    "wikiId": "Q108810944",
+    "name": "Le Pavillon du Lac",
+    "cat": "coffeeHouse",
+    "lon": 2.381009755,
+    "lat": 48.880771824
+  },
+  {
+    "wikiId": "Q108842367",
+    "name": "Theater Cafe",
+    "cat": "coffeeHouse",
+    "lon": 136.914006767,
+    "lat": 35.182284304
+  },
+  {
+    "wikiId": "Q108878343",
+    "name": "Q108878343",
+    "cat": "coffeeHouse",
+    "lon": 7.085604362,
+    "lat": 48.025528239
+  },
+  {
+    "wikiId": "Q108884947",
+    "name": "Fährhaus Niederkleveez",
+    "cat": "coffeeHouse",
+    "lon": 10.493864,
+    "lat": 54.158023
+  },
+  {
+    "wikiId": "Q108900093",
+    "name": "Au Clairon des Chasseurs",
+    "cat": "coffeeHouse",
+    "lon": 2.341127709,
+    "lat": 48.886536584
+  },
+  {
+    "wikiId": "Q108905070",
+    "name": "France Pastry",
+    "cat": "coffeeHouse",
+    "lon": 51.4003274,
+    "lat": 35.700848
+  },
+  {
+    "wikiId": "Q109042700",
+    "name": "Le Brébant",
+    "cat": "coffeeHouse",
+    "lon": 2.343390846,
+    "lat": 48.871619307
+  },
+  {
+    "wikiId": "Q109051044",
+    "name": "The Lodge",
+    "cat": "coffeeHouse",
+    "lon": -119.845110658,
+    "lat": 39.372071299
+  },
+  {
+    "wikiId": "Q109188768",
+    "name": "Salamander Cafe",
+    "cat": "coffeeHouse",
+    "lon": 7.461370435,
+    "lat": 9.076885025
+  },
+  {
+    "wikiId": "Q109189676",
+    "name": "Vintage Cafè",
+    "cat": "coffeeHouse",
+    "lon": 7.480448,
+    "lat": 9.083589
+  },
+  {
+    "wikiId": "Q109190554",
+    "name": "Café de vie",
+    "cat": "coffeeHouse",
+    "lon": 7.483207067,
+    "lat": 9.099058097
+  },
+  {
+    "wikiId": "Q109191679",
+    "name": "Bijou Cafe",
+    "cat": "coffeeHouse",
+    "lon": 7.471035765,
+    "lat": 9.071920961
+  },
+  {
+    "wikiId": "Q109191864",
+    "name": "xara cafe",
+    "cat": "coffeeHouse",
+    "lon": 7.488635,
+    "lat": 8.997105
+  },
+  {
+    "wikiId": "Q109192242",
+    "name": "PinkSugar Café",
+    "cat": "coffeeHouse",
+    "lon": 7.4894987,
+    "lat": 9.0849642
+  },
+  {
+    "wikiId": "Q109192616",
+    "name": "Sodic Garden",
+    "cat": "coffeeHouse",
+    "lon": 7.390444,
+    "lat": 9.091435
+  },
+  {
+    "wikiId": "Q109192838",
+    "name": "Sisi Bole",
+    "cat": "coffeeHouse",
+    "lon": 7.46317,
+    "lat": 9.075942
+  },
+  {
+    "wikiId": "Q109193069",
+    "name": "Habil Café",
+    "cat": "coffeeHouse",
+    "lon": 7.4853924,
+    "lat": 9.0815672
+  },
+  {
+    "wikiId": "Q109193628",
+    "name": "Nosta Cafe",
+    "cat": "coffeeHouse",
+    "lon": 7.47861326,
+    "lat": 9.06987741
+  },
+  {
+    "wikiId": "Q109194495",
+    "name": "Café Bufana",
+    "cat": "coffeeHouse",
+    "lon": 7.497701,
+    "lat": 9.076833
+  },
+  {
+    "wikiId": "Q109195233",
+    "name": "Dunes Cafe",
+    "cat": "coffeeHouse",
+    "lon": 7.485068,
+    "lat": 9.083939
+  },
+  {
+    "wikiId": "Q109196778",
+    "name": "House Forty Three",
+    "cat": "coffeeHouse",
+    "lon": 7.500438,
+    "lat": 9.077855
+  },
+  {
+    "wikiId": "Q109196792",
+    "name": "Metro Cafe & Grill",
+    "cat": "coffeeHouse",
+    "lon": 7.46294883,
+    "lat": 9.074432077
+  },
+  {
+    "wikiId": "Q109196835",
+    "name": "Hugs and Mugs Cafe",
+    "cat": "coffeeHouse",
+    "lon": 7.4978492,
+    "lat": 9.0767633
+  },
+  {
+    "wikiId": "Q109197954",
+    "name": "Grounded Cafe",
+    "cat": "coffeeHouse",
+    "lon": 7.4705232,
+    "lat": 9.0773453
+  },
+  {
+    "wikiId": "Q109198357",
+    "name": "Ohlalacious Cafe",
+    "cat": "coffeeHouse",
+    "lon": 7.473791,
+    "lat": 9.061132
+  },
+  {
+    "wikiId": "Q109198924",
+    "name": "Coco Cafe",
+    "cat": "coffeeHouse",
+    "lon": 7.4160498,
+    "lat": 9.0733538
+  },
+  {
+    "wikiId": "Q109201310",
+    "name": "Bunna Cafe",
+    "cat": "coffeeHouse",
+    "lon": 7.485286,
+    "lat": 9.067592
+  },
+  {
+    "wikiId": "Q109221250",
+    "name": "Bronz Cafe Gwarinpa",
+    "cat": "coffeeHouse",
+    "lon": 7.381971,
+    "lat": 9.116998
+  },
+  {
+    "wikiId": "Q109222758",
+    "name": "Hashtag Cafe and Bar",
+    "cat": "coffeeHouse",
+    "lon": 7.462483,
+    "lat": 9.060207
+  },
+  {
+    "wikiId": "Q109223212",
+    "name": "The Woodhouse Bar & Restaurant",
+    "cat": "coffeeHouse",
+    "lon": 7.41483,
+    "lat": 9.0696
+  },
+  {
+    "wikiId": "Q109223387",
+    "name": "Crossover Restaurant",
+    "cat": "coffeeHouse",
+    "lon": 7.478278,
+    "lat": 9.075854
+  },
+  {
+    "wikiId": "Q109223636",
+    "name": "The Hungryman Restaurant",
+    "cat": "coffeeHouse",
+    "lon": 7.485647,
+    "lat": 9.070696
+  },
+  {
+    "wikiId": "Q109223731",
+    "name": "Salt Cafe & Grill",
+    "cat": "coffeeHouse",
+    "lon": 7.4881894,
+    "lat": 9.0694123
+  },
+  {
+    "wikiId": "Q109229777",
+    "name": "Munlot Café",
+    "cat": "coffeeHouse",
+    "lon": 7.414811,
+    "lat": 9.107005
+  },
+  {
+    "wikiId": "Q109231091",
+    "name": "The Cube Café",
+    "cat": "coffeeHouse",
+    "lon": 7.500835,
+    "lat": 9.084201
+  },
+  {
+    "wikiId": "Q109231153",
+    "name": "Café Flour",
+    "cat": "coffeeHouse",
+    "lon": 7.4759391,
+    "lat": 9.0900568
+  },
+  {
+    "wikiId": "Q109231363",
+    "name": "Cake Hut Cafe",
+    "cat": "coffeeHouse",
+    "lon": 7.490402,
+    "lat": 9.068294
+  },
+  {
+    "wikiId": "Q109231545",
+    "name": "Levels Cafe",
+    "cat": "coffeeHouse",
+    "lon": 7.498797,
+    "lat": 9.086159
+  },
+  {
+    "wikiId": "Q109231576",
+    "name": "Kiosque (Abuja)",
+    "cat": "coffeeHouse",
+    "lon": 7.484604,
+    "lat": 9.028119
+  },
+  {
+    "wikiId": "Q109231824",
+    "name": "Bleu café",
+    "cat": "coffeeHouse",
+    "lon": 7.480871,
+    "lat": 9.068739
+  },
+  {
+    "wikiId": "Q109232292",
+    "name": "Maison The Cafe",
+    "cat": "coffeeHouse",
+    "lon": 7.4875053,
+    "lat": 9.0723585
+  },
+  {
+    "wikiId": "Q109232362",
+    "name": "Ur Cafe",
+    "cat": "coffeeHouse",
+    "lon": 7.4786876,
+    "lat": 9.0541094
+  },
+  {
+    "wikiId": "Q109232440",
+    "name": "Ventures park co-work spaces",
+    "cat": "coffeeHouse",
+    "lon": 7.475027,
+    "lat": 9.090746
+  },
+  {
+    "wikiId": "Q109232462",
+    "name": "Crow's Cafe",
+    "cat": "coffeeHouse",
+    "lon": 7.3890825,
+    "lat": 9.0657214
+  },
+  {
+    "wikiId": "Q109233837",
+    "name": "Diovisio Cafe",
+    "cat": "coffeeHouse",
+    "lon": 7.4165698,
+    "lat": 9.0795734
+  },
+  {
+    "wikiId": "Q109235684",
+    "name": "Relais cafe",
+    "cat": "coffeeHouse",
+    "lon": 7.512186,
+    "lat": 9.048896
+  },
+  {
+    "wikiId": "Q109248934",
+    "name": "Ketchup Cafe",
+    "cat": "coffeeHouse",
+    "lon": 7.462607081,
+    "lat": 9.079309474
+  },
+  {
+    "wikiId": "Q109250567",
+    "name": "AFRICAFE",
+    "cat": "coffeeHouse",
+    "lon": 7.4062014,
+    "lat": 9.1169594
+  },
+  {
+    "wikiId": "Q109252444",
+    "name": "BluCabana Restaurant & Cafe",
+    "cat": "coffeeHouse",
+    "lon": 7.436501,
+    "lat": 9.081284
+  },
+  {
+    "wikiId": "Q109268331",
+    "name": "Waffle Way",
+    "cat": "coffeeHouse",
+    "lon": 7.5001509,
+    "lat": 9.0775052
+  },
+  {
+    "wikiId": "Q109269878",
+    "name": "Everything But Coffee",
+    "cat": "coffeeHouse",
+    "lon": 7.479519,
+    "lat": 9.069757
+  },
+  {
+    "wikiId": "Q109269909",
+    "name": "A'binchis Café",
+    "cat": "coffeeHouse",
+    "lon": 7.475391,
+    "lat": 9.074586
+  },
+  {
+    "wikiId": "Q109285643",
+    "name": "Hootas Place Abuja",
+    "cat": "coffeeHouse",
+    "lon": 7.480943,
+    "lat": 9.068866
+  },
+  {
+    "wikiId": "Q109287047",
+    "name": "Strobrié By Joanne",
+    "cat": "coffeeHouse",
+    "lon": 7.4839785,
+    "lat": 9.0329194
+  },
+  {
+    "wikiId": "Q109289997",
+    "name": "UrbanLoft Cafe & Bar",
+    "cat": "coffeeHouse",
+    "lon": 7.466737,
+    "lat": 9.072214
+  },
+  {
+    "wikiId": "Q109294225",
+    "name": "The Milk Shop (Abuja)",
+    "cat": "coffeeHouse",
+    "lon": 7.5006477,
+    "lat": 9.0852477
+  },
+  {
+    "wikiId": "Q109329621",
+    "name": "Savoy",
+    "cat": "coffeeHouse",
+    "lon": 14.4744,
+    "lat": 48.9725
+  },
+  {
+    "wikiId": "Q109349914",
+    "name": "La Mouette Rieuse",
+    "cat": "coffeeHouse",
+    "lon": 2.361276698,
+    "lat": 48.85680034
+  },
+  {
+    "wikiId": "Q109352245",
+    "name": "Regus - Abuja",
+    "cat": "coffeeHouse",
+    "lon": 7.475279,
+    "lat": 9.04907
+  },
+  {
+    "wikiId": "Q109353160",
+    "name": "Librairie L'instant",
+    "cat": "coffeeHouse",
+    "lon": 2.285770576,
+    "lat": 48.842519113
+  },
+  {
+    "wikiId": "Q109380269",
+    "name": "Q109380269",
+    "cat": "coffeeHouse",
+    "lon": -8.406552684,
+    "lat": 43.35048741
+  },
+  {
+    "wikiId": "Q109444565",
+    "name": "Edifício do Café Colonial",
+    "cat": "coffeeHouse",
+    "lon": -8.807986,
+    "lat": 39.743
+  },
+  {
+    "wikiId": "Q109629308",
+    "name": "Bistrot Jutard",
+    "cat": "coffeeHouse",
+    "lon": 4.830873782,
+    "lat": 45.774567693
+  },
+  {
+    "wikiId": "Q109731289",
+    "name": "Le Renard Café",
+    "cat": "coffeeHouse",
+    "lon": 2.351422779,
+    "lat": 48.846281785
+  },
+  {
+    "wikiId": "Q109772974",
+    "name": "Think Coffee · 123 4th Ave",
+    "cat": "coffeeHouse",
+    "lon": -73.989688,
+    "lat": 40.733063
+  },
+  {
+    "wikiId": "Q109796908",
+    "name": "Cafe Dimanche",
+    "cat": "coffeeHouse",
+    "lon": 7.47910845,
+    "lat": 9.069046058
+  },
+  {
+    "wikiId": "Q109796924",
+    "name": "Cube Cafe",
+    "cat": "coffeeHouse",
+    "lon": 7.500828697,
+    "lat": 9.084396667
+  },
+  {
+    "wikiId": "Q109848806",
+    "name": "Q109848806",
+    "cat": "coffeeHouse",
+    "lon": 18.140555555,
+    "lat": 59.248055555
+  },
+  {
+    "wikiId": "Q110238836",
+    "name": "Milch- und Kaffeegarten zu Reudnitz",
+    "cat": "coffeeHouse",
+    "lon": 12.400852777,
+    "lat": 51.336811111
+  },
+  {
+    "wikiId": "Q110264422",
+    "name": "Boris & Horton · 195 Avenue A, New York, NY 10009",
+    "cat": "coffeeHouse",
+    "lon": -73.983645,
+    "lat": 40.7292874
+  },
+  {
+    "wikiId": "Q110357714",
+    "name": "Canada House",
+    "cat": "coffeeHouse",
+    "lon": 12.408619444,
+    "lat": 51.335961111
+  },
+  {
+    "wikiId": "Q110358021",
+    "name": "Stoffelch",
+    "cat": "coffeeHouse",
+    "lon": 12.408619444,
+    "lat": 51.335961111
+  },
+  {
+    "wikiId": "Q110440505",
+    "name": "Kindlers",
+    "cat": "coffeeHouse",
+    "lon": 9.14542654,
+    "lat": 49.352564563
+  },
+  {
+    "wikiId": "Q110453306",
+    "name": "Q110453306",
+    "cat": "coffeeHouse",
+    "lon": 0.866674729,
+    "lat": 41.5195874
+  },
+  {
+    "wikiId": "Q110488923",
+    "name": "Le Boudoir",
+    "cat": "coffeeHouse",
+    "lon": 29.90134,
+    "lat": 31.19537
+  },
+  {
+    "wikiId": "Q110497525",
+    "name": "Délices Patisserie",
+    "cat": "coffeeHouse",
+    "lon": 29.899485,
+    "lat": 31.200088
+  },
+  {
+    "wikiId": "Q110497577",
+    "name": "Trianon 1905",
+    "cat": "coffeeHouse",
+    "lon": 29.900027,
+    "lat": 31.200473
+  },
+  {
+    "wikiId": "Q110545275",
+    "name": "Café Vola",
+    "cat": "coffeeHouse",
+    "lon": 9.450641859,
+    "lat": 49.569112782
+  },
+  {
+    "wikiId": "Q110545481",
+    "name": "Q110545481",
+    "cat": "coffeeHouse",
+    "lon": 9.324683746,
+    "lat": 49.520757317
+  },
+  {
+    "wikiId": "Q110652823",
+    "name": "Flywheel Coffee Roasters · 672 Stanyan St, San Francisco, CA 94117",
+    "cat": "coffeeHouse",
+    "lon": -122.4534826,
+    "lat": 37.769625
+  },
+  {
+    "wikiId": "Q110653215",
+    "name": "Café Campana",
+    "cat": "coffeeHouse",
+    "lon": 2.326178402,
+    "lat": 48.860295023
+  },
+  {
+    "wikiId": "Q110947616",
+    "name": "Q110947616",
+    "cat": "coffeeHouse",
+    "lon": 14.4315,
+    "lat": 50.049888888
+  },
+  {
+    "wikiId": "Q111049230",
+    "name": "Alpha Coffee",
+    "cat": "coffeeHouse",
+    "lon": -111.79219,
+    "lat": 40.61901
+  },
+  {
+    "wikiId": "Q111049246",
+    "name": "Beans & Brews Coffee House",
+    "cat": "coffeeHouse",
+    "lon": -111.82398,
+    "lat": 40.62432
+  },
+  {
+    "wikiId": "Q111049271",
+    "name": "Java Jo's",
+    "cat": "coffeeHouse",
+    "lon": -111.8339,
+    "lat": 40.62538
+  },
+  {
+    "wikiId": "Q111308751",
+    "name": "AutoCamping",
+    "cat": "coffeeHouse",
+    "lon": 15.294062,
+    "lat": 52.332482
+  },
+  {
+    "wikiId": "Q111364117",
+    "name": "Q111364117",
+    "cat": "coffeeHouse",
+    "lon": 9.325775858,
+    "lat": 49.522251733
+  },
+  {
+    "wikiId": "Q111398756",
+    "name": "Starbucks Reserve Roastery",
+    "cat": "coffeeHouse",
+    "lon": -122.328194444,
+    "lat": 47.614027777
+  },
+  {
+    "wikiId": "Q111439936",
+    "name": "Cafe Tiamo",
+    "cat": "coffeeHouse",
+    "lon": 115.813274104,
+    "lat": -31.974661303
+  },
+  {
+    "wikiId": "Q111521431",
+    "name": "Café de la Paix",
+    "cat": "coffeeHouse",
+    "lon": 29.90237,
+    "lat": 31.20306
+  },
+  {
+    "wikiId": "Q111521717",
+    "name": "Brazilian Coffee Stores",
+    "cat": "coffeeHouse",
+    "lon": 29.89943,
+    "lat": 31.19975
+  },
+  {
+    "wikiId": "Q111522326",
+    "name": "Lail",
+    "cat": "coffeeHouse",
+    "lon": 29.9035,
+    "lat": 31.2019
+  },
+  {
+    "wikiId": "Q111523046",
+    "name": "ElMashrabia Roof Cafe",
+    "cat": "coffeeHouse",
+    "lon": 29.90276,
+    "lat": 31.20225
+  },
+  {
+    "wikiId": "Q111635271",
+    "name": "Café Piper",
+    "cat": "coffeeHouse",
+    "lon": 24.984783333,
+    "lat": 60.142141666
+  },
+  {
+    "wikiId": "Q111691972",
+    "name": "Cilantro",
+    "cat": "coffeeHouse",
+    "lon": 29.90755,
+    "lat": 31.20855
+  },
+  {
+    "wikiId": "Q111708672",
+    "name": "Q111708672",
+    "cat": "coffeeHouse",
+    "lon": 9.129254216,
+    "lat": 49.345029344
+  },
+  {
+    "wikiId": "Q111785233",
+    "name": "Q111785233",
+    "cat": "coffeeHouse",
+    "lon": 14.9079972,
+    "lat": 50.4156108
+  },
+  {
+    "wikiId": "Q111953762",
+    "name": "Q111953762",
+    "cat": "coffeeHouse",
+    "lon": 9.367704754,
+    "lat": 49.583204694
+  },
+  {
+    "wikiId": "Q112091828",
+    "name": "Q112091828",
+    "cat": "coffeeHouse",
+    "lon": 19.66586,
+    "lat": 48.32965
+  },
+  {
+    "wikiId": "Q112211024",
+    "name": "Q112211024",
+    "cat": "coffeeHouse",
+    "lon": -102.2993802,
+    "lat": 21.8804192
+  },
+  {
+    "wikiId": "Q112308855",
+    "name": "Konditori Kampanilen",
+    "cat": "coffeeHouse",
+    "lon": 11.932027777,
+    "lat": 57.698555555
+  },
+  {
+    "wikiId": "Q112659651",
+    "name": "Cafe gallery Kinone",
+    "cat": "coffeeHouse",
+    "lon": 135.504777274,
+    "lat": 34.70845677
+  },
+  {
+    "wikiId": "Q112704275",
+    "name": "L’Apéro Bistrot",
+    "cat": "coffeeHouse",
+    "lon": 29.90134,
+    "lat": 31.19537
+  },
+  {
+    "wikiId": "Q113004897",
+    "name": "Kafé Zenit",
+    "cat": "coffeeHouse",
+    "lon": 11.931611111,
+    "lat": 57.697694444
+  },
+  {
+    "wikiId": "Q113238024",
+    "name": "Färjenäs Café",
+    "cat": "coffeeHouse",
+    "lon": 11.900983,
+    "lat": 57.69541
+  },
+  {
+    "wikiId": "Q113238589",
+    "name": "Bertilssons Stuga",
+    "cat": "coffeeHouse",
+    "lon": 12.086286,
+    "lat": 57.685234
+  },
+  {
+    "wikiId": "Q113327739",
+    "name": "Postane, Beyoğlu",
+    "cat": "coffeeHouse",
+    "lon": 28.9741,
+    "lat": 41.02506
+  },
+  {
+    "wikiId": "Q113329850",
+    "name": "The Mutchmor and Providence Peace Cafe",
+    "cat": "coffeeHouse",
+    "lon": -82.269348144,
+    "lat": 45.673274993
+  },
+  {
+    "wikiId": "Q113495855",
+    "name": "Rocket House",
+    "cat": "coffeeHouse",
+    "lon": 1.304048,
+    "lat": 52.93116
+  },
+  {
+    "wikiId": "Q113631616",
+    "name": "Q113631616",
+    "cat": "coffeeHouse",
+    "lon": 9.326377538,
+    "lat": 49.521909948
+  }
+]
