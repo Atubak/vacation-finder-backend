@@ -1,0 +1,2970 @@
+[
+  {
+    "wikiId": "Q258961",
+    "name": "OK Hotel",
+    "cat": "bar",
+    "lon": -122.335194444,
+    "lat": 47.600411111
+  },
+  {
+    "wikiId": "Q266767",
+    "name": "75–80 Main Street, Port Charlotte",
+    "cat": "bar",
+    "lon": -6.37986111,
+    "lat": 55.73797222
+  },
+  {
+    "wikiId": "Q463452",
+    "name": "American Bar",
+    "cat": "bar",
+    "lon": 16.3712,
+    "lat": 48.2072
+  },
+  {
+    "wikiId": "Q851372",
+    "name": "Buddha Bar",
+    "cat": "bar",
+    "lon": 2.32136111,
+    "lat": 48.86797222
+  },
+  {
+    "wikiId": "Q1261362",
+    "name": "Stonewall Inn",
+    "cat": "bar",
+    "lon": -74.0021,
+    "lat": 40.733797222
+  },
+  {
+    "wikiId": "Q1283530",
+    "name": "Eden Bar",
+    "cat": "bar",
+    "lon": 16.3728,
+    "lat": 48.2073
+  },
+  {
+    "wikiId": "Q1324135",
+    "name": "Floridita",
+    "cat": "bar",
+    "lon": -82.357324,
+    "lat": 23.137317
+  },
+  {
+    "wikiId": "Q1334247",
+    "name": "Harry's New York Bar",
+    "cat": "bar",
+    "lon": 2.3321,
+    "lat": 48.8692
+  },
+  {
+    "wikiId": "Q1586965",
+    "name": "Harry's Bar",
+    "cat": "bar",
+    "lon": 12.337222222,
+    "lat": 45.4325
+  },
+  {
+    "wikiId": "Q1959870",
+    "name": "Havana",
+    "cat": "bar",
+    "lon": 4.889917,
+    "lat": 52.366667
+  },
+  {
+    "wikiId": "Q2005419",
+    "name": "O'Donoghue's Pub",
+    "cat": "bar",
+    "lon": -6.25388889,
+    "lat": 53.33805556
+  },
+  {
+    "wikiId": "Q2223777",
+    "name": "Q2223777",
+    "cat": "bar",
+    "lon": 5.91191,
+    "lat": 51.98479
+  },
+  {
+    "wikiId": "Q2263744",
+    "name": "Sobrino de Botín",
+    "cat": "bar",
+    "lon": -3.70808611,
+    "lat": 40.41421111
+  },
+  {
+    "wikiId": "Q2275399",
+    "name": "Vestekerk",
+    "cat": "bar",
+    "lon": 4.629769,
+    "lat": 52.381222
+  },
+  {
+    "wikiId": "Q2404922",
+    "name": "Bar Basso",
+    "cat": "bar",
+    "lon": 9.21758,
+    "lat": 45.4768
+  },
+  {
+    "wikiId": "Q2421042",
+    "name": "Waag",
+    "cat": "bar",
+    "lon": 4.358056,
+    "lat": 52.011111
+  },
+  {
+    "wikiId": "Q2425162",
+    "name": "Bodeguita del medio",
+    "cat": "bar",
+    "lon": -82.3522156,
+    "lat": 23.140774
+  },
+  {
+    "wikiId": "Q2786120",
+    "name": "April",
+    "cat": "bar",
+    "lon": 4.890667,
+    "lat": 52.366528
+  },
+  {
+    "wikiId": "Q2904140",
+    "name": "Sloppy Joe's",
+    "cat": "bar",
+    "lon": -81.805,
+    "lat": 24.558889
+  },
+  {
+    "wikiId": "Q3226863",
+    "name": "Le Saint-Germain-des-Pres",
+    "cat": "bar",
+    "lon": 2.33331,
+    "lat": 48.8546
+  },
+  {
+    "wikiId": "Q3232750",
+    "name": "Les Foufounes Électriques",
+    "cat": "bar",
+    "lon": -73.563,
+    "lat": 45.511
+  },
+  {
+    "wikiId": "Q3473877",
+    "name": "Satellite (Lausanne)",
+    "cat": "bar",
+    "lon": 6.56782,
+    "lat": 46.5206
+  },
+  {
+    "wikiId": "Q3538292",
+    "name": "Casa del Popolo",
+    "cat": "bar",
+    "lon": -73.5905,
+    "lat": 45.5222
+  },
+  {
+    "wikiId": "Q3634474",
+    "name": "Bar Jamaica",
+    "cat": "bar",
+    "lon": 9.18755,
+    "lat": 45.472589
+  },
+  {
+    "wikiId": "Q4276394",
+    "name": "McSorley's Old Ale House",
+    "cat": "bar",
+    "lon": -73.98966,
+    "lat": 40.72881
+  },
+  {
+    "wikiId": "Q4642366",
+    "name": "68–86 Bar and Restaurant",
+    "cat": "bar",
+    "lon": -0.181944,
+    "lat": 51.495
+  },
+  {
+    "wikiId": "Q4645896",
+    "name": "93 Feet East",
+    "cat": "bar",
+    "lon": -0.071388888,
+    "lat": 51.521666666
+  },
+  {
+    "wikiId": "Q4671345",
+    "name": "Academy Cinema",
+    "cat": "bar",
+    "lon": -2.5903,
+    "lat": 51.4646
+  },
+  {
+    "wikiId": "Q4920507",
+    "name": "Black Cat Bar",
+    "cat": "bar",
+    "lon": -122.403,
+    "lat": 37.7958
+  },
+  {
+    "wikiId": "Q4929467",
+    "name": "Blue Moon Tavern",
+    "cat": "bar",
+    "lon": -122.32,
+    "lat": 47.6615
+  },
+  {
+    "wikiId": "Q5017243",
+    "name": "Café Mambo",
+    "cat": "bar",
+    "lon": 1.296054,
+    "lat": 38.981171
+  },
+  {
+    "wikiId": "Q5017290",
+    "name": "Café ‘t Mandje",
+    "cat": "bar",
+    "lon": 4.90111111,
+    "lat": 52.37472222
+  },
+  {
+    "wikiId": "Q5092279",
+    "name": "Cherry Bar",
+    "cat": "bar",
+    "lon": 144.971,
+    "lat": -37.8156
+  },
+  {
+    "wikiId": "Q5127031",
+    "name": "Clayton Hotel Limerick",
+    "cat": "bar",
+    "lon": -8.637978,
+    "lat": 52.6602
+  },
+  {
+    "wikiId": "Q5148487",
+    "name": "Colony",
+    "cat": "bar",
+    "lon": -0.153611,
+    "lat": 51.5208
+  },
+  {
+    "wikiId": "Q5157702",
+    "name": "Comstock Saloon",
+    "cat": "bar",
+    "lon": -122.40559,
+    "lat": 37.79696
+  },
+  {
+    "wikiId": "Q5187381",
+    "name": "Crocodile Cafe",
+    "cat": "bar",
+    "lon": -122.344,
+    "lat": 47.6135
+  },
+  {
+    "wikiId": "Q5247260",
+    "name": "Death and Company",
+    "cat": "bar",
+    "lon": -73.9847,
+    "lat": 40.7259
+  },
+  {
+    "wikiId": "Q5353760",
+    "name": "Elbo Room",
+    "cat": "bar",
+    "lon": -80.1047,
+    "lat": 26.1195
+  },
+  {
+    "wikiId": "Q5474641",
+    "name": "Foundry",
+    "cat": "bar",
+    "lon": -0.0834,
+    "lat": 51.5262
+  },
+  {
+    "wikiId": "Q5523973",
+    "name": "Garrick Bar",
+    "cat": "bar",
+    "lon": -5.92666,
+    "lat": 54.5972
+  },
+  {
+    "wikiId": "Q5637302",
+    "name": "Gran Vía 12, Madrid",
+    "cat": "bar",
+    "lon": -3.69891389,
+    "lat": 40.41967222
+  },
+  {
+    "wikiId": "Q5665263",
+    "name": "Harrisburg Midtown Arts Center",
+    "cat": "bar",
+    "lon": -76.8882,
+    "lat": 40.2681
+  },
+  {
+    "wikiId": "Q5719201",
+    "name": "Q5719201",
+    "cat": "bar",
+    "lon": -77.028958888,
+    "lat": -12.044778055
+  },
+  {
+    "wikiId": "Q5822781",
+    "name": "El Pentagrama",
+    "cat": "bar",
+    "lon": -3.70164,
+    "lat": 40.426128
+  },
+  {
+    "wikiId": "Q5964187",
+    "name": "La Mallorquina",
+    "cat": "bar",
+    "lon": -3.70474444,
+    "lat": 40.4166
+  },
+  {
+    "wikiId": "Q5979239",
+    "name": "Los 36 Billares",
+    "cat": "bar",
+    "lon": -58.384356,
+    "lat": -34.60914
+  },
+  {
+    "wikiId": "Q6373371",
+    "name": "Karriere Bar",
+    "cat": "bar",
+    "lon": 12.561,
+    "lat": 55.6677
+  },
+  {
+    "wikiId": "Q6753928",
+    "name": "Maple Leaf Bar",
+    "cat": "bar",
+    "lon": -90.131986,
+    "lat": 29.94908
+  },
+  {
+    "wikiId": "Q6889940",
+    "name": "Moe's",
+    "cat": "bar",
+    "lon": -73.9747,
+    "lat": 40.687
+  },
+  {
+    "wikiId": "Q7175816",
+    "name": "Peter McManus Cafe",
+    "cat": "bar",
+    "lon": -73.997573,
+    "lat": 40.741863
+  },
+  {
+    "wikiId": "Q7305090",
+    "name": "Red Square",
+    "cat": "bar",
+    "lon": -115.176669,
+    "lat": 36.092197
+  },
+  {
+    "wikiId": "Q7492186",
+    "name": "Shearer's Bar",
+    "cat": "bar",
+    "lon": -1.62094,
+    "lat": 54.9748
+  },
+  {
+    "wikiId": "Q7537148",
+    "name": "SkyBar",
+    "cat": "bar",
+    "lon": -118.3742,
+    "lat": 34.09442
+  },
+  {
+    "wikiId": "Q7540896",
+    "name": "Slippery Noodle Inn",
+    "cat": "bar",
+    "lon": -86.1586,
+    "lat": 39.7617
+  },
+  {
+    "wikiId": "Q7621574",
+    "name": "Strangers' Bar",
+    "cat": "bar",
+    "lon": -0.124167,
+    "lat": 51.4997
+  },
+  {
+    "wikiId": "Q7754130",
+    "name": "The Night and Day Café",
+    "cat": "bar",
+    "lon": -2.23528,
+    "lat": 53.4825
+  },
+  {
+    "wikiId": "Q7854858",
+    "name": "Turf Club",
+    "cat": "bar",
+    "lon": -93.1678,
+    "lat": 44.9558
+  },
+  {
+    "wikiId": "Q9018816",
+    "name": "Bar La Perla",
+    "cat": "bar",
+    "lon": -58.405538,
+    "lat": -34.609824
+  },
+  {
+    "wikiId": "Q9648147",
+    "name": "Bar Vesúvio",
+    "cat": "bar",
+    "lon": -39.0347373,
+    "lat": -14.7991478
+  },
+  {
+    "wikiId": "Q9750981",
+    "name": "Choperia Pinguim",
+    "cat": "bar",
+    "lon": -47.8099,
+    "lat": -21.17471944
+  },
+  {
+    "wikiId": "Q11590836",
+    "name": "Kamiya Bar",
+    "cat": "bar",
+    "lon": 139.797464,
+    "lat": 35.710944
+  },
+  {
+    "wikiId": "Q12261187",
+    "name": "Kafe Antzokia",
+    "cat": "bar",
+    "lon": -2.92791667,
+    "lat": 43.26388889
+  },
+  {
+    "wikiId": "Q12314786",
+    "name": "Q12314786",
+    "cat": "bar",
+    "lon": 14.80064444,
+    "lat": 55.27704167
+  },
+  {
+    "wikiId": "Q12333557",
+    "name": "Ris Ras Filliongongong",
+    "cat": "bar",
+    "lon": 10.212253564,
+    "lat": 56.158422293
+  },
+  {
+    "wikiId": "Q12341137",
+    "name": "Vinstue 90",
+    "cat": "bar",
+    "lon": 12.5486,
+    "lat": 55.6749
+  },
+  {
+    "wikiId": "Q12350703",
+    "name": "KoToPo",
+    "cat": "bar",
+    "lon": 4.833217,
+    "lat": 45.769682
+  },
+  {
+    "wikiId": "Q14707266",
+    "name": "Saint Vitus (venue)",
+    "cat": "bar",
+    "lon": -73.9552,
+    "lat": 40.7368
+  },
+  {
+    "wikiId": "Q15221133",
+    "name": "Freud",
+    "cat": "bar",
+    "lon": -1.26478,
+    "lat": 51.75946
+  },
+  {
+    "wikiId": "Q16493611",
+    "name": "La Batuta",
+    "cat": "bar",
+    "lon": -70.59422778,
+    "lat": -33.45458611
+  },
+  {
+    "wikiId": "Q16496717",
+    "name": "Bar Estadão",
+    "cat": "bar",
+    "lon": -46.6426842,
+    "lat": -23.548719
+  },
+  {
+    "wikiId": "Q16496721",
+    "name": "Bar Luiz",
+    "cat": "bar",
+    "lon": -43.1801284,
+    "lat": -22.9066877
+  },
+  {
+    "wikiId": "Q16535985",
+    "name": "Bar Britanico",
+    "cat": "bar",
+    "lon": -58.371075,
+    "lat": -34.62521
+  },
+  {
+    "wikiId": "Q16626681",
+    "name": "Balajo",
+    "cat": "bar",
+    "lon": 2.37214804,
+    "lat": 48.85398102
+  },
+  {
+    "wikiId": "Q16896934",
+    "name": "Oslo",
+    "cat": "bar",
+    "lon": -0.055575,
+    "lat": 51.54728333
+  },
+  {
+    "wikiId": "Q17103239",
+    "name": "Sir Henry's",
+    "cat": "bar",
+    "lon": -8.476,
+    "lat": 51.896
+  },
+  {
+    "wikiId": "Q17189261",
+    "name": "Q17189261",
+    "cat": "bar",
+    "lon": 5.283056,
+    "lat": 52.189444
+  },
+  {
+    "wikiId": "Q17195404",
+    "name": "'t Hemeltje",
+    "cat": "bar",
+    "lon": 4.61845,
+    "lat": 52.4026
+  },
+  {
+    "wikiId": "Q17302661",
+    "name": "Q17302661",
+    "cat": "bar",
+    "lon": 4.89507,
+    "lat": 52.37284
+  },
+  {
+    "wikiId": "Q17459615",
+    "name": "Stationsweg 51, Meppel",
+    "cat": "bar",
+    "lon": 6.19708,
+    "lat": 52.69243
+  },
+  {
+    "wikiId": "Q96604645",
+    "name": "Q96604645",
+    "cat": "bar",
+    "lon": 2.307843383,
+    "lat": 48.929614485
+  },
+  {
+    "wikiId": "Q96891591",
+    "name": "Q96891591",
+    "cat": "bar",
+    "lon": 13.349139,
+    "lat": 52.497944
+  },
+  {
+    "wikiId": "Q97136432",
+    "name": "Valley Bar + Bottle Shop",
+    "cat": "bar",
+    "lon": -122.459193,
+    "lat": 38.292319
+  },
+  {
+    "wikiId": "Q97159831",
+    "name": "The Odd Couple",
+    "cat": "bar",
+    "lon": 121.4747929,
+    "lat": 31.2200429
+  },
+  {
+    "wikiId": "Q97620711",
+    "name": "Bar Gómez",
+    "cat": "bar",
+    "lon": -5.385833239,
+    "lat": 36.696957065
+  },
+  {
+    "wikiId": "Q97925369",
+    "name": "Techtle Mechtle",
+    "cat": "bar",
+    "lon": 14.44025,
+    "lat": 50.07748
+  },
+  {
+    "wikiId": "Q98124913",
+    "name": "Module #5",
+    "cat": "bar",
+    "lon": 7.44917,
+    "lat": 46.94439
+  },
+  {
+    "wikiId": "Q98642649",
+    "name": "7 Gramm",
+    "cat": "bar",
+    "lon": 11.969912,
+    "lat": 51.485444
+  },
+  {
+    "wikiId": "Q99360020",
+    "name": "Pijalnia Wódki i Piwa",
+    "cat": "bar",
+    "lon": 15.141068,
+    "lat": 51.639125
+  },
+  {
+    "wikiId": "Q100811068",
+    "name": "Bar’Oro",
+    "cat": "bar",
+    "lon": 31.232543055,
+    "lat": 30.046065
+  },
+  {
+    "wikiId": "Q101059976",
+    "name": "Espiga",
+    "cat": "bar",
+    "lon": -8.6192968,
+    "lat": 41.1487306
+  },
+  {
+    "wikiId": "Q102170851",
+    "name": "Le Gaulois",
+    "cat": "bar",
+    "lon": 4.02803,
+    "lat": 49.2544
+  },
+  {
+    "wikiId": "Q103464445",
+    "name": "La Rascasse",
+    "cat": "bar",
+    "lon": 7.42332,
+    "lat": 43.73259
+  },
+  {
+    "wikiId": "Q103892421",
+    "name": "Buddha Bar",
+    "cat": "bar",
+    "lon": 2.320663681,
+    "lat": 48.8694576
+  },
+  {
+    "wikiId": "Q104536858",
+    "name": "The Garage on Motor",
+    "cat": "bar",
+    "lon": -118.409942113,
+    "lat": 34.027674273
+  },
+  {
+    "wikiId": "Q104540768",
+    "name": "Luckenbach General Store",
+    "cat": "bar",
+    "lon": -98.756228061,
+    "lat": 30.179009717
+  },
+  {
+    "wikiId": "Q104643381",
+    "name": "Beach Bar Między Mostami",
+    "cat": "bar",
+    "lon": 15.333074,
+    "lat": 51.609515
+  },
+  {
+    "wikiId": "Q104776524",
+    "name": "L'Instant",
+    "cat": "bar",
+    "lon": 4.957710495,
+    "lat": 45.825784715
+  },
+  {
+    "wikiId": "Q104786130",
+    "name": "Cairo Jazz Club",
+    "cat": "bar",
+    "lon": 31.211933,
+    "lat": 30.062193
+  },
+  {
+    "wikiId": "Q104881105",
+    "name": "Expatriate",
+    "cat": "bar",
+    "lon": -122.6346,
+    "lat": 45.5624
+  },
+  {
+    "wikiId": "Q105350567",
+    "name": "BAR nox",
+    "cat": "bar",
+    "lon": 136.892671889,
+    "lat": 35.170785008
+  },
+  {
+    "wikiId": "Q105453567",
+    "name": "Bar restaurant de la Saline Royale",
+    "cat": "bar",
+    "lon": 5.77885738,
+    "lat": 47.031684801
+  },
+  {
+    "wikiId": "Q105757896",
+    "name": "Mojčin dom na Vitrancu",
+    "cat": "bar",
+    "lon": 13.760145,
+    "lat": 46.476126
+  },
+  {
+    "wikiId": "Q105914858",
+    "name": "Victoria Tavern",
+    "cat": "bar",
+    "lon": -83.01475,
+    "lat": 42.32374
+  },
+  {
+    "wikiId": "Q105973204",
+    "name": "Shift Drinks",
+    "cat": "bar",
+    "lon": -122.684444444,
+    "lat": 45.5205
+  },
+  {
+    "wikiId": "Q106091223",
+    "name": "Bar Zilli",
+    "cat": "bar",
+    "lon": 38.9295,
+    "lat": 15.3317
+  },
+  {
+    "wikiId": "Q106362263",
+    "name": "Skyline Queenstown",
+    "cat": "bar",
+    "lon": 168.656235328,
+    "lat": -45.028549234
+  },
+  {
+    "wikiId": "Q106367526",
+    "name": "Taub Family Outpost",
+    "cat": "bar",
+    "lon": -122.459144,
+    "lat": 38.292171
+  },
+  {
+    "wikiId": "Q106620677",
+    "name": "Bar das Palmeiras",
+    "cat": "bar",
+    "lon": -9.13539,
+    "lat": 38.71893
+  },
+  {
+    "wikiId": "Q106687718",
+    "name": "Westside Story",
+    "cat": "bar",
+    "lon": -115.153365888,
+    "lat": 36.188560783
+  },
+  {
+    "wikiId": "Q106688813",
+    "name": "Botanist House",
+    "cat": "bar",
+    "lon": -122.68513,
+    "lat": 45.52962
+  },
+  {
+    "wikiId": "Q106928335",
+    "name": "Lupo's Heartbreak Hotel",
+    "cat": "bar",
+    "lon": -71.4172713,
+    "lat": 41.8214421
+  },
+  {
+    "wikiId": "Q106935620",
+    "name": "Eem",
+    "cat": "bar",
+    "lon": -122.666555555,
+    "lat": 45.550694444
+  },
+  {
+    "wikiId": "Q106975846",
+    "name": "Penjaland",
+    "cat": "bar",
+    "lon": 11.544172238,
+    "lat": 3.87670274
+  },
+  {
+    "wikiId": "Q106978805",
+    "name": "Apollon platebar",
+    "cat": "bar",
+    "lon": 5.323267096,
+    "lat": 60.389648864
+  },
+  {
+    "wikiId": "Q107318308",
+    "name": "Frank Fossati Saloon",
+    "cat": "bar",
+    "lon": -97.006856611,
+    "lat": 28.797325333
+  },
+  {
+    "wikiId": "Q107318504",
+    "name": "Boehlers Bar and Grill",
+    "cat": "bar",
+    "lon": -98.478387891,
+    "lat": 29.444876764
+  },
+  {
+    "wikiId": "Q107318657",
+    "name": "White Elephant Saloon",
+    "cat": "bar",
+    "lon": -98.869533258,
+    "lat": 30.27317346
+  },
+  {
+    "wikiId": "Q107319199",
+    "name": "Saloon",
+    "cat": "bar",
+    "lon": -97.51998754,
+    "lat": 33.693111595
+  },
+  {
+    "wikiId": "Q107319715",
+    "name": "Old Rock Saloon",
+    "cat": "bar",
+    "lon": -97.130670145,
+    "lat": 32.010722501
+  },
+  {
+    "wikiId": "Q107320416",
+    "name": "Destiny",
+    "cat": "bar",
+    "lon": -97.787039465,
+    "lat": 32.443197524
+  },
+  {
+    "wikiId": "Q107321543",
+    "name": "Kahn Saloon",
+    "cat": "bar",
+    "lon": -94.344506751,
+    "lat": 32.756638452
+  },
+  {
+    "wikiId": "Q107321544",
+    "name": "McGarity's Saloon",
+    "cat": "bar",
+    "lon": -94.343806787,
+    "lat": 32.756459021
+  },
+  {
+    "wikiId": "Q107322772",
+    "name": "Grey Mule Saloon",
+    "cat": "bar",
+    "lon": -102.878980685,
+    "lat": 30.883497507
+  },
+  {
+    "wikiId": "Q107329817",
+    "name": "White Elephant Saloon",
+    "cat": "bar",
+    "lon": -99.297382645,
+    "lat": 32.721509986
+  },
+  {
+    "wikiId": "Q107597023",
+    "name": "Rum Bullions Island Bar",
+    "cat": "bar",
+    "lon": -119.814647571,
+    "lat": 39.530639564
+  },
+  {
+    "wikiId": "Q107616792",
+    "name": "B&V Whiskey Bar & Grill",
+    "cat": "bar",
+    "lon": -122.456218681,
+    "lat": 38.29342481
+  },
+  {
+    "wikiId": "Q107638651",
+    "name": "Cocktail Lounge at the Atrium",
+    "cat": "bar",
+    "lon": -119.793830762,
+    "lat": 39.489316542
+  },
+  {
+    "wikiId": "Q107656272",
+    "name": "The Beacon at the Outpost",
+    "cat": "bar",
+    "lon": -122.459187437,
+    "lat": 38.292149024
+  },
+  {
+    "wikiId": "Q107673012",
+    "name": "I Love Sugar",
+    "cat": "bar",
+    "lon": -115.171298362,
+    "lat": 36.117392165
+  },
+  {
+    "wikiId": "Q107673698",
+    "name": "Taco Bell Cantina in Las Vegas",
+    "cat": "bar",
+    "lon": -115.172198473,
+    "lat": 36.108500312
+  },
+  {
+    "wikiId": "Q107793760",
+    "name": "The Alchemists' Garden",
+    "cat": "bar",
+    "lon": -120.688584837,
+    "lat": 35.626664274
+  },
+  {
+    "wikiId": "Q107973873",
+    "name": "Slade's Bar & Grill",
+    "cat": "bar",
+    "lon": -71.08362,
+    "lat": 42.33726
+  },
+  {
+    "wikiId": "Q107985930",
+    "name": "Ristorante Torre",
+    "cat": "bar",
+    "lon": 9.20353,
+    "lat": 45.44411
+  },
+  {
+    "wikiId": "Q108099505",
+    "name": "Q108099505",
+    "cat": "bar",
+    "lon": -1.762705402,
+    "lat": 43.345041274
+  },
+  {
+    "wikiId": "Q108299731",
+    "name": "Männerkeller",
+    "cat": "bar",
+    "lon": 13.3795621,
+    "lat": 54.0965582
+  },
+  {
+    "wikiId": "Q108352873",
+    "name": "Q108352873",
+    "cat": "bar",
+    "lon": -38.5091967,
+    "lat": -12.9674649
+  },
+  {
+    "wikiId": "Q108566082",
+    "name": "Le Cochon à Plumes",
+    "cat": "bar",
+    "lon": 4.02582,
+    "lat": 49.25674
+  },
+  {
+    "wikiId": "Q108582240",
+    "name": "La Bodega",
+    "cat": "bar",
+    "lon": 4.0240726,
+    "lat": 49.2561181
+  },
+  {
+    "wikiId": "Q108688297",
+    "name": "Holanka Bar",
+    "cat": "bar",
+    "lon": 9.003161787,
+    "lat": 48.708436526
+  },
+  {
+    "wikiId": "Q108697944",
+    "name": "Die Drei Billardcafé und Sportsbar",
+    "cat": "bar",
+    "lon": 9.029565453,
+    "lat": 48.702559896
+  },
+  {
+    "wikiId": "Q108808399",
+    "name": "Sofa Pub",
+    "cat": "bar",
+    "lon": 15.533547,
+    "lat": 52.250362
+  },
+  {
+    "wikiId": "Q108828070",
+    "name": "Blackbird",
+    "cat": "bar",
+    "lon": -122.42961556,
+    "lat": 37.767290676
+  },
+  {
+    "wikiId": "Q109047653",
+    "name": "Bear Belly Brewing Company",
+    "cat": "bar",
+    "lon": -120.024011014,
+    "lat": 39.237588911
+  },
+  {
+    "wikiId": "Q109051044",
+    "name": "The Lodge",
+    "cat": "bar",
+    "lon": -119.845110658,
+    "lat": 39.372071299
+  },
+  {
+    "wikiId": "Q109104545",
+    "name": "Roxy",
+    "cat": "bar",
+    "lon": -119.814304981,
+    "lat": 39.529660825
+  },
+  {
+    "wikiId": "Q109132445",
+    "name": "Guitar Bar",
+    "cat": "bar",
+    "lon": -119.962678243,
+    "lat": 39.511791894
+  },
+  {
+    "wikiId": "Q109251969",
+    "name": "California Club",
+    "cat": "bar",
+    "lon": -121.078160113,
+    "lat": 38.895882212
+  },
+  {
+    "wikiId": "Q109289997",
+    "name": "UrbanLoft Cafe & Bar",
+    "cat": "bar",
+    "lon": 7.466737,
+    "lat": 9.072214
+  },
+  {
+    "wikiId": "Q109366437",
+    "name": "Funplex Resort",
+    "cat": "bar",
+    "lon": 3.369329,
+    "lat": 6.612047
+  },
+  {
+    "wikiId": "Q17461583",
+    "name": "'t Gemeentehuis (Bedum)",
+    "cat": "bar",
+    "lon": 6.60134,
+    "lat": 53.30119
+  },
+  {
+    "wikiId": "Q17461911",
+    "name": "Q17461911",
+    "cat": "bar",
+    "lon": 6.68796,
+    "lat": 53.09591
+  },
+  {
+    "wikiId": "Q17464933",
+    "name": "Q17464933",
+    "cat": "bar",
+    "lon": 6.3919,
+    "lat": 53.18015
+  },
+  {
+    "wikiId": "Q17568207",
+    "name": "17-21 Drury Street, Horse Shoe Bar",
+    "cat": "bar",
+    "lon": -4.25644,
+    "lat": 55.8608
+  },
+  {
+    "wikiId": "Q17595068",
+    "name": "Q17595068",
+    "cat": "bar",
+    "lon": 5.94029,
+    "lat": 51.67373
+  },
+  {
+    "wikiId": "Q17596621",
+    "name": "Q17596621",
+    "cat": "bar",
+    "lon": 5.63449,
+    "lat": 51.52935
+  },
+  {
+    "wikiId": "Q17612786",
+    "name": "Onder de Linden, Amersfoort",
+    "cat": "bar",
+    "lon": 5.39021,
+    "lat": 52.15709
+  },
+  {
+    "wikiId": "Q18158075",
+    "name": "Sister Louisa's Church of the Living Room and Ping Pong Emporium",
+    "cat": "bar",
+    "lon": -84.3723,
+    "lat": 33.7544
+  },
+  {
+    "wikiId": "Q18222706",
+    "name": "Bar Bianco",
+    "cat": "bar",
+    "lon": 9.177546,
+    "lat": 45.473592
+  },
+  {
+    "wikiId": "Q18552345",
+    "name": "Tjili Pop",
+    "cat": "bar",
+    "lon": 12.54997,
+    "lat": 55.686462
+  },
+  {
+    "wikiId": "Q18627469",
+    "name": "Bar Bosch",
+    "cat": "bar",
+    "lon": 2.6474,
+    "lat": 39.5713
+  },
+  {
+    "wikiId": "Q19460368",
+    "name": "Bar Marco",
+    "cat": "bar",
+    "lon": -79.981541,
+    "lat": 40.452511
+  },
+  {
+    "wikiId": "Q19595386",
+    "name": "Casina degli Ippocastani",
+    "cat": "bar",
+    "lon": 12.733783333,
+    "lat": 42.731011111
+  },
+  {
+    "wikiId": "Q19964822",
+    "name": "Q19964822",
+    "cat": "bar",
+    "lon": 10.52805996,
+    "lat": 52.2650795
+  },
+  {
+    "wikiId": "Q20639968",
+    "name": "La Cepa",
+    "cat": "bar",
+    "lon": -1.984958,
+    "lat": 43.324321
+  },
+  {
+    "wikiId": "Q20908858",
+    "name": "Bar Los Gabrieles",
+    "cat": "bar",
+    "lon": -3.699605555,
+    "lat": 40.415622222
+  },
+  {
+    "wikiId": "Q21043432",
+    "name": "Le dernier bar avant la fin du monde",
+    "cat": "bar",
+    "lon": 2.3464679,
+    "lat": 48.8579242
+  },
+  {
+    "wikiId": "Q21079412",
+    "name": "Little River Inn",
+    "cat": "bar",
+    "lon": -123.789013888,
+    "lat": 39.271941666
+  },
+  {
+    "wikiId": "Q21757778",
+    "name": "Champagnebaren",
+    "cat": "bar",
+    "lon": 12.55789,
+    "lat": 55.66637
+  },
+  {
+    "wikiId": "Q22920960",
+    "name": "3 rue Étienne-Marcel, Paris",
+    "cat": "bar",
+    "lon": 2.350556,
+    "lat": 48.863611
+  },
+  {
+    "wikiId": "Q22920961",
+    "name": "Le Cochon à l'Oreille",
+    "cat": "bar",
+    "lon": 2.345278,
+    "lat": 48.864444
+  },
+  {
+    "wikiId": "Q22920962",
+    "name": "91 rue Saint-Denis - 79 rue Rambuteau, Paris",
+    "cat": "bar",
+    "lon": 2.349444,
+    "lat": 48.862222
+  },
+  {
+    "wikiId": "Q22921176",
+    "name": "Café-Bar, 143 rue Saint-Denis",
+    "cat": "bar",
+    "lon": 2.350278,
+    "lat": 48.864444
+  },
+  {
+    "wikiId": "Q22921255",
+    "name": "105 rue du Temple, Paris",
+    "cat": "bar",
+    "lon": 2.3575,
+    "lat": 48.862222
+  },
+  {
+    "wikiId": "Q22921407",
+    "name": "24 rue Chanoinesse, Paris",
+    "cat": "bar",
+    "lon": 2.350278,
+    "lat": 48.854167
+  },
+  {
+    "wikiId": "Q22921988",
+    "name": "Restaurant de la Grille",
+    "cat": "bar",
+    "lon": 2.348611,
+    "lat": 48.876667
+  },
+  {
+    "wikiId": "Q22922068",
+    "name": "Bistrot du Peintre",
+    "cat": "bar",
+    "lon": 2.3775,
+    "lat": 48.853333
+  },
+  {
+    "wikiId": "Q22922207",
+    "name": "Le Petit Rétro",
+    "cat": "bar",
+    "lon": 2.285,
+    "lat": 48.869167
+  },
+  {
+    "wikiId": "Q22922282",
+    "name": "Q22922282",
+    "cat": "bar",
+    "lon": 2.337222,
+    "lat": 48.8825
+  },
+  {
+    "wikiId": "Q22924485",
+    "name": "La Grille Saint Germain",
+    "cat": "bar",
+    "lon": 2.335278,
+    "lat": 48.851944
+  },
+  {
+    "wikiId": "Q22924486",
+    "name": "26 rue de Seine, Paris",
+    "cat": "bar",
+    "lon": 2.336667,
+    "lat": 48.855556
+  },
+  {
+    "wikiId": "Q22986643",
+    "name": "Ancien bar du Centre",
+    "cat": "bar",
+    "lon": 4.81231,
+    "lat": 43.94964
+  },
+  {
+    "wikiId": "Q23297706",
+    "name": "Amstel Taveerne",
+    "cat": "bar",
+    "lon": 4.895667,
+    "lat": 52.366861
+  },
+  {
+    "wikiId": "Q23590697",
+    "name": "Hviids Vinstue",
+    "cat": "bar",
+    "lon": 12.58472,
+    "lat": 55.67978
+  },
+  {
+    "wikiId": "Q23596044",
+    "name": "Jernbanecafeen",
+    "cat": "bar",
+    "lon": 12.56361,
+    "lat": 55.67216
+  },
+  {
+    "wikiId": "Q23807416",
+    "name": "La jazz cava",
+    "cat": "bar",
+    "lon": 2.258469444,
+    "lat": 41.929297222
+  },
+  {
+    "wikiId": "Q24341636",
+    "name": "Bar Muy Buenas",
+    "cat": "bar",
+    "lon": 2.168013888,
+    "lat": 41.380933333
+  },
+  {
+    "wikiId": "Q25344890",
+    "name": "The Hideout Inn",
+    "cat": "bar",
+    "lon": -87.662536,
+    "lat": 41.913808
+  },
+  {
+    "wikiId": "Q25345731",
+    "name": "The Know",
+    "cat": "bar",
+    "lon": -122.64432,
+    "lat": 45.55893
+  },
+  {
+    "wikiId": "Q26232206",
+    "name": "Q26232206",
+    "cat": "bar",
+    "lon": 4.893889,
+    "lat": 52.372056
+  },
+  {
+    "wikiId": "Q26262665",
+    "name": "Old Bar",
+    "cat": "bar",
+    "lon": -1.555823,
+    "lat": 53.806747
+  },
+  {
+    "wikiId": "Q26299937",
+    "name": "The White Hart Hotel Bar",
+    "cat": "bar",
+    "lon": -1.166099719,
+    "lat": 51.6446278
+  },
+  {
+    "wikiId": "Q26502415",
+    "name": "Former Red Lion Hotel And Ellesmere Chambers",
+    "cat": "bar",
+    "lon": -2.697077,
+    "lat": 53.758758
+  },
+  {
+    "wikiId": "Q26541673",
+    "name": "Nakatcha",
+    "cat": "bar",
+    "lon": -2.525521,
+    "lat": 53.067766
+  },
+  {
+    "wikiId": "Q27235433",
+    "name": "Hvide Lam",
+    "cat": "bar",
+    "lon": 12.57404,
+    "lat": 55.68213
+  },
+  {
+    "wikiId": "Q27927797",
+    "name": "Basement Bar",
+    "cat": "bar",
+    "lon": 174.7830893,
+    "lat": -41.294611
+  },
+  {
+    "wikiId": "Q28153579",
+    "name": "Tivoli Bar and Grill",
+    "cat": "bar",
+    "lon": -117.158972222,
+    "lat": 32.710555555
+  },
+  {
+    "wikiId": "Q28457546",
+    "name": "Double Header",
+    "cat": "bar",
+    "lon": -122.3322932,
+    "lat": 47.60114
+  },
+  {
+    "wikiId": "Q28472236",
+    "name": "Ti Beudeff",
+    "cat": "bar",
+    "lon": -3.448439,
+    "lat": 47.642606
+  },
+  {
+    "wikiId": "Q29046898",
+    "name": "Schiller",
+    "cat": "bar",
+    "lon": 4.896417,
+    "lat": 52.365583
+  },
+  {
+    "wikiId": "Q29484629",
+    "name": "Cellar Bar of The Torrent Walk Hotel",
+    "cat": "bar",
+    "lon": -3.884654,
+    "lat": 52.742686
+  },
+  {
+    "wikiId": "Q29486236",
+    "name": "Bar to The Bear Hotel, High Street",
+    "cat": "bar",
+    "lon": -3.1370229,
+    "lat": 51.859322
+  },
+  {
+    "wikiId": "Q29632363",
+    "name": "Q29632363",
+    "cat": "bar",
+    "lon": -1.648025661,
+    "lat": 42.817478519
+  },
+  {
+    "wikiId": "Q30070624",
+    "name": "Q30070624",
+    "cat": "bar",
+    "lon": -3.701758333,
+    "lat": 40.423769444
+  },
+  {
+    "wikiId": "Q30086996",
+    "name": "Villa-Rosa, Madrid",
+    "cat": "bar",
+    "lon": -3.70141944,
+    "lat": 40.41488056
+  },
+  {
+    "wikiId": "Q30133833",
+    "name": "Alte Utting",
+    "cat": "bar",
+    "lon": 11.5563438,
+    "lat": 48.1199311
+  },
+  {
+    "wikiId": "Q33083980",
+    "name": "Albert Theatre & Opera House, Brighouse",
+    "cat": "bar",
+    "lon": -1.780336111,
+    "lat": 53.700533333
+  },
+  {
+    "wikiId": "Q34368539",
+    "name": "House Marienplatz 19",
+    "cat": "bar",
+    "lon": 9.61345,
+    "lat": 47.78126
+  },
+  {
+    "wikiId": "Q38281267",
+    "name": "Brinkmann",
+    "cat": "bar",
+    "lon": 4.63615,
+    "lat": 52.38167
+  },
+  {
+    "wikiId": "Q41753116",
+    "name": "Bar Luce",
+    "cat": "bar",
+    "lon": 9.2053092,
+    "lat": 45.4438227
+  },
+  {
+    "wikiId": "Q41958101",
+    "name": "Bodegas Rosell, Madrid",
+    "cat": "bar",
+    "lon": -3.690886,
+    "lat": 40.40381
+  },
+  {
+    "wikiId": "Q42163909",
+    "name": "Café Schiller",
+    "cat": "bar",
+    "lon": 6.584147,
+    "lat": 51.927767
+  },
+  {
+    "wikiId": "Q42328465",
+    "name": "De Lellebel",
+    "cat": "bar",
+    "lon": 4.897494444,
+    "lat": 52.365638888
+  },
+  {
+    "wikiId": "Q42418584",
+    "name": "Q42418584",
+    "cat": "bar",
+    "lon": 4.341205555,
+    "lat": 50.839875
+  },
+  {
+    "wikiId": "Q42418747",
+    "name": "Former Laiterie of the Oude Linde and Auberge de Boondael",
+    "cat": "bar",
+    "lon": 4.392008333,
+    "lat": 50.807338888
+  },
+  {
+    "wikiId": "Q43091954",
+    "name": "Town Commons Stadium 11 & Xtreme",
+    "cat": "bar",
+    "lon": -78.8919906,
+    "lat": 35.8502001
+  },
+  {
+    "wikiId": "Q44548104",
+    "name": "Q44548104",
+    "cat": "bar",
+    "lon": -73.5625,
+    "lat": 45.513888888
+  },
+  {
+    "wikiId": "Q47011077",
+    "name": "Q47011077",
+    "cat": "bar",
+    "lon": 4.882987,
+    "lat": 52.364663
+  },
+  {
+    "wikiId": "Q47170760",
+    "name": "Bar del Pi",
+    "cat": "bar",
+    "lon": 2.17396,
+    "lat": 41.382476
+  },
+  {
+    "wikiId": "Q47171065",
+    "name": "Bar Mundial",
+    "cat": "bar",
+    "lon": 2.180474,
+    "lat": 41.387627
+  },
+  {
+    "wikiId": "Q47811827",
+    "name": "Bar de Jo",
+    "cat": "bar",
+    "lon": -2.073576,
+    "lat": 36.80155
+  },
+  {
+    "wikiId": "Q48117128",
+    "name": "Chow",
+    "cat": "bar",
+    "lon": -76.2953249,
+    "lat": 36.8894433
+  },
+  {
+    "wikiId": "Q48909015",
+    "name": "The Banque",
+    "cat": "bar",
+    "lon": -76.2256879,
+    "lat": 36.9156177
+  },
+  {
+    "wikiId": "Q50808031",
+    "name": "Q50808031",
+    "cat": "bar",
+    "lon": -3.650009,
+    "lat": 40.406323
+  },
+  {
+    "wikiId": "Q51036245",
+    "name": "La Bohème",
+    "cat": "bar",
+    "lon": 5.315344,
+    "lat": 45.975743
+  },
+  {
+    "wikiId": "Q54572792",
+    "name": "L'Auberge des Sapins",
+    "cat": "bar",
+    "lon": 4.445222,
+    "lat": 46.002438
+  },
+  {
+    "wikiId": "Q54894139",
+    "name": "Alhambra, Madrid",
+    "cat": "bar",
+    "lon": -3.701604,
+    "lat": 40.416049
+  },
+  {
+    "wikiId": "Q55154854",
+    "name": "Restaurante Pelicano",
+    "cat": "bar",
+    "lon": -15.57808,
+    "lat": 11.85906
+  },
+  {
+    "wikiId": "Q55384958",
+    "name": "Q Bar",
+    "cat": "bar",
+    "lon": 116.078861,
+    "lat": 5.987231
+  },
+  {
+    "wikiId": "Q56085005",
+    "name": "Clayton Hotel Chiswick",
+    "cat": "bar",
+    "lon": -0.27847,
+    "lat": 51.492418
+  },
+  {
+    "wikiId": "Q56085075",
+    "name": "Clayton Hotel Belfast",
+    "cat": "bar",
+    "lon": -5.930481,
+    "lat": 54.59299
+  },
+  {
+    "wikiId": "Q56233108",
+    "name": "Q56233108",
+    "cat": "bar",
+    "lon": 4.479961402,
+    "lat": 51.219162922
+  },
+  {
+    "wikiId": "Q56581451",
+    "name": "Katacombes",
+    "cat": "bar",
+    "lon": -73.566793,
+    "lat": 45.511282
+  },
+  {
+    "wikiId": "Q57445608",
+    "name": "Q57445608",
+    "cat": "bar",
+    "lon": -3.704408333,
+    "lat": 40.425441666
+  },
+  {
+    "wikiId": "Q57446009",
+    "name": "Q57446009",
+    "cat": "bar",
+    "lon": -3.703638888,
+    "lat": 40.422683333
+  },
+  {
+    "wikiId": "Q57446098",
+    "name": "Verbena Bar",
+    "cat": "bar",
+    "lon": -3.703461111,
+    "lat": 40.4269
+  },
+  {
+    "wikiId": "Q57446188",
+    "name": "Q57446188",
+    "cat": "bar",
+    "lon": -3.704122222,
+    "lat": 40.421219444
+  },
+  {
+    "wikiId": "Q57446341",
+    "name": "Q57446341",
+    "cat": "bar",
+    "lon": -3.705816666,
+    "lat": 40.428844444
+  },
+  {
+    "wikiId": "Q57446346",
+    "name": "Q57446346",
+    "cat": "bar",
+    "lon": -3.704597222,
+    "lat": 40.428808333
+  },
+  {
+    "wikiId": "Q57446406",
+    "name": "Gorila",
+    "cat": "bar",
+    "lon": -3.702816666,
+    "lat": 40.423280555
+  },
+  {
+    "wikiId": "Q57446452",
+    "name": "Q57446452",
+    "cat": "bar",
+    "lon": -3.700225,
+    "lat": 40.427008333
+  },
+  {
+    "wikiId": "Q57446491",
+    "name": "Q57446491",
+    "cat": "bar",
+    "lon": -3.697477777,
+    "lat": 40.420202777
+  },
+  {
+    "wikiId": "Q57446557",
+    "name": "Q57446557",
+    "cat": "bar",
+    "lon": -3.674011111,
+    "lat": 40.417902777
+  },
+  {
+    "wikiId": "Q57446560",
+    "name": "Q57446560",
+    "cat": "bar",
+    "lon": -3.698088888,
+    "lat": 40.426177777
+  },
+  {
+    "wikiId": "Q57446575",
+    "name": "Q57446575",
+    "cat": "bar",
+    "lon": -3.705861111,
+    "lat": 40.421597222
+  },
+  {
+    "wikiId": "Q57446604",
+    "name": "Q57446604",
+    "cat": "bar",
+    "lon": -3.695763888,
+    "lat": 40.413752777
+  },
+  {
+    "wikiId": "Q57446613",
+    "name": "Q57446613",
+    "cat": "bar",
+    "lon": -3.699205555,
+    "lat": 40.439947222
+  },
+  {
+    "wikiId": "Q57446688",
+    "name": "Q57446688",
+    "cat": "bar",
+    "lon": -3.676880555,
+    "lat": 40.459994444
+  },
+  {
+    "wikiId": "Q57446751",
+    "name": "Q57446751",
+    "cat": "bar",
+    "lon": -3.695672222,
+    "lat": 40.413519444
+  },
+  {
+    "wikiId": "Q57446757",
+    "name": "Q57446757",
+    "cat": "bar",
+    "lon": -3.700930555,
+    "lat": 40.414388888
+  },
+  {
+    "wikiId": "Q57446780",
+    "name": "Q57446780",
+    "cat": "bar",
+    "lon": -3.695672222,
+    "lat": 40.413519444
+  },
+  {
+    "wikiId": "Q57446796",
+    "name": "Q57446796",
+    "cat": "bar",
+    "lon": -3.693577777,
+    "lat": 40.431911111
+  },
+  {
+    "wikiId": "Q57446846",
+    "name": "Q57446846",
+    "cat": "bar",
+    "lon": -3.709597222,
+    "lat": 40.427172222
+  },
+  {
+    "wikiId": "Q57446851",
+    "name": "Q57446851",
+    "cat": "bar",
+    "lon": -3.648163888,
+    "lat": 40.4336
+  },
+  {
+    "wikiId": "Q57617425",
+    "name": "Odeon",
+    "cat": "bar",
+    "lon": 9.92852,
+    "lat": 49.79131
+  },
+  {
+    "wikiId": "Q57634272",
+    "name": "Bay Local Eatery",
+    "cat": "bar",
+    "lon": -76.0743785,
+    "lat": 36.910749
+  },
+  {
+    "wikiId": "Q57896406",
+    "name": "Q57896406",
+    "cat": "bar",
+    "lon": -1.675682,
+    "lat": 48.107607
+  },
+  {
+    "wikiId": "Q58069406",
+    "name": "Forest bar",
+    "cat": "bar",
+    "lon": 16.6789289,
+    "lat": 49.3060481
+  },
+  {
+    "wikiId": "Q58205264",
+    "name": "British Seamen's Hotel",
+    "cat": "bar",
+    "lon": 151.2082,
+    "lat": -33.8594
+  },
+  {
+    "wikiId": "Q58214808",
+    "name": "Sigh",
+    "cat": "bar",
+    "lon": -122.459517,
+    "lat": 38.292273
+  },
+  {
+    "wikiId": "Q58454862",
+    "name": "The Frog",
+    "cat": "bar",
+    "lon": 99.038934,
+    "lat": 7.649418
+  },
+  {
+    "wikiId": "Q58481853",
+    "name": "Irie Bar",
+    "cat": "bar",
+    "lon": 99.03286,
+    "lat": 7.61729
+  },
+  {
+    "wikiId": "Q58815325",
+    "name": "Q58815325",
+    "cat": "bar",
+    "lon": 99.019936,
+    "lat": 7.64726
+  },
+  {
+    "wikiId": "Q58903563",
+    "name": "Q58903563",
+    "cat": "bar",
+    "lon": 99.031019,
+    "lat": 7.633803
+  },
+  {
+    "wikiId": "Q59156287",
+    "name": "Cheeky Monkey Bar",
+    "cat": "bar",
+    "lon": 99.033878,
+    "lat": 7.6356
+  },
+  {
+    "wikiId": "Q59156498",
+    "name": "Q59156498",
+    "cat": "bar",
+    "lon": 99.032395,
+    "lat": 7.576717
+  },
+  {
+    "wikiId": "Q59491261",
+    "name": "Clayton Hotel Manchester Airport",
+    "cat": "bar",
+    "lon": -2.270155888,
+    "lat": 53.36491947
+  },
+  {
+    "wikiId": "Q60156848",
+    "name": "Irish Embassy",
+    "cat": "bar",
+    "lon": 99.036185,
+    "lat": 7.603246
+  },
+  {
+    "wikiId": "Q60166162",
+    "name": "Bar Borrell",
+    "cat": "bar",
+    "lon": 2.166965,
+    "lat": 41.37515
+  },
+  {
+    "wikiId": "Q60167249",
+    "name": "Korner Bar",
+    "cat": "bar",
+    "lon": 99.033039,
+    "lat": 7.596713
+  },
+  {
+    "wikiId": "Q60178765",
+    "name": "Pangea Beach Bar",
+    "cat": "bar",
+    "lon": 99.0337297,
+    "lat": 7.6058804
+  },
+  {
+    "wikiId": "Q60381669",
+    "name": "La Vía Láctea, Madrid",
+    "cat": "bar",
+    "lon": -3.7029317,
+    "lat": 40.4268759
+  },
+  {
+    "wikiId": "Q60685137",
+    "name": "Why Not Bar",
+    "cat": "bar",
+    "lon": 99.072183,
+    "lat": 7.498316
+  },
+  {
+    "wikiId": "Q60740553",
+    "name": "The HiLo Club",
+    "cat": "bar",
+    "lon": -97.532777777,
+    "lat": 35.5225
+  },
+  {
+    "wikiId": "Q60827727",
+    "name": "Q60827727",
+    "cat": "bar",
+    "lon": -98.1960181,
+    "lat": 19.0410303
+  },
+  {
+    "wikiId": "Q60852589",
+    "name": "Q60852589",
+    "cat": "bar",
+    "lon": -70.643417,
+    "lat": -33.414156
+  },
+  {
+    "wikiId": "Q61579707",
+    "name": "Summit Bar & Terrace",
+    "cat": "bar",
+    "lon": 29.009476,
+    "lat": 41.047229
+  },
+  {
+    "wikiId": "Q61693853",
+    "name": "Bavette's Steakhouse & Bar",
+    "cat": "bar",
+    "lon": -115.175174,
+    "lat": 36.104794
+  },
+  {
+    "wikiId": "Q61694012",
+    "name": "NoMad Bar",
+    "cat": "bar",
+    "lon": -115.176372,
+    "lat": 36.104765
+  },
+  {
+    "wikiId": "Q61694052",
+    "name": "Eataly Las Vegas at Park MGM",
+    "cat": "bar",
+    "lon": -115.176018,
+    "lat": 36.104628
+  },
+  {
+    "wikiId": "Q61719327",
+    "name": "Ghost Donkey",
+    "cat": "bar",
+    "lon": -115.175477,
+    "lat": 36.109981
+  },
+  {
+    "wikiId": "Q61741994",
+    "name": "Hakkasan",
+    "cat": "bar",
+    "lon": -115.172052,
+    "lat": 36.101456
+  },
+  {
+    "wikiId": "Q61744984",
+    "name": "ESPN Zone",
+    "cat": "bar",
+    "lon": -115.174458,
+    "lat": 36.102685
+  },
+  {
+    "wikiId": "Q61745737",
+    "name": "Lavo Italian Restaurant & Lounge",
+    "cat": "bar",
+    "lon": -115.169266,
+    "lat": 36.124492
+  },
+  {
+    "wikiId": "Q61749176",
+    "name": "Showgirl Bar",
+    "cat": "bar",
+    "lon": -115.1688942,
+    "lat": 36.1105404
+  },
+  {
+    "wikiId": "Q61756611",
+    "name": "Bar Glaciar",
+    "cat": "bar",
+    "lon": 2.174759,
+    "lat": 41.380196
+  },
+  {
+    "wikiId": "Q61779894",
+    "name": "Gilley's Saloon",
+    "cat": "bar",
+    "lon": -115.170616,
+    "lat": 36.124036
+  },
+  {
+    "wikiId": "Q61779927",
+    "name": "Señor Frog's",
+    "cat": "bar",
+    "lon": -115.170407,
+    "lat": 36.12489
+  },
+  {
+    "wikiId": "Q61780362",
+    "name": "Adega Pérola",
+    "cat": "bar",
+    "lon": -43.187335,
+    "lat": -22.966153
+  },
+  {
+    "wikiId": "Q61793789",
+    "name": "Parasol Down",
+    "cat": "bar",
+    "lon": -115.166738,
+    "lat": 36.126495
+  },
+  {
+    "wikiId": "Q61794078",
+    "name": "Parasol Up",
+    "cat": "bar",
+    "lon": -115.166714,
+    "lat": 36.1265
+  },
+  {
+    "wikiId": "Q61820418",
+    "name": "Queue Bar",
+    "cat": "bar",
+    "lon": -115.174397,
+    "lat": 36.109476
+  },
+  {
+    "wikiId": "Q61831109",
+    "name": "Chandelier Lounge",
+    "cat": "bar",
+    "lon": -115.173909,
+    "lat": 36.109775
+  },
+  {
+    "wikiId": "Q61857227",
+    "name": "Guy Fieri's Vegas Kitchen & Bar",
+    "cat": "bar",
+    "lon": -115.172373,
+    "lat": 36.118362
+  },
+  {
+    "wikiId": "Q61857419",
+    "name": "Hofbrauhaus Las Vegas",
+    "cat": "bar",
+    "lon": -115.15158,
+    "lat": 36.107583
+  },
+  {
+    "wikiId": "Q61857522",
+    "name": "Javier's",
+    "cat": "bar",
+    "lon": -115.176621,
+    "lat": 36.107323
+  },
+  {
+    "wikiId": "Q61861796",
+    "name": "The Sheepscar",
+    "cat": "bar",
+    "lon": -1.538016,
+    "lat": 53.813928
+  },
+  {
+    "wikiId": "Q61861801",
+    "name": "The Good Luck Club",
+    "cat": "bar",
+    "lon": -1.555734,
+    "lat": 53.795474
+  },
+  {
+    "wikiId": "Q61862572",
+    "name": "Starlight Bar",
+    "cat": "bar",
+    "lon": -1.499619,
+    "lat": 53.8019
+  },
+  {
+    "wikiId": "Q61865122",
+    "name": "Don't Tell Mama",
+    "cat": "bar",
+    "lon": -115.140456,
+    "lat": 36.170196
+  },
+  {
+    "wikiId": "Q61866027",
+    "name": "Baracoa Luxe Bar",
+    "cat": "bar",
+    "lon": -1.541434,
+    "lat": 53.794966
+  },
+  {
+    "wikiId": "Q61872209",
+    "name": "Cabo Wabo Cantina",
+    "cat": "bar",
+    "lon": -115.17221,
+    "lat": 36.111089
+  },
+  {
+    "wikiId": "Q61875588",
+    "name": "Revolution Leeds - Call Lane",
+    "cat": "bar",
+    "lon": -1.541415,
+    "lat": 53.795247
+  },
+  {
+    "wikiId": "Q61875589",
+    "name": "Roxy Ball Room",
+    "cat": "bar",
+    "lon": -1.544879,
+    "lat": 53.795978
+  },
+  {
+    "wikiId": "Q61894871",
+    "name": "Beauty Bar Las Vegas",
+    "cat": "bar",
+    "lon": -115.140091,
+    "lat": 36.168801
+  },
+  {
+    "wikiId": "Q61904333",
+    "name": "Peppermill Las Vegas",
+    "cat": "bar",
+    "lon": -115.163222,
+    "lat": 36.133668
+  },
+  {
+    "wikiId": "Q61929844",
+    "name": "Coyote Ugly Las Vegas",
+    "cat": "bar",
+    "lon": -115.174092,
+    "lat": 36.101421
+  },
+  {
+    "wikiId": "Q61981969",
+    "name": "Yellowtail Japanese Restaurant & Lounge",
+    "cat": "bar",
+    "lon": -115.174986,
+    "lat": 36.112941
+  },
+  {
+    "wikiId": "Q62027286",
+    "name": "Paribar",
+    "cat": "bar",
+    "lon": -46.6418796,
+    "lat": -23.5464598
+  },
+  {
+    "wikiId": "Q62070181",
+    "name": "Q62070181",
+    "cat": "bar",
+    "lon": 4.885491666,
+    "lat": 52.084255555
+  },
+  {
+    "wikiId": "Q62085784",
+    "name": "Bomb shelter 10-Z",
+    "cat": "bar",
+    "lon": 16.6043428,
+    "lat": 49.19401
+  },
+  {
+    "wikiId": "Q62487498",
+    "name": "L'ANTI Bar & Spectacles",
+    "cat": "bar",
+    "lon": -71.2284988,
+    "lat": 46.8156012
+  },
+  {
+    "wikiId": "Q62514815",
+    "name": "Bom Motivo Bar",
+    "cat": "bar",
+    "lon": -46.69179,
+    "lat": -23.56124
+  },
+  {
+    "wikiId": "Q62515837",
+    "name": "Bar das Batidas",
+    "cat": "bar",
+    "lon": -46.69642,
+    "lat": -23.567096
+  },
+  {
+    "wikiId": "Q63254565",
+    "name": "Albani",
+    "cat": "bar",
+    "lon": 8.729202777,
+    "lat": 47.498491666
+  },
+  {
+    "wikiId": "Q63256694",
+    "name": "Q63256694",
+    "cat": "bar",
+    "lon": -46.4131861,
+    "lat": -23.4446872
+  },
+  {
+    "wikiId": "Q63349180",
+    "name": "Q63349180",
+    "cat": "bar",
+    "lon": 16.6053047,
+    "lat": 49.1925506
+  },
+  {
+    "wikiId": "Q63811580",
+    "name": "The Bar at MacArthur Place",
+    "cat": "bar",
+    "lon": -122.457165,
+    "lat": 38.283941
+  },
+  {
+    "wikiId": "Q63866106",
+    "name": "HopMonk Tavern Sonoma",
+    "cat": "bar",
+    "lon": -122.458797,
+    "lat": 38.288648
+  },
+  {
+    "wikiId": "Q63870921",
+    "name": "Sam's Anchor Cafe",
+    "cat": "bar",
+    "lon": -122.456582,
+    "lat": 37.873146
+  },
+  {
+    "wikiId": "Q63928982",
+    "name": "Lesní bar (Lipová-lázně)",
+    "cat": "bar",
+    "lon": 17.0554039,
+    "lat": 50.2249981
+  },
+  {
+    "wikiId": "Q63958832",
+    "name": "ANXO Cidery & Pintxos Bar",
+    "cat": "bar",
+    "lon": -77.0154013,
+    "lat": 38.913325
+  },
+  {
+    "wikiId": "Q63965924",
+    "name": "Q63965924",
+    "cat": "bar",
+    "lon": 4.856982,
+    "lat": 45.763805
+  },
+  {
+    "wikiId": "Q64166165",
+    "name": "St. John's Bar & Grill",
+    "cat": "bar",
+    "lon": -121.9951621,
+    "lat": 37.3824605
+  },
+  {
+    "wikiId": "Q64693786",
+    "name": "Cin Cin",
+    "cat": "bar",
+    "lon": -119.8143881,
+    "lat": 39.529723
+  },
+  {
+    "wikiId": "Q64711645",
+    "name": "Roxy Brasserie Lounge",
+    "cat": "bar",
+    "lon": 4.977581944,
+    "lat": 45.832916111
+  },
+  {
+    "wikiId": "Q64748933",
+    "name": "The Shore Room",
+    "cat": "bar",
+    "lon": -119.8104484,
+    "lat": 39.5252051
+  },
+  {
+    "wikiId": "Q64959021",
+    "name": "Ninkasi Vaise",
+    "cat": "bar",
+    "lon": 4.812717,
+    "lat": 45.788253
+  },
+  {
+    "wikiId": "Q65054732",
+    "name": "Babuder's",
+    "cat": "bar",
+    "lon": 16.368453,
+    "lat": 48.212499
+  },
+  {
+    "wikiId": "Q65230564",
+    "name": "Q65230564",
+    "cat": "bar",
+    "lon": 141.559166666,
+    "lat": 43.113583333
+  },
+  {
+    "wikiId": "Q65951364",
+    "name": "Mavericks",
+    "cat": "bar",
+    "lon": -75.6880818,
+    "lat": 45.4279379
+  },
+  {
+    "wikiId": "Q66022887",
+    "name": "31 Square Road",
+    "cat": "bar",
+    "lon": -1.8549,
+    "lat": 53.7218
+  },
+  {
+    "wikiId": "Q66587525",
+    "name": "The Balcony",
+    "cat": "bar",
+    "lon": 103.199694,
+    "lat": 13.103051
+  },
+  {
+    "wikiId": "Q66686295",
+    "name": "The Panel",
+    "cat": "bar",
+    "lon": -122.4692343,
+    "lat": 38.2927803
+  },
+  {
+    "wikiId": "Q66789569",
+    "name": "Poor Red's Bar-B-Q",
+    "cat": "bar",
+    "lon": -120.8472475,
+    "lat": 38.6825279
+  },
+  {
+    "wikiId": "Q66828834",
+    "name": "Station House Bar",
+    "cat": "bar",
+    "lon": -10.01759844,
+    "lat": 53.48847158
+  },
+  {
+    "wikiId": "Q66976076",
+    "name": "Sadliers' Warehouse",
+    "cat": "bar",
+    "lon": 115.744624,
+    "lat": -32.055765
+  },
+  {
+    "wikiId": "Q67086031",
+    "name": "Bodytalk",
+    "cat": "bar",
+    "lon": 5.1169088,
+    "lat": 52.0946162
+  },
+  {
+    "wikiId": "Q67200467",
+    "name": "Estação Ferroviária do Monte",
+    "cat": "bar",
+    "lon": -16.90318489,
+    "lat": 32.676784515
+  },
+  {
+    "wikiId": "Q67642040",
+    "name": "El Penicilino",
+    "cat": "bar",
+    "lon": -4.724589,
+    "lat": 41.652946
+  },
+  {
+    "wikiId": "Q68213284",
+    "name": "Antigas cavalariças do Solar Cupertino da Câmara",
+    "cat": "bar",
+    "lon": -16.7652,
+    "lat": 32.71838
+  },
+  {
+    "wikiId": "Q68847281",
+    "name": "Oga's Cantina",
+    "cat": "bar",
+    "lon": -117.9209593,
+    "lat": 33.8147573
+  },
+  {
+    "wikiId": "Q69058138",
+    "name": "Hamburg-Amerika-Bar",
+    "cat": "bar",
+    "lon": 9.96362,
+    "lat": 53.54916
+  },
+  {
+    "wikiId": "Q69524613",
+    "name": "Bar da Dona Onça",
+    "cat": "bar",
+    "lon": -46.6445317,
+    "lat": -23.5465084
+  },
+  {
+    "wikiId": "Q70628473",
+    "name": "L'estuaire",
+    "cat": "bar",
+    "lon": -3.4646484,
+    "lat": 50.6810751
+  },
+  {
+    "wikiId": "Q72544540",
+    "name": "Dattera til Hagen",
+    "cat": "bar",
+    "lon": 10.760138888,
+    "lat": 59.913333333
+  },
+  {
+    "wikiId": "Q72930602",
+    "name": "Mikkeller Odense",
+    "cat": "bar",
+    "lon": 10.38497,
+    "lat": 55.39616
+  },
+  {
+    "wikiId": "Q72939980",
+    "name": "Barrel Room",
+    "cat": "bar",
+    "lon": 12.60786,
+    "lat": 55.69346
+  },
+  {
+    "wikiId": "Q74268866",
+    "name": "Kanalstraße 1b, Fulda",
+    "cat": "bar",
+    "lon": 9.67323,
+    "lat": 50.5526
+  },
+  {
+    "wikiId": "Q74780624",
+    "name": "Le Central Bar",
+    "cat": "bar",
+    "lon": -115.171033888,
+    "lat": 36.112293055
+  },
+  {
+    "wikiId": "Q75064375",
+    "name": "Beer Park",
+    "cat": "bar",
+    "lon": -115.172598,
+    "lat": 36.111858
+  },
+  {
+    "wikiId": "Q76157584",
+    "name": "Uva Bar & Cafe",
+    "cat": "bar",
+    "lon": -117.922957,
+    "lat": 33.809073
+  },
+  {
+    "wikiId": "Q76432584",
+    "name": "Tangaroa Terrace Tropical Bar & Grill",
+    "cat": "bar",
+    "lon": -117.926581,
+    "lat": 33.808371
+  },
+  {
+    "wikiId": "Q76851513",
+    "name": "Pacific Wharf Distribution Co.",
+    "cat": "bar",
+    "lon": -117.920082,
+    "lat": 33.805505
+  },
+  {
+    "wikiId": "Q76987468",
+    "name": "Splitsville Luxury Lanes",
+    "cat": "bar",
+    "lon": -117.923047,
+    "lat": 33.809549
+  },
+  {
+    "wikiId": "Q77633785",
+    "name": "Hearthstone Lounge",
+    "cat": "bar",
+    "lon": -117.922234,
+    "lat": 33.807584
+  },
+  {
+    "wikiId": "Q78083607",
+    "name": "Big Picture",
+    "cat": "bar",
+    "lon": -122.3491,
+    "lat": 47.61474
+  },
+  {
+    "wikiId": "Q78542289",
+    "name": "Nitehawk Cinema Prospect Park",
+    "cat": "bar",
+    "lon": -73.97985,
+    "lat": 40.66162
+  },
+  {
+    "wikiId": "Q78651706",
+    "name": "Coyote Entertainment Center",
+    "cat": "bar",
+    "lon": -119.76592,
+    "lat": 36.23882
+  },
+  {
+    "wikiId": "Q79401376",
+    "name": "Union Bar",
+    "cat": "bar",
+    "lon": 30.347735,
+    "lat": 59.935642
+  },
+  {
+    "wikiId": "Q80232563",
+    "name": "Gaudi Bar",
+    "cat": "bar",
+    "lon": -115.041422,
+    "lat": 36.061036
+  },
+  {
+    "wikiId": "Q80613647",
+    "name": "Mama Rabbit",
+    "cat": "bar",
+    "lon": -115.176028,
+    "lat": 36.10461
+  },
+  {
+    "wikiId": "Q80623659",
+    "name": "Atomic Liquors",
+    "cat": "bar",
+    "lon": -115.135475,
+    "lat": 36.16684
+  },
+  {
+    "wikiId": "Q82713262",
+    "name": "La Pergola",
+    "cat": "bar",
+    "lon": 51.540138888,
+    "lat": 25.374805555
+  },
+  {
+    "wikiId": "Q83392871",
+    "name": "Picabar",
+    "cat": "bar",
+    "lon": 115.8605,
+    "lat": -31.9499
+  },
+  {
+    "wikiId": "Q85851957",
+    "name": "Specs' Twelve Adler Museum Cafe",
+    "cat": "bar",
+    "lon": -122.405993888,
+    "lat": 37.797658055
+  },
+  {
+    "wikiId": "Q87429859",
+    "name": "Café Belén",
+    "cat": "bar",
+    "lon": -3.696694444,
+    "lat": 40.42425
+  },
+  {
+    "wikiId": "Q87901414",
+    "name": "Posthotel",
+    "cat": "bar",
+    "lon": 3.882055555,
+    "lat": 51.001861111
+  },
+  {
+    "wikiId": "Q88840324",
+    "name": "Tierney's Tavern",
+    "cat": "bar",
+    "lon": -74.2198028,
+    "lat": 40.8224983
+  },
+  {
+    "wikiId": "Q93182833",
+    "name": "Pschorr",
+    "cat": "bar",
+    "lon": 4.47892,
+    "lat": 51.923478
+  },
+  {
+    "wikiId": "Q93929789",
+    "name": "Bakery Bar",
+    "cat": "bar",
+    "lon": -90.068692,
+    "lat": 29.938902
+  },
+  {
+    "wikiId": "Q96012599",
+    "name": "La Belle Équipe",
+    "cat": "bar",
+    "lon": 2.382131,
+    "lat": 48.853849
+  },
+  {
+    "wikiId": "Q96083239",
+    "name": "Le Saint Sauveur",
+    "cat": "bar",
+    "lon": 2.38515,
+    "lat": 48.86653
+  },
+  {
+    "wikiId": "Q96384421",
+    "name": "La Cuverie",
+    "cat": "bar",
+    "lon": 3.667218,
+    "lat": 47.714331
+  },
+  {
+    "wikiId": "Q96471980",
+    "name": "Bar El Príncipe",
+    "cat": "bar",
+    "lon": -16.250583333,
+    "lat": 28.468555555
+  },
+  {
+    "wikiId": "Q109372558",
+    "name": "The Office Bar & Bistro",
+    "cat": "bar",
+    "lon": -123.205818086,
+    "lat": 39.145539693
+  },
+  {
+    "wikiId": "Q109461257",
+    "name": "L'Antirouille",
+    "cat": "bar",
+    "lon": 4.02594,
+    "lat": 49.25585
+  },
+  {
+    "wikiId": "Q109637071",
+    "name": "The Eddy",
+    "cat": "bar",
+    "lon": -119.813372943,
+    "lat": 39.524344519
+  },
+  {
+    "wikiId": "Q109930522",
+    "name": "Q109930522",
+    "cat": "bar",
+    "lon": 4.832596452,
+    "lat": 45.775098437
+  },
+  {
+    "wikiId": "Q110129435",
+    "name": "Coffin Club",
+    "cat": "bar",
+    "lon": -122.6609,
+    "lat": 45.5199
+  },
+  {
+    "wikiId": "Q110243020",
+    "name": "Black Angel",
+    "cat": "bar",
+    "lon": 11.96699,
+    "lat": 51.49474
+  },
+  {
+    "wikiId": "Q110373266",
+    "name": "Volle Brol",
+    "cat": "bar",
+    "lon": 4.3452228,
+    "lat": 50.8370854
+  },
+  {
+    "wikiId": "Q110621619",
+    "name": "The Egyptian Cafe",
+    "cat": "bar",
+    "lon": -86.144606533,
+    "lat": 39.869386777
+  },
+  {
+    "wikiId": "Q110621663",
+    "name": "Wild Beaver Saloon",
+    "cat": "bar",
+    "lon": -86.145507165,
+    "lat": 39.869552262
+  },
+  {
+    "wikiId": "Q110625313",
+    "name": "The Rathskeller",
+    "cat": "bar",
+    "lon": -86.150299303,
+    "lat": 39.773752301
+  },
+  {
+    "wikiId": "Q110648148",
+    "name": "Have a Nice Day Cafe",
+    "cat": "bar",
+    "lon": -86.158046122,
+    "lat": 39.763543223
+  },
+  {
+    "wikiId": "Q110657526",
+    "name": "Tip Top Tavern",
+    "cat": "bar",
+    "lon": -86.161045386,
+    "lat": 39.785800034
+  },
+  {
+    "wikiId": "Q110713740",
+    "name": "Le 53",
+    "cat": "bar",
+    "lon": 2.30539,
+    "lat": 48.87008
+  },
+  {
+    "wikiId": "Q110731974",
+    "name": "Spoke & Steele",
+    "cat": "bar",
+    "lon": -86.159790387,
+    "lat": 39.765081257
+  },
+  {
+    "wikiId": "Q111193717",
+    "name": "Bar Cristal (Bar in Palma)",
+    "cat": "bar",
+    "lon": 2.653233333,
+    "lat": 39.576227777
+  },
+  {
+    "wikiId": "Q111204051",
+    "name": "Dal'i Bar",
+    "cat": "bar",
+    "lon": 2.7479,
+    "lat": 42.4842
+  },
+  {
+    "wikiId": "Q111360421",
+    "name": "The Northern Club",
+    "cat": "bar",
+    "lon": -115.145833333,
+    "lat": 36.171111111
+  },
+  {
+    "wikiId": "Q111385077",
+    "name": "Q111385077",
+    "cat": "bar",
+    "lon": 5.179632714,
+    "lat": 45.903555003
+  },
+  {
+    "wikiId": "Q111399125",
+    "name": "Berlin",
+    "cat": "bar",
+    "lon": -115.151661787,
+    "lat": 36.159073406
+  },
+  {
+    "wikiId": "Q111461900",
+    "name": "Guthrie's Alley Cat",
+    "cat": "bar",
+    "lon": -119.019729816,
+    "lat": 35.375700603
+  },
+  {
+    "wikiId": "Q111533978",
+    "name": "Kirk Bar",
+    "cat": "bar",
+    "lon": 13.44041,
+    "lat": 52.50089
+  },
+  {
+    "wikiId": "Q111534005",
+    "name": "Kantine Kohlmann",
+    "cat": "bar",
+    "lon": 13.4387,
+    "lat": 52.5001
+  },
+  {
+    "wikiId": "Q111583486",
+    "name": "De Roode Eenhoorn",
+    "cat": "bar",
+    "lon": 4.894352777,
+    "lat": 52.737883333
+  },
+  {
+    "wikiId": "Q111685236",
+    "name": "Alibi Room",
+    "cat": "bar",
+    "lon": -80.9975783,
+    "lat": 46.4906934
+  },
+  {
+    "wikiId": "Q111725424",
+    "name": "Scanner Bistro",
+    "cat": "bar",
+    "lon": -71.224880415,
+    "lat": 46.812628228
+  },
+  {
+    "wikiId": "Q111738870",
+    "name": "Balattou",
+    "cat": "bar",
+    "lon": -73.58458,
+    "lat": 45.51913
+  },
+  {
+    "wikiId": "Q111766785",
+    "name": "Q111766785",
+    "cat": "bar",
+    "lon": 4.82999,
+    "lat": 45.77461
+  },
+  {
+    "wikiId": "Q111792931",
+    "name": "Q111792931",
+    "cat": "bar",
+    "lon": 3.426405667,
+    "lat": 46.117553305
+  },
+  {
+    "wikiId": "Q111869727",
+    "name": "Stumpers",
+    "cat": "bar",
+    "lon": 170.96223,
+    "lat": -42.71726
+  },
+  {
+    "wikiId": "Q111921432",
+    "name": "Q111921432",
+    "cat": "bar",
+    "lon": -43.932271,
+    "lat": -19.937517
+  },
+  {
+    "wikiId": "Q111921433",
+    "name": "Q111921433",
+    "cat": "bar",
+    "lon": -43.935697,
+    "lat": -19.927843
+  },
+  {
+    "wikiId": "Q111956599",
+    "name": "Au Bon Vieux Temps",
+    "cat": "bar",
+    "lon": 4.3523824,
+    "lat": 50.8483341
+  },
+  {
+    "wikiId": "Q111957021",
+    "name": "À l'Imaige Nostre-Dame",
+    "cat": "bar",
+    "lon": 4.3522647,
+    "lat": 50.8483892
+  },
+  {
+    "wikiId": "Q112074895",
+    "name": "Q112074895",
+    "cat": "bar",
+    "lon": 9.322842724,
+    "lat": 49.520819422
+  },
+  {
+    "wikiId": "Q112074917",
+    "name": "Q112074917",
+    "cat": "bar",
+    "lon": 9.367945994,
+    "lat": 49.574198246
+  },
+  {
+    "wikiId": "Q112231781",
+    "name": "Tabaco Lounge",
+    "cat": "bar",
+    "lon": 8.635949,
+    "lat": 47.697842
+  },
+  {
+    "wikiId": "Q112613103",
+    "name": "ARTAS restobar",
+    "cat": "bar",
+    "lon": 20.97401,
+    "lat": 39.151608
+  },
+  {
+    "wikiId": "Q112623810",
+    "name": "Au Daringman",
+    "cat": "bar",
+    "lon": 4.3466624,
+    "lat": 50.8513698
+  },
+  {
+    "wikiId": "Q112625391",
+    "name": "Les Nautes",
+    "cat": "bar",
+    "lon": 2.36031,
+    "lat": 48.852236
+  },
+  {
+    "wikiId": "Q112961350",
+    "name": "All Bar One",
+    "cat": "bar",
+    "lon": -0.0792935,
+    "lat": 51.5097044
+  },
+  {
+    "wikiId": "Q112965525",
+    "name": "Bodega Montferry",
+    "cat": "bar",
+    "lon": 2.1318506,
+    "lat": 41.3794013
+  },
+  {
+    "wikiId": "Q112967262",
+    "name": "Merchant's Cafe",
+    "cat": "bar",
+    "lon": -122.333444444,
+    "lat": 47.601583333
+  },
+  {
+    "wikiId": "Q113302477",
+    "name": "Eastcheap Records",
+    "cat": "bar",
+    "lon": -0.0837735,
+    "lat": 51.5105018
+  },
+  {
+    "wikiId": "Q113367444",
+    "name": "Pomme Cider Shop",
+    "cat": "bar",
+    "lon": -122.458279155,
+    "lat": 38.291375899
+  },
+  {
+    "wikiId": "Q113382875",
+    "name": "Bar bodega Gelida",
+    "cat": "bar",
+    "lon": 2.15697,
+    "lat": 41.38303
+  },
+  {
+    "wikiId": "Q113390834",
+    "name": "Boliche de Bessonart",
+    "cat": "bar",
+    "lon": -59.471496105,
+    "lat": -34.243793395
+  },
+  {
+    "wikiId": "Q113412927",
+    "name": "Dirty Dog Bar",
+    "cat": "bar",
+    "lon": -97.7402297,
+    "lat": 30.2664217
+  },
+  {
+    "wikiId": "Q113412949",
+    "name": "Sledge Hammer On Sixth",
+    "cat": "bar",
+    "lon": -97.7403114,
+    "lat": 30.2664594
+  },
+  {
+    "wikiId": "Q113495548",
+    "name": "Q113495548",
+    "cat": "bar",
+    "lon": 9.317109441,
+    "lat": 49.526150826
+  }
+]

@@ -1,0 +1,5805 @@
+[
+  {
+    "wikiId": "Q2922355",
+    "name": "Bourgogne le chapitre",
+    "cat": "winery",
+    "lon": 5.00047222,
+    "lat": 47.29616667
+  },
+  {
+    "wikiId": "Q2922356",
+    "name": "Bourgogne montrecul",
+    "cat": "winery",
+    "lon": 5.00483611,
+    "lat": 47.30436389
+  },
+  {
+    "wikiId": "Q2947280",
+    "name": "Chablis grand cru",
+    "cat": "winery",
+    "lon": 3.80518,
+    "lat": 47.8218
+  },
+  {
+    "wikiId": "Q2948095",
+    "name": "Chambertin-Clos de Bèze",
+    "cat": "winery",
+    "lon": 4.96595278,
+    "lat": 47.21636111
+  },
+  {
+    "wikiId": "Q2948612",
+    "name": "Chanoine Frères",
+    "cat": "winery",
+    "lon": 4.011531,
+    "lat": 49.21439
+  },
+  {
+    "wikiId": "Q2948618",
+    "name": "Delamotte Champagne",
+    "cat": "winery",
+    "lon": 4.017938888,
+    "lat": 48.946361111
+  },
+  {
+    "wikiId": "Q2948621",
+    "name": "Abelé",
+    "cat": "winery",
+    "lon": 4.045168,
+    "lat": 49.2492728
+  },
+  {
+    "wikiId": "Q2948625",
+    "name": "Delbeck Champagne",
+    "cat": "winery",
+    "lon": 4.029722222,
+    "lat": 49.26
+  },
+  {
+    "wikiId": "Q2956528",
+    "name": "Chapelle-Chambertin",
+    "cat": "winery",
+    "lon": 4.968525,
+    "lat": 47.21565278
+  },
+  {
+    "wikiId": "Q2961261",
+    "name": "chartreuse de Bonpas",
+    "cat": "winery",
+    "lon": 4.9251,
+    "lat": 43.8892
+  },
+  {
+    "wikiId": "Q2961267",
+    "name": "former charterhouse La Lance",
+    "cat": "winery",
+    "lon": 6.73724,
+    "lat": 46.85896
+  },
+  {
+    "wikiId": "Q2967839",
+    "name": "Château Bayard",
+    "cat": "winery",
+    "lon": 6.018888888,
+    "lat": 45.423611111
+  },
+  {
+    "wikiId": "Q2967853",
+    "name": "Château Bouscaut",
+    "cat": "winery",
+    "lon": -0.54842,
+    "lat": 44.7468
+  },
+  {
+    "wikiId": "Q2967855",
+    "name": "Château Canon",
+    "cat": "winery",
+    "lon": -0.163272,
+    "lat": 44.892936
+  },
+  {
+    "wikiId": "Q2967856",
+    "name": "Château Caillou",
+    "cat": "winery",
+    "lon": -0.341,
+    "lat": 44.59416
+  },
+  {
+    "wikiId": "Q2967857",
+    "name": "Château Chambert-Marbuzet",
+    "cat": "winery",
+    "lon": -0.76611111,
+    "lat": 45.2375
+  },
+  {
+    "wikiId": "Q2967859",
+    "name": "Château Chesnel",
+    "cat": "winery",
+    "lon": -0.36889,
+    "lat": 45.7519
+  },
+  {
+    "wikiId": "Q2967880",
+    "name": "Château Gaudrelle",
+    "cat": "winery",
+    "lon": 0.797501,
+    "lat": 47.4283
+  },
+  {
+    "wikiId": "Q2967902",
+    "name": "Château La Rolière",
+    "cat": "winery",
+    "lon": 4.87575,
+    "lat": 44.7769
+  },
+  {
+    "wikiId": "Q2967928",
+    "name": "Château Latour-Martillac",
+    "cat": "winery",
+    "lon": -0.53931,
+    "lat": 44.71156
+  },
+  {
+    "wikiId": "Q2967959",
+    "name": "Château Nairac",
+    "cat": "winery",
+    "lon": -0.317679,
+    "lat": 44.611509
+  },
+  {
+    "wikiId": "Q2967989",
+    "name": "Château Saint Georges",
+    "cat": "winery",
+    "lon": -0.15466,
+    "lat": 44.88499
+  },
+  {
+    "wikiId": "Q2968021",
+    "name": "Q2968021",
+    "cat": "winery",
+    "lon": 6.6584,
+    "lat": 43.1985
+  },
+  {
+    "wikiId": "Q2968037",
+    "name": "Château d'Agassac",
+    "cat": "winery",
+    "lon": -0.6088,
+    "lat": 44.9675
+  },
+  {
+    "wikiId": "Q2968491",
+    "name": "Château de Beauregard (Charente)",
+    "cat": "winery",
+    "lon": -0.25028,
+    "lat": 45.5889
+  },
+  {
+    "wikiId": "Q2968633",
+    "name": "Château de Boursault",
+    "cat": "winery",
+    "lon": 3.85028,
+    "lat": 49.0638
+  },
+  {
+    "wikiId": "Q2968817",
+    "name": "Château de Cayx",
+    "cat": "winery",
+    "lon": 1.30555556,
+    "lat": 44.49055556
+  },
+  {
+    "wikiId": "Q2968952",
+    "name": "Q2968952",
+    "cat": "winery",
+    "lon": 4.7797,
+    "lat": 45.4433
+  },
+  {
+    "wikiId": "Q2969092",
+    "name": "château de Crémat",
+    "cat": "winery",
+    "lon": 7.20944,
+    "lat": 43.7239
+  },
+  {
+    "wikiId": "Q2969163",
+    "name": "Duillier Castle",
+    "cat": "winery",
+    "lon": 6.23424,
+    "lat": 46.40682
+  },
+  {
+    "wikiId": "Q2969228",
+    "name": "Château de Fieuzal",
+    "cat": "winery",
+    "lon": -0.6096,
+    "lat": 44.7158
+  },
+  {
+    "wikiId": "Q2969321",
+    "name": "Château de Gevrey-Chambertin",
+    "cat": "winery",
+    "lon": 4.96555556,
+    "lat": 47.22944444
+  },
+  {
+    "wikiId": "Q2969611",
+    "name": "Q2969611",
+    "cat": "winery",
+    "lon": -0.26167,
+    "lat": 43.9619
+  },
+  {
+    "wikiId": "Q2969682",
+    "name": "Château de Lavernette",
+    "cat": "winery",
+    "lon": 4.75339,
+    "lat": 46.2611
+  },
+  {
+    "wikiId": "Q2969772",
+    "name": "Château de Maillou",
+    "cat": "winery",
+    "lon": 0.03444,
+    "lat": 45.6569
+  },
+  {
+    "wikiId": "Q2969787",
+    "name": "Château de Malleret",
+    "cat": "winery",
+    "lon": -0.64222222,
+    "lat": 44.96527778
+  },
+  {
+    "wikiId": "Q2969900",
+    "name": "Château Miraval, Correns-Var",
+    "cat": "winery",
+    "lon": 6.03694444,
+    "lat": 43.47305556
+  },
+  {
+    "wikiId": "Q2969925",
+    "name": "Q2969925",
+    "cat": "winery",
+    "lon": 0.446111,
+    "lat": 43.9403
+  },
+  {
+    "wikiId": "Q2970395",
+    "name": "Q2970395",
+    "cat": "winery",
+    "lon": 4.63235,
+    "lat": 44.3992
+  },
+  {
+    "wikiId": "Q2970807",
+    "name": "Q2970807",
+    "cat": "winery",
+    "lon": -0.42726,
+    "lat": 47.1988
+  },
+  {
+    "wikiId": "Q2970882",
+    "name": "Château de Valeyres",
+    "cat": "winery",
+    "lon": 6.52547,
+    "lat": 46.75273
+  },
+  {
+    "wikiId": "Q2970883",
+    "name": "Jardins du Château Val Joanis",
+    "cat": "winery",
+    "lon": 5.4688,
+    "lat": 43.7112
+  },
+  {
+    "wikiId": "Q2970896",
+    "name": "Château de Valmy",
+    "cat": "winery",
+    "lon": 3.02894,
+    "lat": 42.5309
+  },
+  {
+    "wikiId": "Q2971036",
+    "name": "Q2971036",
+    "cat": "winery",
+    "lon": 4.63111,
+    "lat": 44.3472
+  },
+  {
+    "wikiId": "Q2971040",
+    "name": "Vincy château",
+    "cat": "winery",
+    "lon": 6.301,
+    "lat": 46.46205
+  },
+  {
+    "wikiId": "Q2971050",
+    "name": "Vullierens Castle",
+    "cat": "winery",
+    "lon": 6.47987,
+    "lat": 46.57101
+  },
+  {
+    "wikiId": "Q2971112",
+    "name": "Château de l'Oiselinière",
+    "cat": "winery",
+    "lon": -1.29278,
+    "lat": 47.1067
+  },
+  {
+    "wikiId": "Q2971395",
+    "name": "Q2971395",
+    "cat": "winery",
+    "lon": 4.25778,
+    "lat": 44.3947
+  },
+  {
+    "wikiId": "Q2971666",
+    "name": "Châtelard Castle",
+    "cat": "winery",
+    "lon": 6.89909,
+    "lat": 46.44736
+  },
+  {
+    "wikiId": "Q2979604",
+    "name": "Clos de Chantecoq",
+    "cat": "winery",
+    "lon": 2.251,
+    "lat": 48.8878
+  },
+  {
+    "wikiId": "Q3034427",
+    "name": "Domaine de Chevalier",
+    "cat": "winery",
+    "lon": -0.62262,
+    "lat": 44.72081
+  },
+  {
+    "wikiId": "Q3034490",
+    "name": "Massandra winery",
+    "cat": "winery",
+    "lon": 34.186666666,
+    "lat": 44.516944444
+  },
+  {
+    "wikiId": "Q3037116",
+    "name": "Dornier Wines",
+    "cat": "winery",
+    "lon": 18.870277777,
+    "lat": -33.992777777
+  },
+  {
+    "wikiId": "Q3258016",
+    "name": "Q3258016",
+    "cat": "winery",
+    "lon": -0.21583,
+    "lat": 45.5355
+  },
+  {
+    "wikiId": "Q3296498",
+    "name": "Mas de Daumas Gassac",
+    "cat": "winery",
+    "lon": 3.590683333,
+    "lat": 43.661922222
+  },
+  {
+    "wikiId": "Q3355779",
+    "name": "Sutter Home Winery",
+    "cat": "winery",
+    "lon": -122.453,
+    "lat": 38.4913
+  },
+  {
+    "wikiId": "Q3496351",
+    "name": "Stag's Leap Wine Cellars",
+    "cat": "winery",
+    "lon": -122.326,
+    "lat": 38.3993
+  },
+  {
+    "wikiId": "Q4152347",
+    "name": "Q4152347",
+    "cat": "winery",
+    "lon": 34.297222222,
+    "lat": 44.553611111
+  },
+  {
+    "wikiId": "Q4347948",
+    "name": "Cloudy Bay Vineyards",
+    "cat": "winery",
+    "lon": 173.77361,
+    "lat": -41.52517
+  },
+  {
+    "wikiId": "Q4630984",
+    "name": "21 Cellars",
+    "cat": "winery",
+    "lon": -122.471,
+    "lat": 47.2675
+  },
+  {
+    "wikiId": "Q1090636",
+    "name": "Château Rabaud-Promis",
+    "cat": "winery",
+    "lon": -0.33859,
+    "lat": 44.55505
+  },
+  {
+    "wikiId": "Q1090652",
+    "name": "Château Rauzan-Ségla",
+    "cat": "winery",
+    "lon": -0.675555,
+    "lat": 45.036015
+  },
+  {
+    "wikiId": "Q1090657",
+    "name": "Château Rieussec",
+    "cat": "winery",
+    "lon": -0.31134,
+    "lat": 44.53875
+  },
+  {
+    "wikiId": "Q1090668",
+    "name": "Château Romer du Hayot",
+    "cat": "winery",
+    "lon": -0.34265,
+    "lat": 44.59284
+  },
+  {
+    "wikiId": "Q1090679",
+    "name": "Château Talbot",
+    "cat": "winery",
+    "lon": -0.7563472,
+    "lat": 45.1594944
+  },
+  {
+    "wikiId": "Q1090681",
+    "name": "Château Suduiraut",
+    "cat": "winery",
+    "lon": -0.32,
+    "lat": 44.55638889
+  },
+  {
+    "wikiId": "Q1090698",
+    "name": "Château de Beaucastel",
+    "cat": "winery",
+    "lon": 4.8518,
+    "lat": 44.1048
+  },
+  {
+    "wikiId": "Q1090716",
+    "name": "Château de Rayne-Vigneau",
+    "cat": "winery",
+    "lon": -0.344722222,
+    "lat": 44.5475
+  },
+  {
+    "wikiId": "Q1090725",
+    "name": "Château d'Issan",
+    "cat": "winery",
+    "lon": -0.658171,
+    "lat": 45.037882
+  },
+  {
+    "wikiId": "Q1090764",
+    "name": "Château d'Yquem",
+    "cat": "winery",
+    "lon": -0.328683,
+    "lat": 44.5436
+  },
+  {
+    "wikiId": "Q1102349",
+    "name": "Clos Saint-Denis",
+    "cat": "winery",
+    "lon": 4.96155556,
+    "lat": 47.20108056
+  },
+  {
+    "wikiId": "Q1102353",
+    "name": "Clos de Tart",
+    "cat": "winery",
+    "lon": 4.9625,
+    "lat": 47.19527778
+  },
+  {
+    "wikiId": "Q1102361",
+    "name": "Clos de la Roche",
+    "cat": "winery",
+    "lon": 4.96241944,
+    "lat": 47.20361111
+  },
+  {
+    "wikiId": "Q1123957",
+    "name": "Concha y Toro",
+    "cat": "winery",
+    "lon": -71.271969,
+    "lat": -35.063392
+  },
+  {
+    "wikiId": "Q1129938",
+    "name": "Maison Joseph Drouhin",
+    "cat": "winery",
+    "lon": 4.836222222,
+    "lat": 47.023277777
+  },
+  {
+    "wikiId": "Q1135641",
+    "name": "Corton-Charlemagne",
+    "cat": "winery",
+    "lon": 4.85544722,
+    "lat": 47.07175833
+  },
+  {
+    "wikiId": "Q1140103",
+    "name": "Criots-Bâtard-Montrachet",
+    "cat": "winery",
+    "lon": 4.73768333,
+    "lat": 46.941375
+  },
+  {
+    "wikiId": "Q1206578",
+    "name": "Q1206578",
+    "cat": "winery",
+    "lon": 7.035,
+    "lat": 50.515
+  },
+  {
+    "wikiId": "Q1224867",
+    "name": "Q1224867",
+    "cat": "winery",
+    "lon": 16.5482945,
+    "lat": 47.5868975
+  },
+  {
+    "wikiId": "Q1233237",
+    "name": "Kynast",
+    "cat": "winery",
+    "lon": 13.6054,
+    "lat": 51.1251
+  },
+  {
+    "wikiId": "Q1237933",
+    "name": "Q1237933",
+    "cat": "winery",
+    "lon": 6.72627,
+    "lat": 49.7623
+  },
+  {
+    "wikiId": "Q1238791",
+    "name": "Domäne Wachau",
+    "cat": "winery",
+    "lon": 15.5274,
+    "lat": 48.3923
+  },
+  {
+    "wikiId": "Q1238799",
+    "name": "Domänenweingut Schloss Schönborn",
+    "cat": "winery",
+    "lon": 8.058252,
+    "lat": 50.013243
+  },
+  {
+    "wikiId": "Q1282360",
+    "name": "Q1282360",
+    "cat": "winery",
+    "lon": 7.9,
+    "lat": 49.8944
+  },
+  {
+    "wikiId": "Q1284848",
+    "name": "Hospices de Beaune",
+    "cat": "winery",
+    "lon": 4.836666666,
+    "lat": 47.021944444
+  },
+  {
+    "wikiId": "Q1312736",
+    "name": "Q1312736",
+    "cat": "winery",
+    "lon": 6.72412,
+    "lat": 49.7706
+  },
+  {
+    "wikiId": "Q1326404",
+    "name": "Weingut Juris",
+    "cat": "winery",
+    "lon": 16.9067,
+    "lat": 47.8967
+  },
+  {
+    "wikiId": "Q1326445",
+    "name": "Weingut Schiefer",
+    "cat": "winery",
+    "lon": 16.3483,
+    "lat": 47.2339
+  },
+  {
+    "wikiId": "Q1331313",
+    "name": "Q1331313",
+    "cat": "winery",
+    "lon": 9.274533,
+    "lat": 48.803033
+  },
+  {
+    "wikiId": "Q1352617",
+    "name": "Q1352617",
+    "cat": "winery",
+    "lon": 13.6439,
+    "lat": 51.1137
+  },
+  {
+    "wikiId": "Q1369444",
+    "name": "Achaia Clauss",
+    "cat": "winery",
+    "lon": 21.770111111,
+    "lat": 38.196888888
+  },
+  {
+    "wikiId": "Q1394052",
+    "name": "Q1394052",
+    "cat": "winery",
+    "lon": 7.035,
+    "lat": 50.515
+  },
+  {
+    "wikiId": "Q1395396",
+    "name": "Weingut Prieler",
+    "cat": "winery",
+    "lon": 16.6314,
+    "lat": 47.8544
+  },
+  {
+    "wikiId": "Q1421321",
+    "name": "Richebourg",
+    "cat": "winery",
+    "lon": 4.94972222,
+    "lat": 47.16305556
+  },
+  {
+    "wikiId": "Q1423279",
+    "name": "Sandalford Wines",
+    "cat": "winery",
+    "lon": 115.993,
+    "lat": -31.8686
+  },
+  {
+    "wikiId": "Q1444807",
+    "name": "Q1444807",
+    "cat": "winery",
+    "lon": 8.208106,
+    "lat": 49.661716
+  },
+  {
+    "wikiId": "Q1457587",
+    "name": "Weingut Anita und Hans Nittnaus",
+    "cat": "winery",
+    "lon": 16.9111,
+    "lat": 47.8972
+  },
+  {
+    "wikiId": "Q1469938",
+    "name": "Weingut Paul Achs",
+    "cat": "winery",
+    "lon": 16.9122,
+    "lat": 47.9022
+  },
+  {
+    "wikiId": "Q1471002",
+    "name": "Weingut Josef Biffar",
+    "cat": "winery",
+    "lon": 8.1925,
+    "lat": 49.41083333
+  },
+  {
+    "wikiId": "Q1474756",
+    "name": "Q1474756",
+    "cat": "winery",
+    "lon": 16.6283,
+    "lat": 47.6
+  },
+  {
+    "wikiId": "Q1484256",
+    "name": "G. H. von Mumm’sches Weingut",
+    "cat": "winery",
+    "lon": 7.982807,
+    "lat": 50.004674
+  },
+  {
+    "wikiId": "Q1492871",
+    "name": "Gamay Teinturier De Bouze",
+    "cat": "winery",
+    "lon": 1.497865469,
+    "lat": 47.400141141
+  },
+  {
+    "wikiId": "Q1503400",
+    "name": "Weingut Jamek",
+    "cat": "winery",
+    "lon": 15.4628,
+    "lat": 48.3878
+  },
+  {
+    "wikiId": "Q1517101",
+    "name": "Staatlicher Hofkeller Würzburg",
+    "cat": "winery",
+    "lon": 9.938291,
+    "lat": 49.793912
+  },
+  {
+    "wikiId": "Q1529963",
+    "name": "Schloss Gobelsburg",
+    "cat": "winery",
+    "lon": 15.6961,
+    "lat": 48.4611
+  },
+  {
+    "wikiId": "Q1542916",
+    "name": "Grands Échezeaux",
+    "cat": "winery",
+    "lon": 4.95412778,
+    "lat": 47.17058889
+  },
+  {
+    "wikiId": "Q1544405",
+    "name": "Q1544405",
+    "cat": "winery",
+    "lon": 7.59595,
+    "lat": 47.76355
+  },
+  {
+    "wikiId": "Q1555244",
+    "name": "La Grande Rue",
+    "cat": "winery",
+    "lon": 4.94972222,
+    "lat": 47.16083333
+  },
+  {
+    "wikiId": "Q1559669",
+    "name": "Q1559669",
+    "cat": "winery",
+    "lon": 16.3024,
+    "lat": 47.9743
+  },
+  {
+    "wikiId": "Q1608092",
+    "name": "Q1608092",
+    "cat": "winery",
+    "lon": 15.5333,
+    "lat": 48.3858
+  },
+  {
+    "wikiId": "Q1623165",
+    "name": "Hoflößnitz",
+    "cat": "winery",
+    "lon": 13.661944444,
+    "lat": 51.111666666
+  },
+  {
+    "wikiId": "Q1631313",
+    "name": "Houghton Winery",
+    "cat": "winery",
+    "lon": 115.99888889,
+    "lat": -31.85416667
+  },
+  {
+    "wikiId": "Q1645105",
+    "name": "Weingut Gesellmann",
+    "cat": "winery",
+    "lon": 16.6292,
+    "lat": 47.5989
+  },
+  {
+    "wikiId": "Q1649179",
+    "name": "Château Pécauld",
+    "cat": "winery",
+    "lon": 5.7751,
+    "lat": 46.9035
+  },
+  {
+    "wikiId": "Q1651435",
+    "name": "Q1651435",
+    "cat": "winery",
+    "lon": 7.01468,
+    "lat": 49.9133
+  },
+  {
+    "wikiId": "Q1666785",
+    "name": "Weingut Balthasar Ress",
+    "cat": "winery",
+    "lon": 8.0624,
+    "lat": 50.013861
+  },
+  {
+    "wikiId": "Q1670209",
+    "name": "Weingut Iby",
+    "cat": "winery",
+    "lon": 16.5511,
+    "lat": 47.5864
+  },
+  {
+    "wikiId": "Q1726298",
+    "name": "Weingut Reichsrat von Buhl",
+    "cat": "winery",
+    "lon": 8.18638889,
+    "lat": 49.40944444
+  },
+  {
+    "wikiId": "Q1747193",
+    "name": "Weingut Wagner-Stempel",
+    "cat": "winery",
+    "lon": 7.95638889,
+    "lat": 49.79694444
+  },
+  {
+    "wikiId": "Q1764801",
+    "name": "Weingut J. Heinrich",
+    "cat": "winery",
+    "lon": 16.6194,
+    "lat": 47.5989
+  },
+  {
+    "wikiId": "Q1775242",
+    "name": "Klostergut Fremersberg",
+    "cat": "winery",
+    "lon": 8.195,
+    "lat": 48.7458
+  },
+  {
+    "wikiId": "Q1783995",
+    "name": "Weingut Hofmannsberg",
+    "cat": "winery",
+    "lon": 13.6744,
+    "lat": 51.1104
+  },
+  {
+    "wikiId": "Q1795432",
+    "name": "Montrachet",
+    "cat": "winery",
+    "lon": 4.73777778,
+    "lat": 46.94444444
+  },
+  {
+    "wikiId": "Q1802752",
+    "name": "Landesweingut Kloster Pforta",
+    "cat": "winery",
+    "lon": 11.73236111,
+    "lat": 51.15091667
+  },
+  {
+    "wikiId": "Q1913305",
+    "name": "Castello di Amorosa",
+    "cat": "winery",
+    "lon": -122.5427,
+    "lat": 38.5584
+  },
+  {
+    "wikiId": "Q1949939",
+    "name": "Bollinger",
+    "cat": "winery",
+    "lon": 4.0077952,
+    "lat": 49.0538571
+  },
+  {
+    "wikiId": "Q2010434",
+    "name": "Obermoser",
+    "cat": "winery",
+    "lon": 11.374345,
+    "lat": 46.501701
+  },
+  {
+    "wikiId": "Q2142623",
+    "name": "Romanée-Conti",
+    "cat": "winery",
+    "lon": 4.94995556,
+    "lat": 47.16155556
+  },
+  {
+    "wikiId": "Q2165002",
+    "name": "Romanée-Saint-Vivant",
+    "cat": "winery",
+    "lon": 4.95277778,
+    "lat": 47.16222222
+  },
+  {
+    "wikiId": "Q2186259",
+    "name": "Francis Ford Coppola Winery",
+    "cat": "winery",
+    "lon": -122.887182,
+    "lat": 38.679603
+  },
+  {
+    "wikiId": "Q2243004",
+    "name": "Schloss Proschwitz",
+    "cat": "winery",
+    "lon": 13.4753,
+    "lat": 51.1792
+  },
+  {
+    "wikiId": "Q2243294",
+    "name": "de Mestral château",
+    "cat": "winery",
+    "lon": 6.48757,
+    "lat": 46.54536
+  },
+  {
+    "wikiId": "Q2264888",
+    "name": "Henriot",
+    "cat": "winery",
+    "lon": 4.0077646,
+    "lat": 49.2631736
+  },
+  {
+    "wikiId": "Q2287130",
+    "name": "Simi Winery",
+    "cat": "winery",
+    "lon": -122.872,
+    "lat": 38.6441
+  },
+  {
+    "wikiId": "Q2399877",
+    "name": "Château de Myrat",
+    "cat": "winery",
+    "lon": -0.33442,
+    "lat": 44.59724
+  },
+  {
+    "wikiId": "Q2415723",
+    "name": "Château Fougas",
+    "cat": "winery",
+    "lon": -0.54277778,
+    "lat": 45.06083333
+  },
+  {
+    "wikiId": "Q2428926",
+    "name": "Ehemaliges Thormanngut",
+    "cat": "winery",
+    "lon": 7.17549,
+    "lat": 47.1018
+  },
+  {
+    "wikiId": "Q2461512",
+    "name": "Château de Chasselas",
+    "cat": "winery",
+    "lon": 4.72172,
+    "lat": 46.2748
+  },
+  {
+    "wikiId": "Q2481928",
+    "name": "Cooperative Wine Cellar (Gandesa)",
+    "cat": "winery",
+    "lon": 0.440405,
+    "lat": 41.054893
+  },
+  {
+    "wikiId": "Q2496002",
+    "name": "Château de Valmer",
+    "cat": "winery",
+    "lon": 0.8873,
+    "lat": 47.4588
+  },
+  {
+    "wikiId": "Q2555970",
+    "name": "Q2555970",
+    "cat": "winery",
+    "lon": 15.5431,
+    "lat": 48.3875
+  },
+  {
+    "wikiId": "Q2555974",
+    "name": "Weingut Bergdolt",
+    "cat": "winery",
+    "lon": 8.207527777,
+    "lat": 49.299361111
+  },
+  {
+    "wikiId": "Q2555977",
+    "name": "Weingut Bernhard Huber",
+    "cat": "winery",
+    "lon": 7.812422,
+    "lat": 48.160043
+  },
+  {
+    "wikiId": "Q2555979",
+    "name": "Weingut Brüder Dr. Becker",
+    "cat": "winery",
+    "lon": 8.34341,
+    "lat": 49.81774
+  },
+  {
+    "wikiId": "Q2555982",
+    "name": "Q2555982",
+    "cat": "winery",
+    "lon": 15.6583,
+    "lat": 48.475
+  },
+  {
+    "wikiId": "Q2555987",
+    "name": "Q2555987",
+    "cat": "winery",
+    "lon": 7.64709,
+    "lat": 48.04447
+  },
+  {
+    "wikiId": "Q2555989",
+    "name": "Q2555989",
+    "cat": "winery",
+    "lon": 6.72398,
+    "lat": 49.774
+  },
+  {
+    "wikiId": "Q2555999",
+    "name": "Weingut Dr. Bürklin-Wolf",
+    "cat": "winery",
+    "lon": 8.18027778,
+    "lat": 49.44
+  },
+  {
+    "wikiId": "Q2556001",
+    "name": "Q2556001",
+    "cat": "winery",
+    "lon": 16.6357,
+    "lat": 47.4623
+  },
+  {
+    "wikiId": "Q2556003",
+    "name": "Franz Hirtzberger Winery",
+    "cat": "winery",
+    "lon": 15.4167,
+    "lat": 48.3667
+  },
+  {
+    "wikiId": "Q2556006",
+    "name": "Q2556006",
+    "cat": "winery",
+    "lon": 15.6828,
+    "lat": 48.4814
+  },
+  {
+    "wikiId": "Q2556010",
+    "name": "Q2556010",
+    "cat": "winery",
+    "lon": 16.6242,
+    "lat": 47.6
+  },
+  {
+    "wikiId": "Q2556014",
+    "name": "Weingut Geheimer Rat Dr. von Bassermann-Jordan",
+    "cat": "winery",
+    "lon": 8.185,
+    "lat": 49.40777778
+  },
+  {
+    "wikiId": "Q2556018",
+    "name": "Weingut Geiger & Söhne",
+    "cat": "winery",
+    "lon": 9.8418,
+    "lat": 49.8782
+  },
+  {
+    "wikiId": "Q2556020",
+    "name": "Q2556020",
+    "cat": "winery",
+    "lon": 9.276425,
+    "lat": 48.805934
+  },
+  {
+    "wikiId": "Q2556029",
+    "name": "Weingut Graf von Kanitz",
+    "cat": "winery",
+    "lon": 7.80373,
+    "lat": 50.0434
+  },
+  {
+    "wikiId": "Q2556031",
+    "name": "Q2556031",
+    "cat": "winery",
+    "lon": 15.5744,
+    "lat": 46.6939
+  },
+  {
+    "wikiId": "Q2556032",
+    "name": "Weingut Gunderloch",
+    "cat": "winery",
+    "lon": 8.3439,
+    "lat": 49.9147
+  },
+  {
+    "wikiId": "Q2556036",
+    "name": "Weingut Hausberg",
+    "cat": "winery",
+    "lon": 13.5999,
+    "lat": 51.1235
+  },
+  {
+    "wikiId": "Q2556040",
+    "name": "Heinrich Vollmer",
+    "cat": "winery",
+    "lon": 8.25322,
+    "lat": 49.4586
+  },
+  {
+    "wikiId": "Q2556043",
+    "name": "Weingut Heyl zu Herrnsheim",
+    "cat": "winery",
+    "lon": 8.3382,
+    "lat": 49.87244
+  },
+  {
+    "wikiId": "Q2556044",
+    "name": "Q2556044",
+    "cat": "winery",
+    "lon": 15.3667,
+    "lat": 48.3583
+  },
+  {
+    "wikiId": "Q2556047",
+    "name": "Weingut J. Neus",
+    "cat": "winery",
+    "lon": 8.0582115,
+    "lat": 49.9675117
+  },
+  {
+    "wikiId": "Q2556051",
+    "name": "Q2556051",
+    "cat": "winery",
+    "lon": 10.262679,
+    "lat": 49.703306
+  },
+  {
+    "wikiId": "Q2556054",
+    "name": "Q2556054",
+    "cat": "winery",
+    "lon": 9.3417327,
+    "lat": 48.7867352
+  },
+  {
+    "wikiId": "Q2556056",
+    "name": "Karthäuserhof",
+    "cat": "winery",
+    "lon": 6.72554,
+    "lat": 49.7775
+  },
+  {
+    "wikiId": "Q2556062",
+    "name": "Q2556062",
+    "cat": "winery",
+    "lon": 16.4806,
+    "lat": 47.8292
+  },
+  {
+    "wikiId": "Q2556064",
+    "name": "Q2556064",
+    "cat": "winery",
+    "lon": 16.44888889,
+    "lat": 47.16555556
+  },
+  {
+    "wikiId": "Q2556070",
+    "name": "Weingut Manfred Tement",
+    "cat": "winery",
+    "lon": 15.6122,
+    "lat": 46.6858
+  },
+  {
+    "wikiId": "Q2556075",
+    "name": "Q2556075",
+    "cat": "winery",
+    "lon": 8.0925,
+    "lat": 49.97194444
+  },
+  {
+    "wikiId": "Q2556078",
+    "name": "Weingut Müller-Catoir",
+    "cat": "winery",
+    "lon": 8.138,
+    "lat": 49.361333333
+  },
+  {
+    "wikiId": "Q2556079",
+    "name": "Q2556079",
+    "cat": "winery",
+    "lon": 7.17737,
+    "lat": 50.54585
+  },
+  {
+    "wikiId": "Q2556083",
+    "name": "Q2556083",
+    "cat": "winery",
+    "lon": 15.8633,
+    "lat": 46.8089
+  },
+  {
+    "wikiId": "Q2556086",
+    "name": "Q2556086",
+    "cat": "winery",
+    "lon": 15.5661,
+    "lat": 48.4464
+  },
+  {
+    "wikiId": "Q2556091",
+    "name": "Q2556091",
+    "cat": "winery",
+    "lon": 8.1765,
+    "lat": 49.4704
+  },
+  {
+    "wikiId": "Q2556092",
+    "name": "Weingut Polz",
+    "cat": "winery",
+    "lon": 15.6222,
+    "lat": 46.6833
+  },
+  {
+    "wikiId": "Q2556094",
+    "name": "Q2556094",
+    "cat": "winery",
+    "lon": 15.4672,
+    "lat": 48.3925
+  },
+  {
+    "wikiId": "Q2556096",
+    "name": "Weingut Pöckl",
+    "cat": "winery",
+    "lon": 16.9403,
+    "lat": 47.8806
+  },
+  {
+    "wikiId": "Q2556102",
+    "name": "Weingut Rudolf Fürst",
+    "cat": "winery",
+    "lon": 9.28444444,
+    "lat": 49.71166667
+  },
+  {
+    "wikiId": "Q2556106",
+    "name": "Q2556106",
+    "cat": "winery",
+    "lon": 6.5722,
+    "lat": 49.5844
+  },
+  {
+    "wikiId": "Q2556126",
+    "name": "Weingut von Winning",
+    "cat": "winery",
+    "lon": 8.18611111,
+    "lat": 49.41055556
+  },
+  {
+    "wikiId": "Q2556134",
+    "name": "Weingut von Othegraven",
+    "cat": "winery",
+    "lon": 6.57773917,
+    "lat": 49.670325
+  },
+  {
+    "wikiId": "Q2558616",
+    "name": "Gosset",
+    "cat": "winery",
+    "lon": 3.9643083,
+    "lat": 49.0371601
+  },
+  {
+    "wikiId": "Q2588605",
+    "name": "Wolf Blass",
+    "cat": "winery",
+    "lon": 139.033,
+    "lat": -34.44
+  },
+  {
+    "wikiId": "Q2636044",
+    "name": "Château de Montmelas",
+    "cat": "winery",
+    "lon": 4.62167,
+    "lat": 46.0111
+  },
+  {
+    "wikiId": "Q2776942",
+    "name": "Beit Jimal Monastery",
+    "cat": "winery",
+    "lon": 34.976389,
+    "lat": 31.725
+  },
+  {
+    "wikiId": "Q2807059",
+    "name": "Weingut St. Antony",
+    "cat": "winery",
+    "lon": 8.339511,
+    "lat": 49.871071
+  },
+  {
+    "wikiId": "Q2829326",
+    "name": "Al Este",
+    "cat": "winery",
+    "lon": -62.68333333,
+    "lat": -38.8
+  },
+  {
+    "wikiId": "Q2864653",
+    "name": "Canard-Duchêne",
+    "cat": "winery",
+    "lon": 4.081112,
+    "lat": 49.1535235
+  },
+  {
+    "wikiId": "Q2893208",
+    "name": "Beaulieu Vineyard",
+    "cat": "winery",
+    "lon": -122.42344,
+    "lat": 38.46015
+  },
+  {
+    "wikiId": "Q2893254",
+    "name": "Beaune wine",
+    "cat": "winery",
+    "lon": 4.8055,
+    "lat": 47.0187
+  },
+  {
+    "wikiId": "Q2893608",
+    "name": "Bodegas Ysios",
+    "cat": "winery",
+    "lon": -2.590833333,
+    "lat": 42.568611111
+  },
+  {
+    "wikiId": "Q2895229",
+    "name": "Château Golan",
+    "cat": "winery",
+    "lon": 35.7341,
+    "lat": 32.8045
+  },
+  {
+    "wikiId": "Q2905035",
+    "name": "Golan Heights Winery",
+    "cat": "winery",
+    "lon": 35.708644444,
+    "lat": 32.988297222
+  },
+  {
+    "wikiId": "Q2921339",
+    "name": "Bouchard Père et Fils",
+    "cat": "winery",
+    "lon": 4.843524,
+    "lat": 47.024515
+  },
+  {
+    "wikiId": "Q22579",
+    "name": "Winery Anselmann",
+    "cat": "winery",
+    "lon": 8.1322,
+    "lat": 49.26738
+  },
+  {
+    "wikiId": "Q49226",
+    "name": "Buena Vista Winery",
+    "cat": "winery",
+    "lon": -122.423056,
+    "lat": 38.299444
+  },
+  {
+    "wikiId": "Q116766",
+    "name": "Chateau Montelena",
+    "cat": "winery",
+    "lon": -122.59777778,
+    "lat": 38.60377778
+  },
+  {
+    "wikiId": "Q128427",
+    "name": "Château d'Armailhac",
+    "cat": "winery",
+    "lon": -0.769955,
+    "lat": 45.211115
+  },
+  {
+    "wikiId": "Q184167",
+    "name": "Zechstein",
+    "cat": "winery",
+    "lon": 13.6104,
+    "lat": 51.1217
+  },
+  {
+    "wikiId": "Q188138",
+    "name": "Château Doisy-Dubroca",
+    "cat": "winery",
+    "lon": -0.3236,
+    "lat": 44.5858
+  },
+  {
+    "wikiId": "Q204901",
+    "name": "Taittinger",
+    "cat": "winery",
+    "lon": 4.04618,
+    "lat": 49.24429
+  },
+  {
+    "wikiId": "Q259910",
+    "name": "Château Franc Mayne",
+    "cat": "winery",
+    "lon": -0.171184,
+    "lat": 44.89957047
+  },
+  {
+    "wikiId": "Q262435",
+    "name": "Château Doisy Daëne",
+    "cat": "winery",
+    "lon": -0.33079,
+    "lat": 44.59164
+  },
+  {
+    "wikiId": "Q268304",
+    "name": "Törley",
+    "cat": "winery",
+    "lon": 19.03545,
+    "lat": 47.43114
+  },
+  {
+    "wikiId": "Q284720",
+    "name": "Crêtes Castle",
+    "cat": "winery",
+    "lon": 6.89081,
+    "lat": 46.44519
+  },
+  {
+    "wikiId": "Q305074",
+    "name": "Château Le Pin",
+    "cat": "winery",
+    "lon": -0.20548,
+    "lat": 44.92583
+  },
+  {
+    "wikiId": "Q378265",
+    "name": "Prado de Irache",
+    "cat": "winery",
+    "lon": -2.044361111,
+    "lat": 42.650666666
+  },
+  {
+    "wikiId": "Q448588",
+    "name": "Opus One Winery",
+    "cat": "winery",
+    "lon": -122.399988,
+    "lat": 38.441287
+  },
+  {
+    "wikiId": "Q462898",
+    "name": "Château Langoa-Barton",
+    "cat": "winery",
+    "lon": -0.740083,
+    "lat": 45.1578444
+  },
+  {
+    "wikiId": "Q462988",
+    "name": "Château Angélus",
+    "cat": "winery",
+    "lon": -0.1715,
+    "lat": 44.8927
+  },
+  {
+    "wikiId": "Q464240",
+    "name": "Château La Tour Blanche",
+    "cat": "winery",
+    "lon": -0.35125,
+    "lat": 44.542222222
+  },
+  {
+    "wikiId": "Q472864",
+    "name": "Château Lynch-Moussas",
+    "cat": "winery",
+    "lon": -0.793125,
+    "lat": 45.1836556
+  },
+  {
+    "wikiId": "Q518582",
+    "name": "Château Haut-Brion",
+    "cat": "winery",
+    "lon": -0.6126833,
+    "lat": 44.8142472
+  },
+  {
+    "wikiId": "Q532686",
+    "name": "Château Pavie",
+    "cat": "winery",
+    "lon": -0.1496,
+    "lat": 44.8843
+  },
+  {
+    "wikiId": "Q586841",
+    "name": "Château Pouget",
+    "cat": "winery",
+    "lon": -0.6568472,
+    "lat": 45.0231861
+  },
+  {
+    "wikiId": "Q600832",
+    "name": "Château de Goulaine",
+    "cat": "winery",
+    "lon": -1.402777777,
+    "lat": 47.204166666
+  },
+  {
+    "wikiId": "Q624415",
+    "name": "Château Saint-Aubin",
+    "cat": "winery",
+    "lon": -0.947207,
+    "lat": 45.413
+  },
+  {
+    "wikiId": "Q633355",
+    "name": "Ayala & Co.",
+    "cat": "winery",
+    "lon": 3.9095022,
+    "lat": 49.1216043
+  },
+  {
+    "wikiId": "Q734456",
+    "name": "Château Malartic-Lagravière",
+    "cat": "winery",
+    "lon": -0.6026,
+    "lat": 44.7223
+  },
+  {
+    "wikiId": "Q760319",
+    "name": "Ancre Hill Estates",
+    "cat": "winery",
+    "lon": -2.72505,
+    "lat": 51.8124
+  },
+  {
+    "wikiId": "Q768299",
+    "name": "De Castellane",
+    "cat": "winery",
+    "lon": 3.969361,
+    "lat": 49.042636
+  },
+  {
+    "wikiId": "Q780285",
+    "name": "Château Pichon Longueville Comtesse de Lalande",
+    "cat": "winery",
+    "lon": -0.752414,
+    "lat": 45.17618
+  },
+  {
+    "wikiId": "Q787543",
+    "name": "Vergelegen",
+    "cat": "winery",
+    "lon": 18.891833333,
+    "lat": -34.076944444
+  },
+  {
+    "wikiId": "Q841657",
+    "name": "Château Coutet",
+    "cat": "winery",
+    "lon": -0.32595,
+    "lat": 44.59476
+  },
+  {
+    "wikiId": "Q906390",
+    "name": "Q906390",
+    "cat": "winery",
+    "lon": 21.303,
+    "lat": 48.1654
+  },
+  {
+    "wikiId": "Q964638",
+    "name": "castle of Ripaille",
+    "cat": "winery",
+    "lon": 6.48667,
+    "lat": 46.3881
+  },
+  {
+    "wikiId": "Q965193",
+    "name": "Château La Gaffelière",
+    "cat": "winery",
+    "lon": -0.15709162,
+    "lat": 44.88534775
+  },
+  {
+    "wikiId": "Q975958",
+    "name": "Château Giscours",
+    "cat": "winery",
+    "lon": -0.6459611,
+    "lat": 45.0087028
+  },
+  {
+    "wikiId": "Q1004025",
+    "name": "Q1004025",
+    "cat": "winery",
+    "lon": 19.399545794,
+    "lat": 46.577528661
+  },
+  {
+    "wikiId": "Q1018887",
+    "name": "Bâtard-Montrachet",
+    "cat": "winery",
+    "lon": 4.73997778,
+    "lat": 46.94374167
+  },
+  {
+    "wikiId": "Q1054167",
+    "name": "Centre Vinicole—Champagne Nicolas Feuillatte",
+    "cat": "winery",
+    "lon": 3.9751413,
+    "lat": 49.0241407
+  },
+  {
+    "wikiId": "Q1061469",
+    "name": "Château Mouton Rothschild",
+    "cat": "winery",
+    "lon": -0.7686,
+    "lat": 45.2153
+  },
+  {
+    "wikiId": "Q1063236",
+    "name": "Château Margaux",
+    "cat": "winery",
+    "lon": -0.668705555,
+    "lat": 45.044419444
+  },
+  {
+    "wikiId": "Q1070885",
+    "name": "Chevalier-Montrachet",
+    "cat": "winery",
+    "lon": 4.73731389,
+    "lat": 46.94641111
+  },
+  {
+    "wikiId": "Q1090324",
+    "name": "Château Batailley",
+    "cat": "winery",
+    "lon": -0.7729278,
+    "lat": 45.1767972
+  },
+  {
+    "wikiId": "Q1090332",
+    "name": "Château Beauséjour",
+    "cat": "winery",
+    "lon": -0.1647,
+    "lat": 44.8923
+  },
+  {
+    "wikiId": "Q1090340",
+    "name": "Château Ausone",
+    "cat": "winery",
+    "lon": -0.1564,
+    "lat": 44.8892
+  },
+  {
+    "wikiId": "Q1090342",
+    "name": "Château Beychevelle",
+    "cat": "winery",
+    "lon": -0.73497,
+    "lat": 45.14504
+  },
+  {
+    "wikiId": "Q1090345",
+    "name": "Château Branaire-Ducru",
+    "cat": "winery",
+    "lon": -0.7388,
+    "lat": 45.145
+  },
+  {
+    "wikiId": "Q1090348",
+    "name": "Château Brane-Cantenac",
+    "cat": "winery",
+    "lon": -0.6736972,
+    "lat": 45.023944
+  },
+  {
+    "wikiId": "Q1090366",
+    "name": "Château Calon-Ségur",
+    "cat": "winery",
+    "lon": -0.7776639,
+    "lat": 45.2669694
+  },
+  {
+    "wikiId": "Q1090369",
+    "name": "Château de Camensac",
+    "cat": "winery",
+    "lon": -0.7861083,
+    "lat": 45.14635
+  },
+  {
+    "wikiId": "Q1090379",
+    "name": "Château Chasse-Spleen",
+    "cat": "winery",
+    "lon": -0.740675931,
+    "lat": 45.075710232
+  },
+  {
+    "wikiId": "Q1090383",
+    "name": "Château Cantenac-Brown",
+    "cat": "winery",
+    "lon": -0.679175,
+    "lat": 45.0278028
+  },
+  {
+    "wikiId": "Q1090388",
+    "name": "Château Cantemerle",
+    "cat": "winery",
+    "lon": -0.6263167,
+    "lat": 44.9940167
+  },
+  {
+    "wikiId": "Q1090398",
+    "name": "Château Clarke",
+    "cat": "winery",
+    "lon": -0.7745,
+    "lat": 45.0661
+  },
+  {
+    "wikiId": "Q1090399",
+    "name": "Château Clerc Milon",
+    "cat": "winery",
+    "lon": -0.765319,
+    "lat": 45.221615
+  },
+  {
+    "wikiId": "Q1090405",
+    "name": "Château Cheval Blanc",
+    "cat": "winery",
+    "lon": -0.1893,
+    "lat": 44.9195
+  },
+  {
+    "wikiId": "Q1090411",
+    "name": "Château Clos Haut-Peyraguey",
+    "cat": "winery",
+    "lon": -0.33972222,
+    "lat": 44.54583333
+  },
+  {
+    "wikiId": "Q1090414",
+    "name": "Château Cos Labory",
+    "cat": "winery",
+    "lon": -0.7769806,
+    "lat": 45.230694
+  },
+  {
+    "wikiId": "Q1090418",
+    "name": "Château Croizet Bages",
+    "cat": "winery",
+    "lon": -0.7565806,
+    "lat": 45.1907333
+  },
+  {
+    "wikiId": "Q1090422",
+    "name": "Château Desmirail",
+    "cat": "winery",
+    "lon": -0.65397,
+    "lat": 45.02852
+  },
+  {
+    "wikiId": "Q1090428",
+    "name": "Château Ducru-Beaucaillou",
+    "cat": "winery",
+    "lon": -0.7333139,
+    "lat": 45.1508083
+  },
+  {
+    "wikiId": "Q1090433",
+    "name": "Château Duhart-Milon",
+    "cat": "winery",
+    "lon": -0.7848306,
+    "lat": 45.2193694
+  },
+  {
+    "wikiId": "Q1090437",
+    "name": "Château Ferrière",
+    "cat": "winery",
+    "lon": -0.67639,
+    "lat": 45.043556
+  },
+  {
+    "wikiId": "Q1090441",
+    "name": "Château-Figeac",
+    "cat": "winery",
+    "lon": -0.192425,
+    "lat": 44.912833
+  },
+  {
+    "wikiId": "Q1090442",
+    "name": "Château Filhot",
+    "cat": "winery",
+    "lon": -0.34186389,
+    "lat": 44.52300833
+  },
+  {
+    "wikiId": "Q1090450",
+    "name": "Château Grand-Puy-Lacoste",
+    "cat": "winery",
+    "lon": -0.7690889,
+    "lat": 45.1900722
+  },
+  {
+    "wikiId": "Q1090452",
+    "name": "Château Grand-Puy-Ducasse",
+    "cat": "winery",
+    "lon": -0.746583,
+    "lat": 45.1998694
+  },
+  {
+    "wikiId": "Q1090464",
+    "name": "Château Gruaud-Larose",
+    "cat": "winery",
+    "lon": -0.75083333,
+    "lat": 45.14444444
+  },
+  {
+    "wikiId": "Q1090468",
+    "name": "Château Haut-Bages-Libéral",
+    "cat": "winery",
+    "lon": -0.748894,
+    "lat": 45.199276
+  },
+  {
+    "wikiId": "Q1090472",
+    "name": "Château Haut-Batailley",
+    "cat": "winery",
+    "lon": -0.77085,
+    "lat": 45.1733
+  },
+  {
+    "wikiId": "Q1090484",
+    "name": "Château Kirwan",
+    "cat": "winery",
+    "lon": -0.6582194,
+    "lat": 45.0274194
+  },
+  {
+    "wikiId": "Q1090486",
+    "name": "Château La Conseillante",
+    "cat": "winery",
+    "lon": -0.19578,
+    "lat": 44.92411
+  },
+  {
+    "wikiId": "Q1090498",
+    "name": "Château La Nerthe",
+    "cat": "winery",
+    "lon": 4.85836,
+    "lat": 44.0496
+  },
+  {
+    "wikiId": "Q1090500",
+    "name": "Château La Lagune",
+    "cat": "winery",
+    "lon": -0.6172417,
+    "lat": 44.9788917
+  },
+  {
+    "wikiId": "Q1090516",
+    "name": "Château Lafaurie-Peyraguey",
+    "cat": "winery",
+    "lon": -0.33777778,
+    "lat": 44.54944444
+  },
+  {
+    "wikiId": "Q1090522",
+    "name": "Château Lafon-Rochet",
+    "cat": "winery",
+    "lon": -0.7877722,
+    "lat": 45.229425
+  },
+  {
+    "wikiId": "Q1090523",
+    "name": "Château Lagrange",
+    "cat": "winery",
+    "lon": -0.773222,
+    "lat": 45.1495111
+  },
+  {
+    "wikiId": "Q1090546",
+    "name": "Château Lynch-Bages",
+    "cat": "winery",
+    "lon": -0.75561,
+    "lat": 45.19083
+  },
+  {
+    "wikiId": "Q1090555",
+    "name": "Château Léoville-Las Cases",
+    "cat": "winery",
+    "lon": -0.741025,
+    "lat": 45.1629389
+  },
+  {
+    "wikiId": "Q1090558",
+    "name": "Château Lafite Rothschild",
+    "cat": "winery",
+    "lon": -0.773055555,
+    "lat": 45.225
+  },
+  {
+    "wikiId": "Q1090564",
+    "name": "Château Malescot St. Exupéry",
+    "cat": "winery",
+    "lon": -0.673608,
+    "lat": 45.041398
+  },
+  {
+    "wikiId": "Q1090575",
+    "name": "Château Marquis de Terme",
+    "cat": "winery",
+    "lon": -0.6777389,
+    "lat": 45.0383222
+  },
+  {
+    "wikiId": "Q1090577",
+    "name": "Château Marquis d'Alesme Becker",
+    "cat": "winery",
+    "lon": -0.6762722,
+    "lat": 45.0417472
+  },
+  {
+    "wikiId": "Q1090583",
+    "name": "Château Latour",
+    "cat": "winery",
+    "lon": -0.745,
+    "lat": 45.176666666
+  },
+  {
+    "wikiId": "Q1090584",
+    "name": "Château Montrose",
+    "cat": "winery",
+    "lon": -0.761825,
+    "lat": 45.2463444
+  },
+  {
+    "wikiId": "Q1090612",
+    "name": "Château Phélan Ségur",
+    "cat": "winery",
+    "lon": -0.76846,
+    "lat": 45.26161
+  },
+  {
+    "wikiId": "Q1090616",
+    "name": "Château Pape Clément",
+    "cat": "winery",
+    "lon": -0.64694444,
+    "lat": 44.80583333
+  },
+  {
+    "wikiId": "Q1090622",
+    "name": "Château Pontet-Canet",
+    "cat": "winery",
+    "lon": -0.7705639,
+    "lat": 45.2083722
+  },
+  {
+    "wikiId": "Q1090625",
+    "name": "Château Prieuré-Lichine",
+    "cat": "winery",
+    "lon": -0.6564667,
+    "lat": 45.0287167
+  },
+  {
+    "wikiId": "Q4681653",
+    "name": "Adelaida Vineyards & Winery",
+    "cat": "winery",
+    "lon": -120.802497,
+    "lat": 35.645236
+  },
+  {
+    "wikiId": "Q4709021",
+    "name": "Alban Vineyards",
+    "cat": "winery",
+    "lon": -120.553416666,
+    "lat": 35.184611111
+  },
+  {
+    "wikiId": "Q4720987",
+    "name": "Alexandria Nicole Cellars",
+    "cat": "winery",
+    "lon": -119.8983283,
+    "lat": 45.8794452
+  },
+  {
+    "wikiId": "Q4733645",
+    "name": "Almaden Vineyards",
+    "cat": "winery",
+    "lon": -121.8939,
+    "lat": 37.2378
+  },
+  {
+    "wikiId": "Q4802792",
+    "name": "Arínzano",
+    "cat": "winery",
+    "lon": -1.993704,
+    "lat": 42.630671
+  },
+  {
+    "wikiId": "Q4818939",
+    "name": "Au Bon Climat",
+    "cat": "winery",
+    "lon": -120.297881,
+    "lat": 34.919058
+  },
+  {
+    "wikiId": "Q4834159",
+    "name": "B. R. Cohn Winery",
+    "cat": "winery",
+    "lon": -122.502,
+    "lat": 38.3489
+  },
+  {
+    "wikiId": "Q4867948",
+    "name": "Bass Phillip",
+    "cat": "winery",
+    "lon": 145.879898,
+    "lat": -38.558183
+  },
+  {
+    "wikiId": "Q4890133",
+    "name": "Benovia Winery",
+    "cat": "winery",
+    "lon": -122.8022,
+    "lat": 38.4771
+  },
+  {
+    "wikiId": "Q4891843",
+    "name": "Beringer Vineyards",
+    "cat": "winery",
+    "lon": -122.479886,
+    "lat": 38.510158
+  },
+  {
+    "wikiId": "Q4891963",
+    "name": "Marimar Estate",
+    "cat": "winery",
+    "lon": -122.903,
+    "lat": 38.4222
+  },
+  {
+    "wikiId": "Q4897893",
+    "name": "Bethel Heights Vineyard",
+    "cat": "winery",
+    "lon": -123.1535,
+    "lat": 45.0362
+  },
+  {
+    "wikiId": "Q4902526",
+    "name": "Bianchi Winery",
+    "cat": "winery",
+    "lon": -120.577,
+    "lat": 35.6505
+  },
+  {
+    "wikiId": "Q4904535",
+    "name": "Bien Nacido Vineyards",
+    "cat": "winery",
+    "lon": -120.295669,
+    "lat": 34.90801
+  },
+  {
+    "wikiId": "Q4914565",
+    "name": "Binyamina Winery",
+    "cat": "winery",
+    "lon": 34.9473,
+    "lat": 32.5206
+  },
+  {
+    "wikiId": "Q4925401",
+    "name": "Blasted Church Vineyards",
+    "cat": "winery",
+    "lon": -119.559,
+    "lat": 49.3877
+  },
+  {
+    "wikiId": "Q4926052",
+    "name": "Blenheim Vineyards",
+    "cat": "winery",
+    "lon": -78.4992,
+    "lat": 37.9317
+  },
+  {
+    "wikiId": "Q4929538",
+    "name": "Blue Mountain Vineyard",
+    "cat": "winery",
+    "lon": -119.5311,
+    "lat": 49.3131
+  },
+  {
+    "wikiId": "Q4929878",
+    "name": "Blue Sky Vineyards",
+    "cat": "winery",
+    "lon": -89.113889,
+    "lat": 37.577222
+  },
+  {
+    "wikiId": "Q4966809",
+    "name": "Bridgeview Vineyard and Winery",
+    "cat": "winery",
+    "lon": -123.594002,
+    "lat": 42.125537
+  },
+  {
+    "wikiId": "Q4975601",
+    "name": "Brotherhood Winery",
+    "cat": "winery",
+    "lon": -74.161389,
+    "lat": 41.428333
+  },
+  {
+    "wikiId": "Q4976133",
+    "name": "Brown Estate",
+    "cat": "winery",
+    "lon": -122.276707,
+    "lat": 38.505142
+  },
+  {
+    "wikiId": "Q4979602",
+    "name": "Bruny Island Premium Wines",
+    "cat": "winery",
+    "lon": 147.236439,
+    "lat": -43.352979
+  },
+  {
+    "wikiId": "Q4980564",
+    "name": "Bryant Family Vineyard",
+    "cat": "winery",
+    "lon": -122.340211,
+    "lat": 38.484348
+  },
+  {
+    "wikiId": "Q4998578",
+    "name": "Burgess Cellars",
+    "cat": "winery",
+    "lon": -122.4748,
+    "lat": 38.5571
+  },
+  {
+    "wikiId": "Q5016622",
+    "name": "Caduceus Cellars",
+    "cat": "winery",
+    "lon": -111.889,
+    "lat": 34.7443
+  },
+  {
+    "wikiId": "Q5055405",
+    "name": "Caymus Vineyards",
+    "cat": "winery",
+    "lon": -122.398617,
+    "lat": 38.469231
+  },
+  {
+    "wikiId": "Q5057390",
+    "name": "Ceja Vineyards",
+    "cat": "winery",
+    "lon": -122.314545,
+    "lat": 38.235586
+  },
+  {
+    "wikiId": "Q5060593",
+    "name": "Central Coast Wine Services",
+    "cat": "winery",
+    "lon": -120.450094,
+    "lat": 34.910711
+  },
+  {
+    "wikiId": "Q5066427",
+    "name": "Chaddsford Winery",
+    "cat": "winery",
+    "lon": -75.6269,
+    "lat": 39.8727
+  },
+  {
+    "wikiId": "Q5076542",
+    "name": "Charles Creek Vineyard",
+    "cat": "winery",
+    "lon": -122.459,
+    "lat": 38.2924
+  },
+  {
+    "wikiId": "Q5078891",
+    "name": "Charles Heidsieck",
+    "cat": "winery",
+    "lon": 4.0090389,
+    "lat": 49.2157295
+  },
+  {
+    "wikiId": "Q5087527",
+    "name": "Chateau Chantal",
+    "cat": "winery",
+    "lon": -85.502,
+    "lat": 44.9194
+  },
+  {
+    "wikiId": "Q5087533",
+    "name": "Chateau Grand Traverse",
+    "cat": "winery",
+    "lon": -85.5199,
+    "lat": 44.8651
+  },
+  {
+    "wikiId": "Q5087540",
+    "name": "Chateau Morrisette Winery",
+    "cat": "winery",
+    "lon": -80.395555555,
+    "lat": 36.793888888
+  },
+  {
+    "wikiId": "Q5087545",
+    "name": "Chateau Ste. Michelle",
+    "cat": "winery",
+    "lon": -122.15011667,
+    "lat": 47.72881667
+  },
+  {
+    "wikiId": "Q5087552",
+    "name": "Chateau Woltner",
+    "cat": "winery",
+    "lon": -122.459,
+    "lat": 38.5683
+  },
+  {
+    "wikiId": "Q5098602",
+    "name": "Childress Vineyards",
+    "cat": "winery",
+    "lon": -80.2833,
+    "lat": 35.8431
+  },
+  {
+    "wikiId": "Q5118687",
+    "name": "Château Les Carmes Haut-Brion",
+    "cat": "winery",
+    "lon": -0.610047,
+    "lat": 44.822345
+  },
+  {
+    "wikiId": "Q5135154",
+    "name": "Clos du Val",
+    "cat": "winery",
+    "lon": -122.312686,
+    "lat": 38.387202
+  },
+  {
+    "wikiId": "Q5144792",
+    "name": "Colgin Cellars",
+    "cat": "winery",
+    "lon": -122.348009,
+    "lat": 38.471816
+  },
+  {
+    "wikiId": "Q5158255",
+    "name": "Concannon Vineyard",
+    "cat": "winery",
+    "lon": -121.739667,
+    "lat": 37.666767
+  },
+  {
+    "wikiId": "Q5167798",
+    "name": "Cooper Mountain Vineyards",
+    "cat": "winery",
+    "lon": -122.888113,
+    "lat": 45.450543
+  },
+  {
+    "wikiId": "Q5184564",
+    "name": "Cresta Blanca Winery",
+    "cat": "winery",
+    "lon": -121.756267,
+    "lat": 37.623317
+  },
+  {
+    "wikiId": "Q5186492",
+    "name": "Cristom Vineyards",
+    "cat": "winery",
+    "lon": -123.120539,
+    "lat": 45.034775
+  },
+  {
+    "wikiId": "Q5203047",
+    "name": "D'Agostini Winery",
+    "cat": "winery",
+    "lon": -120.755,
+    "lat": 38.5324
+  },
+  {
+    "wikiId": "Q5243991",
+    "name": "DeLille Cellars",
+    "cat": "winery",
+    "lon": -122.148898,
+    "lat": 47.73499
+  },
+  {
+    "wikiId": "Q5244588",
+    "name": "DeLoach Vineyards",
+    "cat": "winery",
+    "lon": -122.82111111,
+    "lat": 38.46194444
+  },
+  {
+    "wikiId": "Q5252235",
+    "name": "Dehesa del Carrizal",
+    "cat": "winery",
+    "lon": -4.4,
+    "lat": 39.45
+  },
+  {
+    "wikiId": "Q5289839",
+    "name": "Domaine Chandon",
+    "cat": "winery",
+    "lon": -122.365079,
+    "lat": 38.397241
+  },
+  {
+    "wikiId": "Q5291238",
+    "name": "Dominus Estate",
+    "cat": "winery",
+    "lon": -122.374,
+    "lat": 38.405
+  },
+  {
+    "wikiId": "Q5311520",
+    "name": "Duckhorn Vineyards",
+    "cat": "winery",
+    "lon": -122.490705,
+    "lat": 38.529472
+  },
+  {
+    "wikiId": "Q5316024",
+    "name": "Duplin Winery",
+    "cat": "winery",
+    "lon": -78.024166666,
+    "lat": 34.830555555
+  },
+  {
+    "wikiId": "Q5430892",
+    "name": "Fairview Wine and Cheese",
+    "cat": "winery",
+    "lon": 18.92361111,
+    "lat": -33.7725
+  },
+  {
+    "wikiId": "Q5435923",
+    "name": "Farmington Winery",
+    "cat": "winery",
+    "lon": -83.3577,
+    "lat": 42.4564
+  },
+  {
+    "wikiId": "Q5446685",
+    "name": "Fiddlehead Cellars",
+    "cat": "winery",
+    "lon": -120.43869444,
+    "lat": 34.64213889
+  },
+  {
+    "wikiId": "Q5456627",
+    "name": "Flag Hill Winery",
+    "cat": "winery",
+    "lon": -71.0278,
+    "lat": 43.0825
+  },
+  {
+    "wikiId": "Q5469785",
+    "name": "Foris Vineyards Winery",
+    "cat": "winery",
+    "lon": -123.54996944,
+    "lat": 42.11954167
+  },
+  {
+    "wikiId": "Q5501057",
+    "name": "Freemark Abbey Winery",
+    "cat": "winery",
+    "lon": -122.49693,
+    "lat": 38.52451
+  },
+  {
+    "wikiId": "Q5501704",
+    "name": "French Camp Vineyards",
+    "cat": "winery",
+    "lon": -120.240538,
+    "lat": 35.493363
+  },
+  {
+    "wikiId": "Q5505161",
+    "name": "Frog's Leap Winery",
+    "cat": "winery",
+    "lon": -122.401,
+    "lat": 38.4737
+  },
+  {
+    "wikiId": "Q5526620",
+    "name": "Gaspereau Vineyards",
+    "cat": "winery",
+    "lon": -64.3611836,
+    "lat": 45.0664996
+  },
+  {
+    "wikiId": "Q5551914",
+    "name": "Germania Wine Cellars",
+    "cat": "winery",
+    "lon": -77.249722,
+    "lat": 42.403333
+  },
+  {
+    "wikiId": "Q5557874",
+    "name": "Giacomo Conterno",
+    "cat": "winery",
+    "lon": 7.964177,
+    "lat": 44.5813469
+  },
+  {
+    "wikiId": "Q5578850",
+    "name": "Gold Seal Winery",
+    "cat": "winery",
+    "lon": -77.180556,
+    "lat": 42.456667
+  },
+  {
+    "wikiId": "Q5608526",
+    "name": "Grgich Hills Estate",
+    "cat": "winery",
+    "lon": -122.432606,
+    "lat": 38.469819
+  },
+  {
+    "wikiId": "Q5611423",
+    "name": "Grove Mill",
+    "cat": "winery",
+    "lon": 173.799,
+    "lat": -41.5171
+  },
+  {
+    "wikiId": "Q5617424",
+    "name": "Q5617424",
+    "cat": "winery",
+    "lon": 18.9532,
+    "lat": -33.837489
+  },
+  {
+    "wikiId": "Q5618640",
+    "name": "Gundlach Bundschu",
+    "cat": "winery",
+    "lon": -122.41694444,
+    "lat": 38.28083333
+  },
+  {
+    "wikiId": "Q5658308",
+    "name": "Harlan Estate",
+    "cat": "winery",
+    "lon": -122.408,
+    "lat": 38.415
+  },
+  {
+    "wikiId": "Q5682956",
+    "name": "Haute Cabriere",
+    "cat": "winery",
+    "lon": 19.118056,
+    "lat": -33.912222
+  },
+  {
+    "wikiId": "Q5687415",
+    "name": "Haywire Winery",
+    "cat": "winery",
+    "lon": -119.9149754,
+    "lat": 49.5051698
+  },
+  {
+    "wikiId": "Q5701158",
+    "name": "Heitz Wine Cellars",
+    "cat": "winery",
+    "lon": -122.417865,
+    "lat": 38.501497
+  },
+  {
+    "wikiId": "Q5730894",
+    "name": "Henry of Pelham Winery",
+    "cat": "winery",
+    "lon": -79.3135219,
+    "lat": 43.1001847
+  },
+  {
+    "wikiId": "Q5731065",
+    "name": "Bodega Bórbore",
+    "cat": "winery",
+    "lon": -68.32722222,
+    "lat": -31.54805556
+  },
+  {
+    "wikiId": "Q5731082",
+    "name": "Campillo winery",
+    "cat": "winery",
+    "lon": -2.575833333,
+    "lat": 42.550277777
+  },
+  {
+    "wikiId": "Q5751884",
+    "name": "Hidden Lake Winery",
+    "cat": "winery",
+    "lon": -89.6283,
+    "lat": 38.5697
+  },
+  {
+    "wikiId": "Q5755401",
+    "name": "Casa del Blanco",
+    "cat": "winery",
+    "lon": -3.404722222,
+    "lat": 38.956111111
+  },
+  {
+    "wikiId": "Q5943934",
+    "name": "Hunt Country Vineyards",
+    "cat": "winery",
+    "lon": -77.1708,
+    "lat": 42.5983
+  },
+  {
+    "wikiId": "Q6054447",
+    "name": "Pago de Otazu",
+    "cat": "winery",
+    "lon": -1.780972222,
+    "lat": 42.786111111
+  },
+  {
+    "wikiId": "Q6073266",
+    "name": "Ironstone Vineyards",
+    "cat": "winery",
+    "lon": -120.4696,
+    "lat": 38.1206
+  },
+  {
+    "wikiId": "Q6076055",
+    "name": "Pinacoteca Rivero",
+    "cat": "winery",
+    "lon": -6.146111111,
+    "lat": 36.685611111
+  },
+  {
+    "wikiId": "Q6106366",
+    "name": "J. Lohr Vineyards and Wines",
+    "cat": "winery",
+    "lon": -120.641421,
+    "lat": 35.690882
+  },
+  {
+    "wikiId": "Q6109439",
+    "name": "J Vineyards & Winery",
+    "cat": "winery",
+    "lon": -122.84262,
+    "lat": 38.57298
+  },
+  {
+    "wikiId": "Q6116925",
+    "name": "Jackson-Triggs",
+    "cat": "winery",
+    "lon": -79.091897222,
+    "lat": 43.243791666
+  },
+  {
+    "wikiId": "Q6189560",
+    "name": "Jewell Towne Vineyards",
+    "cat": "winery",
+    "lon": -70.9596,
+    "lat": 42.8715
+  },
+  {
+    "wikiId": "Q6304725",
+    "name": "Rubicon Estate Winery",
+    "cat": "winery",
+    "lon": -122.431013,
+    "lat": 38.454366
+  },
+  {
+    "wikiId": "Q6411547",
+    "name": "King Estate Winery",
+    "cat": "winery",
+    "lon": -123.237,
+    "lat": 43.853
+  },
+  {
+    "wikiId": "Q6417327",
+    "name": "Kistler Vineyards",
+    "cat": "winery",
+    "lon": -122.86,
+    "lat": 38.46
+  },
+  {
+    "wikiId": "Q6431472",
+    "name": "Korbel Champagne Cellars",
+    "cat": "winery",
+    "lon": -122.967,
+    "lat": 38.5078
+  },
+  {
+    "wikiId": "Q6455640",
+    "name": "L'Aventure",
+    "cat": "winery",
+    "lon": -120.743,
+    "lat": 35.59
+  },
+  {
+    "wikiId": "Q6491860",
+    "name": "Larson Family Winery",
+    "cat": "winery",
+    "lon": -122.417,
+    "lat": 38.2808
+  },
+  {
+    "wikiId": "Q6493988",
+    "name": "Lasseter Family Winery",
+    "cat": "winery",
+    "lon": -122.524988,
+    "lat": 38.383186
+  },
+  {
+    "wikiId": "Q6520802",
+    "name": "Leland Stanford Winery",
+    "cat": "winery",
+    "lon": -121.912311,
+    "lat": 37.503411
+  },
+  {
+    "wikiId": "Q6529259",
+    "name": "Les Bourgeois Winery",
+    "cat": "winery",
+    "lon": -92.5498,
+    "lat": 38.9712
+  },
+  {
+    "wikiId": "Q6676225",
+    "name": "Q6676225",
+    "cat": "winery",
+    "lon": 35.448414931,
+    "lat": 33.078327477
+  },
+  {
+    "wikiId": "Q6734731",
+    "name": "Mahogany Mountain Vineyard and Winery",
+    "cat": "winery",
+    "lon": -116.91805556,
+    "lat": 32.98611111
+  },
+  {
+    "wikiId": "Q6785614",
+    "name": "Mastroberardino",
+    "cat": "winery",
+    "lon": 14.8296283,
+    "lat": 40.9232693
+  },
+  {
+    "wikiId": "Q6796775",
+    "name": "Mayacamas Vineyards",
+    "cat": "winery",
+    "lon": -122.420161,
+    "lat": 38.369651
+  },
+  {
+    "wikiId": "Q6809976",
+    "name": "Meier's Wine Cellars",
+    "cat": "winery",
+    "lon": -84.401014,
+    "lat": 39.195585
+  },
+  {
+    "wikiId": "Q6904196",
+    "name": "Montaluce",
+    "cat": "winery",
+    "lon": -84.06696,
+    "lat": 34.564372
+  },
+  {
+    "wikiId": "Q6911629",
+    "name": "Morgan Creek Vineyards",
+    "cat": "winery",
+    "lon": -86.4555,
+    "lat": 33.3262
+  },
+  {
+    "wikiId": "Q6911631",
+    "name": "Morgan Creek Vineyards",
+    "cat": "winery",
+    "lon": -94.3514,
+    "lat": 44.2176
+  },
+  {
+    "wikiId": "Q6922988",
+    "name": "Mount Pleasant Winery",
+    "cat": "winery",
+    "lon": -90.8859,
+    "lat": 38.5709
+  },
+  {
+    "wikiId": "Q6924836",
+    "name": "Mountadam Vineyards",
+    "cat": "winery",
+    "lon": 139.021291,
+    "lat": -34.667119
+  },
+  {
+    "wikiId": "Q6925437",
+    "name": "Mountain Winery",
+    "cat": "winery",
+    "lon": -122.064936,
+    "lat": 37.260372
+  },
+  {
+    "wikiId": "Q6967587",
+    "name": "Nassau Valley Vineyards",
+    "cat": "winery",
+    "lon": -75.19,
+    "lat": 38.747
+  },
+  {
+    "wikiId": "Q6982013",
+    "name": "Q6982013",
+    "cat": "winery",
+    "lon": 34.978222222,
+    "lat": 32.210722222
+  },
+  {
+    "wikiId": "Q7083383",
+    "name": "Old Almaden Winery",
+    "cat": "winery",
+    "lon": -121.893,
+    "lat": 37.2376
+  },
+  {
+    "wikiId": "Q7085131",
+    "name": "Old Stone Vineyard and Winery",
+    "cat": "winery",
+    "lon": -80.426,
+    "lat": 35.5976
+  },
+  {
+    "wikiId": "Q7085537",
+    "name": "Olde Lockeford Winery",
+    "cat": "winery",
+    "lon": -121.16271,
+    "lat": 38.15356
+  },
+  {
+    "wikiId": "Q7103212",
+    "name": "Jacob's Creek",
+    "cat": "winery",
+    "lon": 138.928253,
+    "lat": -34.580076
+  },
+  {
+    "wikiId": "Q7124268",
+    "name": "Page Springs Cellars",
+    "cat": "winery",
+    "lon": -111.89487,
+    "lat": 34.75788
+  },
+  {
+    "wikiId": "Q7128164",
+    "name": "Palmaz Vineyards",
+    "cat": "winery",
+    "lon": -122.225,
+    "lat": 38.32361111
+  },
+  {
+    "wikiId": "Q7160569",
+    "name": "Pegasus Bay",
+    "cat": "winery",
+    "lon": 172.7684,
+    "lat": -43.092947
+  },
+  {
+    "wikiId": "Q7164056",
+    "name": "Pennsylvania Renaissance Faire",
+    "cat": "winery",
+    "lon": -76.43047,
+    "lat": 40.22666
+  },
+  {
+    "wikiId": "Q7190579",
+    "name": "Picchetti Brothers Winery",
+    "cat": "winery",
+    "lon": -122.087867,
+    "lat": 37.295958
+  },
+  {
+    "wikiId": "Q7204088",
+    "name": "Pleasant Valley Wine Company",
+    "cat": "winery",
+    "lon": -77.254167,
+    "lat": 42.401111
+  },
+  {
+    "wikiId": "Q7205454",
+    "name": "PlumpJack Winery",
+    "cat": "winery",
+    "lon": -122.3658,
+    "lat": 38.4579
+  },
+  {
+    "wikiId": "Q7310059",
+    "name": "Reif Estate Winery",
+    "cat": "winery",
+    "lon": -79.0617,
+    "lat": 43.2176
+  },
+  {
+    "wikiId": "Q7311783",
+    "name": "Remick Ridge Vineyards",
+    "cat": "winery",
+    "lon": -122.98883,
+    "lat": 38.57796
+  },
+  {
+    "wikiId": "Q7312750",
+    "name": "Renault Winery",
+    "cat": "winery",
+    "lon": -74.6036,
+    "lat": 39.5446
+  },
+  {
+    "wikiId": "Q7332713",
+    "name": "Ridge Vineyards",
+    "cat": "winery",
+    "lon": -122.1294,
+    "lat": 37.305
+  },
+  {
+    "wikiId": "Q7368492",
+    "name": "Rosemount",
+    "cat": "winery",
+    "lon": 138.555253,
+    "lat": -35.176297
+  },
+  {
+    "wikiId": "Q7413369",
+    "name": "San Antonio Winery",
+    "cat": "winery",
+    "lon": -118.2239,
+    "lat": 34.0637
+  },
+  {
+    "wikiId": "Q7432798",
+    "name": "Schramsberg Vineyards",
+    "cat": "winery",
+    "lon": -122.539648,
+    "lat": 38.550641
+  },
+  {
+    "wikiId": "Q7451975",
+    "name": "Seppeltsfield",
+    "cat": "winery",
+    "lon": 138.91757,
+    "lat": -34.48774
+  },
+  {
+    "wikiId": "Q7516217",
+    "name": "Silver Oak Cellars",
+    "cat": "winery",
+    "lon": -122.38111111,
+    "lat": 38.44055556
+  },
+  {
+    "wikiId": "Q7516630",
+    "name": "Silverado Vineyards Winery",
+    "cat": "winery",
+    "lon": -122.336283,
+    "lat": 38.412273
+  },
+  {
+    "wikiId": "Q7555151",
+    "name": "Sokol Blosser Winery",
+    "cat": "winery",
+    "lon": -123.0495,
+    "lat": 45.25121
+  },
+  {
+    "wikiId": "Q7588529",
+    "name": "St. James Winery",
+    "cat": "winery",
+    "lon": -91.6093,
+    "lat": 38.0094
+  },
+  {
+    "wikiId": "Q7596969",
+    "name": "Stags' Leap Winery",
+    "cat": "winery",
+    "lon": -122.321356,
+    "lat": 38.414167
+  },
+  {
+    "wikiId": "Q7611485",
+    "name": "Sterling Vineyards",
+    "cat": "winery",
+    "lon": -122.545,
+    "lat": 38.5696
+  },
+  {
+    "wikiId": "Q7618953",
+    "name": "Stone Hill Winery",
+    "cat": "winery",
+    "lon": -91.4469,
+    "lat": 38.6964
+  },
+  {
+    "wikiId": "Q7622652",
+    "name": "Stream Cliff Farm",
+    "cat": "winery",
+    "lon": -85.62944444,
+    "lat": 38.865
+  },
+  {
+    "wikiId": "Q7673112",
+    "name": "Tablas Creek Vineyard",
+    "cat": "winery",
+    "lon": -120.8592,
+    "lat": 35.6366
+  },
+  {
+    "wikiId": "Q7701272",
+    "name": "Teperberg 1870",
+    "cat": "winery",
+    "lon": 35.16770833,
+    "lat": 31.79399167
+  },
+  {
+    "wikiId": "Q7702370",
+    "name": "Terhune Orchards",
+    "cat": "winery",
+    "lon": -74.7253,
+    "lat": 40.3314
+  },
+  {
+    "wikiId": "Q7708983",
+    "name": "Thaddeus Hait Farm",
+    "cat": "winery",
+    "lon": -74.091389,
+    "lat": 41.679167
+  },
+  {
+    "wikiId": "Q7732954",
+    "name": "The Eyrie Vineyards",
+    "cat": "winery",
+    "lon": -123.188,
+    "lat": 45.2143
+  },
+  {
+    "wikiId": "Q7762004",
+    "name": "The Sadie Family",
+    "cat": "winery",
+    "lon": 18.805027777,
+    "lat": -33.525277777
+  },
+  {
+    "wikiId": "Q7808490",
+    "name": "Tintara",
+    "cat": "winery",
+    "lon": 138.538022,
+    "lat": -35.212086
+  },
+  {
+    "wikiId": "Q7837768",
+    "name": "Trefethen Vineyards",
+    "cat": "winery",
+    "lon": -122.331389,
+    "lat": 38.360556
+  },
+  {
+    "wikiId": "Q7847789",
+    "name": "Trump Winery",
+    "cat": "winery",
+    "lon": -78.502222222,
+    "lat": 37.941111111
+  },
+  {
+    "wikiId": "Q7857462",
+    "name": "Twee Jonge Gezellen",
+    "cat": "winery",
+    "lon": 19.112777777,
+    "lat": -33.238333333
+  },
+  {
+    "wikiId": "Q7858528",
+    "name": "Twisted Oak Winery",
+    "cat": "winery",
+    "lon": -120.488,
+    "lat": 38.086
+  },
+  {
+    "wikiId": "Q7859147",
+    "name": "Two Paddocks",
+    "cat": "winery",
+    "lon": 169.303,
+    "lat": -45.2198
+  },
+  {
+    "wikiId": "Q7859475",
+    "name": "Twomey Cellars",
+    "cat": "winery",
+    "lon": -122.557,
+    "lat": 38.5661
+  },
+  {
+    "wikiId": "Q7906244",
+    "name": "V. Sattui Winery",
+    "cat": "winery",
+    "lon": -122.448101,
+    "lat": 38.489057
+  },
+  {
+    "wikiId": "Q7911586",
+    "name": "Valhalla Vineyards",
+    "cat": "winery",
+    "lon": -80.0537,
+    "lat": 37.2231
+  },
+  {
+    "wikiId": "Q7912295",
+    "name": "Valley View Winery",
+    "cat": "winery",
+    "lon": -123.047,
+    "lat": 42.2254
+  },
+  {
+    "wikiId": "Q7916923",
+    "name": "Vasse Felix",
+    "cat": "winery",
+    "lon": 115.037,
+    "lat": -33.8225
+  },
+  {
+    "wikiId": "Q8021179",
+    "name": "Williamsburg Winery",
+    "cat": "winery",
+    "lon": -76.718423,
+    "lat": 37.232069
+  },
+  {
+    "wikiId": "Q8040108",
+    "name": "Wyndham Estate",
+    "cat": "winery",
+    "lon": 151.421,
+    "lat": -32.645
+  },
+  {
+    "wikiId": "Q8050250",
+    "name": "Yatir winery",
+    "cat": "winery",
+    "lon": 35.134027777,
+    "lat": 31.2615
+  },
+  {
+    "wikiId": "Q8050827",
+    "name": "Yealands Estate",
+    "cat": "winery",
+    "lon": 174.131526,
+    "lat": -41.648611
+  },
+  {
+    "wikiId": "Q8249081",
+    "name": "winecellar cooperative",
+    "cat": "winery",
+    "lon": 3.1425,
+    "lat": 39.470833333
+  },
+  {
+    "wikiId": "Q8342995",
+    "name": "Caves Codorniu",
+    "cat": "winery",
+    "lon": 1.79861,
+    "lat": 41.4353
+  },
+  {
+    "wikiId": "Q9316466",
+    "name": "château with vineyard outbuildings",
+    "cat": "winery",
+    "lon": 6.27157,
+    "lat": 46.4444
+  },
+  {
+    "wikiId": "Q11193051",
+    "name": "Cave d'Occi, Niigata",
+    "cat": "winery",
+    "lon": 138.846388888,
+    "lat": 37.803333333
+  },
+  {
+    "wikiId": "Q11307700",
+    "name": "Ushiku Chateau",
+    "cat": "winery",
+    "lon": 140.147444,
+    "lat": 35.9785
+  },
+  {
+    "wikiId": "Q11913158",
+    "name": "Castellblanch",
+    "cat": "winery",
+    "lon": 1.78045,
+    "lat": 41.4231
+  },
+  {
+    "wikiId": "Q11913396",
+    "name": "Celler de la Cooperativa Agrícola de Vila-rodona",
+    "cat": "winery",
+    "lon": 1.35394,
+    "lat": 41.306729
+  },
+  {
+    "wikiId": "Q11914155",
+    "name": "Clos Mogador",
+    "cat": "winery",
+    "lon": 0.85646,
+    "lat": 41.189006
+  },
+  {
+    "wikiId": "Q12168347",
+    "name": "Shabo Winery",
+    "cat": "winery",
+    "lon": 30.373689649,
+    "lat": 46.143086969
+  },
+  {
+    "wikiId": "Q12324443",
+    "name": "Q12324443",
+    "cat": "winery",
+    "lon": 14.9685,
+    "lat": 55.0292
+  },
+  {
+    "wikiId": "Q12408296",
+    "name": "Recanati winery",
+    "cat": "winery",
+    "lon": 34.89695556,
+    "lat": 32.40489167
+  },
+  {
+    "wikiId": "Q12981725",
+    "name": "Inniskillin",
+    "cat": "winery",
+    "lon": -79.0641,
+    "lat": 43.2105
+  },
+  {
+    "wikiId": "Q14566740",
+    "name": "Château de Glérolles",
+    "cat": "winery",
+    "lon": 6.78682,
+    "lat": 46.4743
+  },
+  {
+    "wikiId": "Q14627616",
+    "name": "Cellier de la maison Planche",
+    "cat": "winery",
+    "lon": 6.5646,
+    "lat": 44.7987
+  },
+  {
+    "wikiId": "Q14682531",
+    "name": "Jordan Vineyard & Winery",
+    "cat": "winery",
+    "lon": -122.85,
+    "lat": 38.6621
+  },
+  {
+    "wikiId": "Q14683369",
+    "name": "Mirassou Winery",
+    "cat": "winery",
+    "lon": -121.777,
+    "lat": 37.3154
+  },
+  {
+    "wikiId": "Q14684251",
+    "name": "Wente Vineyards",
+    "cat": "winery",
+    "lon": -121.757,
+    "lat": 37.6238
+  },
+  {
+    "wikiId": "Q14684271",
+    "name": "Windsor Vineyards",
+    "cat": "winery",
+    "lon": -122.812,
+    "lat": 38.5436
+  },
+  {
+    "wikiId": "Q14705425",
+    "name": "Alba Vineyard",
+    "cat": "winery",
+    "lon": -75.1655,
+    "lat": 40.6146
+  },
+  {
+    "wikiId": "Q14705426",
+    "name": "Amalthea Cellars",
+    "cat": "winery",
+    "lon": -74.8864,
+    "lat": 39.7383
+  },
+  {
+    "wikiId": "Q14705430",
+    "name": "Auburn Road Vineyards",
+    "cat": "winery",
+    "lon": -75.3672,
+    "lat": 39.68
+  },
+  {
+    "wikiId": "Q14705434",
+    "name": "Balic Winery",
+    "cat": "winery",
+    "lon": -74.7881,
+    "lat": 39.4636
+  },
+  {
+    "wikiId": "Q14705439",
+    "name": "Bellview Winery",
+    "cat": "winery",
+    "lon": -74.937,
+    "lat": 39.5412
+  },
+  {
+    "wikiId": "Q14705440",
+    "name": "Beneduce Vineyards",
+    "cat": "winery",
+    "lon": -74.9753,
+    "lat": 40.5725
+  },
+  {
+    "wikiId": "Q14705453",
+    "name": "Brook Hollow Winery",
+    "cat": "winery",
+    "lon": -75.0846,
+    "lat": 40.9335
+  },
+  {
+    "wikiId": "Q14705454",
+    "name": "Cape May Winery & Vineyard",
+    "cat": "winery",
+    "lon": -74.9236,
+    "lat": 38.9731
+  },
+  {
+    "wikiId": "Q14705455",
+    "name": "Cava Winery & Vineyard",
+    "cat": "winery",
+    "lon": -74.5653,
+    "lat": 41.1633
+  },
+  {
+    "wikiId": "Q14705457",
+    "name": "Cedarvale Winery",
+    "cat": "winery",
+    "lon": -75.3492,
+    "lat": 39.7847
+  },
+  {
+    "wikiId": "Q14705459",
+    "name": "Chestnut Run Farm",
+    "cat": "winery",
+    "lon": -75.292,
+    "lat": 39.6539
+  },
+  {
+    "wikiId": "Q14705463",
+    "name": "Coda Rossa Winery",
+    "cat": "winery",
+    "lon": -75.0019,
+    "lat": 39.5781
+  },
+  {
+    "wikiId": "Q14705471",
+    "name": "Cream Ridge Winery",
+    "cat": "winery",
+    "lon": -74.5488,
+    "lat": 40.151
+  },
+  {
+    "wikiId": "Q14705474",
+    "name": "DeMastro Vineyards",
+    "cat": "winery",
+    "lon": -74.6941,
+    "lat": 39.9336
+  },
+  {
+    "wikiId": "Q14705477",
+    "name": "DiBella Winery",
+    "cat": "winery",
+    "lon": -75.2996,
+    "lat": 39.7285
+  },
+  {
+    "wikiId": "Q14705478",
+    "name": "DiMatteo Vineyards",
+    "cat": "winery",
+    "lon": -74.8015,
+    "lat": 39.5939
+  },
+  {
+    "wikiId": "Q14705499",
+    "name": "Four JG's Orchards & Vineyards",
+    "cat": "winery",
+    "lon": -74.2136,
+    "lat": 40.3175
+  },
+  {
+    "wikiId": "Q14705500",
+    "name": "Four Sisters Winery",
+    "cat": "winery",
+    "lon": -75.0146,
+    "lat": 40.8632
+  },
+  {
+    "wikiId": "Q14705545",
+    "name": "Hawk Haven Vineyard & Winery",
+    "cat": "winery",
+    "lon": -74.8906,
+    "lat": 39.01
+  },
+  {
+    "wikiId": "Q14705557",
+    "name": "Heritage Vineyards",
+    "cat": "winery",
+    "lon": -75.1729,
+    "lat": 39.7216
+  },
+  {
+    "wikiId": "Q14705612",
+    "name": "Hopewell Valley Vineyards",
+    "cat": "winery",
+    "lon": -74.8105,
+    "lat": 40.3376
+  },
+  {
+    "wikiId": "Q14705674",
+    "name": "Jessie Creek Winery",
+    "cat": "winery",
+    "lon": -74.8748,
+    "lat": 39.1002
+  },
+  {
+    "wikiId": "Q14705699",
+    "name": "Laurita Winery",
+    "cat": "winery",
+    "lon": -74.5037,
+    "lat": 40.0666
+  },
+  {
+    "wikiId": "Q14705758",
+    "name": "Monroeville Vineyard & Winery",
+    "cat": "winery",
+    "lon": -75.1744,
+    "lat": 39.644
+  },
+  {
+    "wikiId": "Q14705777",
+    "name": "Mount Salem Vineyards",
+    "cat": "winery",
+    "lon": -74.9885,
+    "lat": 40.5925
+  },
+  {
+    "wikiId": "Q14705783",
+    "name": "Natali Vineyards",
+    "cat": "winery",
+    "lon": -74.8583,
+    "lat": 39.1271
+  },
+  {
+    "wikiId": "Q14705830",
+    "name": "Old York Cellars",
+    "cat": "winery",
+    "lon": -74.8381,
+    "lat": 40.4497
+  },
+  {
+    "wikiId": "Q14705846",
+    "name": "Peppadew Fresh Vineyards",
+    "cat": "winery",
+    "lon": -74.261,
+    "lat": 40.366
+  },
+  {
+    "wikiId": "Q14705848",
+    "name": "Plagido's Winery",
+    "cat": "winery",
+    "lon": -74.8232,
+    "lat": 39.6351
+  },
+  {
+    "wikiId": "Q14705868",
+    "name": "Sharrott Winery",
+    "cat": "winery",
+    "lon": -74.8733,
+    "lat": 39.677
+  },
+  {
+    "wikiId": "Q14705870",
+    "name": "Silver Decoy Winery",
+    "cat": "winery",
+    "lon": -74.5398,
+    "lat": 40.2324
+  },
+  {
+    "wikiId": "Q14705875",
+    "name": "Southwind Vineyard & Winery",
+    "cat": "winery",
+    "lon": -75.1411,
+    "lat": 39.4478
+  },
+  {
+    "wikiId": "Q14705881",
+    "name": "Swansea Vineyards",
+    "cat": "winery",
+    "lon": -75.2927,
+    "lat": 39.4551
+  },
+  {
+    "wikiId": "Q14705883",
+    "name": "Sylvin Farms Winery",
+    "cat": "winery",
+    "lon": -74.5833,
+    "lat": 39.533
+  },
+  {
+    "wikiId": "Q14705887",
+    "name": "Tomasello Winery",
+    "cat": "winery",
+    "lon": -74.7812,
+    "lat": 39.6424
+  },
+  {
+    "wikiId": "Q14705892",
+    "name": "Turdo Vineyards & Winery",
+    "cat": "winery",
+    "lon": -74.9408,
+    "lat": 38.9698
+  },
+  {
+    "wikiId": "Q14705900",
+    "name": "Unionville Vineyards",
+    "cat": "winery",
+    "lon": -74.8293,
+    "lat": 40.4226
+  },
+  {
+    "wikiId": "Q14705902",
+    "name": "Vacchiano Farm",
+    "cat": "winery",
+    "lon": -74.9601,
+    "lat": 40.7714
+  },
+  {
+    "wikiId": "Q14705906",
+    "name": "Ventimiglia Vineyard",
+    "cat": "winery",
+    "lon": -74.596,
+    "lat": 41.2395
+  },
+  {
+    "wikiId": "Q14705910",
+    "name": "Wagonhouse Winery",
+    "cat": "winery",
+    "lon": -75.286,
+    "lat": 39.6921
+  },
+  {
+    "wikiId": "Q14705923",
+    "name": "Westfall Winery",
+    "cat": "winery",
+    "lon": -74.7191,
+    "lat": 41.3243
+  },
+  {
+    "wikiId": "Q14705930",
+    "name": "Willow Creek Winery",
+    "cat": "winery",
+    "lon": -74.9469,
+    "lat": 38.9428
+  },
+  {
+    "wikiId": "Q14708166",
+    "name": "Shelton Vineyards",
+    "cat": "winery",
+    "lon": -80.7686,
+    "lat": 36.3643
+  },
+  {
+    "wikiId": "Q14716658",
+    "name": "Markko Vineyards",
+    "cat": "winery",
+    "lon": -80.6235,
+    "lat": 41.9
+  },
+  {
+    "wikiId": "Q15071132",
+    "name": "Clos de Vougeot",
+    "cat": "winery",
+    "lon": 4.95570278,
+    "lat": 47.17475
+  },
+  {
+    "wikiId": "Q15212003",
+    "name": "Cricova",
+    "cat": "winery",
+    "lon": 28.85,
+    "lat": 47.133
+  },
+  {
+    "wikiId": "Q15228678",
+    "name": "Ingleside Vineyards",
+    "cat": "winery",
+    "lon": -77.005,
+    "lat": 38.14916667
+  },
+  {
+    "wikiId": "Q15625039",
+    "name": "Mileștii Mici",
+    "cat": "winery",
+    "lon": 28.822638231,
+    "lat": 46.919320644
+  },
+  {
+    "wikiId": "Q15646819",
+    "name": "Weingut Wittmann",
+    "cat": "winery",
+    "lon": 8.246287,
+    "lat": 49.7063231
+  },
+  {
+    "wikiId": "Q15690813",
+    "name": "Willi Schaefer",
+    "cat": "winery",
+    "lon": 7.06402,
+    "lat": 49.934
+  },
+  {
+    "wikiId": "Q15853861",
+    "name": "Josef Hofstätter",
+    "cat": "winery",
+    "lon": 11.239505,
+    "lat": 46.341652
+  },
+  {
+    "wikiId": "Q15853862",
+    "name": "Weingut Josef Spreitzer",
+    "cat": "winery",
+    "lon": 8.026568,
+    "lat": 50.004444
+  },
+  {
+    "wikiId": "Q15943797",
+    "name": "Château de Corton André",
+    "cat": "winery",
+    "lon": 4.86069,
+    "lat": 47.0668
+  },
+  {
+    "wikiId": "Q15943823",
+    "name": "Château de Marsannay",
+    "cat": "winery",
+    "lon": 4.98448,
+    "lat": 47.2673
+  },
+  {
+    "wikiId": "Q15944493",
+    "name": "Château de l'Hers",
+    "cat": "winery",
+    "lon": 4.791645,
+    "lat": 44.054151
+  },
+  {
+    "wikiId": "Q15947163",
+    "name": "Château de Pizay",
+    "cat": "winery",
+    "lon": 4.70061,
+    "lat": 46.1381
+  },
+  {
+    "wikiId": "Q15975885",
+    "name": "Weingut Broel",
+    "cat": "winery",
+    "lon": 7.212546,
+    "lat": 50.65774
+  },
+  {
+    "wikiId": "Q16132365",
+    "name": "Psagot Winery",
+    "cat": "winery",
+    "lon": 35.266187,
+    "lat": 31.864441
+  },
+  {
+    "wikiId": "Q16132372",
+    "name": "Clos de Gat",
+    "cat": "winery",
+    "lon": 34.94783056,
+    "lat": 31.80898056
+  },
+  {
+    "wikiId": "Q16252734",
+    "name": "HillCrest Vineyards",
+    "cat": "winery",
+    "lon": -123.497,
+    "lat": 43.2706
+  },
+  {
+    "wikiId": "Q16539657",
+    "name": "Château Sainte-Roseline",
+    "cat": "winery",
+    "lon": 6.513473,
+    "lat": 43.474761
+  },
+  {
+    "wikiId": "Q16539677",
+    "name": "Château de Fuissé",
+    "cat": "winery",
+    "lon": 4.740542,
+    "lat": 46.283988
+  },
+  {
+    "wikiId": "Q16761473",
+    "name": "Tvrdoš Monastery",
+    "cat": "winery",
+    "lon": 18.2929,
+    "lat": 42.7176
+  },
+  {
+    "wikiId": "Q16838261",
+    "name": "Bartlett Maine Estate Winery",
+    "cat": "winery",
+    "lon": -68.015317,
+    "lat": 44.490808
+  },
+  {
+    "wikiId": "Q16847293",
+    "name": "Brookland Valley Estate",
+    "cat": "winery",
+    "lon": 115.024444444,
+    "lat": -33.795
+  },
+  {
+    "wikiId": "Q16890680",
+    "name": "Coorinja Vineyard",
+    "cat": "winery",
+    "lon": 116.448,
+    "lat": -31.6061
+  },
+  {
+    "wikiId": "Q16902188",
+    "name": "Two Chimneys Wines",
+    "cat": "winery",
+    "lon": 167.9856,
+    "lat": -29.0336
+  },
+  {
+    "wikiId": "Q16902461",
+    "name": "Valenzano Winery",
+    "cat": "winery",
+    "lon": -74.7359,
+    "lat": 39.7907
+  },
+  {
+    "wikiId": "Q16902717",
+    "name": "Villa Milagro Vineyards",
+    "cat": "winery",
+    "lon": -75.186,
+    "lat": 40.5963
+  },
+  {
+    "wikiId": "Q16950093",
+    "name": "Baldacci Family Vineyards",
+    "cat": "winery",
+    "lon": -122.337257,
+    "lat": 38.418292
+  },
+  {
+    "wikiId": "Q16989094",
+    "name": "Daniel Vineyards",
+    "cat": "winery",
+    "lon": -81.254524,
+    "lat": 37.740288
+  },
+  {
+    "wikiId": "Q16999342",
+    "name": "Merry Edwards Winery",
+    "cat": "winery",
+    "lon": -122.855073,
+    "lat": 38.434914
+  },
+  {
+    "wikiId": "Q17006033",
+    "name": "Hahndorf Hill Winery",
+    "cat": "winery",
+    "lon": 138.813,
+    "lat": -35.0215
+  },
+  {
+    "wikiId": "Q17020328",
+    "name": "Markham Vineyards",
+    "cat": "winery",
+    "lon": -122.48895,
+    "lat": 38.51917
+  },
+  {
+    "wikiId": "Q17022672",
+    "name": "Moraga Estate",
+    "cat": "winery",
+    "lon": -118.468925,
+    "lat": 34.084346
+  },
+  {
+    "wikiId": "Q17065034",
+    "name": "Whitehall Lane Winery & Vineyards",
+    "cat": "winery",
+    "lon": -122.437865,
+    "lat": 38.477821
+  },
+  {
+    "wikiId": "Q17074432",
+    "name": "Mooiplaas Wine Estate",
+    "cat": "winery",
+    "lon": 18.737222222,
+    "lat": -33.915555555
+  },
+  {
+    "wikiId": "Q17102470",
+    "name": "Castello di Volpaia",
+    "cat": "winery",
+    "lon": 11.379896,
+    "lat": 43.517068
+  },
+  {
+    "wikiId": "Q17108283",
+    "name": "Messina Hof",
+    "cat": "winery",
+    "lon": -96.3233,
+    "lat": 30.7028
+  },
+  {
+    "wikiId": "Q17108843",
+    "name": "Winehaven Winery",
+    "cat": "winery",
+    "lon": -92.90229,
+    "lat": 45.36878
+  },
+  {
+    "wikiId": "Q17118765",
+    "name": "Weingut Dr. Heinrich Nägler",
+    "cat": "winery",
+    "lon": 7.93056,
+    "lat": 49.9808
+  },
+  {
+    "wikiId": "Q17118969",
+    "name": "Rietvallei Wine Estate",
+    "cat": "winery",
+    "lon": 19.9750865,
+    "lat": -33.8267588
+  },
+  {
+    "wikiId": "Q17346982",
+    "name": "Campagne de Bacchus (Carpentras)",
+    "cat": "winery",
+    "lon": 5.084398,
+    "lat": 44.087355
+  },
+  {
+    "wikiId": "Q17354305",
+    "name": "Château Soutard",
+    "cat": "winery",
+    "lon": -0.1503631,
+    "lat": 44.8978928
+  },
+  {
+    "wikiId": "Q17597091",
+    "name": "Celler Cooperatiu",
+    "cat": "winery",
+    "lon": 1.25537,
+    "lat": 41.291
+  },
+  {
+    "wikiId": "Q17597094",
+    "name": "Celler Cooperatiu de Banyeres",
+    "cat": "winery",
+    "lon": 1.58577,
+    "lat": 41.2783
+  },
+  {
+    "wikiId": "Q17597106",
+    "name": "Celler Cooperatiu de Nulles",
+    "cat": "winery",
+    "lon": 1.29751,
+    "lat": 41.2508
+  },
+  {
+    "wikiId": "Q17597142",
+    "name": "Celler Nou de Cal Mata",
+    "cat": "winery",
+    "lon": 1.55037,
+    "lat": 41.264
+  },
+  {
+    "wikiId": "Q17986201",
+    "name": "Cakebread Cellars",
+    "cat": "winery",
+    "lon": -122.411,
+    "lat": 38.4479
+  },
+  {
+    "wikiId": "Q18165673",
+    "name": "Hamilton's Ewell Vineyards",
+    "cat": "winery",
+    "lon": 138.597666,
+    "lat": -34.926512
+  },
+  {
+    "wikiId": "Q18325533",
+    "name": "Draiser Hof",
+    "cat": "winery",
+    "lon": 8.104816,
+    "lat": 50.022516
+  },
+  {
+    "wikiId": "Q18753758",
+    "name": "Charles Krug Winery",
+    "cat": "winery",
+    "lon": -122.48,
+    "lat": 38.5175
+  },
+  {
+    "wikiId": "Q19826587",
+    "name": "Bischöfliches Weingut Rüdesheim",
+    "cat": "winery",
+    "lon": 7.92854,
+    "lat": 49.98564
+  },
+  {
+    "wikiId": "Q19842931",
+    "name": "Ponderosa Valley Vineyards & Winery",
+    "cat": "winery",
+    "lon": -106.67977778,
+    "lat": 35.6415
+  },
+  {
+    "wikiId": "Q19843048",
+    "name": "Luna Rossa Winery",
+    "cat": "winery",
+    "lon": -107.81347222,
+    "lat": 32.26305556
+  },
+  {
+    "wikiId": "Q19843080",
+    "name": "La Viña Winery",
+    "cat": "winery",
+    "lon": -106.652527777,
+    "lat": 31.969888888
+  },
+  {
+    "wikiId": "Q19865454",
+    "name": "Black Mesa Winery",
+    "cat": "winery",
+    "lon": -105.972,
+    "lat": 36.1784
+  },
+  {
+    "wikiId": "Q19881299",
+    "name": "Noisy Water Winery",
+    "cat": "winery",
+    "lon": -105.66952778,
+    "lat": 33.3315
+  },
+  {
+    "wikiId": "Q19969034",
+    "name": "Popova Kula",
+    "cat": "winery",
+    "lon": 22.22583333,
+    "lat": 41.41055556
+  },
+  {
+    "wikiId": "Q20104754",
+    "name": "Celler Vall-Llach",
+    "cat": "winery",
+    "lon": 0.856722222,
+    "lat": 41.188305555
+  },
+  {
+    "wikiId": "Q20656811",
+    "name": "City Winery",
+    "cat": "winery",
+    "lon": -74.00604,
+    "lat": 40.72624
+  },
+  {
+    "wikiId": "Q20669743",
+    "name": "Cave coopérative de Saint-Théodorit",
+    "cat": "winery",
+    "lon": 4.0819,
+    "lat": 43.9429
+  },
+  {
+    "wikiId": "Q20669744",
+    "name": "Cave coopérative de Tavel",
+    "cat": "winery",
+    "lon": 4.709,
+    "lat": 44.0109
+  },
+  {
+    "wikiId": "Q20948742",
+    "name": "Venec",
+    "cat": "winery",
+    "lon": 22.158888888,
+    "lat": 41.726666666
+  },
+  {
+    "wikiId": "Q20981394",
+    "name": "Bosman Family Vineyards",
+    "cat": "winery",
+    "lon": 19.024722222,
+    "lat": -33.626111111
+  },
+  {
+    "wikiId": "Q20981674",
+    "name": "Leopard's Leap",
+    "cat": "winery",
+    "lon": 19.0780259,
+    "lat": -33.8858459
+  },
+  {
+    "wikiId": "Q20981796",
+    "name": "Neetlingshof Estate",
+    "cat": "winery",
+    "lon": 18.8025,
+    "lat": -33.87388889
+  },
+  {
+    "wikiId": "Q21073064",
+    "name": "Q21073064",
+    "cat": "winery",
+    "lon": 8.168589,
+    "lat": 49.611892
+  },
+  {
+    "wikiId": "Q21188124",
+    "name": "Artesa Vineyards & Winery",
+    "cat": "winery",
+    "lon": -122.35654722,
+    "lat": 38.26926667
+  },
+  {
+    "wikiId": "Q21188741",
+    "name": "Pine Ridge Vineyards",
+    "cat": "winery",
+    "lon": -122.33229444,
+    "lat": 38.4053
+  },
+  {
+    "wikiId": "Q21189843",
+    "name": "Château Suau (Capian)",
+    "cat": "winery",
+    "lon": -0.53515,
+    "lat": 44.126219444
+  },
+  {
+    "wikiId": "Q21849302",
+    "name": "Can Rovira (Santa Oliva)",
+    "cat": "winery",
+    "lon": 1.540447222,
+    "lat": 41.22895
+  },
+  {
+    "wikiId": "Q22666946",
+    "name": "Passaggio Wines",
+    "cat": "winery",
+    "lon": -122.457246,
+    "lat": 38.291595
+  },
+  {
+    "wikiId": "Q24035449",
+    "name": "Cellers de Raimat",
+    "cat": "winery",
+    "lon": 0.480277777,
+    "lat": 41.683055555
+  },
+  {
+    "wikiId": "Q24435848",
+    "name": "Lynfred Winery",
+    "cat": "winery",
+    "lon": -88.079326,
+    "lat": 41.983218
+  },
+  {
+    "wikiId": "Q25005482",
+    "name": "Kenwood Vineyards",
+    "cat": "winery",
+    "lon": -122.54333333,
+    "lat": 38.41666667
+  },
+  {
+    "wikiId": "Q25358935",
+    "name": "Mission Estate Winery",
+    "cat": "winery",
+    "lon": 176.8426571,
+    "lat": -39.5184699
+  },
+  {
+    "wikiId": "Q27955253",
+    "name": "Domaine St.Eugène",
+    "cat": "winery",
+    "lon": 3.084166666,
+    "lat": 43.290555555
+  },
+  {
+    "wikiId": "Q28155199",
+    "name": "Q28155199",
+    "cat": "winery",
+    "lon": 13.100277777,
+    "lat": 38.060555555
+  },
+  {
+    "wikiId": "Q28451005",
+    "name": "Rodney Strong Vineyards",
+    "cat": "winery",
+    "lon": -122.843897525,
+    "lat": 38.573307325
+  },
+  {
+    "wikiId": "Q28457680",
+    "name": "Italian Swiss Colony",
+    "cat": "winery",
+    "lon": -122.455555555,
+    "lat": 38.293333333
+  },
+  {
+    "wikiId": "Q28950463",
+    "name": "Weingut Arndt F. Werner",
+    "cat": "winery",
+    "lon": 8.073222222,
+    "lat": 49.976527777
+  },
+  {
+    "wikiId": "Q29391855",
+    "name": "Llopart Winery",
+    "cat": "winery",
+    "lon": 1.802477,
+    "lat": 41.409513
+  },
+  {
+    "wikiId": "Q29932866",
+    "name": "former winemaker's house",
+    "cat": "winery",
+    "lon": 8.63352,
+    "lat": 47.67047
+  },
+  {
+    "wikiId": "Q30004729",
+    "name": "Q30004729",
+    "cat": "winery",
+    "lon": 143.457777777,
+    "lat": 42.919166666
+  },
+  {
+    "wikiId": "Q30672849",
+    "name": "Château de Pommard",
+    "cat": "winery",
+    "lon": 4.798,
+    "lat": 47.008
+  },
+  {
+    "wikiId": "Q30692942",
+    "name": "Château La Coste",
+    "cat": "winery",
+    "lon": 5.4198,
+    "lat": 43.6359
+  },
+  {
+    "wikiId": "Q30854240",
+    "name": "Winzer Krems",
+    "cat": "winery",
+    "lon": 15.617898055,
+    "lat": 48.420606111
+  },
+  {
+    "wikiId": "Q30935880",
+    "name": "Ouse Winery Fukushima",
+    "cat": "winery",
+    "lon": 140.226944444,
+    "lat": 37.3925
+  },
+  {
+    "wikiId": "Q31092036",
+    "name": "Sabar Winery",
+    "cat": "winery",
+    "lon": 17.52648,
+    "lat": 46.84877
+  },
+  {
+    "wikiId": "Q34368582",
+    "name": "Rebhäusle",
+    "cat": "winery",
+    "lon": 9.621266,
+    "lat": 47.778206
+  },
+  {
+    "wikiId": "Q34368602",
+    "name": "Rebleutehaus Banneggstraße",
+    "cat": "winery",
+    "lon": 9.615515,
+    "lat": 47.775816
+  },
+  {
+    "wikiId": "Q37797421",
+    "name": "Euxinograd winery",
+    "cat": "winery",
+    "lon": 27.994166666,
+    "lat": 43.221944444
+  },
+  {
+    "wikiId": "Q38037946",
+    "name": "Q38037946",
+    "cat": "winery",
+    "lon": 15.61164,
+    "lat": 48.41177
+  },
+  {
+    "wikiId": "Q38114853",
+    "name": "Weingut Schlumberger-Goldeck, Bad Vöslau",
+    "cat": "winery",
+    "lon": 16.21147,
+    "lat": 47.97449
+  },
+  {
+    "wikiId": "Q41350807",
+    "name": "Pfarrgasse 3",
+    "cat": "winery",
+    "lon": 10.25983,
+    "lat": 49.70574
+  },
+  {
+    "wikiId": "Q41351183",
+    "name": "Weingut",
+    "cat": "winery",
+    "lon": 10.26102,
+    "lat": 49.70284
+  },
+  {
+    "wikiId": "Q41353858",
+    "name": "Weingut",
+    "cat": "winery",
+    "lon": 10.2262,
+    "lat": 49.86715
+  },
+  {
+    "wikiId": "Q43283361",
+    "name": "Hayashi Winery",
+    "cat": "winery",
+    "lon": 137.92967778,
+    "lat": 36.11379722
+  },
+  {
+    "wikiId": "Q43283368",
+    "name": "Alps",
+    "cat": "winery",
+    "lon": 137.97616944,
+    "lat": 36.10074167
+  },
+  {
+    "wikiId": "Q45134665",
+    "name": "Winzerhof Wille",
+    "cat": "winery",
+    "lon": 9.627414,
+    "lat": 49.59401
+  },
+  {
+    "wikiId": "Q46593267",
+    "name": "Q46593267",
+    "cat": "winery",
+    "lon": 9.712181,
+    "lat": 49.535886
+  },
+  {
+    "wikiId": "Q47187021",
+    "name": "Celler del Sindicat Agrícola",
+    "cat": "winery",
+    "lon": 1.357735,
+    "lat": 41.310436
+  },
+  {
+    "wikiId": "Q47982099",
+    "name": "Wiesenmühle",
+    "cat": "winery",
+    "lon": 8.391472222,
+    "lat": 50.011027777
+  },
+  {
+    "wikiId": "Q48194630",
+    "name": "Edlmoser",
+    "cat": "winery",
+    "lon": 16.259506,
+    "lat": 48.148589
+  },
+  {
+    "wikiId": "Q48195074",
+    "name": "Hofer",
+    "cat": "winery",
+    "lon": 16.272543,
+    "lat": 48.147697
+  },
+  {
+    "wikiId": "Q48195322",
+    "name": "Lentz",
+    "cat": "winery",
+    "lon": 16.265847,
+    "lat": 48.147934
+  },
+  {
+    "wikiId": "Q48195843",
+    "name": "Stadlmann",
+    "cat": "winery",
+    "lon": 16.272926,
+    "lat": 48.147919
+  },
+  {
+    "wikiId": "Q48196093",
+    "name": "Steinklammer",
+    "cat": "winery",
+    "lon": 16.272925,
+    "lat": 48.149164
+  },
+  {
+    "wikiId": "Q48196442",
+    "name": "Weindorfer",
+    "cat": "winery",
+    "lon": 16.271947,
+    "lat": 48.147497
+  },
+  {
+    "wikiId": "Q48196952",
+    "name": "Zahel",
+    "cat": "winery",
+    "lon": 16.267282,
+    "lat": 48.150589
+  },
+  {
+    "wikiId": "Q48741330",
+    "name": "Château Rayas",
+    "cat": "winery",
+    "lon": 4.847,
+    "lat": 44.0742
+  },
+  {
+    "wikiId": "Q48741989",
+    "name": "Castello del Terriccio",
+    "cat": "winery",
+    "lon": 10.512438,
+    "lat": 43.369886
+  },
+  {
+    "wikiId": "Q48800717",
+    "name": "Badger Mountain Vineyard",
+    "cat": "winery",
+    "lon": -119.2864613,
+    "lat": 46.2128429
+  },
+  {
+    "wikiId": "Q48818192",
+    "name": "Château de l'Hospital",
+    "cat": "winery",
+    "lon": -0.418,
+    "lat": 44.693
+  },
+  {
+    "wikiId": "Q48989130",
+    "name": "Viña Tipaume",
+    "cat": "winery",
+    "lon": -70.791869,
+    "lat": -34.389476
+  },
+  {
+    "wikiId": "Q52856056",
+    "name": "Q52856056",
+    "cat": "winery",
+    "lon": -3.021232,
+    "lat": 39.158261
+  },
+  {
+    "wikiId": "Q53467942",
+    "name": "Finca Casa Nueva",
+    "cat": "winery",
+    "lon": -1.087055555,
+    "lat": 39.517861111
+  },
+  {
+    "wikiId": "Q53634286",
+    "name": "Cooperativa Comarcal del Campo Virgen de la Peana",
+    "cat": "winery",
+    "lon": -1.785138,
+    "lat": 41.325292
+  },
+  {
+    "wikiId": "Q54475112",
+    "name": "Quinta da Pacheca",
+    "cat": "winery",
+    "lon": -7.797754,
+    "lat": 41.155541
+  },
+  {
+    "wikiId": "Q55386174",
+    "name": "Q55386174",
+    "cat": "winery",
+    "lon": 7.998661,
+    "lat": 44.61779
+  },
+  {
+    "wikiId": "Q55616155",
+    "name": "Kompoloi",
+    "cat": "winery",
+    "lon": 22.58463,
+    "lat": 40.018746
+  },
+  {
+    "wikiId": "Q56258245",
+    "name": "Q56258245",
+    "cat": "winery",
+    "lon": 8.375623,
+    "lat": 45.039546
+  },
+  {
+    "wikiId": "Q56547193",
+    "name": "Chateau St. Jean",
+    "cat": "winery",
+    "lon": -122.548256,
+    "lat": 38.42723
+  },
+  {
+    "wikiId": "Q56547219",
+    "name": "Ledson Winery and Vineyards",
+    "cat": "winery",
+    "lon": -122.586248,
+    "lat": 38.441602
+  },
+  {
+    "wikiId": "Q56559589",
+    "name": "Belden Barns",
+    "cat": "winery",
+    "lon": -122.604095,
+    "lat": 38.367179
+  },
+  {
+    "wikiId": "Q56567473",
+    "name": "St. Francis Winery and Vineyard",
+    "cat": "winery",
+    "lon": -122.576527,
+    "lat": 38.43689
+  },
+  {
+    "wikiId": "Q56650511",
+    "name": "Sbragia Family Vineyards",
+    "cat": "winery",
+    "lon": -122.993742,
+    "lat": 38.720667
+  },
+  {
+    "wikiId": "Q57592581",
+    "name": "Q57592581",
+    "cat": "winery",
+    "lon": -0.1729,
+    "lat": 44.9375
+  },
+  {
+    "wikiId": "Q57592803",
+    "name": "Château de La Tour Ségur",
+    "cat": "winery",
+    "lon": -0.0909,
+    "lat": 44.9664
+  },
+  {
+    "wikiId": "Q58049203",
+    "name": "Q58049203",
+    "cat": "winery",
+    "lon": 21.360972007,
+    "lat": 48.191972208
+  },
+  {
+    "wikiId": "Q58214233",
+    "name": "Truchard Vineyards",
+    "cat": "winery",
+    "lon": -122.323247,
+    "lat": 38.285802
+  },
+  {
+    "wikiId": "Q58215208",
+    "name": "Domaine Anderson",
+    "cat": "winery",
+    "lon": -123.430375,
+    "lat": 39.058873
+  },
+  {
+    "wikiId": "Q59149301",
+    "name": "Q59149301",
+    "cat": "winery",
+    "lon": -0.1816,
+    "lat": 44.8868
+  },
+  {
+    "wikiId": "Q59149369",
+    "name": "Q59149369",
+    "cat": "winery",
+    "lon": -0.1739,
+    "lat": 44.898
+  },
+  {
+    "wikiId": "Q59149476",
+    "name": "Q59149476",
+    "cat": "winery",
+    "lon": -0.1746,
+    "lat": 44.8996
+  },
+  {
+    "wikiId": "Q59358168",
+    "name": "Domaine Chifflot",
+    "cat": "winery",
+    "lon": 4.969,
+    "lat": 47.2263
+  },
+  {
+    "wikiId": "Q59771361",
+    "name": "Talley Vineyards",
+    "cat": "winery",
+    "lon": -120.5243,
+    "lat": 35.1791
+  },
+  {
+    "wikiId": "Q60169787",
+    "name": "Casajús",
+    "cat": "winery",
+    "lon": -3.749991666,
+    "lat": 41.760886111
+  },
+  {
+    "wikiId": "Q60652357",
+    "name": "Pennyroyal Farm",
+    "cat": "winery",
+    "lon": -123.362523,
+    "lat": 39.002317
+  },
+  {
+    "wikiId": "Q60760579",
+    "name": "Ovid Napa Valley",
+    "cat": "winery",
+    "lon": -122.343007,
+    "lat": 38.461286
+  },
+  {
+    "wikiId": "Q61119897",
+    "name": "Royal Winery Queen Maria",
+    "cat": "winery",
+    "lon": 22.233333333,
+    "lat": 41.414166666
+  },
+  {
+    "wikiId": "Q61479015",
+    "name": "Abbot's Passage Supply Co.",
+    "cat": "winery",
+    "lon": -122.457442,
+    "lat": 38.29111
+  },
+  {
+    "wikiId": "Q61654804",
+    "name": "VJB Vineyard & Cellars",
+    "cat": "winery",
+    "lon": -122.549905,
+    "lat": 38.417582
+  },
+  {
+    "wikiId": "Q61657937",
+    "name": "Reeve Wines",
+    "cat": "winery",
+    "lon": -122.922261,
+    "lat": 38.676499
+  },
+  {
+    "wikiId": "Q61791401",
+    "name": "Chateau Chizay",
+    "cat": "winery",
+    "lon": 22.640079354,
+    "lat": 48.22607732
+  },
+  {
+    "wikiId": "Q61997320",
+    "name": "Emeritus Vineyards",
+    "cat": "winery",
+    "lon": -122.851886,
+    "lat": 38.428347
+  },
+  {
+    "wikiId": "Q62053710",
+    "name": "Bodegas Ateca",
+    "cat": "winery",
+    "lon": -1.782205,
+    "lat": 41.324464
+  },
+  {
+    "wikiId": "Q62098668",
+    "name": "Bodega Reverón",
+    "cat": "winery",
+    "lon": -16.657995,
+    "lat": 28.125437
+  },
+  {
+    "wikiId": "Q62098681",
+    "name": "Bodegas Biurko Gorri",
+    "cat": "winery",
+    "lon": -2.304568,
+    "lat": 42.556584
+  },
+  {
+    "wikiId": "Q62098696",
+    "name": "Pago Calzadilla",
+    "cat": "winery",
+    "lon": -2.654523,
+    "lat": 40.142085
+  },
+  {
+    "wikiId": "Q62098801",
+    "name": "Bodega Pagos de Familia Marqués de Griñón",
+    "cat": "winery",
+    "lon": -4.612166944,
+    "lat": 39.859336111
+  },
+  {
+    "wikiId": "Q62631797",
+    "name": "Fratelli Winery",
+    "cat": "winery",
+    "lon": 74.934213,
+    "lat": 17.8078527
+  },
+  {
+    "wikiId": "Q63489302",
+    "name": "Muscardini Cellars",
+    "cat": "winery",
+    "lon": -122.548096,
+    "lat": 38.415634
+  },
+  {
+    "wikiId": "Q63489430",
+    "name": "Winery Sixteen 600",
+    "cat": "winery",
+    "lon": -122.459499,
+    "lat": 38.290385
+  },
+  {
+    "wikiId": "Q63762360",
+    "name": "Mumm Napa",
+    "cat": "winery",
+    "lon": -122.393419,
+    "lat": 38.478315
+  },
+  {
+    "wikiId": "Q63762555",
+    "name": "The Donum Estate",
+    "cat": "winery",
+    "lon": -122.402864,
+    "lat": 38.231248
+  },
+  {
+    "wikiId": "Q63874703",
+    "name": "JUSTIN Vineyards & Winery",
+    "cat": "winery",
+    "lon": -120.9008428,
+    "lat": 35.6547949
+  },
+  {
+    "wikiId": "Q63876032",
+    "name": "Sculpterra Winery",
+    "cat": "winery",
+    "lon": -120.6057121,
+    "lat": 35.60399
+  },
+  {
+    "wikiId": "Q63888483",
+    "name": "DAOU Vineyards & Winery",
+    "cat": "winery",
+    "lon": -120.784292,
+    "lat": 35.641263
+  },
+  {
+    "wikiId": "Q63953350",
+    "name": "Anaba Wines",
+    "cat": "winery",
+    "lon": -122.463475,
+    "lat": 38.236885
+  },
+  {
+    "wikiId": "Q63954508",
+    "name": "Three Sticks Wines",
+    "cat": "winery",
+    "lon": -122.459743,
+    "lat": 38.2937801
+  },
+  {
+    "wikiId": "Q63958507",
+    "name": "Niner Wine Estates",
+    "cat": "winery",
+    "lon": -120.7418851,
+    "lat": 35.5705018
+  },
+  {
+    "wikiId": "Q63964494",
+    "name": "Aaron Wines",
+    "cat": "winery",
+    "lon": -120.690493,
+    "lat": 35.5762243
+  },
+  {
+    "wikiId": "Q63971810",
+    "name": "Allegretto Wines",
+    "cat": "winery",
+    "lon": -120.6704971,
+    "lat": 35.6474086
+  },
+  {
+    "wikiId": "Q63972269",
+    "name": "Alta Colina Vineyard & Winery",
+    "cat": "winery",
+    "lon": -120.7449239,
+    "lat": 35.650182
+  },
+  {
+    "wikiId": "Q63972473",
+    "name": "Ancient Peaks Winery",
+    "cat": "winery",
+    "lon": -120.613002,
+    "lat": 35.389063
+  },
+  {
+    "wikiId": "Q63972583",
+    "name": "Anglim",
+    "cat": "winery",
+    "lon": -120.69689,
+    "lat": 35.57343
+  },
+  {
+    "wikiId": "Q63972650",
+    "name": "Austin Hope & Treana Tasting Cellar",
+    "cat": "winery",
+    "lon": -120.7213555,
+    "lat": 35.5879453
+  },
+  {
+    "wikiId": "Q63972872",
+    "name": "B & E Vineyard & Winery",
+    "cat": "winery",
+    "lon": -120.529065,
+    "lat": 35.549149
+  },
+  {
+    "wikiId": "Q63972934",
+    "name": "Barr Estate Winery",
+    "cat": "winery",
+    "lon": -120.572781,
+    "lat": 35.6395421
+  },
+  {
+    "wikiId": "Q63972992",
+    "name": "Bella Luna Winery",
+    "cat": "winery",
+    "lon": -120.6800032,
+    "lat": 35.5282723
+  },
+  {
+    "wikiId": "Q63973120",
+    "name": "Bodega de Edgar",
+    "cat": "winery",
+    "lon": -120.741403,
+    "lat": 35.6509177
+  },
+  {
+    "wikiId": "Q63980239",
+    "name": "Bodegas Paso Robles",
+    "cat": "winery",
+    "lon": -120.6908023,
+    "lat": 35.6278783
+  },
+  {
+    "wikiId": "Q63980310",
+    "name": "Bon Niche Cellars",
+    "cat": "winery",
+    "lon": -120.564869,
+    "lat": 35.721375
+  },
+  {
+    "wikiId": "Q63980371",
+    "name": "Booker Vineyard and Winery",
+    "cat": "winery",
+    "lon": -120.7396344,
+    "lat": 35.5786017
+  },
+  {
+    "wikiId": "Q63980387",
+    "name": "Bovino Vineyards",
+    "cat": "winery",
+    "lon": -120.5891686,
+    "lat": 35.5520808
+  },
+  {
+    "wikiId": "Q63980436",
+    "name": "Brecon Estate",
+    "cat": "winery",
+    "lon": -120.8316768,
+    "lat": 35.5978941
+  },
+  {
+    "wikiId": "Q63980478",
+    "name": "Brochelle Vineyards",
+    "cat": "winery",
+    "lon": -120.656091,
+    "lat": 35.644143
+  },
+  {
+    "wikiId": "Q63980494",
+    "name": "Bedrock Wine Co.",
+    "cat": "winery",
+    "lon": -122.45621,
+    "lat": 38.293239
+  },
+  {
+    "wikiId": "Q63980511",
+    "name": "Broken Earth Winery",
+    "cat": "winery",
+    "lon": -120.6936771,
+    "lat": 35.5921032
+  },
+  {
+    "wikiId": "Q64148850",
+    "name": "Brian Benson Cellars",
+    "cat": "winery",
+    "lon": -120.6882561,
+    "lat": 35.5765306
+  },
+  {
+    "wikiId": "Q64148881",
+    "name": "Robert Hall Winery",
+    "cat": "winery",
+    "lon": -120.6335171,
+    "lat": 35.6438088
+  },
+  {
+    "wikiId": "Q64731245",
+    "name": "Grizzly Peak Winery",
+    "cat": "winery",
+    "lon": -122.678222222,
+    "lat": 42.220833333
+  },
+  {
+    "wikiId": "Q64785527",
+    "name": "Q64785527",
+    "cat": "winery",
+    "lon": 34.908292,
+    "lat": 44.829477
+  },
+  {
+    "wikiId": "Q64969649",
+    "name": "Turkovich Family Wines",
+    "cat": "winery",
+    "lon": -121.9691527,
+    "lat": 38.5221026
+  },
+  {
+    "wikiId": "Q64971016",
+    "name": "Berryessa Gap Winery",
+    "cat": "winery",
+    "lon": -122.003472222,
+    "lat": 38.513944444
+  },
+  {
+    "wikiId": "Q65022418",
+    "name": "Manzoni Estate Vineyard",
+    "cat": "winery",
+    "lon": -121.4676372,
+    "lat": 36.4722855
+  },
+  {
+    "wikiId": "Q65208806",
+    "name": "Cellers de Cal Ventosa",
+    "cat": "winery",
+    "lon": 1.578806,
+    "lat": 41.280711
+  },
+  {
+    "wikiId": "Q65208882",
+    "name": "El Celler de Sabartès",
+    "cat": "winery",
+    "lon": 1.5531,
+    "lat": 41.2754
+  },
+  {
+    "wikiId": "Q65286038",
+    "name": "Sakai Winery",
+    "cat": "winery",
+    "lon": 140.168995,
+    "lat": 38.050369
+  },
+  {
+    "wikiId": "Q66124044",
+    "name": "Kosta Browne",
+    "cat": "winery",
+    "lon": -122.490705,
+    "lat": 38.529472
+  },
+  {
+    "wikiId": "Q66372215",
+    "name": "Ken Brown Wines",
+    "cat": "winery",
+    "lon": -120.1964029,
+    "lat": 34.6149079
+  },
+  {
+    "wikiId": "Q66768678",
+    "name": "Yeringberg",
+    "cat": "winery",
+    "lon": 145.435,
+    "lat": -37.6901
+  },
+  {
+    "wikiId": "Q66789294",
+    "name": "Leoni Farms Wine",
+    "cat": "winery",
+    "lon": -120.8031892,
+    "lat": 38.393529
+  },
+  {
+    "wikiId": "Q66813590",
+    "name": "Lagareta em Castelo Novo",
+    "cat": "winery",
+    "lon": -7.496981,
+    "lat": 40.077359
+  },
+  {
+    "wikiId": "Q66813752",
+    "name": "Lagar de Cima",
+    "cat": "winery",
+    "lon": -8.167701,
+    "lat": 38.539927
+  },
+  {
+    "wikiId": "Q66814020",
+    "name": "Lagar de Freixedas",
+    "cat": "winery",
+    "lon": -7.162222,
+    "lat": 40.690614
+  },
+  {
+    "wikiId": "Q66815092",
+    "name": "Quinta do Pinhalzinho (Lagar de Azeite do Pinhalzinho)",
+    "cat": "winery",
+    "lon": -9.079562,
+    "lat": 38.621601
+  },
+  {
+    "wikiId": "Q66815627",
+    "name": "Lagar do Fial",
+    "cat": "winery",
+    "lon": -8.082829,
+    "lat": 40.551731
+  },
+  {
+    "wikiId": "Q66815643",
+    "name": "Conjunto de quatro lagares cavados na rocha",
+    "cat": "winery",
+    "lon": -7.974034,
+    "lat": 40.598524
+  },
+  {
+    "wikiId": "Q66826892",
+    "name": "Q66826892",
+    "cat": "winery",
+    "lon": -0.724338888,
+    "lat": 45.055260555
+  },
+  {
+    "wikiId": "Q66992852",
+    "name": "civic winery of Castelplanio",
+    "cat": "winery",
+    "lon": 13.0811668,
+    "lat": 43.4943672
+  },
+  {
+    "wikiId": "Q67201150",
+    "name": "Recaredo",
+    "cat": "winery",
+    "lon": 1.786891666,
+    "lat": 41.425194444
+  },
+  {
+    "wikiId": "Q67369753",
+    "name": "Canonica Vini",
+    "cat": "winery",
+    "lon": 8.156265,
+    "lat": 44.563016
+  },
+  {
+    "wikiId": "Q75837416",
+    "name": "Golden Vine Winery",
+    "cat": "winery",
+    "lon": -117.920104,
+    "lat": 33.806509
+  },
+  {
+    "wikiId": "Q77622857",
+    "name": "Iron Horse Vineyards",
+    "cat": "winery",
+    "lon": -122.898627,
+    "lat": 38.455968
+  },
+  {
+    "wikiId": "Q77822703",
+    "name": "La Scolca",
+    "cat": "winery",
+    "lon": 8.78185,
+    "lat": 44.708719444
+  },
+  {
+    "wikiId": "Q78596919",
+    "name": "Winery and ceramic panel of Saint James",
+    "cat": "winery",
+    "lon": -0.474622,
+    "lat": 38.861194
+  },
+  {
+    "wikiId": "Q79307821",
+    "name": "Te Kauwhata Winery",
+    "cat": "winery",
+    "lon": 175.140302,
+    "lat": -37.408145
+  },
+  {
+    "wikiId": "Q81212284",
+    "name": "Winery at Calvario street (1)",
+    "cat": "winery",
+    "lon": -0.591625,
+    "lat": 40.102986111
+  },
+  {
+    "wikiId": "Q81212285",
+    "name": "Winery at Calvario street (2)",
+    "cat": "winery",
+    "lon": -0.591694444,
+    "lat": 40.103
+  },
+  {
+    "wikiId": "Q81212287",
+    "name": "Calvary of Puebla de Arenoso",
+    "cat": "winery",
+    "lon": -0.591305555,
+    "lat": 40.103194444
+  },
+  {
+    "wikiId": "Q83612528",
+    "name": "Sunstone Winery & Villa",
+    "cat": "winery",
+    "lon": -120.10313,
+    "lat": 34.58693
+  },
+  {
+    "wikiId": "Q83720991",
+    "name": "Q83720991",
+    "cat": "winery",
+    "lon": -0.135372586,
+    "lat": 44.923250193
+  },
+  {
+    "wikiId": "Q88902777",
+    "name": "Q88902777",
+    "cat": "winery",
+    "lon": 34.111722222,
+    "lat": 44.958555555
+  },
+  {
+    "wikiId": "Q89415030",
+    "name": "Cantina del Taburno",
+    "cat": "winery",
+    "lon": 14.6703,
+    "lat": 41.15462
+  },
+  {
+    "wikiId": "Q90283847",
+    "name": "Schmid-Oberrautner",
+    "cat": "winery",
+    "lon": 11.336426,
+    "lat": 46.505659
+  },
+  {
+    "wikiId": "Q90730872",
+    "name": "Grorother Hof",
+    "cat": "winery",
+    "lon": 8.16335,
+    "lat": 50.05798
+  },
+  {
+    "wikiId": "Q94550357",
+    "name": "Föhrner",
+    "cat": "winery",
+    "lon": 11.33644,
+    "lat": 46.50885
+  },
+  {
+    "wikiId": "Q94996514",
+    "name": "Hof Nürnberg",
+    "cat": "winery",
+    "lon": 8.16361,
+    "lat": 50.06162
+  },
+  {
+    "wikiId": "Q96109031",
+    "name": "Herdade da Cardeira",
+    "cat": "winery",
+    "lon": -7.46114,
+    "lat": 38.84807
+  },
+  {
+    "wikiId": "Q97619239",
+    "name": "Bodegas Domecq",
+    "cat": "winery",
+    "lon": -6.144546142,
+    "lat": 36.682993829
+  },
+  {
+    "wikiId": "Q97619636",
+    "name": "Bodega Cambell Cuadrada",
+    "cat": "winery",
+    "lon": -6.232376238,
+    "lat": 36.59535039
+  },
+  {
+    "wikiId": "Q98058670",
+    "name": "Q98058670",
+    "cat": "winery",
+    "lon": -5.94480288,
+    "lat": 36.587687847
+  },
+  {
+    "wikiId": "Q98272937",
+    "name": "Vineland Estates Winery",
+    "cat": "winery",
+    "lon": -79.40538,
+    "lat": 43.14232
+  },
+  {
+    "wikiId": "Q98959942",
+    "name": "Q98959942",
+    "cat": "winery",
+    "lon": -8.827695846,
+    "lat": 38.57723236
+  },
+  {
+    "wikiId": "Q98962196",
+    "name": "Q98962196",
+    "cat": "winery",
+    "lon": -7.419632,
+    "lat": 38.776855
+  },
+  {
+    "wikiId": "Q98970140",
+    "name": "Antics cellers de la cooperativa",
+    "cat": "winery",
+    "lon": 2.027085,
+    "lat": 41.36263
+  },
+  {
+    "wikiId": "Q100272724",
+    "name": "Domaine Huet",
+    "cat": "winery",
+    "lon": 0.8084,
+    "lat": 47.4136
+  },
+  {
+    "wikiId": "Q101252172",
+    "name": "Cooperativa Vinícola San Pedro Apóstol Winery",
+    "cat": "winery",
+    "lon": -0.685277777,
+    "lat": 39.425555555
+  },
+  {
+    "wikiId": "Q102157489",
+    "name": "Bodega-Cooperativa Vinica Chivana",
+    "cat": "winery",
+    "lon": -0.722388888,
+    "lat": 39.471917
+  },
+  {
+    "wikiId": "Q104776471",
+    "name": "Soda Rock Winery",
+    "cat": "winery",
+    "lon": -122.799894391,
+    "lat": 38.660675926
+  },
+  {
+    "wikiId": "Q105295165",
+    "name": "La Grange des Pères",
+    "cat": "winery",
+    "lon": 3.580769444,
+    "lat": 43.672627777
+  },
+  {
+    "wikiId": "Q105622987",
+    "name": "Les Vignerons de Carthage",
+    "cat": "winery",
+    "lon": 10.2040328,
+    "lat": 36.771379
+  },
+  {
+    "wikiId": "Q105623026",
+    "name": "Cave Kuribis",
+    "cat": "winery",
+    "lon": 10.8124025,
+    "lat": 36.5752403
+  },
+  {
+    "wikiId": "Q105623082",
+    "name": "Ceptunes",
+    "cat": "winery",
+    "lon": 10.4810786,
+    "lat": 36.5990815
+  },
+  {
+    "wikiId": "Q105623103",
+    "name": "Domaine Atlas",
+    "cat": "winery",
+    "lon": 10.2550456,
+    "lat": 36.532641
+  },
+  {
+    "wikiId": "Q105723497",
+    "name": "Bodega La Comarcal",
+    "cat": "winery",
+    "lon": -0.72,
+    "lat": 39.470278
+  },
+  {
+    "wikiId": "Q106013703",
+    "name": "Vitkin Winery",
+    "cat": "winery",
+    "lon": 34.865705555,
+    "lat": 32.396197222
+  },
+  {
+    "wikiId": "Q106354803",
+    "name": "Winery of Mamerto de la Vara",
+    "cat": "winery",
+    "lon": -0.336722,
+    "lat": 39.459222
+  },
+  {
+    "wikiId": "Q106615874",
+    "name": "Riverbank Estate Winery, Caversham",
+    "cat": "winery",
+    "lon": 115.986576524,
+    "lat": -31.883165397
+  },
+  {
+    "wikiId": "Q106762751",
+    "name": "Q106762751",
+    "cat": "winery",
+    "lon": -6.80825,
+    "lat": 42.60825
+  },
+  {
+    "wikiId": "Q107014907",
+    "name": "WALT Wines",
+    "cat": "winery",
+    "lon": -122.458324828,
+    "lat": 38.294339481
+  },
+  {
+    "wikiId": "Q107017750",
+    "name": "Bodega Descalzos Viejos",
+    "cat": "winery",
+    "lon": -5.179638358,
+    "lat": 36.750936812
+  },
+  {
+    "wikiId": "Q107157192",
+    "name": "Q107157192",
+    "cat": "winery",
+    "lon": -8.41146,
+    "lat": 39.604143
+  },
+  {
+    "wikiId": "Q107183585",
+    "name": "Bedrock Wine Co.",
+    "cat": "winery",
+    "lon": -122.455852624,
+    "lat": 38.293207494
+  },
+  {
+    "wikiId": "Q107275138",
+    "name": "Del Dotto Estate Winery & Caves",
+    "cat": "winery",
+    "lon": -122.442521615,
+    "lat": 38.479670423
+  },
+  {
+    "wikiId": "Q107309352",
+    "name": "Jarvis Estate Winery",
+    "cat": "winery",
+    "lon": -122.215756015,
+    "lat": 38.354574751
+  },
+  {
+    "wikiId": "Q107317085",
+    "name": "Joseph Phelps Vineyards",
+    "cat": "winery",
+    "lon": -122.428361407,
+    "lat": 38.507224791
+  },
+  {
+    "wikiId": "Q107593914",
+    "name": "Cantina Pieve Vecchia",
+    "cat": "winery",
+    "lon": 11.273338506,
+    "lat": 42.868046048
+  },
+  {
+    "wikiId": "Q107596200",
+    "name": "Le Mortelle",
+    "cat": "winery",
+    "lon": 10.952527698,
+    "lat": 42.807062321
+  },
+  {
+    "wikiId": "Q107596313",
+    "name": "L'Ammiraglia",
+    "cat": "winery",
+    "lon": 11.281515195,
+    "lat": 42.657246202
+  },
+  {
+    "wikiId": "Q107610871",
+    "name": "Collemassari Winery",
+    "cat": "winery",
+    "lon": 11.328534972,
+    "lat": 42.887833017
+  },
+  {
+    "wikiId": "Q107611163",
+    "name": "Rocca di Frassinello",
+    "cat": "winery",
+    "lon": 10.980080441,
+    "lat": 42.931517215
+  },
+  {
+    "wikiId": "Q108565834",
+    "name": "Banrock Station",
+    "cat": "winery",
+    "lon": 140.33052,
+    "lat": -34.19786
+  },
+  {
+    "wikiId": "Q108600743",
+    "name": "Weingut Becker",
+    "cat": "winery",
+    "lon": 7.019678,
+    "lat": 50.52108
+  },
+  {
+    "wikiId": "Q109292197",
+    "name": "Landmark Vineyards",
+    "cat": "winery",
+    "lon": -122.556345984,
+    "lat": 38.426380494
+  },
+  {
+    "wikiId": "Q109359651",
+    "name": "Q109359651",
+    "cat": "winery",
+    "lon": -6.143670473,
+    "lat": 36.689997567
+  },
+  {
+    "wikiId": "Q109480484",
+    "name": "Champagne Quatresols-Gauthier",
+    "cat": "winery",
+    "lon": 4.07855,
+    "lat": 49.15946
+  },
+  {
+    "wikiId": "Q109753193",
+    "name": "Q109753193",
+    "cat": "winery",
+    "lon": 34.944216666,
+    "lat": 31.861761111
+  },
+  {
+    "wikiId": "Q109801697",
+    "name": "F'autor",
+    "cat": "winery",
+    "lon": 28.375048,
+    "lat": 46.392575
+  },
+  {
+    "wikiId": "Q109830587",
+    "name": "Château des Charmes",
+    "cat": "winery",
+    "lon": -79.1249,
+    "lat": 43.1559
+  },
+  {
+    "wikiId": "Q109831213",
+    "name": "Trius Winery",
+    "cat": "winery",
+    "lon": -79.13284,
+    "lat": 43.21229
+  },
+  {
+    "wikiId": "Q109831394",
+    "name": "Fielding Estates",
+    "cat": "winery",
+    "lon": -79.4933,
+    "lat": 43.15364
+  },
+  {
+    "wikiId": "Q109831857",
+    "name": "Legends Estate Winery",
+    "cat": "winery",
+    "lon": -79.47759,
+    "lat": 43.1947
+  },
+  {
+    "wikiId": "Q109832359",
+    "name": "Hernder Estate Wines",
+    "cat": "winery",
+    "lon": -79.3035,
+    "lat": 43.11874
+  },
+  {
+    "wikiId": "Q109833171",
+    "name": "Flat Rock Cellars",
+    "cat": "winery",
+    "lon": -79.35978,
+    "lat": 43.12637
+  },
+  {
+    "wikiId": "Q109833179",
+    "name": "Angels Gate Winery",
+    "cat": "winery",
+    "lon": -79.50027,
+    "lat": 43.16448
+  },
+  {
+    "wikiId": "Q109833750",
+    "name": "Magnotta Winery",
+    "cat": "winery",
+    "lon": -79.54287,
+    "lat": 43.79769
+  },
+  {
+    "wikiId": "Q109833950",
+    "name": "Strewn Winery",
+    "cat": "winery",
+    "lon": -79.12578,
+    "lat": 43.25241
+  },
+  {
+    "wikiId": "Q109869265",
+    "name": "Peller Estates Winery",
+    "cat": "winery",
+    "lon": -79.06702,
+    "lat": 43.23855
+  },
+  {
+    "wikiId": "Q109870188",
+    "name": "Pillitteri Estates Winery",
+    "cat": "winery",
+    "lon": -79.11392,
+    "lat": 43.22925
+  },
+  {
+    "wikiId": "Q109901895",
+    "name": "Megalomaniac Winery",
+    "cat": "winery",
+    "lon": -79.41952,
+    "lat": 43.15327
+  },
+  {
+    "wikiId": "Q109902145",
+    "name": "Stratus Vineyards",
+    "cat": "winery",
+    "lon": -79.09664,
+    "lat": 43.2408
+  },
+  {
+    "wikiId": "Q109902194",
+    "name": "The Good Earth Food and Wine Company",
+    "cat": "winery",
+    "lon": -79.48795,
+    "lat": 43.17647
+  },
+  {
+    "wikiId": "Q109912914",
+    "name": "LaStella Winery",
+    "cat": "winery",
+    "lon": -119.49766,
+    "lat": 49.05454
+  },
+  {
+    "wikiId": "Q109913012",
+    "name": "Le Vieux Pin",
+    "cat": "winery",
+    "lon": -119.5378,
+    "lat": 49.1591
+  },
+  {
+    "wikiId": "Q109915217",
+    "name": "Tawse Winery",
+    "cat": "winery",
+    "lon": -79.41166,
+    "lat": 43.15147
+  },
+  {
+    "wikiId": "Q109916174",
+    "name": "Creekside Estate Winery",
+    "cat": "winery",
+    "lon": -79.33306,
+    "lat": 43.15242
+  },
+  {
+    "wikiId": "Q109916209",
+    "name": "Ravine Vineyard Estate Winery",
+    "cat": "winery",
+    "lon": -79.10406,
+    "lat": 43.16059
+  },
+  {
+    "wikiId": "Q109916240",
+    "name": "Sunnybrook Farm Estate Winery",
+    "cat": "winery",
+    "lon": -79.1203,
+    "lat": 43.2526
+  },
+  {
+    "wikiId": "Q109923291",
+    "name": "Norman Hardie Winery",
+    "cat": "winery",
+    "lon": -77.4423,
+    "lat": 43.9545
+  },
+  {
+    "wikiId": "Q109923727",
+    "name": "Karlo Estates",
+    "cat": "winery",
+    "lon": -77.37201,
+    "lat": 43.96712
+  },
+  {
+    "wikiId": "Q109924030",
+    "name": "Keint-he Winery & Vineyards",
+    "cat": "winery",
+    "lon": -77.3976,
+    "lat": 43.9386
+  },
+  {
+    "wikiId": "Q109924099",
+    "name": "Grange of Prince Edward Estate Winery",
+    "cat": "winery",
+    "lon": -77.4107,
+    "lat": 43.99195
+  },
+  {
+    "wikiId": "Q109924208",
+    "name": "Closson Chase Winery",
+    "cat": "winery",
+    "lon": -77.394714,
+    "lat": 43.998989
+  },
+  {
+    "wikiId": "Q109924235",
+    "name": "Huff Estates Winery",
+    "cat": "winery",
+    "lon": -77.28881,
+    "lat": 44.01473
+  },
+  {
+    "wikiId": "Q109924351",
+    "name": "Waupoos Estates Winery",
+    "cat": "winery",
+    "lon": -76.9717,
+    "lat": 44.01456
+  },
+  {
+    "wikiId": "Q109924362",
+    "name": "By Chadsey's Cairns Winery",
+    "cat": "winery",
+    "lon": -77.40405,
+    "lat": 43.9381
+  },
+  {
+    "wikiId": "Q109924523",
+    "name": "Sandbanks Winery",
+    "cat": "winery",
+    "lon": -77.41548,
+    "lat": 43.93776
+  },
+  {
+    "wikiId": "Q109924700",
+    "name": "Sugarbush Winery",
+    "cat": "winery",
+    "lon": -77.34788,
+    "lat": 43.99184
+  },
+  {
+    "wikiId": "Q109925950",
+    "name": "L’Acadie Vineyards",
+    "cat": "winery",
+    "lon": -64.33363,
+    "lat": 45.06562
+  },
+  {
+    "wikiId": "Q109931866",
+    "name": "Silk Scarf Winery",
+    "cat": "winery",
+    "lon": -119.6495,
+    "lat": 49.57614
+  },
+  {
+    "wikiId": "Q109932893",
+    "name": "Wellbrook Winery",
+    "cat": "winery",
+    "lon": -122.97912,
+    "lat": 49.08653
+  },
+  {
+    "wikiId": "Q109933186",
+    "name": "Mission Hill Winery",
+    "cat": "winery",
+    "lon": -119.58752,
+    "lat": 49.8355
+  },
+  {
+    "wikiId": "Q109933511",
+    "name": "Quails’ Gate Winery",
+    "cat": "winery",
+    "lon": -119.56585,
+    "lat": 49.8428
+  },
+  {
+    "wikiId": "Q109934276",
+    "name": "NK’MIP Cellars",
+    "cat": "winery",
+    "lon": -119.43348,
+    "lat": 49.03838
+  },
+  {
+    "wikiId": "Q109936441",
+    "name": "Covert Farms Family Estate",
+    "cat": "winery",
+    "lon": -119.5556,
+    "lat": 49.24581
+  },
+  {
+    "wikiId": "Q109939899",
+    "name": "Monte Creek Ranch Winery",
+    "cat": "winery",
+    "lon": -119.9281,
+    "lat": 50.6431
+  },
+  {
+    "wikiId": "Q109948276",
+    "name": "Lulu Island Winery",
+    "cat": "winery",
+    "lon": -123.03641,
+    "lat": 49.16919
+  },
+  {
+    "wikiId": "Q109952667",
+    "name": "Gehringer Brothers Estate Winery",
+    "cat": "winery",
+    "lon": -119.59617,
+    "lat": 49.14666
+  },
+  {
+    "wikiId": "Q109953418",
+    "name": "Chaberton Estate Winery",
+    "cat": "winery",
+    "lon": -122.624,
+    "lat": 49.02185
+  },
+  {
+    "wikiId": "Q109954183",
+    "name": "Dirty Laundry Winery",
+    "cat": "winery",
+    "lon": -119.66431,
+    "lat": 49.56627
+  },
+  {
+    "wikiId": "Q109971798",
+    "name": "Isla de Lerena Vineyards",
+    "cat": "winery",
+    "lon": -124.68973,
+    "lat": 49.54112
+  },
+  {
+    "wikiId": "Q109972870",
+    "name": "Malivoire Wine Company",
+    "cat": "winery",
+    "lon": -79.43844,
+    "lat": 43.15784
+  },
+  {
+    "wikiId": "Q109983489",
+    "name": "Sprucewood Shores Estate Winery",
+    "cat": "winery",
+    "lon": -83.0056,
+    "lat": 42.02198
+  },
+  {
+    "wikiId": "Q109984180",
+    "name": "40 Knots Winery",
+    "cat": "winery",
+    "lon": -124.93171,
+    "lat": 49.73725
+  },
+  {
+    "wikiId": "Q109984263",
+    "name": "Featherstone Estate Winery",
+    "cat": "winery",
+    "lon": -79.39466,
+    "lat": 43.14003
+  },
+  {
+    "wikiId": "Q109997523",
+    "name": "North 42 Degrees Estate Winery",
+    "cat": "winery",
+    "lon": -82.9193,
+    "lat": 41.9861
+  },
+  {
+    "wikiId": "Q110008014",
+    "name": "Painted Rock Estate Winery",
+    "cat": "winery",
+    "lon": -119.57059,
+    "lat": 49.42843
+  },
+  {
+    "wikiId": "Q110014069",
+    "name": "CedarCreek Estate Winery",
+    "cat": "winery",
+    "lon": -119.54098,
+    "lat": 49.78917
+  },
+  {
+    "wikiId": "Q110022364",
+    "name": "Three Dog Winery",
+    "cat": "winery",
+    "lon": -77.11594,
+    "lat": 44.12878
+  },
+  {
+    "wikiId": "Q110111555",
+    "name": "Q110111555",
+    "cat": "winery",
+    "lon": -9.168138888,
+    "lat": 38.681944444
+  },
+  {
+    "wikiId": "Q110190404",
+    "name": "Cherry Point Estate Wines",
+    "cat": "winery",
+    "lon": -123.56469,
+    "lat": 48.71414
+  },
+  {
+    "wikiId": "Q110191593",
+    "name": "Viewpointe Estate Winery",
+    "cat": "winery",
+    "lon": -82.9173,
+    "lat": 41.9823
+  },
+  {
+    "wikiId": "Q110378125",
+    "name": "Winzergenossenschaft Mayschoß-Altenahr e.G.",
+    "cat": "winery",
+    "lon": 7.0206395,
+    "lat": 50.5187235
+  },
+  {
+    "wikiId": "Q110652697",
+    "name": "Weingut Hirn",
+    "cat": "winery",
+    "lon": 10.15719,
+    "lat": 49.88626
+  },
+  {
+    "wikiId": "Q110700725",
+    "name": "Easley Winery",
+    "cat": "winery",
+    "lon": -86.14523474,
+    "lat": 39.769801515
+  },
+  {
+    "wikiId": "Q110942359",
+    "name": "Lagar da Condesa",
+    "cat": "winery",
+    "lon": -8.636545418,
+    "lat": 42.58808652
+  },
+  {
+    "wikiId": "Q110942370",
+    "name": "Morca",
+    "cat": "winery",
+    "lon": -1.566448408,
+    "lat": 41.847037678
+  },
+  {
+    "wikiId": "Q111193867",
+    "name": "Q111193867",
+    "cat": "winery",
+    "lon": 23.288357,
+    "lat": 40.571664
+  },
+  {
+    "wikiId": "Q111605884",
+    "name": "Q111605884",
+    "cat": "winery",
+    "lon": 6.58589,
+    "lat": 49.56713
+  },
+  {
+    "wikiId": "Q111803834",
+    "name": "Talijancich Winery",
+    "cat": "winery",
+    "lon": 116.0204999,
+    "lat": -31.818388299
+  },
+  {
+    "wikiId": "Q111920237",
+    "name": "Q111920237",
+    "cat": "winery",
+    "lon": 9.145444364,
+    "lat": 49.313143104
+  },
+  {
+    "wikiId": "Q111962543",
+    "name": "Weingut Battenfeld Spanier",
+    "cat": "winery",
+    "lon": 8.22042,
+    "lat": 49.61878
+  },
+  {
+    "wikiId": "Q113018399",
+    "name": "Q113018399",
+    "cat": "winery",
+    "lon": -6.213995491,
+    "lat": 36.611425542
+  },
+  {
+    "wikiId": "Q113147344",
+    "name": "Funes roman vineyards",
+    "cat": "winery",
+    "lon": -1.83682929,
+    "lat": 42.253300528
+  },
+  {
+    "wikiId": "Q113481496",
+    "name": "Q113481496",
+    "cat": "winery",
+    "lon": -6.141605196,
+    "lat": 36.685291168
+  },
+  {
+    "wikiId": "Q113519116",
+    "name": "Talisman Wines",
+    "cat": "winery",
+    "lon": 115.9172831,
+    "lat": -33.4537209
+  },
+  {
+    "wikiId": "Q113530788",
+    "name": "Horse & Plow",
+    "cat": "winery",
+    "lon": -122.84429093,
+    "lat": 38.41345448
+  },
+  {
+    "wikiId": "Q113628329",
+    "name": "Bodegas Teneguia",
+    "cat": "winery",
+    "lon": -17.847438551,
+    "lat": 28.492735364
+  },
+  {
+    "wikiId": "Q113649403",
+    "name": "Q113649403",
+    "cat": "winery",
+    "lon": -6.141638888,
+    "lat": 36.682111111
+  }
+]

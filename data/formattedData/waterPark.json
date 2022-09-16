@@ -1,0 +1,2004 @@
+[
+  {
+    "wikiId": "Q6472546",
+    "name": "Lagoon-A-Beach",
+    "cat": "waterPark",
+    "lon": -111.893,
+    "lat": 40.9839
+  },
+  {
+    "wikiId": "Q6475637",
+    "name": "Lake Dolores Waterpark",
+    "cat": "waterPark",
+    "lon": -116.687,
+    "lat": 34.9482
+  },
+  {
+    "wikiId": "Q6520406",
+    "name": "Leith Waterworld",
+    "cat": "waterPark",
+    "lon": -3.17111,
+    "lat": 55.97
+  },
+  {
+    "wikiId": "Q6534599",
+    "name": "Luna Gal",
+    "cat": "waterPark",
+    "lon": 35.65119267,
+    "lat": 32.84768526
+  },
+  {
+    "wikiId": "Q6538591",
+    "name": "Li'an Ocean Harbor Theme Park",
+    "cat": "waterPark",
+    "lon": 110.081,
+    "lat": 18.483
+  },
+  {
+    "wikiId": "Q6599549",
+    "name": "Yamit 2000",
+    "cat": "waterPark",
+    "lon": 34.793666666,
+    "lat": 32.002888888
+  },
+  {
+    "wikiId": "Q6730789",
+    "name": "Magic Mountain Water Park",
+    "cat": "waterPark",
+    "lon": -64.888,
+    "lat": 46.138
+  },
+  {
+    "wikiId": "Q6730888",
+    "name": "Six Flags Hurricane Harbor Rockford",
+    "cat": "waterPark",
+    "lon": -88.964,
+    "lat": 42.246
+  },
+  {
+    "wikiId": "Q6750622",
+    "name": "Manly Waterworks",
+    "cat": "waterPark",
+    "lon": 151.281,
+    "lat": -33.7991
+  },
+  {
+    "wikiId": "Q6798154",
+    "name": "Maywood Beach",
+    "cat": "waterPark",
+    "lon": -89.8463,
+    "lat": 34.9705
+  },
+  {
+    "wikiId": "Q6924917",
+    "name": "Mountain Creek Waterpark",
+    "cat": "waterPark",
+    "lon": -74.507,
+    "lat": 41.189
+  },
+  {
+    "wikiId": "Q6948638",
+    "name": "Myrtle Waves",
+    "cat": "waterPark",
+    "lon": -78.8986,
+    "lat": 33.715
+  },
+  {
+    "wikiId": "Q7139648",
+    "name": "Parque Marítimo César Manrique",
+    "cat": "waterPark",
+    "lon": -16.255,
+    "lat": 28.45416667
+  },
+  {
+    "wikiId": "Q7204281",
+    "name": "Pleasure Island",
+    "cat": "waterPark",
+    "lon": -86.24444444,
+    "lat": 43.13222222
+  },
+  {
+    "wikiId": "Q7232489",
+    "name": "Portsmouth Pyramids Centre",
+    "cat": "waterPark",
+    "lon": -1.08539,
+    "lat": 50.779
+  },
+  {
+    "wikiId": "Q7294263",
+    "name": "Rapids Water Park",
+    "cat": "waterPark",
+    "lon": -80.107,
+    "lat": 26.771
+  },
+  {
+    "wikiId": "Q7297100",
+    "name": "Ray's Splash Planet",
+    "cat": "waterPark",
+    "lon": -80.8513,
+    "lat": 35.2381
+  },
+  {
+    "wikiId": "Q7368231",
+    "name": "Roseland Waterpark",
+    "cat": "waterPark",
+    "lon": -77.25971,
+    "lat": 42.881884
+  },
+  {
+    "wikiId": "Q7400088",
+    "name": "Saigon Water Park",
+    "cat": "waterPark",
+    "lon": 106.74509,
+    "lat": 10.840635
+  },
+  {
+    "wikiId": "Q7416048",
+    "name": "Sandcastle Water Park",
+    "cat": "waterPark",
+    "lon": -3.0574,
+    "lat": 53.7941
+  },
+  {
+    "wikiId": "Q7431723",
+    "name": "Schlitterbahn Kansas City",
+    "cat": "waterPark",
+    "lon": -94.8042,
+    "lat": 39.1208
+  },
+  {
+    "wikiId": "Q7549748",
+    "name": "Soak City",
+    "cat": "waterPark",
+    "lon": -93.4501,
+    "lat": 44.7967
+  },
+  {
+    "wikiId": "Q7572157",
+    "name": "Spa Resort Hawaiians",
+    "cat": "waterPark",
+    "lon": 140.81652,
+    "lat": 36.993634
+  },
+  {
+    "wikiId": "Q7578361",
+    "name": "SplashTown Houston",
+    "cat": "waterPark",
+    "lon": -95.4319,
+    "lat": 30.0702
+  },
+  {
+    "wikiId": "Q7578371",
+    "name": "Splash Amarillo Waterpark",
+    "cat": "waterPark",
+    "lon": -101.77,
+    "lat": 35.194
+  },
+  {
+    "wikiId": "Q7578373",
+    "name": "Splash Down Waterpark",
+    "cat": "waterPark",
+    "lon": -77.4774,
+    "lat": 38.7943
+  },
+  {
+    "wikiId": "Q7578379",
+    "name": "Splash Kingdom Waterpark",
+    "cat": "waterPark",
+    "lon": -117.227,
+    "lat": 34.0693
+  },
+  {
+    "wikiId": "Q7578380",
+    "name": "Splash Lagoon",
+    "cat": "waterPark",
+    "lon": -80.0779,
+    "lat": 42.0482
+  },
+  {
+    "wikiId": "Q7578382",
+    "name": "Splash Moraine",
+    "cat": "waterPark",
+    "lon": -84.245,
+    "lat": 39.6853
+  },
+  {
+    "wikiId": "Q7578384",
+    "name": "Splash Planet",
+    "cat": "waterPark",
+    "lon": 176.863649,
+    "lat": -39.644041
+  },
+  {
+    "wikiId": "Q7578409",
+    "name": "Splashtown San Antonio",
+    "cat": "waterPark",
+    "lon": -98.426,
+    "lat": 29.447
+  },
+  {
+    "wikiId": "Q7578592",
+    "name": "Splish Splash",
+    "cat": "waterPark",
+    "lon": -72.7282,
+    "lat": 40.9207
+  },
+  {
+    "wikiId": "Q7635060",
+    "name": "Sugarworld",
+    "cat": "waterPark",
+    "lon": 145.725,
+    "lat": -17.0212
+  },
+  {
+    "wikiId": "Q7715969",
+    "name": "The Beach at Adventure Landing",
+    "cat": "waterPark",
+    "lon": -84.2621,
+    "lat": 39.3617
+  },
+  {
+    "wikiId": "Q7846196",
+    "name": "Tropicana, Weston-super-Mare",
+    "cat": "waterPark",
+    "lon": -2.9828,
+    "lat": 51.3409
+  },
+  {
+    "wikiId": "Q7958826",
+    "name": "Wacky Waters Adventure Park",
+    "cat": "waterPark",
+    "lon": -90.63,
+    "lat": 41.604
+  },
+  {
+    "wikiId": "Q7973243",
+    "name": "WaterWorks",
+    "cat": "waterPark",
+    "lon": -77.4426,
+    "lat": 37.8362
+  },
+  {
+    "wikiId": "Q7973282",
+    "name": "Water Country USA",
+    "cat": "waterPark",
+    "lon": -76.6356,
+    "lat": 37.2625
+  },
+  {
+    "wikiId": "Q7973425",
+    "name": "Water Wizz",
+    "cat": "waterPark",
+    "lon": -70.6595,
+    "lat": 41.7568
+  },
+  {
+    "wikiId": "Q7973427",
+    "name": "Water World, Colorado",
+    "cat": "waterPark",
+    "lon": -105.010819444,
+    "lat": 39.856980555
+  },
+  {
+    "wikiId": "Q7973428",
+    "name": "Water World, Stoke-on-Trent",
+    "cat": "waterPark",
+    "lon": -2.198,
+    "lat": 53.0274
+  },
+  {
+    "wikiId": "Q7973924",
+    "name": "Watercity",
+    "cat": "waterPark",
+    "lon": 25.25,
+    "lat": 35.311
+  },
+  {
+    "wikiId": "Q7989943",
+    "name": "Wet'n'Wild Las Vegas",
+    "cat": "waterPark",
+    "lon": -115.300122,
+    "lat": 36.059941
+  },
+  {
+    "wikiId": "Q7989945",
+    "name": "Wet'n'Wild Hawaii",
+    "cat": "waterPark",
+    "lon": -158.088,
+    "lat": 21.335
+  },
+  {
+    "wikiId": "Q7989946",
+    "name": "Wet'n'Wild Phoenix",
+    "cat": "waterPark",
+    "lon": -112.15,
+    "lat": 33.6959
+  },
+  {
+    "wikiId": "Q7989947",
+    "name": "Raging Waters Sydney",
+    "cat": "waterPark",
+    "lon": 150.911,
+    "lat": -33.8088
+  },
+  {
+    "wikiId": "Q7989948",
+    "name": "Wet'n'Wild Water World",
+    "cat": "waterPark",
+    "lon": 153.318,
+    "lat": -27.9151
+  },
+  {
+    "wikiId": "Q7989952",
+    "name": "Wet 'n Wild Emerald Pointe",
+    "cat": "waterPark",
+    "lon": -79.8403,
+    "lat": 36.0075
+  },
+  {
+    "wikiId": "Q7990483",
+    "name": "Whale's Tale Water Park",
+    "cat": "waterPark",
+    "lon": -71.6867,
+    "lat": 44.0717
+  },
+  {
+    "wikiId": "Q7994409",
+    "name": "WhiteWater World",
+    "cat": "waterPark",
+    "lon": 153.315,
+    "lat": -27.8644
+  },
+  {
+    "wikiId": "Q7995513",
+    "name": "Six Flags Hurricane Harbor Oklahoma City",
+    "cat": "waterPark",
+    "lon": -97.5885,
+    "lat": 35.4614
+  },
+  {
+    "wikiId": "Q7995514",
+    "name": "White Water Branson",
+    "cat": "waterPark",
+    "lon": -93.2996,
+    "lat": 36.644
+  },
+  {
+    "wikiId": "Q8000693",
+    "name": "Wild Island",
+    "cat": "waterPark",
+    "lon": -119.714,
+    "lat": 39.5308
+  },
+  {
+    "wikiId": "Q8000773",
+    "name": "Wild River Country",
+    "cat": "waterPark",
+    "lon": -92.3426,
+    "lat": 34.8181
+  },
+  {
+    "wikiId": "Q8000777",
+    "name": "Wild Rivers",
+    "cat": "waterPark",
+    "lon": -117.748,
+    "lat": 33.6432
+  },
+  {
+    "wikiId": "Q8000836",
+    "name": "Wild Water Kingdom",
+    "cat": "waterPark",
+    "lon": -79.6399,
+    "lat": 43.7408
+  },
+  {
+    "wikiId": "Q8000840",
+    "name": "Wild Waters",
+    "cat": "waterPark",
+    "lon": -82.0569,
+    "lat": 29.2163
+  },
+  {
+    "wikiId": "Q8000861",
+    "name": "Wild Wild Wet",
+    "cat": "waterPark",
+    "lon": 103.954,
+    "lat": 1.37722
+  },
+  {
+    "wikiId": "Q8001530",
+    "name": "Wildwater Kingdom",
+    "cat": "waterPark",
+    "lon": -81.3692,
+    "lat": 41.3484
+  },
+  {
+    "wikiId": "Q8022369",
+    "name": "Willow Springs Water Park",
+    "cat": "waterPark",
+    "lon": -92.3198,
+    "lat": 34.6284
+  },
+  {
+    "wikiId": "Q8036476",
+    "name": "World Waterpark",
+    "cat": "waterPark",
+    "lon": -113.626,
+    "lat": 53.5219
+  },
+  {
+    "wikiId": "Q8074173",
+    "name": "Zoombezi Bay",
+    "cat": "waterPark",
+    "lon": -83.1199,
+    "lat": 40.1549
+  },
+  {
+    "wikiId": "Q10362744",
+    "name": "Q10362744",
+    "cat": "waterPark",
+    "lon": -43.48753,
+    "lat": -22.98012
+  },
+  {
+    "wikiId": "Q10602213",
+    "name": "Q10602213",
+    "cat": "waterPark",
+    "lon": 21.7,
+    "lat": 65.82388889
+  },
+  {
+    "wikiId": "Q10854568",
+    "name": "Q10854568",
+    "cat": "waterPark",
+    "lon": 13.6472,
+    "lat": 50.4958
+  },
+  {
+    "wikiId": "Q10854571",
+    "name": "Aqualand Moravia",
+    "cat": "waterPark",
+    "lon": 16.5736,
+    "lat": 48.9025
+  },
+  {
+    "wikiId": "Q10854575",
+    "name": "Aquapalace Praha",
+    "cat": "waterPark",
+    "lon": 14.57111073,
+    "lat": 50.00749969
+  },
+  {
+    "wikiId": "Q11438299",
+    "name": "Oiso Long Beach",
+    "cat": "waterPark",
+    "lon": 139.28333333,
+    "lat": 35.30166667
+  },
+  {
+    "wikiId": "Q11811658",
+    "name": "Waterpark Besenova",
+    "cat": "waterPark",
+    "lon": 19.445628,
+    "lat": 49.099864
+  },
+  {
+    "wikiId": "Q11970399",
+    "name": "Fron badeland",
+    "cat": "waterPark",
+    "lon": 9.861583333,
+    "lat": 61.576305555
+  },
+  {
+    "wikiId": "Q12007204",
+    "name": "Q12007204",
+    "cat": "waterPark",
+    "lon": 10.5925,
+    "lat": 60.721666666
+  },
+  {
+    "wikiId": "Q12011948",
+    "name": "Østfoldbadet",
+    "cat": "waterPark",
+    "lon": 11.1681,
+    "lat": 59.5835
+  },
+  {
+    "wikiId": "Q12061113",
+    "name": "LC",
+    "cat": "waterPark",
+    "lon": -3.94056,
+    "lat": 51.6169
+  },
+  {
+    "wikiId": "Q13222390",
+    "name": "Wellness Kuřim",
+    "cat": "waterPark",
+    "lon": 16.5335,
+    "lat": 49.3099
+  },
+  {
+    "wikiId": "Q14681627",
+    "name": "South Bay Shores",
+    "cat": "waterPark",
+    "lon": -121.9708,
+    "lat": 37.3962
+  },
+  {
+    "wikiId": "Q14705411",
+    "name": "Water Country",
+    "cat": "waterPark",
+    "lon": -70.7817,
+    "lat": 43.0361
+  },
+  {
+    "wikiId": "Q14707321",
+    "name": "Six Flags Hurricane Harbor",
+    "cat": "waterPark",
+    "lon": -78.3849,
+    "lat": 42.9285
+  },
+  {
+    "wikiId": "Q14707840",
+    "name": "Zoom Flume",
+    "cat": "waterPark",
+    "lon": -74.1454,
+    "lat": 42.3793
+  },
+  {
+    "wikiId": "Q14709868",
+    "name": "Dollywood's Splash Country",
+    "cat": "waterPark",
+    "lon": -83.5342,
+    "lat": 35.8098
+  },
+  {
+    "wikiId": "Q14875374",
+    "name": "Ontario Place",
+    "cat": "waterPark",
+    "lon": -79.415,
+    "lat": 43.629
+  },
+  {
+    "wikiId": "Q15056728",
+    "name": "Holstentherme",
+    "cat": "waterPark",
+    "lon": 9.94422555,
+    "lat": 53.83839251
+  },
+  {
+    "wikiId": "Q15131898",
+    "name": "Tauris",
+    "cat": "waterPark",
+    "lon": 7.49686111,
+    "lat": 50.39602778
+  },
+  {
+    "wikiId": "Q15229585",
+    "name": "Yerevan Water World",
+    "cat": "waterPark",
+    "lon": 44.5582,
+    "lat": 40.2049
+  },
+  {
+    "wikiId": "Q15635751",
+    "name": "Q15635751",
+    "cat": "waterPark",
+    "lon": 10.4004,
+    "lat": 63.4405
+  },
+  {
+    "wikiId": "Q15713760",
+    "name": "Q15713760",
+    "cat": "waterPark",
+    "lon": 11.6646,
+    "lat": 52.134314
+  },
+  {
+    "wikiId": "Q15962048",
+    "name": "Aquadrom",
+    "cat": "waterPark",
+    "lon": 18.8437,
+    "lat": 50.2417
+  },
+  {
+    "wikiId": "Q200856",
+    "name": "Wild Wadi Water Park",
+    "cat": "waterPark",
+    "lon": 55.189166666,
+    "lat": 25.139444444
+  },
+  {
+    "wikiId": "Q296768",
+    "name": "Öland Zoo and Amusement Park",
+    "cat": "waterPark",
+    "lon": 16.490277777,
+    "lat": 56.670555555
+  },
+  {
+    "wikiId": "Q316777",
+    "name": "Livu Akvaparks",
+    "cat": "waterPark",
+    "lon": 23.8603,
+    "lat": 56.9753
+  },
+  {
+    "wikiId": "Q379175",
+    "name": "Cedar Point Shores",
+    "cat": "waterPark",
+    "lon": -81.6117,
+    "lat": 41.4897
+  },
+  {
+    "wikiId": "Q379952",
+    "name": "Adventure Island",
+    "cat": "waterPark",
+    "lon": -82.4131,
+    "lat": 28.0417
+  },
+  {
+    "wikiId": "Q485469",
+    "name": "Caribbean Bay",
+    "cat": "waterPark",
+    "lon": 127.20055556,
+    "lat": 37.29694444
+  },
+  {
+    "wikiId": "Q511276",
+    "name": "Tropical Islands Resort",
+    "cat": "waterPark",
+    "lon": 13.748611111,
+    "lat": 52.0375
+  },
+  {
+    "wikiId": "Q623008",
+    "name": "Aquafan",
+    "cat": "waterPark",
+    "lon": 12.64472222,
+    "lat": 43.98694444
+  },
+  {
+    "wikiId": "Q623069",
+    "name": "Aquapark Tatralandia",
+    "cat": "waterPark",
+    "lon": 19.570427,
+    "lat": 49.105996
+  },
+  {
+    "wikiId": "Q798526",
+    "name": "Aqualandia",
+    "cat": "waterPark",
+    "lon": -0.0924,
+    "lat": 38.5451
+  },
+  {
+    "wikiId": "Q851581",
+    "name": "Q851581",
+    "cat": "waterPark",
+    "lon": 7.84484,
+    "lat": 52.0361
+  },
+  {
+    "wikiId": "Q884556",
+    "name": "Disney's Blizzard Beach",
+    "cat": "waterPark",
+    "lon": -81.5754,
+    "lat": 28.3518
+  },
+  {
+    "wikiId": "Q1430614",
+    "name": "Geibeltbad Pirna",
+    "cat": "waterPark",
+    "lon": 13.940674,
+    "lat": 50.946018
+  },
+  {
+    "wikiId": "Q1454976",
+    "name": "Q1454976",
+    "cat": "waterPark",
+    "lon": 13.418,
+    "lat": 54.0876
+  },
+  {
+    "wikiId": "Q1454981",
+    "name": "Oase",
+    "cat": "waterPark",
+    "lon": 6.967,
+    "lat": 51.4547
+  },
+  {
+    "wikiId": "Q1524223",
+    "name": "Gildehofcenter",
+    "cat": "waterPark",
+    "lon": 7.0164,
+    "lat": 51.4532
+  },
+  {
+    "wikiId": "Q1562662",
+    "name": "H2O",
+    "cat": "waterPark",
+    "lon": 8.68604,
+    "lat": 52.1062
+  },
+  {
+    "wikiId": "Q1575819",
+    "name": "Therme Erding",
+    "cat": "waterPark",
+    "lon": 11.88671944,
+    "lat": 48.29029444
+  },
+  {
+    "wikiId": "Q1800377",
+    "name": "Q1800377",
+    "cat": "waterPark",
+    "lon": 7.261201,
+    "lat": 51.534818
+  },
+  {
+    "wikiId": "Q1843206",
+    "name": "Siam Park",
+    "cat": "waterPark",
+    "lon": -16.726573,
+    "lat": 28.071764
+  },
+  {
+    "wikiId": "Q1907354",
+    "name": "PortAventura Caribe Aquatic Park",
+    "cat": "waterPark",
+    "lon": 1.1536,
+    "lat": 41.088
+  },
+  {
+    "wikiId": "Q1916961",
+    "name": "Q1916961",
+    "cat": "waterPark",
+    "lon": 2.747539,
+    "lat": 39.513974
+  },
+  {
+    "wikiId": "Q1930121",
+    "name": "Michaelibad",
+    "cat": "waterPark",
+    "lon": 11.6364,
+    "lat": 48.1167
+  },
+  {
+    "wikiId": "Q2004257",
+    "name": "Océade",
+    "cat": "waterPark",
+    "lon": 4.33694,
+    "lat": 50.89444
+  },
+  {
+    "wikiId": "Q2134209",
+    "name": "Waterland WaterPark",
+    "cat": "waterPark",
+    "lon": 23.017,
+    "lat": 40.511
+  },
+  {
+    "wikiId": "Q2170137",
+    "name": "Aqualibi",
+    "cat": "waterPark",
+    "lon": 4.59055556,
+    "lat": 50.69861111
+  },
+  {
+    "wikiId": "Q2828886",
+    "name": "AkOatys",
+    "cat": "waterPark",
+    "lon": 55.334239,
+    "lat": -21.263101
+  },
+  {
+    "wikiId": "Q2859130",
+    "name": "Aquaboulevard",
+    "cat": "waterPark",
+    "lon": 2.27611111,
+    "lat": 48.83111111
+  },
+  {
+    "wikiId": "Q2859147",
+    "name": "Aqualeón",
+    "cat": "waterPark",
+    "lon": 1.4966619,
+    "lat": 41.2460631
+  },
+  {
+    "wikiId": "Q2859151",
+    "name": "Aqualud",
+    "cat": "waterPark",
+    "lon": 1.580701,
+    "lat": 50.52533
+  },
+  {
+    "wikiId": "Q2859157",
+    "name": "Aquaparc",
+    "cat": "waterPark",
+    "lon": 6.86190556,
+    "lat": 46.38939167
+  },
+  {
+    "wikiId": "Q2915574",
+    "name": "Disney's Typhoon Lagoon",
+    "cat": "waterPark",
+    "lon": -81.5278,
+    "lat": 28.365
+  },
+  {
+    "wikiId": "Q2915959",
+    "name": "Disney's River Country",
+    "cat": "waterPark",
+    "lon": -81.5647,
+    "lat": 28.4113
+  },
+  {
+    "wikiId": "Q2934577",
+    "name": "Calypso Park",
+    "cat": "waterPark",
+    "lon": -75.2167,
+    "lat": 45.3167
+  },
+  {
+    "wikiId": "Q3198045",
+    "name": "Knott's Soak City",
+    "cat": "waterPark",
+    "lon": -117.994888,
+    "lat": 33.840881
+  },
+  {
+    "wikiId": "Q3229105",
+    "name": "Legoland Malaysia",
+    "cat": "waterPark",
+    "lon": 103.62722222,
+    "lat": 1.425
+  },
+  {
+    "wikiId": "Q3248109",
+    "name": "Wet 'n Wild Orlando",
+    "cat": "waterPark",
+    "lon": -81.4648,
+    "lat": 28.4609
+  },
+  {
+    "wikiId": "Q3327295",
+    "name": "Mt. Olympus Water & Theme Park",
+    "cat": "waterPark",
+    "lon": -89.7894,
+    "lat": 43.6151
+  },
+  {
+    "wikiId": "Q3342498",
+    "name": "Noah's Ark Water Park",
+    "cat": "waterPark",
+    "lon": -89.7863,
+    "lat": 43.6036
+  },
+  {
+    "wikiId": "Q3347879",
+    "name": "Oasiria",
+    "cat": "waterPark",
+    "lon": -8.015181,
+    "lat": 31.58093
+  },
+  {
+    "wikiId": "Q3348697",
+    "name": "Oceans of Fun",
+    "cat": "waterPark",
+    "lon": -94.4824,
+    "lat": 39.1706
+  },
+  {
+    "wikiId": "Q3417493",
+    "name": "Raging Waters Sacramento",
+    "cat": "waterPark",
+    "lon": -121.436,
+    "lat": 38.5908
+  },
+  {
+    "wikiId": "Q3471816",
+    "name": "Sandcastle Waterpark",
+    "cat": "waterPark",
+    "lon": -79.928,
+    "lat": 40.398
+  },
+  {
+    "wikiId": "Q3485583",
+    "name": "Six Flags Atlantis",
+    "cat": "waterPark",
+    "lon": -80.15916667,
+    "lat": 26.0475
+  },
+  {
+    "wikiId": "Q3485590",
+    "name": "Six Flags White Water",
+    "cat": "waterPark",
+    "lon": -84.521388888,
+    "lat": 33.958055555
+  },
+  {
+    "wikiId": "Q3487273",
+    "name": "Froster Soak City",
+    "cat": "waterPark",
+    "lon": -79.4125,
+    "lat": 43.628333333
+  },
+  {
+    "wikiId": "Q3493654",
+    "name": "Splash Works",
+    "cat": "waterPark",
+    "lon": -79.5442,
+    "lat": 43.8397
+  },
+  {
+    "wikiId": "Q3568129",
+    "name": "WildWater Adventure",
+    "cat": "waterPark",
+    "lon": -86.2789,
+    "lat": 43.3474
+  },
+  {
+    "wikiId": "Q3576051",
+    "name": "Zoomarine",
+    "cat": "waterPark",
+    "lon": 12.4574,
+    "lat": 41.6344
+  },
+  {
+    "wikiId": "Q3576402",
+    "name": "Zygofolis",
+    "cat": "waterPark",
+    "lon": 7.20778,
+    "lat": 43.71222
+  },
+  {
+    "wikiId": "Q3604695",
+    "name": "Acquaworld",
+    "cat": "waterPark",
+    "lon": 9.32884,
+    "lat": 45.5834
+  },
+  {
+    "wikiId": "Q3621087",
+    "name": "Q3621087",
+    "cat": "waterPark",
+    "lon": 11.82763,
+    "lat": 42.11475
+  },
+  {
+    "wikiId": "Q3621089",
+    "name": "Caribe Bay",
+    "cat": "waterPark",
+    "lon": 12.60109722,
+    "lat": 45.49405556
+  },
+  {
+    "wikiId": "Q3858692",
+    "name": "Q3858692",
+    "cat": "waterPark",
+    "lon": 12.2635,
+    "lat": 44.338
+  },
+  {
+    "wikiId": "Q4300458",
+    "name": "Aquadrome",
+    "cat": "waterPark",
+    "lon": 6.89639,
+    "lat": 52.20671
+  },
+  {
+    "wikiId": "Q4352488",
+    "name": "Action Park",
+    "cat": "waterPark",
+    "lon": -74.5075,
+    "lat": 41.1906
+  },
+  {
+    "wikiId": "Q4394388",
+    "name": "Riviera (hotel, Kazan)",
+    "cat": "waterPark",
+    "lon": 49.129829,
+    "lat": 55.815474
+  },
+  {
+    "wikiId": "Q4686532",
+    "name": "Adventure River",
+    "cat": "waterPark",
+    "lon": -89.83222222,
+    "lat": 35.18
+  },
+  {
+    "wikiId": "Q4736909",
+    "name": "Alton Towers Waterpark",
+    "cat": "waterPark",
+    "lon": -1.8761,
+    "lat": 52.9851
+  },
+  {
+    "wikiId": "Q4782359",
+    "name": "Simhallsbadet, Malmö",
+    "cat": "waterPark",
+    "lon": 12.99277778,
+    "lat": 55.59944444
+  },
+  {
+    "wikiId": "Q4782594",
+    "name": "Aqua Park Macedonia",
+    "cat": "waterPark",
+    "lon": 22.175981284,
+    "lat": 42.005446634
+  },
+  {
+    "wikiId": "Q4782846",
+    "name": "Aquazone",
+    "cat": "waterPark",
+    "lon": -6.3701,
+    "lat": 53.3971
+  },
+  {
+    "wikiId": "Q4791653",
+    "name": "Arkadelphia Aquatic Park",
+    "cat": "waterPark",
+    "lon": -93.0793,
+    "lat": 34.1264
+  },
+  {
+    "wikiId": "Q4816741",
+    "name": "Atlantis Waterslides",
+    "cat": "waterPark",
+    "lon": -119.241,
+    "lat": 50.3343
+  },
+  {
+    "wikiId": "Q4875740",
+    "name": "Beach Park",
+    "cat": "waterPark",
+    "lon": -38.39055556,
+    "lat": -3.84444444
+  },
+  {
+    "wikiId": "Q4905920",
+    "name": "Big Kahuna's",
+    "cat": "waterPark",
+    "lon": -86.47164,
+    "lat": 30.388961
+  },
+  {
+    "wikiId": "Q4906404",
+    "name": "Big Splash",
+    "cat": "waterPark",
+    "lon": 149.07,
+    "lat": -35.251
+  },
+  {
+    "wikiId": "Q4906491",
+    "name": "Big Surf",
+    "cat": "waterPark",
+    "lon": -111.913,
+    "lat": 33.4457
+  },
+  {
+    "wikiId": "Q4922019",
+    "name": "Black Thunder",
+    "cat": "waterPark",
+    "lon": 76.91166667,
+    "lat": 11.32805556
+  },
+  {
+    "wikiId": "Q4929172",
+    "name": "Blue Harbor Resort",
+    "cat": "waterPark",
+    "lon": -87.7064,
+    "lat": 43.746
+  },
+  {
+    "wikiId": "Q4929317",
+    "name": "Blue Lagoon Water Park",
+    "cat": "waterPark",
+    "lon": -4.808,
+    "lat": 51.78
+  },
+  {
+    "wikiId": "Q4997742",
+    "name": "Bunker Beach",
+    "cat": "waterPark",
+    "lon": -93.2836,
+    "lat": 45.2103
+  },
+  {
+    "wikiId": "Q5005209",
+    "name": "Bø Sommarland",
+    "cat": "waterPark",
+    "lon": 9.072905555,
+    "lat": 59.447955555
+  },
+  {
+    "wikiId": "Q5025883",
+    "name": "Camelbeach Waterpark",
+    "cat": "waterPark",
+    "lon": -75.356,
+    "lat": 41.05
+  },
+  {
+    "wikiId": "Q5038433",
+    "name": "Cardiff International Pool",
+    "cat": "waterPark",
+    "lon": -3.181078,
+    "lat": 51.449755
+  },
+  {
+    "wikiId": "Q5121320",
+    "name": "Ciputra Waterpark",
+    "cat": "waterPark",
+    "lon": 112.6325,
+    "lat": -7.28444444
+  },
+  {
+    "wikiId": "Q5136282",
+    "name": "Club Lake Ahoy",
+    "cat": "waterPark",
+    "lon": -76.4004,
+    "lat": 36.8039
+  },
+  {
+    "wikiId": "Q5200317",
+    "name": "Cypress Cove Family Aquatic Park",
+    "cat": "waterPark",
+    "lon": -88.0378,
+    "lat": 41.7347
+  },
+  {
+    "wikiId": "Q5226563",
+    "name": "Dash n Splash",
+    "cat": "waterPark",
+    "lon": 80.010831,
+    "lat": 13.027691
+  },
+  {
+    "wikiId": "Q5243615",
+    "name": "Daytona Lagoon",
+    "cat": "waterPark",
+    "lon": -81.0116,
+    "lat": 29.2302
+  },
+  {
+    "wikiId": "Q5296020",
+    "name": "Dongshan River Water Park",
+    "cat": "waterPark",
+    "lon": 121.812,
+    "lat": 24.6723
+  },
+  {
+    "wikiId": "Q5309563",
+    "name": "Dry Town Water Park",
+    "cat": "waterPark",
+    "lon": -118.05985,
+    "lat": 34.55742
+  },
+  {
+    "wikiId": "Q5368597",
+    "name": "Tokyo Summerland",
+    "cat": "waterPark",
+    "lon": 139.277389,
+    "lat": 35.717417
+  },
+  {
+    "wikiId": "Q5417255",
+    "name": "Evergreen Wings and Waves Waterpark",
+    "cat": "waterPark",
+    "lon": -123.15,
+    "lat": 45.204
+  },
+  {
+    "wikiId": "Q5432558",
+    "name": "Fallsville Splash Park",
+    "cat": "waterPark",
+    "lon": -79.0539,
+    "lat": 43.0855
+  },
+  {
+    "wikiId": "Q5436838",
+    "name": "Fasouri Watermania",
+    "cat": "waterPark",
+    "lon": 32.975104,
+    "lat": 34.652406
+  },
+  {
+    "wikiId": "Q5475266",
+    "name": "Flamingo Spa",
+    "cat": "waterPark",
+    "lon": 24.96972222,
+    "lat": 60.29055556
+  },
+  {
+    "wikiId": "Q5580654",
+    "name": "Golfland Sunsplash",
+    "cat": "waterPark",
+    "lon": -111.838,
+    "lat": 33.388
+  },
+  {
+    "wikiId": "Q5628830",
+    "name": "H2Oasis Indoor Waterpark",
+    "cat": "waterPark",
+    "lon": -149.854,
+    "lat": 61.1212
+  },
+  {
+    "wikiId": "Q5685289",
+    "name": "Illa Fantasia",
+    "cat": "waterPark",
+    "lon": 2.36353056,
+    "lat": 41.50383611
+  },
+  {
+    "wikiId": "Q5701906",
+    "name": "Aquapark of Cerceda",
+    "cat": "waterPark",
+    "lon": -8.47,
+    "lat": 42.176888888
+  },
+  {
+    "wikiId": "Q5725135",
+    "name": "Azadegan Water Park",
+    "cat": "waterPark",
+    "lon": 51.47277778,
+    "lat": 35.63138889
+  },
+  {
+    "wikiId": "Q5768795",
+    "name": "Cici Aquapark",
+    "cat": "waterPark",
+    "lon": -74.08916667,
+    "lat": 4.67055556
+  },
+  {
+    "wikiId": "Q6391301",
+    "name": "Kenosee Superslides",
+    "cat": "waterPark",
+    "lon": -102.276,
+    "lat": 49.832
+  },
+  {
+    "wikiId": "Q6392388",
+    "name": "Kentucky Splash Waterpark",
+    "cat": "waterPark",
+    "lon": -84.1751,
+    "lat": 36.7277
+  },
+  {
+    "wikiId": "Q96743058",
+    "name": "La Stella Water Theme Park",
+    "cat": "waterPark",
+    "lon": 103.720805555,
+    "lat": 1.566138888
+  },
+  {
+    "wikiId": "Q96743085",
+    "name": "Mount Lambak Water Park",
+    "cat": "waterPark",
+    "lon": 103.344638888,
+    "lat": 2.025222222
+  },
+  {
+    "wikiId": "Q97012316",
+    "name": "Plopsaqua Hannut-Landen",
+    "cat": "waterPark",
+    "lon": 5.080698,
+    "lat": 50.706839
+  },
+  {
+    "wikiId": "Q97940916",
+    "name": "Q97940916",
+    "cat": "waterPark",
+    "lon": 14.0681314,
+    "lat": 50.22686
+  },
+  {
+    "wikiId": "Q97940931",
+    "name": "Q97940931",
+    "cat": "waterPark",
+    "lon": 14.0876075,
+    "lat": 50.1359139
+  },
+  {
+    "wikiId": "Q98549304",
+    "name": "Salzlandcenter",
+    "cat": "waterPark",
+    "lon": 11.57854,
+    "lat": 51.85046
+  },
+  {
+    "wikiId": "Q98635302",
+    "name": "Q98635302",
+    "cat": "waterPark",
+    "lon": 7.1437618,
+    "lat": 62.733844
+  },
+  {
+    "wikiId": "Q98967456",
+    "name": "Q98967456",
+    "cat": "waterPark",
+    "lon": 14.0026608,
+    "lat": 49.6799889
+  },
+  {
+    "wikiId": "Q99516935",
+    "name": "Taman Sekuta",
+    "cat": "waterPark",
+    "lon": 115.60915,
+    "lat": -8.44371
+  },
+  {
+    "wikiId": "Q104217368",
+    "name": "Dinosaur Alive Water Theme Park",
+    "cat": "waterPark",
+    "lon": 103.762305555,
+    "lat": 1.48525
+  },
+  {
+    "wikiId": "Q104836063",
+    "name": "Centro Acuático Porvenir",
+    "cat": "waterPark",
+    "lon": -65.355,
+    "lat": -16.8225
+  },
+  {
+    "wikiId": "Q105031521",
+    "name": "The Fox's Den",
+    "cat": "waterPark",
+    "lon": -123.130297614,
+    "lat": 49.303129238
+  },
+  {
+    "wikiId": "Q105384020",
+    "name": "Diamond Hill Water Park",
+    "cat": "waterPark",
+    "lon": 103.364388888,
+    "lat": 2.041611111
+  },
+  {
+    "wikiId": "Q106598970",
+    "name": "Kalev Spa Water Park",
+    "cat": "waterPark",
+    "lon": 24.751111111,
+    "lat": 59.44
+  },
+  {
+    "wikiId": "Q107337393",
+    "name": "Aquacentrum Pardubice",
+    "cat": "waterPark",
+    "lon": 15.7824964,
+    "lat": 50.0337867
+  },
+  {
+    "wikiId": "Q107363610",
+    "name": "Aquapark Uherské Hradiště",
+    "cat": "waterPark",
+    "lon": 17.4731917,
+    "lat": 49.0668989
+  },
+  {
+    "wikiId": "Q107455744",
+    "name": "Q107455744",
+    "cat": "waterPark",
+    "lon": 125.762676,
+    "lat": 39.035127914
+  },
+  {
+    "wikiId": "Q108910345",
+    "name": "Funtopia hills",
+    "cat": "waterPark",
+    "lon": 3.760912968,
+    "lat": 6.476497453
+  },
+  {
+    "wikiId": "Q110368323",
+    "name": "Plopsaqua Mechelen",
+    "cat": "waterPark",
+    "lon": 4.468471,
+    "lat": 51.001663
+  },
+  {
+    "wikiId": "Q110503024",
+    "name": "Aquapark Sopot",
+    "cat": "waterPark",
+    "lon": 18.5576981,
+    "lat": 54.45998
+  },
+  {
+    "wikiId": "Q110620365",
+    "name": "Elbamare",
+    "cat": "waterPark",
+    "lon": 13.66967,
+    "lat": 51.04369
+  },
+  {
+    "wikiId": "Q110739217",
+    "name": "Aquapark H2Ostróg",
+    "cat": "waterPark",
+    "lon": 18.2199325,
+    "lat": 50.0980533
+  },
+  {
+    "wikiId": "Q110910230",
+    "name": "Aquacentrum Bohumín",
+    "cat": "waterPark",
+    "lon": 18.3664722,
+    "lat": 49.9089469
+  },
+  {
+    "wikiId": "Q111008659",
+    "name": "Q111008659",
+    "cat": "waterPark",
+    "lon": 34.82057,
+    "lat": 32.21437
+  },
+  {
+    "wikiId": "Q111907255",
+    "name": "Q111907255",
+    "cat": "waterPark",
+    "lon": 16.5412369,
+    "lat": 49.1931992
+  },
+  {
+    "wikiId": "Q113009357",
+    "name": "Knights Action Park",
+    "cat": "waterPark",
+    "lon": -89.683937,
+    "lat": 39.74039
+  },
+  {
+    "wikiId": "Q113127396",
+    "name": "Alpamare Scarborough",
+    "cat": "waterPark",
+    "lon": -0.413,
+    "lat": 54.296
+  },
+  {
+    "wikiId": "Q113483135",
+    "name": "Q113483135",
+    "cat": "waterPark",
+    "lon": 12.7268,
+    "lat": 50.856033333
+  },
+  {
+    "wikiId": "Q113556370",
+    "name": "Aquapark Tarnowskie Góry",
+    "cat": "waterPark",
+    "lon": 18.837416666,
+    "lat": 50.438583333
+  },
+  {
+    "wikiId": "Q15987312",
+    "name": "Q15987312",
+    "cat": "waterPark",
+    "lon": 21.265154,
+    "lat": 48.95946
+  },
+  {
+    "wikiId": "Q16242261",
+    "name": "Taipei Water Park",
+    "cat": "waterPark",
+    "lon": 121.533,
+    "lat": 25.0125
+  },
+  {
+    "wikiId": "Q16484874",
+    "name": "Aquapark Wrocław",
+    "cat": "waterPark",
+    "lon": 17.0325,
+    "lat": 51.090833
+  },
+  {
+    "wikiId": "Q16527947",
+    "name": "Aquapark di Zambrone",
+    "cat": "waterPark",
+    "lon": 15.9711,
+    "lat": 38.7108
+  },
+  {
+    "wikiId": "Q16647100",
+    "name": "Dushanbe aquapark",
+    "cat": "waterPark",
+    "lon": 68.733788,
+    "lat": 38.576809
+  },
+  {
+    "wikiId": "Q16902673",
+    "name": "Vichy Water Park",
+    "cat": "waterPark",
+    "lon": 25.2767,
+    "lat": 54.7161
+  },
+  {
+    "wikiId": "Q16903186",
+    "name": "Wet'n'Wild Palm Springs",
+    "cat": "waterPark",
+    "lon": -116.491,
+    "lat": 33.8042
+  },
+  {
+    "wikiId": "Q17021937",
+    "name": "Splashdown Quaywest",
+    "cat": "waterPark",
+    "lon": -3.5609,
+    "lat": 50.4245
+  },
+  {
+    "wikiId": "Q17021954",
+    "name": "Splashdown Waterpark",
+    "cat": "waterPark",
+    "lon": -1.95158,
+    "lat": 50.74622
+  },
+  {
+    "wikiId": "Q17036307",
+    "name": "Wet N' Wild Waterworld",
+    "cat": "waterPark",
+    "lon": -106.585,
+    "lat": 31.99
+  },
+  {
+    "wikiId": "Q17040343",
+    "name": "NRH2O",
+    "cat": "waterPark",
+    "lon": -97.193749,
+    "lat": 32.850577
+  },
+  {
+    "wikiId": "Q17198628",
+    "name": "Munsu Water Park",
+    "cat": "waterPark",
+    "lon": 125.7811832,
+    "lat": 39.0396197
+  },
+  {
+    "wikiId": "Q17476647",
+    "name": "Aaseebad Ibbenbüren",
+    "cat": "waterPark",
+    "lon": 7.73155,
+    "lat": 52.26329
+  },
+  {
+    "wikiId": "Q17636865",
+    "name": "Plopsaqua De Panne",
+    "cat": "waterPark",
+    "lon": 2.60137,
+    "lat": 51.0822
+  },
+  {
+    "wikiId": "Q18015628",
+    "name": "Q18015628",
+    "cat": "waterPark",
+    "lon": 27.452229,
+    "lat": 53.952895
+  },
+  {
+    "wikiId": "Q18165028",
+    "name": "Istralandia",
+    "cat": "waterPark",
+    "lon": 13.6171,
+    "lat": 45.3467
+  },
+  {
+    "wikiId": "Q18354746",
+    "name": "Fantasy Park",
+    "cat": "waterPark",
+    "lon": 76.669967,
+    "lat": 10.8242895
+  },
+  {
+    "wikiId": "Q18393943",
+    "name": "The Wave",
+    "cat": "waterPark",
+    "lon": -2.60555556,
+    "lat": 51.54222222
+  },
+  {
+    "wikiId": "Q18662785",
+    "name": "Serena Waterpark",
+    "cat": "waterPark",
+    "lon": 24.740556,
+    "lat": 60.325833
+  },
+  {
+    "wikiId": "Q18745074",
+    "name": "Aquanor",
+    "cat": "waterPark",
+    "lon": 55.4725,
+    "lat": -20.8889
+  },
+  {
+    "wikiId": "Q19607262",
+    "name": "Chimelong Waterpark",
+    "cat": "waterPark",
+    "lon": 113.32,
+    "lat": 23
+  },
+  {
+    "wikiId": "Q19898521",
+    "name": "Suraj Water Park",
+    "cat": "waterPark",
+    "lon": 72.9705,
+    "lat": 19.2553
+  },
+  {
+    "wikiId": "Q20878249",
+    "name": "Adventure Parc Snowdonia",
+    "cat": "waterPark",
+    "lon": -3.841,
+    "lat": 53.19
+  },
+  {
+    "wikiId": "Q20949642",
+    "name": "Mersin Aquapark",
+    "cat": "waterPark",
+    "lon": 34.6274,
+    "lat": 36.7884
+  },
+  {
+    "wikiId": "Q20977313",
+    "name": "Q20977313",
+    "cat": "waterPark",
+    "lon": 19.098,
+    "lat": 48.606
+  },
+  {
+    "wikiId": "Q20979434",
+    "name": "Volcano Bay",
+    "cat": "waterPark",
+    "lon": -81.473144,
+    "lat": 28.461381
+  },
+  {
+    "wikiId": "Q21634292",
+    "name": "Lost World of Tambun",
+    "cat": "waterPark",
+    "lon": 101.15516667,
+    "lat": 4.62580556
+  },
+  {
+    "wikiId": "Q23016916",
+    "name": "Deep River Water Park",
+    "cat": "waterPark",
+    "lon": -87.230125,
+    "lat": 41.47074
+  },
+  {
+    "wikiId": "Q23754151",
+    "name": "Badeland",
+    "cat": "waterPark",
+    "lon": 10.2731,
+    "lat": 56.80633
+  },
+  {
+    "wikiId": "Q24887679",
+    "name": "Western Water Park",
+    "cat": "waterPark",
+    "lon": 2.51678,
+    "lat": 39.50702
+  },
+  {
+    "wikiId": "Q25212072",
+    "name": "Worlds of Wonder",
+    "cat": "waterPark",
+    "lon": 77.3255,
+    "lat": 28.5633
+  },
+  {
+    "wikiId": "Q25223525",
+    "name": "Aquarama",
+    "cat": "waterPark",
+    "lon": 0.05139,
+    "lat": 40.04799
+  },
+  {
+    "wikiId": "Q25223535",
+    "name": "Hidropark",
+    "cat": "waterPark",
+    "lon": 3.1149,
+    "lat": 39.84147
+  },
+  {
+    "wikiId": "Q25894317",
+    "name": "Ramayana Water Park",
+    "cat": "waterPark",
+    "lon": 100.96027778,
+    "lat": 12.75027778
+  },
+  {
+    "wikiId": "Q26769281",
+    "name": "Memadion",
+    "cat": "waterPark",
+    "lon": 34.82005119,
+    "lat": 32.10201678
+  },
+  {
+    "wikiId": "Q28679515",
+    "name": "Thermas dos Laranjais",
+    "cat": "waterPark",
+    "lon": -48.9163673,
+    "lat": -20.7211842
+  },
+  {
+    "wikiId": "Q28859945",
+    "name": "Maya Mare",
+    "cat": "waterPark",
+    "lon": 11.96583333,
+    "lat": 51.42888889
+  },
+  {
+    "wikiId": "Q29469142",
+    "name": "Six Flags Zhejiang",
+    "cat": "waterPark",
+    "lon": 120.985277777,
+    "lat": 30.547777777
+  },
+  {
+    "wikiId": "Q30623293",
+    "name": "Appu Ghar",
+    "cat": "waterPark",
+    "lon": 77.07206,
+    "lat": 28.460256
+  },
+  {
+    "wikiId": "Q30632970",
+    "name": "Aqua Paradise Water Park",
+    "cat": "waterPark",
+    "lon": 27.6821351,
+    "lat": 42.6562608
+  },
+  {
+    "wikiId": "Q30633151",
+    "name": "Annagora Aquapark",
+    "cat": "waterPark",
+    "lon": 17.8700477,
+    "lat": 46.9482006
+  },
+  {
+    "wikiId": "Q31034213",
+    "name": "Aquacolors",
+    "cat": "waterPark",
+    "lon": 13.6052,
+    "lat": 45.1983
+  },
+  {
+    "wikiId": "Q31817183",
+    "name": "Q31817183",
+    "cat": "waterPark",
+    "lon": 12.35732,
+    "lat": 50.117231
+  },
+  {
+    "wikiId": "Q47527952",
+    "name": "Parque Aquático de Amarante",
+    "cat": "waterPark",
+    "lon": -8.10788889,
+    "lat": 41.24994444
+  },
+  {
+    "wikiId": "Q49100895",
+    "name": "Q49100895",
+    "cat": "waterPark",
+    "lon": 16.56702778,
+    "lat": 59.607
+  },
+  {
+    "wikiId": "Q49498541",
+    "name": "Hartke Pool",
+    "cat": "waterPark",
+    "lon": -115.124444444,
+    "lat": 36.190833333
+  },
+  {
+    "wikiId": "Q51162550",
+    "name": "Rulantica",
+    "cat": "waterPark",
+    "lon": 7.74,
+    "lat": 48.2605
+  },
+  {
+    "wikiId": "Q55116138",
+    "name": "Bellewaerde Aquapark",
+    "cat": "waterPark",
+    "lon": 2.948028,
+    "lat": 50.846695
+  },
+  {
+    "wikiId": "Q55116796",
+    "name": "Q55116796",
+    "cat": "waterPark",
+    "lon": 5.889444444,
+    "lat": 50.81
+  },
+  {
+    "wikiId": "Q55429944",
+    "name": "Lanta Haven Waterpark",
+    "cat": "waterPark",
+    "lon": 99.082577,
+    "lat": 7.542199
+  },
+  {
+    "wikiId": "Q55594753",
+    "name": "Q55594753",
+    "cat": "waterPark",
+    "lon": 12.504194444,
+    "lat": 50.373833333
+  },
+  {
+    "wikiId": "Q55739036",
+    "name": "Rattana Resort & Waterpark",
+    "cat": "waterPark",
+    "lon": 99.0457237,
+    "lat": 7.6710819
+  },
+  {
+    "wikiId": "Q56033897",
+    "name": "O'Gliss Park",
+    "cat": "waterPark",
+    "lon": -1.420657,
+    "lat": 46.455522
+  },
+  {
+    "wikiId": "Q56071912",
+    "name": "Aquaventure",
+    "cat": "waterPark",
+    "lon": 55.122,
+    "lat": 25.135
+  },
+  {
+    "wikiId": "Q56150630",
+    "name": "Q56150630",
+    "cat": "waterPark",
+    "lon": 6.60974,
+    "lat": 51.86194
+  },
+  {
+    "wikiId": "Q56300348",
+    "name": "Hainan Ocean Paradise",
+    "cat": "waterPark",
+    "lon": 110.043805555,
+    "lat": 18.445722222
+  },
+  {
+    "wikiId": "Q56353067",
+    "name": "Q56353067",
+    "cat": "waterPark",
+    "lon": 10.247902777,
+    "lat": 51.7243
+  },
+  {
+    "wikiId": "Q56478270",
+    "name": "AquaMagis",
+    "cat": "waterPark",
+    "lon": 7.850079,
+    "lat": 51.232104
+  },
+  {
+    "wikiId": "Q56771273",
+    "name": "Miramar",
+    "cat": "waterPark",
+    "lon": 8.643,
+    "lat": 49.533
+  },
+  {
+    "wikiId": "Q63968137",
+    "name": "Q63968137",
+    "cat": "waterPark",
+    "lon": 6.862497243,
+    "lat": 51.836424305
+  },
+  {
+    "wikiId": "Q66692921",
+    "name": "Piscinas Naturales de Bajamar",
+    "cat": "waterPark",
+    "lon": -16.3445,
+    "lat": 28.5564
+  },
+  {
+    "wikiId": "Q73137679",
+    "name": "Arriba",
+    "cat": "waterPark",
+    "lon": 10.001305555,
+    "lat": 53.689472222
+  },
+  {
+    "wikiId": "Q83551468",
+    "name": "Aquapiper",
+    "cat": "waterPark",
+    "lon": 12.74392,
+    "lat": 41.99528
+  },
+  {
+    "wikiId": "Q87780199",
+    "name": "Lodisplash",
+    "cat": "waterPark",
+    "lon": 9.474619,
+    "lat": 45.280562
+  },
+  {
+    "wikiId": "Q87920894",
+    "name": "GalaxSea",
+    "cat": "waterPark",
+    "lon": 11.58228,
+    "lat": 50.898
+  },
+  {
+    "wikiId": "Q88892305",
+    "name": "Bulabana",
+    "cat": "waterPark",
+    "lon": 11.78064,
+    "lat": 51.13958
+  },
+  {
+    "wikiId": "Q94645242",
+    "name": "Q94645242",
+    "cat": "waterPark",
+    "lon": 27.606027,
+    "lat": 53.918554
+  },
+  {
+    "wikiId": "Q94691500",
+    "name": "TS Wonderland Waterpark",
+    "cat": "waterPark",
+    "lon": 103.924916666,
+    "lat": 1.486305555
+  },
+  {
+    "wikiId": "Q95706649",
+    "name": "Austin Heights Water and Adventure Park",
+    "cat": "waterPark",
+    "lon": 103.774972222,
+    "lat": 1.561416666
+  },
+  {
+    "wikiId": "Q95712047",
+    "name": "Wet World Batu Pahat Village Resort",
+    "cat": "waterPark",
+    "lon": 102.945333333,
+    "lat": 1.881638888
+  },
+  {
+    "wikiId": "Q96022669",
+    "name": "Tiram Indoor Water Park",
+    "cat": "waterPark",
+    "lon": 103.820361111,
+    "lat": 1.608416666
+  },
+  {
+    "wikiId": "Q96210446",
+    "name": "Desaru Coast Adventure Waterpark",
+    "cat": "waterPark",
+    "lon": 104.262583333,
+    "lat": 1.54025
+  },
+  {
+    "wikiId": "Q96210583",
+    "name": "KSL Dinosaur Alive Water Theme Park",
+    "cat": "waterPark",
+    "lon": 103.762361111,
+    "lat": 1.485527777
+  },
+  {
+    "wikiId": "Q96252002",
+    "name": "Aqualand Costa Adeje",
+    "cat": "waterPark",
+    "lon": -16.727861111,
+    "lat": 28.079388888
+  },
+  {
+    "wikiId": "Q96419224",
+    "name": "Raging Waters San Jose",
+    "cat": "waterPark",
+    "lon": -121.812326,
+    "lat": 37.334653
+  },
+  {
+    "wikiId": "Q96619072",
+    "name": "Forest City Water Park",
+    "cat": "waterPark",
+    "lon": 103.591583333,
+    "lat": 1.333194444
+  }
+]

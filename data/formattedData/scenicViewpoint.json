@@ -1,0 +1,5798 @@
+[
+  {
+    "wikiId": "Q355533",
+    "name": "Q355533",
+    "cat": "scenicViewpoint",
+    "lon": 10.6798,
+    "lat": 50.6888
+  },
+  {
+    "wikiId": "Q404728",
+    "name": "Aiguille du Midi",
+    "cat": "scenicViewpoint",
+    "lon": 6.8875,
+    "lat": 45.878888888
+  },
+  {
+    "wikiId": "Q568090",
+    "name": "Puy Griou",
+    "cat": "scenicViewpoint",
+    "lon": 2.70611,
+    "lat": 45.0803
+  },
+  {
+    "wikiId": "Q570385",
+    "name": "Torre Monumental",
+    "cat": "scenicViewpoint",
+    "lon": -58.373192,
+    "lat": -34.592963
+  },
+  {
+    "wikiId": "Q607372",
+    "name": "Puy de Dôme",
+    "cat": "scenicViewpoint",
+    "lon": 2.9624,
+    "lat": 45.772
+  },
+  {
+    "wikiId": "Q628686",
+    "name": "Stegastein",
+    "cat": "scenicViewpoint",
+    "lon": 7.2125,
+    "lat": 60.90833333
+  },
+  {
+    "wikiId": "Q666645",
+    "name": "Monte Barro",
+    "cat": "scenicViewpoint",
+    "lon": 9.37916667,
+    "lat": 45.8325
+  },
+  {
+    "wikiId": "Q779683",
+    "name": "Ausoniusstein",
+    "cat": "scenicViewpoint",
+    "lon": 7.438,
+    "lat": 50.2609
+  },
+  {
+    "wikiId": "Q816266",
+    "name": "Belvedér",
+    "cat": "scenicViewpoint",
+    "lon": 14.22159,
+    "lat": 50.84941
+  },
+  {
+    "wikiId": "Q856866",
+    "name": "Cabo Girão",
+    "cat": "scenicViewpoint",
+    "lon": -17.00446,
+    "lat": 32.65649
+  },
+  {
+    "wikiId": "Q879776",
+    "name": "Björnerödspiggen",
+    "cat": "scenicViewpoint",
+    "lon": 11.40805556,
+    "lat": 59.00166667
+  },
+  {
+    "wikiId": "Q995694",
+    "name": "Le Brévent",
+    "cat": "scenicViewpoint",
+    "lon": 6.83777778,
+    "lat": 45.93416667
+  },
+  {
+    "wikiId": "Q1014144",
+    "name": "Stolzenberg castle",
+    "cat": "scenicViewpoint",
+    "lon": 9.36806,
+    "lat": 50.291
+  },
+  {
+    "wikiId": "Q1102142",
+    "name": "Cloef",
+    "cat": "scenicViewpoint",
+    "lon": 6.54075,
+    "lat": 49.5019
+  },
+  {
+    "wikiId": "Q1123702",
+    "name": "Q1123702",
+    "cat": "scenicViewpoint",
+    "lon": 7.58222,
+    "lat": 50.3281
+  },
+  {
+    "wikiId": "Q1144172",
+    "name": "Dante's View",
+    "cat": "scenicViewpoint",
+    "lon": -116.726,
+    "lat": 36.2206
+  },
+  {
+    "wikiId": "Q1231343",
+    "name": "Monte Resegone",
+    "cat": "scenicViewpoint",
+    "lon": 9.468888888,
+    "lat": 45.858333333
+  },
+  {
+    "wikiId": "Q1258599",
+    "name": "Weserliedanlage",
+    "cat": "scenicViewpoint",
+    "lon": 9.64897,
+    "lat": 51.4227
+  },
+  {
+    "wikiId": "Q1409615",
+    "name": "Feuerpalven",
+    "cat": "scenicViewpoint",
+    "lon": 12.991666666,
+    "lat": 47.540833333
+  },
+  {
+    "wikiId": "Q1416045",
+    "name": "Malá Pravčická brána",
+    "cat": "scenicViewpoint",
+    "lon": 14.350992833,
+    "lat": 50.871432833
+  },
+  {
+    "wikiId": "Q1424835",
+    "name": "Roque Nublo",
+    "cat": "scenicViewpoint",
+    "lon": -15.6125,
+    "lat": 27.970833333
+  },
+  {
+    "wikiId": "Q1542550",
+    "name": "Colin Grand Canyon Skywalk",
+    "cat": "scenicViewpoint",
+    "lon": -113.811,
+    "lat": 36.0122
+  },
+  {
+    "wikiId": "Q1545452",
+    "name": "Piton des Neiges",
+    "cat": "scenicViewpoint",
+    "lon": 55.478888888,
+    "lat": -21.098888888
+  },
+  {
+    "wikiId": "Q1619119",
+    "name": "Himmelhof",
+    "cat": "scenicViewpoint",
+    "lon": 16.25574,
+    "lat": 48.19016
+  },
+  {
+    "wikiId": "Q1623923",
+    "name": "High Place of Sacrifice",
+    "cat": "scenicViewpoint",
+    "lon": 35.446945,
+    "lat": 30.321943
+  },
+  {
+    "wikiId": "Q1696136",
+    "name": "Mirador del Estrecho",
+    "cat": "scenicViewpoint",
+    "lon": -5.550339,
+    "lat": 36.053814
+  },
+  {
+    "wikiId": "Q1747090",
+    "name": "Korte-Klippe",
+    "cat": "scenicViewpoint",
+    "lon": 7.04111,
+    "lat": 51.4075
+  },
+  {
+    "wikiId": "Q1753542",
+    "name": "Mariina skála",
+    "cat": "scenicViewpoint",
+    "lon": 14.404722222,
+    "lat": 50.86
+  },
+  {
+    "wikiId": "Q1772213",
+    "name": "Vilemínina stěna",
+    "cat": "scenicViewpoint",
+    "lon": 14.4036,
+    "lat": 50.8633
+  },
+  {
+    "wikiId": "Q1777411",
+    "name": "Knopfmacherfelsen",
+    "cat": "scenicViewpoint",
+    "lon": 8.95158,
+    "lat": 48.0297
+  },
+  {
+    "wikiId": "Q1777526",
+    "name": "Knottnkino",
+    "cat": "scenicViewpoint",
+    "lon": 11.214481,
+    "lat": 46.620066
+  },
+  {
+    "wikiId": "Q1795699",
+    "name": "Kok Tobe",
+    "cat": "scenicViewpoint",
+    "lon": 76.976111111,
+    "lat": 43.233055555
+  },
+  {
+    "wikiId": "Q1855065",
+    "name": "Posbank",
+    "cat": "scenicViewpoint",
+    "lon": 6.02125,
+    "lat": 52.028472222
+  },
+  {
+    "wikiId": "Q1946088",
+    "name": "Q1946088",
+    "cat": "scenicViewpoint",
+    "lon": 6.91722222,
+    "lat": 45.93305556
+  },
+  {
+    "wikiId": "Q2043150",
+    "name": "Wilhelmsblick",
+    "cat": "scenicViewpoint",
+    "lon": 10.9657,
+    "lat": 51.7234
+  },
+  {
+    "wikiId": "Q2098306",
+    "name": "Planpraz",
+    "cat": "scenicViewpoint",
+    "lon": 6.85128333,
+    "lat": 45.93824444
+  },
+  {
+    "wikiId": "Q2110692",
+    "name": "Q2110692",
+    "cat": "scenicViewpoint",
+    "lon": 11.0066,
+    "lat": 51.7345
+  },
+  {
+    "wikiId": "Q2261448",
+    "name": "Scott's View",
+    "cat": "scenicViewpoint",
+    "lon": -2.64747,
+    "lat": 55.5997
+  },
+  {
+    "wikiId": "Q2385537",
+    "name": "Roche Merveilleuse",
+    "cat": "scenicViewpoint",
+    "lon": 55.4797,
+    "lat": -21.126
+  },
+  {
+    "wikiId": "Q2433474",
+    "name": "Tunnel View",
+    "cat": "scenicViewpoint",
+    "lon": -119.676861,
+    "lat": 37.715553
+  },
+  {
+    "wikiId": "Q2470303",
+    "name": "Echo Point",
+    "cat": "scenicViewpoint",
+    "lon": 150.311958,
+    "lat": -33.732712
+  },
+  {
+    "wikiId": "Q2559648",
+    "name": "Ladies View",
+    "cat": "scenicViewpoint",
+    "lon": -9.59309,
+    "lat": 51.96624
+  },
+  {
+    "wikiId": "Q2744066",
+    "name": "Miradouro da Graça",
+    "cat": "scenicViewpoint",
+    "lon": -9.1315,
+    "lat": 38.716333333
+  },
+  {
+    "wikiId": "Q3108318",
+    "name": "Glacier Point",
+    "cat": "scenicViewpoint",
+    "lon": -119.57377,
+    "lat": 37.73076
+  },
+  {
+    "wikiId": "Q3142395",
+    "name": "Hyatt Regency Paris Etoile",
+    "cat": "scenicViewpoint",
+    "lon": 2.2843,
+    "lat": 48.8802
+  },
+  {
+    "wikiId": "Q3209029",
+    "name": "La Flégère",
+    "cat": "scenicViewpoint",
+    "lon": 6.88559,
+    "lat": 45.9611
+  },
+  {
+    "wikiId": "Q3303392",
+    "name": "Maïdo",
+    "cat": "scenicViewpoint",
+    "lon": 55.387778,
+    "lat": -21.068889
+  },
+  {
+    "wikiId": "Q3331650",
+    "name": "Waterfall of Nerbioi river",
+    "cat": "scenicViewpoint",
+    "lon": -2.980555555,
+    "lat": 42.941111111
+  },
+  {
+    "wikiId": "Q3362397",
+    "name": "Q3362397",
+    "cat": "scenicViewpoint",
+    "lon": 3.08349,
+    "lat": 46.9643
+  },
+  {
+    "wikiId": "Q3367142",
+    "name": "Pas de Bellecombe-Jacob",
+    "cat": "scenicViewpoint",
+    "lon": 55.688888888,
+    "lat": -21.222222222
+  },
+  {
+    "wikiId": "Q3393361",
+    "name": "Point Sublime",
+    "cat": "scenicViewpoint",
+    "lon": 6.399124,
+    "lat": 43.79132
+  },
+  {
+    "wikiId": "Q3861962",
+    "name": "Monte San Martino",
+    "cat": "scenicViewpoint",
+    "lon": 9.3871,
+    "lat": 45.8867
+  },
+  {
+    "wikiId": "Q3901957",
+    "name": "Piani dei Resinelli",
+    "cat": "scenicViewpoint",
+    "lon": 9.39348333,
+    "lat": 45.90538889
+  },
+  {
+    "wikiId": "Q4801234",
+    "name": "Artist Point Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -110.479411111,
+    "lat": 44.721286111
+  },
+  {
+    "wikiId": "Q4850347",
+    "name": "Bald Peak State Scenic Viewpoint",
+    "cat": "scenicViewpoint",
+    "lon": -123.0551,
+    "lat": 45.39456
+  },
+  {
+    "wikiId": "Q5211938",
+    "name": "Daman-e-Koh",
+    "cat": "scenicViewpoint",
+    "lon": 73.055581,
+    "lat": 33.739936
+  },
+  {
+    "wikiId": "Q5260679",
+    "name": "Whale Watching Center",
+    "cat": "scenicViewpoint",
+    "lon": -124.062,
+    "lat": 44.8101
+  },
+  {
+    "wikiId": "Q5486082",
+    "name": "Frank Curto Park",
+    "cat": "scenicViewpoint",
+    "lon": -79.9769,
+    "lat": 40.4512
+  },
+  {
+    "wikiId": "Q5492831",
+    "name": "Franz Joseph Cliffs",
+    "cat": "scenicViewpoint",
+    "lon": 25.5254,
+    "lat": 45.3683
+  },
+  {
+    "wikiId": "Q5792476",
+    "name": "Cruz del Carmen",
+    "cat": "scenicViewpoint",
+    "lon": -16.27972222,
+    "lat": 28.53111111
+  },
+  {
+    "wikiId": "Q6394618",
+    "name": "Kerry Park",
+    "cat": "scenicViewpoint",
+    "lon": -122.359416666,
+    "lat": 47.629611111
+  },
+  {
+    "wikiId": "Q6813351",
+    "name": "Miradouro da Senhora do Monte",
+    "cat": "scenicViewpoint",
+    "lon": -9.13277778,
+    "lat": 38.71888889
+  },
+  {
+    "wikiId": "Q6837314",
+    "name": "Miradouro de Santa Luzia",
+    "cat": "scenicViewpoint",
+    "lon": -9.130059,
+    "lat": 38.712454
+  },
+  {
+    "wikiId": "Q6881352",
+    "name": "Mitchell Point",
+    "cat": "scenicViewpoint",
+    "lon": -121.617,
+    "lat": 45.701
+  },
+  {
+    "wikiId": "Q7088437",
+    "name": "Olmsted Point",
+    "cat": "scenicViewpoint",
+    "lon": -119.485,
+    "lat": 37.8107
+  },
+  {
+    "wikiId": "Q7241956",
+    "name": "Preston Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -92.073406,
+    "lat": 43.67337
+  },
+  {
+    "wikiId": "Q7617299",
+    "name": "Stillwater Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -92.795833333,
+    "lat": 45.040555555
+  },
+  {
+    "wikiId": "Q7675044",
+    "name": "Taft Point",
+    "cat": "scenicViewpoint",
+    "lon": -119.605,
+    "lat": 37.713
+  },
+  {
+    "wikiId": "Q7985098",
+    "name": "West End Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -80.034,
+    "lat": 40.446
+  },
+  {
+    "wikiId": "Q8063329",
+    "name": "Z-Bend Lookout",
+    "cat": "scenicViewpoint",
+    "lon": 114.4566807,
+    "lat": -27.6535365
+  },
+  {
+    "wikiId": "Q8559760",
+    "name": "Col de la Forclaz",
+    "cat": "scenicViewpoint",
+    "lon": 6.24476,
+    "lat": 45.80845
+  },
+  {
+    "wikiId": "Q9386144",
+    "name": "Death Curve",
+    "cat": "scenicViewpoint",
+    "lon": 15.536393778,
+    "lat": 50.849025588
+  },
+  {
+    "wikiId": "Q10283971",
+    "name": "Mirante do Atalaia de Forte Velho",
+    "cat": "scenicViewpoint",
+    "lon": -34.887397279,
+    "lat": -6.992697463
+  },
+  {
+    "wikiId": "Q10330488",
+    "name": "Miradouro da Despe-te Que Suas",
+    "cat": "scenicViewpoint",
+    "lon": -25.224138,
+    "lat": 37.853596
+  },
+  {
+    "wikiId": "Q10330520",
+    "name": "Miradouro da Ponta do Escalvado",
+    "cat": "scenicViewpoint",
+    "lon": -25.841268,
+    "lat": 37.871308
+  },
+  {
+    "wikiId": "Q10330559",
+    "name": "Miradouro da Ponta do Cintrão",
+    "cat": "scenicViewpoint",
+    "lon": -25.4897,
+    "lat": 37.843189
+  },
+  {
+    "wikiId": "Q10330561",
+    "name": "Miradouro do Ilhéu de Rosto de Cão",
+    "cat": "scenicViewpoint",
+    "lon": -25.637619,
+    "lat": 37.745247
+  },
+  {
+    "wikiId": "Q10330569",
+    "name": "Miradouro do Pelado",
+    "cat": "scenicViewpoint",
+    "lon": -25.150436,
+    "lat": 37.850266
+  },
+  {
+    "wikiId": "Q10330577",
+    "name": "Miradouro do Pico do Ferro",
+    "cat": "scenicViewpoint",
+    "lon": -25.334124,
+    "lat": 37.772016
+  },
+  {
+    "wikiId": "Q10330579",
+    "name": "Miradouro do Pico do Paul",
+    "cat": "scenicViewpoint",
+    "lon": -25.74662,
+    "lat": 37.826564
+  },
+  {
+    "wikiId": "Q10330584",
+    "name": "Miradouro do Salto do Cavalo",
+    "cat": "scenicViewpoint",
+    "lon": -25.283694,
+    "lat": 37.787404
+  },
+  {
+    "wikiId": "Q10330586",
+    "name": "Miradouro dos Aflitos",
+    "cat": "scenicViewpoint",
+    "lon": -25.641781,
+    "lat": 37.797748
+  },
+  {
+    "wikiId": "Q10330621",
+    "name": "Mirante do Mangabeiras",
+    "cat": "scenicViewpoint",
+    "lon": -43.912888888,
+    "lat": -19.952833333
+  },
+  {
+    "wikiId": "Q10409512",
+    "name": "Q10409512",
+    "cat": "scenicViewpoint",
+    "lon": 15.5691,
+    "lat": 50.7442
+  },
+  {
+    "wikiId": "Q10500908",
+    "name": "Fåfängan",
+    "cat": "scenicViewpoint",
+    "lon": 18.10138889,
+    "lat": 59.31472222
+  },
+  {
+    "wikiId": "Q10513289",
+    "name": "Lok Ma Chau Garden",
+    "cat": "scenicViewpoint",
+    "lon": 114.079216,
+    "lat": 22.510489
+  },
+  {
+    "wikiId": "Q10816880",
+    "name": "Q10816880",
+    "cat": "scenicViewpoint",
+    "lon": 15.5456,
+    "lat": 50.7626
+  },
+  {
+    "wikiId": "Q10937604",
+    "name": "Q10937604",
+    "cat": "scenicViewpoint",
+    "lon": 15.1924,
+    "lat": 50.5465
+  },
+  {
+    "wikiId": "Q11175585",
+    "name": "Devil's Table",
+    "cat": "scenicViewpoint",
+    "lon": 15.712326111,
+    "lat": 49.713990277
+  },
+  {
+    "wikiId": "Q11279140",
+    "name": "Harbor View Park",
+    "cat": "scenicViewpoint",
+    "lon": 134.27375,
+    "lat": 34.730972
+  },
+  {
+    "wikiId": "Q11311264",
+    "name": "Q11311264",
+    "cat": "scenicViewpoint",
+    "lon": 131.211388888,
+    "lat": 33.059166666
+  },
+  {
+    "wikiId": "Q11571767",
+    "name": "Sagiridai",
+    "cat": "scenicViewpoint",
+    "lon": 131.3825,
+    "lat": 33.26
+  },
+  {
+    "wikiId": "Q97477791",
+    "name": "Hazeltop Ridge Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.455841,
+    "lat": 38.4781813
+  },
+  {
+    "wikiId": "Q97477792",
+    "name": "Hemlock Springs Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.3627827,
+    "lat": 38.5970665
+  },
+  {
+    "wikiId": "Q97477793",
+    "name": "Hensley Hollow Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.536123,
+    "lat": 38.3676278
+  },
+  {
+    "wikiId": "Q97477796",
+    "name": "Hogwallow Flats Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.1816666,
+    "lat": 38.7937271
+  },
+  {
+    "wikiId": "Q97477799",
+    "name": "Horsehead Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.7572451,
+    "lat": 38.1926322
+  },
+  {
+    "wikiId": "Q97477800",
+    "name": "Indian Run Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.1647218,
+    "lat": 38.8212261
+  },
+  {
+    "wikiId": "Q97477801",
+    "name": "Ivy Creek Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.6591859,
+    "lat": 38.284296
+  },
+  {
+    "wikiId": "Q97477803",
+    "name": "Jenkins Gap Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.1802778,
+    "lat": 38.8056712
+  },
+  {
+    "wikiId": "Q97477804",
+    "name": "Jeremys Run Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.3297261,
+    "lat": 38.7123407
+  },
+  {
+    "wikiId": "Q97477805",
+    "name": "Jewell Hollow Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.3386153,
+    "lat": 38.6267879
+  },
+  {
+    "wikiId": "Q97477809",
+    "name": "Loft Mountain Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.6283511,
+    "lat": 38.2870737
+  },
+  {
+    "wikiId": "Q97478185",
+    "name": "McCormick Gap Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.8214114,
+    "lat": 38.0618034
+  },
+  {
+    "wikiId": "Q97478187",
+    "name": "Moormans River Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.770856,
+    "lat": 38.1537447
+  },
+  {
+    "wikiId": "Q97478190",
+    "name": "Mount Marshall Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.253057,
+    "lat": 38.7556734
+  },
+  {
+    "wikiId": "Q97478191",
+    "name": "Naked Creek Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.4500073,
+    "lat": 38.4937365
+  },
+  {
+    "wikiId": "Q97478193",
+    "name": "Old Rag View Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.390839,
+    "lat": 38.5454016
+  },
+  {
+    "wikiId": "Q97478194",
+    "name": "Pass Mountain Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.3336152,
+    "lat": 38.6748419
+  },
+  {
+    "wikiId": "Q97478197",
+    "name": "Pinnacles Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.3230593,
+    "lat": 38.6223437
+  },
+  {
+    "wikiId": "Q97478198",
+    "name": "Range View Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.2269453,
+    "lat": 38.7640063
+  },
+  {
+    "wikiId": "Q97478205",
+    "name": "Rocky Mount Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.6058498,
+    "lat": 38.3167954
+  },
+  {
+    "wikiId": "Q97478206",
+    "name": "Rockytop Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.6647417,
+    "lat": 38.2790183
+  },
+  {
+    "wikiId": "Q97478207",
+    "name": "Sandy Bottom Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.5650143,
+    "lat": 38.3362395
+  },
+  {
+    "wikiId": "Q97478209",
+    "name": "Sawmill Ridge Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.7836335,
+    "lat": 38.1065242
+  },
+  {
+    "wikiId": "Q97478211",
+    "name": "Sawmill Run Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.7836336,
+    "lat": 38.1137461
+  },
+  {
+    "wikiId": "Q97478213",
+    "name": "Shenandoah Valley Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.2027782,
+    "lat": 38.8901126
+  },
+  {
+    "wikiId": "Q97478215",
+    "name": "Signal Knob Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.2088894,
+    "lat": 38.8584471
+  },
+  {
+    "wikiId": "Q97478216",
+    "name": "South River Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.5177891,
+    "lat": 38.3834609
+  },
+  {
+    "wikiId": "Q97478221",
+    "name": "Spitler Knoll Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.4150064,
+    "lat": 38.5473458
+  },
+  {
+    "wikiId": "Q97478226",
+    "name": "Stony Man Mountain Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.3625049,
+    "lat": 38.6109549
+  },
+  {
+    "wikiId": "Q97478230",
+    "name": "Swift Run Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.5583472,
+    "lat": 38.3404061
+  },
+  {
+    "wikiId": "Q97478232",
+    "name": "Tanners Ridge Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.443896,
+    "lat": 38.5162358
+  },
+  {
+    "wikiId": "Q97478233",
+    "name": "The Oaks Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.488065,
+    "lat": 38.4198491
+  },
+  {
+    "wikiId": "Q97478236",
+    "name": "The Point Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.4605636,
+    "lat": 38.4623483
+  },
+  {
+    "wikiId": "Q97478238",
+    "name": "Thornton Hollow Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.3188925,
+    "lat": 38.7062299
+  },
+  {
+    "wikiId": "Q97478241",
+    "name": "Thorofare Mountain Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.359727,
+    "lat": 38.5876224
+  },
+  {
+    "wikiId": "Q97478243",
+    "name": "Timber Hollow Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.3838944,
+    "lat": 38.5751228
+  },
+  {
+    "wikiId": "Q97478246",
+    "name": "Trayfoot Mountain Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.7455783,
+    "lat": 38.2056873
+  },
+  {
+    "wikiId": "Q97478248",
+    "name": "Turk Mountain Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.7853006,
+    "lat": 38.1345786
+  },
+  {
+    "wikiId": "Q97479021",
+    "name": "Gladstone scenic lookout",
+    "cat": "scenicViewpoint",
+    "lon": 114.297817,
+    "lat": -25.985217
+  },
+  {
+    "wikiId": "Q97487384",
+    "name": "Beagle Gap Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.7891886,
+    "lat": 38.0695811
+  },
+  {
+    "wikiId": "Q97499010",
+    "name": "Sunrise View, Kennedy Range National Park",
+    "cat": "scenicViewpoint",
+    "lon": 115.181711,
+    "lat": -24.640034
+  },
+  {
+    "wikiId": "Q97500038",
+    "name": "Escarpment trail, Kennedy Range National Park",
+    "cat": "scenicViewpoint",
+    "lon": 115.173356,
+    "lat": -24.666213
+  },
+  {
+    "wikiId": "Q97515808",
+    "name": "Hilina Pali Shelter",
+    "cat": "scenicViewpoint",
+    "lon": -155.307093,
+    "lat": 19.295485
+  },
+  {
+    "wikiId": "Q97546089",
+    "name": "River Bend Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -103.378138,
+    "lat": 47.608742
+  },
+  {
+    "wikiId": "Q97575838",
+    "name": "Emu Hill Lookout",
+    "cat": "scenicViewpoint",
+    "lon": 116.786611,
+    "lat": -24.259347
+  },
+  {
+    "wikiId": "Q97575902",
+    "name": "Goordgeela Lookout Trail, Mount Augustus National Park",
+    "cat": "scenicViewpoint",
+    "lon": 116.829862,
+    "lat": -24.294987
+  },
+  {
+    "wikiId": "Q97577332",
+    "name": "Saddle Trail, Mount Augustus National Park",
+    "cat": "scenicViewpoint",
+    "lon": 116.79307,
+    "lat": -24.297824
+  },
+  {
+    "wikiId": "Q97591557",
+    "name": "Errabiddy lookout",
+    "cat": "scenicViewpoint",
+    "lon": 115.856539,
+    "lat": -26.87803
+  },
+  {
+    "wikiId": "Q97708652",
+    "name": "Leleiwi Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -156.228357,
+    "lat": 20.744198
+  },
+  {
+    "wikiId": "Q97723691",
+    "name": "Mauna Loa Lookout",
+    "cat": "scenicViewpoint",
+    "lon": -155.385178,
+    "lat": 19.492755
+  },
+  {
+    "wikiId": "Q97941177",
+    "name": "Arrow Rock State Historic Site Lookout Shelter",
+    "cat": "scenicViewpoint",
+    "lon": -92.942544,
+    "lat": 39.071186
+  },
+  {
+    "wikiId": "Q98029990",
+    "name": "Kneeling Camel View",
+    "cat": "scenicViewpoint",
+    "lon": -107.677792,
+    "lat": 38.561834
+  },
+  {
+    "wikiId": "Q98035800",
+    "name": "Geologic Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -108.483522,
+    "lat": 37.277677
+  },
+  {
+    "wikiId": "Q98059961",
+    "name": "Sun Point View",
+    "cat": "scenicViewpoint",
+    "lon": -108.475035719,
+    "lat": 37.162486829
+  },
+  {
+    "wikiId": "Q98060306",
+    "name": "Cliff Palace Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -108.473689,
+    "lat": 37.166891
+  },
+  {
+    "wikiId": "Q98060668",
+    "name": "Rock Canyon Tower View",
+    "cat": "scenicViewpoint",
+    "lon": -108.550851,
+    "lat": 37.228277
+  },
+  {
+    "wikiId": "Q98061024",
+    "name": "Long House Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -108.534756,
+    "lat": 37.185027
+  },
+  {
+    "wikiId": "Q98061105",
+    "name": "Kodak House Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -108.530598,
+    "lat": 37.17613
+  },
+  {
+    "wikiId": "Q98064474",
+    "name": "Park Point Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -108.46206,
+    "lat": 37.281515
+  },
+  {
+    "wikiId": "Q98065705",
+    "name": "Montezuma Valley Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -108.441502,
+    "lat": 37.296644
+  },
+  {
+    "wikiId": "Q98065777",
+    "name": "Mancos Valley Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -108.410369,
+    "lat": 37.304471
+  },
+  {
+    "wikiId": "Q98066192",
+    "name": "Redlands View",
+    "cat": "scenicViewpoint",
+    "lon": -108.728107,
+    "lat": 39.116053
+  },
+  {
+    "wikiId": "Q98066200",
+    "name": "Historic Trail View",
+    "cat": "scenicViewpoint",
+    "lon": -108.738638,
+    "lat": 39.116734
+  },
+  {
+    "wikiId": "Q98066204",
+    "name": "Distant View",
+    "cat": "scenicViewpoint",
+    "lon": -108.737324,
+    "lat": 39.111055
+  },
+  {
+    "wikiId": "Q98066213",
+    "name": "Fruita Canyon View",
+    "cat": "scenicViewpoint",
+    "lon": -108.738921,
+    "lat": 39.105847
+  },
+  {
+    "wikiId": "Q98066222",
+    "name": "Independence Monument View",
+    "cat": "scenicViewpoint",
+    "lon": -108.732148,
+    "lat": 39.093634
+  },
+  {
+    "wikiId": "Q98066226",
+    "name": "Grand View",
+    "cat": "scenicViewpoint",
+    "lon": -108.722801,
+    "lat": 39.090466
+  },
+  {
+    "wikiId": "Q98066230",
+    "name": "Monument Canyon View",
+    "cat": "scenicViewpoint",
+    "lon": -108.715602,
+    "lat": 39.083683
+  },
+  {
+    "wikiId": "Q98066252",
+    "name": "Coke Ovens Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -108.724265,
+    "lat": 39.078649
+  },
+  {
+    "wikiId": "Q98066326",
+    "name": "Cold Shivers Point",
+    "cat": "scenicViewpoint",
+    "lon": -108.654337,
+    "lat": 39.031222
+  },
+  {
+    "wikiId": "Q98066337",
+    "name": "Red Canyon Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -108.686316,
+    "lat": 39.030828
+  },
+  {
+    "wikiId": "Q98066347",
+    "name": "Upper Ute Canyon Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -108.715191,
+    "lat": 39.043101
+  },
+  {
+    "wikiId": "Q98066588",
+    "name": "Fallen Rock Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -108.710374,
+    "lat": 39.039215
+  },
+  {
+    "wikiId": "Q98066614",
+    "name": "Ute Canyon View",
+    "cat": "scenicViewpoint",
+    "lon": -108.698465,
+    "lat": 39.031714
+  },
+  {
+    "wikiId": "Q98066681",
+    "name": "Highland View",
+    "cat": "scenicViewpoint",
+    "lon": -108.730022,
+    "lat": 39.062242
+  },
+  {
+    "wikiId": "Q98066766",
+    "name": "Artists Point",
+    "cat": "scenicViewpoint",
+    "lon": -108.722824,
+    "lat": 39.072929
+  },
+  {
+    "wikiId": "Q98074061",
+    "name": "Tunnel Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -109.516584,
+    "lat": 36.142891
+  },
+  {
+    "wikiId": "Q98074133",
+    "name": "Tsegi Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -109.51203,
+    "lat": 36.1388
+  },
+  {
+    "wikiId": "Q98074197",
+    "name": "Junction Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -109.493461,
+    "lat": 36.138295
+  },
+  {
+    "wikiId": "Q98074244",
+    "name": "White House Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -109.47644,
+    "lat": 36.130633
+  },
+  {
+    "wikiId": "Q98074513",
+    "name": "Sliding House Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -109.436966,
+    "lat": 36.116347
+  },
+  {
+    "wikiId": "Q98076191",
+    "name": "Giant Logs Trail Scenic Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -109.868914,
+    "lat": 34.815617
+  },
+  {
+    "wikiId": "Q98097029",
+    "name": "Lookout House",
+    "cat": "scenicViewpoint",
+    "lon": -99.017414,
+    "lat": 31.859035
+  },
+  {
+    "wikiId": "Q98099330",
+    "name": "Massai Point Orientation Station",
+    "cat": "scenicViewpoint",
+    "lon": -109.31164,
+    "lat": 32.00829
+  },
+  {
+    "wikiId": "Q98195481",
+    "name": "Onion Mountain Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -79.537571,
+    "lat": 37.496385
+  },
+  {
+    "wikiId": "Q98195680",
+    "name": "Metz Run Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -80.061242,
+    "lat": 37.175908
+  },
+  {
+    "wikiId": "Q98197962",
+    "name": "Harveys Knob Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -79.726816,
+    "lat": 37.445266
+  },
+  {
+    "wikiId": "Q98198054",
+    "name": "Mahogany Rock Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -81.095908,
+    "lat": 36.441527
+  },
+  {
+    "wikiId": "Q98198223",
+    "name": "Air Bellows Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -81.12258,
+    "lat": 36.43051
+  },
+  {
+    "wikiId": "Q98198484",
+    "name": "Thunder Hill Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -81.643113,
+    "lat": 36.136257
+  },
+  {
+    "wikiId": "Q11598241",
+    "name": "Q11598241",
+    "cat": "scenicViewpoint",
+    "lon": 139.852138888,
+    "lat": 42.456861111
+  },
+  {
+    "wikiId": "Q11703035",
+    "name": "Góra Gnojna",
+    "cat": "scenicViewpoint",
+    "lon": 21.0139,
+    "lat": 52.25
+  },
+  {
+    "wikiId": "Q11712801",
+    "name": "Inspiration Point",
+    "cat": "scenicViewpoint",
+    "lon": -110.470277777,
+    "lat": 44.725277777
+  },
+  {
+    "wikiId": "Q11723163",
+    "name": "Q11723163",
+    "cat": "scenicViewpoint",
+    "lon": 12.3418,
+    "lat": 50.0834
+  },
+  {
+    "wikiId": "Q11774781",
+    "name": "Q11774781",
+    "cat": "scenicViewpoint",
+    "lon": 13.73194444,
+    "lat": 50.59777778
+  },
+  {
+    "wikiId": "Q11774794",
+    "name": "Q11774794",
+    "cat": "scenicViewpoint",
+    "lon": 13.7359,
+    "lat": 50.5502
+  },
+  {
+    "wikiId": "Q11774795",
+    "name": "Q11774795",
+    "cat": "scenicViewpoint",
+    "lon": 13.6845,
+    "lat": 50.6496
+  },
+  {
+    "wikiId": "Q11821433",
+    "name": "Polana Głodówka",
+    "cat": "scenicViewpoint",
+    "lon": 20.115902777,
+    "lat": 49.301438888
+  },
+  {
+    "wikiId": "Q11862891",
+    "name": "Q11862891",
+    "cat": "scenicViewpoint",
+    "lon": 15.5868689,
+    "lat": 49.8812658
+  },
+  {
+    "wikiId": "Q11876965",
+    "name": "Q11876965",
+    "cat": "scenicViewpoint",
+    "lon": 15.9190833,
+    "lat": 49.5767139
+  },
+  {
+    "wikiId": "Q11908631",
+    "name": "Bartugueres",
+    "cat": "scenicViewpoint",
+    "lon": 0.89841667,
+    "lat": 42.25519444
+  },
+  {
+    "wikiId": "Q11912256",
+    "name": "Carabasser",
+    "cat": "scenicViewpoint",
+    "lon": 1.08658611,
+    "lat": 42.20660278
+  },
+  {
+    "wikiId": "Q11918550",
+    "name": "El Salt d'Aigua",
+    "cat": "scenicViewpoint",
+    "lon": 0.91856833,
+    "lat": 42.29026111
+  },
+  {
+    "wikiId": "Q11919019",
+    "name": "Els Pacs",
+    "cat": "scenicViewpoint",
+    "lon": 0.98225,
+    "lat": 42.39180556
+  },
+  {
+    "wikiId": "Q11919023",
+    "name": "Els Pallerols",
+    "cat": "scenicViewpoint",
+    "lon": 1.01661111,
+    "lat": 42.40858333
+  },
+  {
+    "wikiId": "Q11919058",
+    "name": "Els Rialbos",
+    "cat": "scenicViewpoint",
+    "lon": 1.00297,
+    "lat": 42.4839
+  },
+  {
+    "wikiId": "Q11919642",
+    "name": "Eroles",
+    "cat": "scenicViewpoint",
+    "lon": 1.05186111,
+    "lat": 42.26013889
+  },
+  {
+    "wikiId": "Q11928256",
+    "name": "Joncarlat",
+    "cat": "scenicViewpoint",
+    "lon": 1.05617222,
+    "lat": 42.20625278
+  },
+  {
+    "wikiId": "Q11930170",
+    "name": "L'Orri",
+    "cat": "scenicViewpoint",
+    "lon": 0.95516667,
+    "lat": 42.45947222
+  },
+  {
+    "wikiId": "Q11930507",
+    "name": "La Fontfreda",
+    "cat": "scenicViewpoint",
+    "lon": 0.85136111,
+    "lat": 42.29463889
+  },
+  {
+    "wikiId": "Q11930877",
+    "name": "La Torreta",
+    "cat": "scenicViewpoint",
+    "lon": 1.14341944,
+    "lat": 42.25416944
+  },
+  {
+    "wikiId": "Q11931509",
+    "name": "Les Carants",
+    "cat": "scenicViewpoint",
+    "lon": 0.8335,
+    "lat": 42.23736111
+  },
+  {
+    "wikiId": "Q11931524",
+    "name": "Les Coberterades",
+    "cat": "scenicViewpoint",
+    "lon": 1.12841667,
+    "lat": 42.20875
+  },
+  {
+    "wikiId": "Q11933776",
+    "name": "Lo Pi Sec",
+    "cat": "scenicViewpoint",
+    "lon": 1.12505556,
+    "lat": 42.26363889
+  },
+  {
+    "wikiId": "Q11933800",
+    "name": "Lo Romeral",
+    "cat": "scenicViewpoint",
+    "lon": 1.03394361,
+    "lat": 42.20057222
+  },
+  {
+    "wikiId": "Q11937687",
+    "name": "Mosquera",
+    "cat": "scenicViewpoint",
+    "lon": 0.81672222,
+    "lat": 42.26016667
+  },
+  {
+    "wikiId": "Q11944728",
+    "name": "Q11944728",
+    "cat": "scenicViewpoint",
+    "lon": 15.1758,
+    "lat": 50.5527
+  },
+  {
+    "wikiId": "Q11944749",
+    "name": "Q11944749",
+    "cat": "scenicViewpoint",
+    "lon": 15.1793,
+    "lat": 50.551
+  },
+  {
+    "wikiId": "Q11944780",
+    "name": "Q11944780",
+    "cat": "scenicViewpoint",
+    "lon": 14.3911,
+    "lat": 50.0856
+  },
+  {
+    "wikiId": "Q11944838",
+    "name": "Wooden sculptures at Libverda lookouts",
+    "cat": "scenicViewpoint",
+    "lon": 15.1898,
+    "lat": 50.8921
+  },
+  {
+    "wikiId": "Q11947507",
+    "name": "Santa Creu",
+    "cat": "scenicViewpoint",
+    "lon": 0.84869444,
+    "lat": 42.18827778
+  },
+  {
+    "wikiId": "Q11947520",
+    "name": "Santa Eulàlia",
+    "cat": "scenicViewpoint",
+    "lon": 0.87530833,
+    "lat": 42.27497778
+  },
+  {
+    "wikiId": "Q11947876",
+    "name": "Saviner",
+    "cat": "scenicViewpoint",
+    "lon": 0.92722222,
+    "lat": 42.26636111
+  },
+  {
+    "wikiId": "Q11966105",
+    "name": "Dronningens utsikt",
+    "cat": "scenicViewpoint",
+    "lon": 10.3199675,
+    "lat": 60.0497533
+  },
+  {
+    "wikiId": "Q11982229",
+    "name": "Kronprinsens utsikt",
+    "cat": "scenicViewpoint",
+    "lon": 10.323028,
+    "lat": 60.053361
+  },
+  {
+    "wikiId": "Q12008678",
+    "name": "Q12008678",
+    "cat": "scenicViewpoint",
+    "lon": 10.37101944,
+    "lat": 63.42111111
+  },
+  {
+    "wikiId": "Q12019703",
+    "name": "Hlavatice",
+    "cat": "scenicViewpoint",
+    "lon": 15.1554803,
+    "lat": 50.5695575
+  },
+  {
+    "wikiId": "Q12023510",
+    "name": "Q12023510",
+    "cat": "scenicViewpoint",
+    "lon": 15.1729,
+    "lat": 50.5564
+  },
+  {
+    "wikiId": "Q12031308",
+    "name": "Koňský spád",
+    "cat": "scenicViewpoint",
+    "lon": 16.7296625,
+    "lat": 49.3787311
+  },
+  {
+    "wikiId": "Q12035561",
+    "name": "Q12035561",
+    "cat": "scenicViewpoint",
+    "lon": 15.1934,
+    "lat": 50.5479
+  },
+  {
+    "wikiId": "Q12035985",
+    "name": "Masaryk lookout, Třebíč",
+    "cat": "scenicViewpoint",
+    "lon": 15.8845325,
+    "lat": 49.2168081
+  },
+  {
+    "wikiId": "Q12046142",
+    "name": "Q12046142",
+    "cat": "scenicViewpoint",
+    "lon": 16.07369,
+    "lat": 49.8943675
+  },
+  {
+    "wikiId": "Q12050629",
+    "name": "Q12050629",
+    "cat": "scenicViewpoint",
+    "lon": 14.2439831,
+    "lat": 50.8060172
+  },
+  {
+    "wikiId": "Q12409441",
+    "name": "Arthur Rubinstein lookout",
+    "cat": "scenicViewpoint",
+    "lon": 35.134861111,
+    "lat": 31.749083333
+  },
+  {
+    "wikiId": "Q13105361",
+    "name": "Q13105361",
+    "cat": "scenicViewpoint",
+    "lon": 6.21803,
+    "lat": 49.78379
+  },
+  {
+    "wikiId": "Q13218659",
+    "name": "Vyhlídka Máj",
+    "cat": "scenicViewpoint",
+    "lon": 14.456,
+    "lat": 49.8311
+  },
+  {
+    "wikiId": "Q13218662",
+    "name": "Smetanova vyhlídka",
+    "cat": "scenicViewpoint",
+    "lon": 14.4522,
+    "lat": 49.8485
+  },
+  {
+    "wikiId": "Q13859214",
+    "name": "Moregallo",
+    "cat": "scenicViewpoint",
+    "lon": 9.340703,
+    "lat": 45.866149
+  },
+  {
+    "wikiId": "Q14220276",
+    "name": "Shark Observatory",
+    "cat": "scenicViewpoint",
+    "lon": 34.259980555,
+    "lat": 27.732119444
+  },
+  {
+    "wikiId": "Q14552456",
+    "name": "Q14552456",
+    "cat": "scenicViewpoint",
+    "lon": 6.873611111,
+    "lat": 61.180277777
+  },
+  {
+    "wikiId": "Q14620060",
+    "name": "Gračina Viewpoint",
+    "cat": "scenicViewpoint",
+    "lon": 15.66833,
+    "lat": 43.81862
+  },
+  {
+    "wikiId": "Q14683443",
+    "name": "Muir Beach Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -122.586,
+    "lat": 37.8631
+  },
+  {
+    "wikiId": "Q14709314",
+    "name": "Vista House",
+    "cat": "scenicViewpoint",
+    "lon": -122.244,
+    "lat": 45.54
+  },
+  {
+    "wikiId": "Q14859368",
+    "name": "Panorama Viewpoint",
+    "cat": "scenicViewpoint",
+    "lon": 15.504714,
+    "lat": 43.454407
+  },
+  {
+    "wikiId": "Q14875443",
+    "name": "Terrapin Point",
+    "cat": "scenicViewpoint",
+    "lon": -79.0744,
+    "lat": 43.0801
+  },
+  {
+    "wikiId": "Q14929166",
+    "name": "Na Krásné vyhlídce",
+    "cat": "scenicViewpoint",
+    "lon": 15.0496778,
+    "lat": 50.5328517
+  },
+  {
+    "wikiId": "Q16133278",
+    "name": "Noach Kinarty Overlook",
+    "cat": "scenicViewpoint",
+    "lon": 35.524944444,
+    "lat": 32.643583333
+  },
+  {
+    "wikiId": "Q16133284",
+    "name": "Ran Overlook",
+    "cat": "scenicViewpoint",
+    "lon": 35.563774,
+    "lat": 33.10500483
+  },
+  {
+    "wikiId": "Q16471100",
+    "name": "At the Top Burj Khalifa",
+    "cat": "scenicViewpoint",
+    "lon": 55.27916667,
+    "lat": 25.1975
+  },
+  {
+    "wikiId": "Q16649014",
+    "name": "Toroweap Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -113.057,
+    "lat": 36.214
+  },
+  {
+    "wikiId": "Q16885568",
+    "name": "Třeštibok",
+    "cat": "scenicViewpoint",
+    "lon": 14.4520083,
+    "lat": 49.8769539
+  },
+  {
+    "wikiId": "Q17461296",
+    "name": "Eyserlinde",
+    "cat": "scenicViewpoint",
+    "lon": 5.9212,
+    "lat": 50.8204
+  },
+  {
+    "wikiId": "Q17587683",
+    "name": "Balcó del Mediterrani",
+    "cat": "scenicViewpoint",
+    "lon": 1.256578,
+    "lat": 41.113739
+  },
+  {
+    "wikiId": "Q17600450",
+    "name": "El Boixer",
+    "cat": "scenicViewpoint",
+    "lon": 0.960889,
+    "lat": 42.3974
+  },
+  {
+    "wikiId": "Q17601057",
+    "name": "Els Estanyets",
+    "cat": "scenicViewpoint",
+    "lon": 0.93375,
+    "lat": 42.4416
+  },
+  {
+    "wikiId": "Q17603381",
+    "name": "Estobencs",
+    "cat": "scenicViewpoint",
+    "lon": 1.06933,
+    "lat": 42.1984
+  },
+  {
+    "wikiId": "Q17605025",
+    "name": "Forat del Graller",
+    "cat": "scenicViewpoint",
+    "lon": 0.82825,
+    "lat": 42.2248
+  },
+  {
+    "wikiId": "Q17605442",
+    "name": "Gavarnes",
+    "cat": "scenicViewpoint",
+    "lon": 0.927889,
+    "lat": 42.2487
+  },
+  {
+    "wikiId": "Q17616311",
+    "name": "La Peguera",
+    "cat": "scenicViewpoint",
+    "lon": 0.841278,
+    "lat": 42.2742
+  },
+  {
+    "wikiId": "Q17616672",
+    "name": "La Torreta",
+    "cat": "scenicViewpoint",
+    "lon": 1.14453,
+    "lat": 42.255
+  },
+  {
+    "wikiId": "Q17616734",
+    "name": "La Vinyassa",
+    "cat": "scenicViewpoint",
+    "lon": 1.12961,
+    "lat": 42.1747
+  },
+  {
+    "wikiId": "Q17616821",
+    "name": "Les Arnés",
+    "cat": "scenicViewpoint",
+    "lon": 0.835056,
+    "lat": 42.2263
+  },
+  {
+    "wikiId": "Q17616826",
+    "name": "Les Arts",
+    "cat": "scenicViewpoint",
+    "lon": 1.04374,
+    "lat": 42.1961
+  },
+  {
+    "wikiId": "Q17616968",
+    "name": "Les Escabroses",
+    "cat": "scenicViewpoint",
+    "lon": 1.04468,
+    "lat": 42.1901
+  },
+  {
+    "wikiId": "Q17617020",
+    "name": "Les Fontanals",
+    "cat": "scenicViewpoint",
+    "lon": 0.943667,
+    "lat": 42.4105
+  },
+  {
+    "wikiId": "Q17617069",
+    "name": "Les Llaus",
+    "cat": "scenicViewpoint",
+    "lon": 1.07448,
+    "lat": 42.2045
+  },
+  {
+    "wikiId": "Q17617152",
+    "name": "Les Pujadetes",
+    "cat": "scenicViewpoint",
+    "lon": 1.10431,
+    "lat": 42.2031
+  },
+  {
+    "wikiId": "Q17617763",
+    "name": "Lo Boixegal",
+    "cat": "scenicViewpoint",
+    "lon": 1.00172,
+    "lat": 42.4553
+  },
+  {
+    "wikiId": "Q17618257",
+    "name": "Los Canemassos",
+    "cat": "scenicViewpoint",
+    "lon": 1.14186,
+    "lat": 42.249
+  },
+  {
+    "wikiId": "Q17749081",
+    "name": "Q17749081",
+    "cat": "scenicViewpoint",
+    "lon": 24.564166666,
+    "lat": 71.019444444
+  },
+  {
+    "wikiId": "Q18004799",
+    "name": "Mirador de la Mitja lluna",
+    "cat": "scenicViewpoint",
+    "lon": 2.16778,
+    "lat": 41.4212
+  },
+  {
+    "wikiId": "Q18004800",
+    "name": "Mirador de les Barques",
+    "cat": "scenicViewpoint",
+    "lon": 2.72447,
+    "lat": 39.791
+  },
+  {
+    "wikiId": "Q18007722",
+    "name": "Saviner",
+    "cat": "scenicViewpoint",
+    "lon": 0.930817,
+    "lat": 42.266
+  },
+  {
+    "wikiId": "Q18169675",
+    "name": "Q18169675",
+    "cat": "scenicViewpoint",
+    "lon": 9.063514,
+    "lat": 48.501299
+  },
+  {
+    "wikiId": "Q18191993",
+    "name": "Ophir Overlook",
+    "cat": "scenicViewpoint",
+    "lon": 35.6626,
+    "lat": 32.81490556
+  },
+  {
+    "wikiId": "Q19296457",
+    "name": "Balcões",
+    "cat": "scenicViewpoint",
+    "lon": -16.890281,
+    "lat": 32.741578
+  },
+  {
+    "wikiId": "Q19377887",
+    "name": "Kongens utsikt",
+    "cat": "scenicViewpoint",
+    "lon": 10.3087167,
+    "lat": 60.0494528
+  },
+  {
+    "wikiId": "Q19874276",
+    "name": "Buckeye Vista Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -94.0339,
+    "lat": 34.4131
+  },
+  {
+    "wikiId": "Q19875790",
+    "name": "Mount Coot-tha Lookout",
+    "cat": "scenicViewpoint",
+    "lon": 152.959,
+    "lat": -27.4848
+  },
+  {
+    "wikiId": "Q20044034",
+    "name": "Kumanohana Viewpoint",
+    "cat": "scenicViewpoint",
+    "lon": 141.97896111,
+    "lat": 39.83978611
+  },
+  {
+    "wikiId": "Q20502165",
+    "name": "Q20502165",
+    "cat": "scenicViewpoint",
+    "lon": 35.1451686,
+    "lat": 31.4841278
+  },
+  {
+    "wikiId": "Q20710295",
+    "name": "Sugar Creek Vista Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -94.05583333,
+    "lat": 34.42861111
+  },
+  {
+    "wikiId": "Q21789897",
+    "name": "Mirador de la Rabassada",
+    "cat": "scenicViewpoint",
+    "lon": 2.131245,
+    "lat": 41.4314
+  },
+  {
+    "wikiId": "Q21969411",
+    "name": "Bullers Point Lookout",
+    "cat": "scenicViewpoint",
+    "lon": 146.372,
+    "lat": -37.845
+  },
+  {
+    "wikiId": "Q22691451",
+    "name": "Brockenblick",
+    "cat": "scenicViewpoint",
+    "lon": 10.971582,
+    "lat": 51.785259
+  },
+  {
+    "wikiId": "Q23754147",
+    "name": "Havnø sight view",
+    "cat": "scenicViewpoint",
+    "lon": 10.16573,
+    "lat": 56.70821
+  },
+  {
+    "wikiId": "Q23824372",
+    "name": "Mlynaruv kamen",
+    "cat": "scenicViewpoint",
+    "lon": 14.03134,
+    "lat": 50.59607
+  },
+  {
+    "wikiId": "Q24021235",
+    "name": "El Mirador",
+    "cat": "scenicViewpoint",
+    "lon": -3.47131,
+    "lat": 41.18517
+  },
+  {
+    "wikiId": "Q24940446",
+    "name": "Magnodeno",
+    "cat": "scenicViewpoint",
+    "lon": 9.4400797,
+    "lat": 45.8392408
+  },
+  {
+    "wikiId": "Q24944798",
+    "name": "Pindi Point",
+    "cat": "scenicViewpoint",
+    "lon": 73.368194444,
+    "lat": 33.894944444
+  },
+  {
+    "wikiId": "Q25438522",
+    "name": "Mirante da Granja Guarani",
+    "cat": "scenicViewpoint",
+    "lon": -42.984499,
+    "lat": -22.446411
+  },
+  {
+    "wikiId": "Q25489031",
+    "name": "Hebron Observatory",
+    "cat": "scenicViewpoint",
+    "lon": 35.1022205,
+    "lat": 31.5250691
+  },
+  {
+    "wikiId": "Q25489823",
+    "name": "Nimrod Lookout",
+    "cat": "scenicViewpoint",
+    "lon": 35.53346111,
+    "lat": 32.97208056
+  },
+  {
+    "wikiId": "Q25490599",
+    "name": "Ochberg Lookout",
+    "cat": "scenicViewpoint",
+    "lon": 35.093972222,
+    "lat": 32.602833333
+  },
+  {
+    "wikiId": "Q25583505",
+    "name": "Pfaffenthal Panoramic Elevator",
+    "cat": "scenicViewpoint",
+    "lon": 6.130583,
+    "lat": 49.615528
+  },
+  {
+    "wikiId": "Q26196531",
+    "name": "Washburn Point",
+    "cat": "scenicViewpoint",
+    "lon": -119.572666,
+    "lat": 37.720307
+  },
+  {
+    "wikiId": "Q27181543",
+    "name": "Father Crowley Viewpoint",
+    "cat": "scenicViewpoint",
+    "lon": -117.550457388,
+    "lat": 36.352144575
+  },
+  {
+    "wikiId": "Q27267334",
+    "name": "Dewey Point",
+    "cat": "scenicViewpoint",
+    "lon": -119.652526,
+    "lat": 37.703764
+  },
+  {
+    "wikiId": "Q27861506",
+    "name": "Sieben Linden",
+    "cat": "scenicViewpoint",
+    "lon": 9.347527777,
+    "lat": 48.785388888
+  },
+  {
+    "wikiId": "Q27897729",
+    "name": "Washington Pass Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -120.647377,
+    "lat": 48.52583
+  },
+  {
+    "wikiId": "Q28153656",
+    "name": "Kenney Lake Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -93.842931,
+    "lat": 46.327271
+  },
+  {
+    "wikiId": "Q28373847",
+    "name": "Mirador de la plaça de l'Església",
+    "cat": "scenicViewpoint",
+    "lon": 2.316219444,
+    "lat": 41.479077777
+  },
+  {
+    "wikiId": "Q28779580",
+    "name": "Raisova vyhlídka",
+    "cat": "scenicViewpoint",
+    "lon": 15.127,
+    "lat": 50.561
+  },
+  {
+    "wikiId": "Q28779583",
+    "name": "Q28779583",
+    "cat": "scenicViewpoint",
+    "lon": 15.1205256,
+    "lat": 50.5529931
+  },
+  {
+    "wikiId": "Q28792457",
+    "name": "Q28792457",
+    "cat": "scenicViewpoint",
+    "lon": 15.1930875,
+    "lat": 50.6066514
+  },
+  {
+    "wikiId": "Q28824066",
+    "name": "Q28824066",
+    "cat": "scenicViewpoint",
+    "lon": 14.4652594,
+    "lat": 49.8602164
+  },
+  {
+    "wikiId": "Q29341922",
+    "name": "Komtar Skywalk",
+    "cat": "scenicViewpoint",
+    "lon": 100.32956944,
+    "lat": 5.41455383
+  },
+  {
+    "wikiId": "Q29786714",
+    "name": "Kosmus-Jenny-Ruhe",
+    "cat": "scenicViewpoint",
+    "lon": 9.760056,
+    "lat": 47.485233
+  },
+  {
+    "wikiId": "Q30608967",
+    "name": "Polabská vyhlídka",
+    "cat": "scenicViewpoint",
+    "lon": 15.1900203,
+    "lat": 49.956635
+  },
+  {
+    "wikiId": "Q31339055",
+    "name": "Kleinheppacher Kopf",
+    "cat": "scenicViewpoint",
+    "lon": 9.37915,
+    "lat": 48.83396
+  },
+  {
+    "wikiId": "Q31841331",
+    "name": "Vierseenblick",
+    "cat": "scenicViewpoint",
+    "lon": 7.571111111,
+    "lat": 50.246388888
+  },
+  {
+    "wikiId": "Q32290786",
+    "name": "Schwalbenthal",
+    "cat": "scenicViewpoint",
+    "lon": 9.873888888,
+    "lat": 51.210555555
+  },
+  {
+    "wikiId": "Q38295893",
+    "name": "Mirador Killi Killi",
+    "cat": "scenicViewpoint",
+    "lon": -68.1274447,
+    "lat": -16.4950584
+  },
+  {
+    "wikiId": "Q42328268",
+    "name": "Gacher Blick",
+    "cat": "scenicViewpoint",
+    "lon": 10.6672,
+    "lat": 47.11705
+  },
+  {
+    "wikiId": "Q43159474",
+    "name": "Balcón de Europa",
+    "cat": "scenicViewpoint",
+    "lon": -3.875414,
+    "lat": 36.744168
+  },
+  {
+    "wikiId": "Q46994631",
+    "name": "Alto da Sé, Olinda",
+    "cat": "scenicViewpoint",
+    "lon": -34.849583,
+    "lat": -8.013565
+  },
+  {
+    "wikiId": "Q47990621",
+    "name": "Q47990621",
+    "cat": "scenicViewpoint",
+    "lon": 15.6054117,
+    "lat": 50.4661053
+  },
+  {
+    "wikiId": "Q48742249",
+    "name": "Shilinxia",
+    "cat": "scenicViewpoint",
+    "lon": 117.237222222,
+    "lat": 40.263888888
+  },
+  {
+    "wikiId": "Q48744268",
+    "name": "Reads Landing Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -92.107466,
+    "lat": 44.410128
+  },
+  {
+    "wikiId": "Q48746867",
+    "name": "Ohayashi View Park",
+    "cat": "scenicViewpoint",
+    "lon": 139.15083333,
+    "lat": 35.14388889
+  },
+  {
+    "wikiId": "Q48812786",
+    "name": "Varyant",
+    "cat": "scenicViewpoint",
+    "lon": 27.126805555,
+    "lat": 38.414027777
+  },
+  {
+    "wikiId": "Q49003947",
+    "name": "Q49003947",
+    "cat": "scenicViewpoint",
+    "lon": 12.083333333,
+    "lat": 52.216666666
+  },
+  {
+    "wikiId": "Q49004107",
+    "name": "Mitzpe Shivta",
+    "cat": "scenicViewpoint",
+    "lon": 34.61,
+    "lat": 30.91732
+  },
+  {
+    "wikiId": "Q49058143",
+    "name": "Observation Point",
+    "cat": "scenicViewpoint",
+    "lon": -112.94022,
+    "lat": 37.27832
+  },
+  {
+    "wikiId": "Q49467492",
+    "name": "Balanced Rock View",
+    "cat": "scenicViewpoint",
+    "lon": -107.697201,
+    "lat": 38.576243
+  },
+  {
+    "wikiId": "Q49468000",
+    "name": "Cedar Point",
+    "cat": "scenicViewpoint",
+    "lon": -107.722827,
+    "lat": 38.577116
+  },
+  {
+    "wikiId": "Q49468079",
+    "name": "Chasm View",
+    "cat": "scenicViewpoint",
+    "lon": -107.714381,
+    "lat": 38.581472
+  },
+  {
+    "wikiId": "Q49468114",
+    "name": "Chinde Point",
+    "cat": "scenicViewpoint",
+    "lon": -109.79601844,
+    "lat": 35.086933946
+  },
+  {
+    "wikiId": "Q49468827",
+    "name": "Grandview Point",
+    "cat": "scenicViewpoint",
+    "lon": -111.986,
+    "lat": 35.99609
+  },
+  {
+    "wikiId": "Q49468899",
+    "name": "Gunnison Point",
+    "cat": "scenicViewpoint",
+    "lon": -107.686666666,
+    "lat": 38.555277777
+  },
+  {
+    "wikiId": "Q49469048",
+    "name": "Hopi Point",
+    "cat": "scenicViewpoint",
+    "lon": -112.15461,
+    "lat": 36.07609
+  },
+  {
+    "wikiId": "Q49469155",
+    "name": "Island Peaks View",
+    "cat": "scenicViewpoint",
+    "lon": -107.690303,
+    "lat": 38.567289
+  },
+  {
+    "wikiId": "Q49469331",
+    "name": "Lacey Point",
+    "cat": "scenicViewpoint",
+    "lon": -109.802632403,
+    "lat": 35.063078057
+  },
+  {
+    "wikiId": "Q49469814",
+    "name": "Nizhoni Point",
+    "cat": "scenicViewpoint",
+    "lon": -109.794586451,
+    "lat": 35.069004686
+  },
+  {
+    "wikiId": "Q49470090",
+    "name": "Pintado Point",
+    "cat": "scenicViewpoint",
+    "lon": -109.801581374,
+    "lat": 35.081528067
+  },
+  {
+    "wikiId": "Q49470908",
+    "name": "Sunrise Point",
+    "cat": "scenicViewpoint",
+    "lon": -121.58748,
+    "lat": 46.917657
+  },
+  {
+    "wikiId": "Q49470918",
+    "name": "Sunset View",
+    "cat": "scenicViewpoint",
+    "lon": -107.733747,
+    "lat": 38.569259
+  },
+  {
+    "wikiId": "Q49470975",
+    "name": "Tawa Point",
+    "cat": "scenicViewpoint",
+    "lon": -109.783425918,
+    "lat": 35.081084844
+  },
+  {
+    "wikiId": "Q49471229",
+    "name": "Tiponi Point",
+    "cat": "scenicViewpoint",
+    "lon": -109.780258835,
+    "lat": 35.072244198
+  },
+  {
+    "wikiId": "Q49471246",
+    "name": "Tomichi Point",
+    "cat": "scenicViewpoint",
+    "lon": -107.686565,
+    "lat": 38.550487
+  },
+  {
+    "wikiId": "Q49484646",
+    "name": "Dutch Branch Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -84.348333333,
+    "lat": 36.960833333
+  },
+  {
+    "wikiId": "Q49495236",
+    "name": "Granite Falls Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -95.545021,
+    "lat": 44.805297
+  },
+  {
+    "wikiId": "Q49526957",
+    "name": "Minnesota River Valley Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -95.511111111,
+    "lat": 44.801111111
+  },
+  {
+    "wikiId": "Q49531140",
+    "name": "New Duluth Scenic Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -92.227777777,
+    "lat": 46.654166666
+  },
+  {
+    "wikiId": "Q49542655",
+    "name": "Pillsbury Mine Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -92.904722222,
+    "lat": 47.475277777
+  },
+  {
+    "wikiId": "Q49550194",
+    "name": "Ridgeway Parkway Park",
+    "cat": "scenicViewpoint",
+    "lon": -93.218055555,
+    "lat": 45.001666666
+  },
+  {
+    "wikiId": "Q49564458",
+    "name": "Split Rock Lighthouse Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -91.379456,
+    "lat": 47.199445
+  },
+  {
+    "wikiId": "Q49566703",
+    "name": "Stony Hill Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -150.224444444,
+    "lat": 63.457777777
+  },
+  {
+    "wikiId": "Q49569275",
+    "name": "Taylors Falls South Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -92.652222222,
+    "lat": 45.4
+  },
+  {
+    "wikiId": "Q49838656",
+    "name": "Amphitheater Point",
+    "cat": "scenicViewpoint",
+    "lon": -118.782255789,
+    "lat": 36.536456323
+  },
+  {
+    "wikiId": "Q50649344",
+    "name": "Foveaux-Häuschen",
+    "cat": "scenicViewpoint",
+    "lon": 7.15725,
+    "lat": 50.731077777
+  },
+  {
+    "wikiId": "Q50751314",
+    "name": "Zucco Sileggio",
+    "cat": "scenicViewpoint",
+    "lon": 9.336308362,
+    "lat": 45.946958665
+  },
+  {
+    "wikiId": "Q53755113",
+    "name": "Sotol Vista Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -103.3768447,
+    "lat": 29.2146457
+  },
+  {
+    "wikiId": "Q56284608",
+    "name": "Belvedere di Pietraperzia",
+    "cat": "scenicViewpoint",
+    "lon": 14.1351855,
+    "lat": 37.4232327
+  },
+  {
+    "wikiId": "Q56561973",
+    "name": "Q56561973",
+    "cat": "scenicViewpoint",
+    "lon": 18.1630553,
+    "lat": 49.5838883
+  },
+  {
+    "wikiId": "Q57984383",
+    "name": "Ventano del Diablo",
+    "cat": "scenicViewpoint",
+    "lon": -2.071263888,
+    "lat": 40.238755555
+  },
+  {
+    "wikiId": "Q60489533",
+    "name": "Makalös",
+    "cat": "scenicViewpoint",
+    "lon": 18.10087,
+    "lat": 59.3278
+  },
+  {
+    "wikiId": "Q60628953",
+    "name": "Glorieta-mirador del Alférez Rojas Navarrete",
+    "cat": "scenicViewpoint",
+    "lon": -3.373335,
+    "lat": 38.006481
+  },
+  {
+    "wikiId": "Q61069115",
+    "name": "Q61069115",
+    "cat": "scenicViewpoint",
+    "lon": -1.276127777,
+    "lat": 42.927591666
+  },
+  {
+    "wikiId": "Q61703842",
+    "name": "Q61703842",
+    "cat": "scenicViewpoint",
+    "lon": 11.05275,
+    "lat": 49.525305555
+  },
+  {
+    "wikiId": "Q61745476",
+    "name": "Mirador de la Cerdanya",
+    "cat": "scenicViewpoint",
+    "lon": 1.927033,
+    "lat": 42.43118
+  },
+  {
+    "wikiId": "Q61745637",
+    "name": "Tor ins Remstal",
+    "cat": "scenicViewpoint",
+    "lon": 9.330784,
+    "lat": 48.779362
+  },
+  {
+    "wikiId": "Q61793586",
+    "name": "Labská stráž",
+    "cat": "scenicViewpoint",
+    "lon": 14.2353233,
+    "lat": 50.7890428
+  },
+  {
+    "wikiId": "Q61948692",
+    "name": "Strike Valley Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -111.0590477,
+    "lat": 37.8838769
+  },
+  {
+    "wikiId": "Q62073199",
+    "name": "Grand View Point Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -109.849011,
+    "lat": 38.3222074
+  },
+  {
+    "wikiId": "Q62083754",
+    "name": "Observation platform at Dobeška hill",
+    "cat": "scenicViewpoint",
+    "lon": 14.4137244,
+    "lat": 50.0424519
+  },
+  {
+    "wikiId": "Q62086758",
+    "name": "The Needles Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -109.6851185,
+    "lat": 38.2827643
+  },
+  {
+    "wikiId": "Q62266099",
+    "name": "Fünfländerblick",
+    "cat": "scenicViewpoint",
+    "lon": 9.514472222,
+    "lat": 47.4565
+  },
+  {
+    "wikiId": "Q62414792",
+    "name": "Q62414792",
+    "cat": "scenicViewpoint",
+    "lon": 16.5986886,
+    "lat": 49.1936897
+  },
+  {
+    "wikiId": "Q63183310",
+    "name": "Cockwood Steps",
+    "cat": "scenicViewpoint",
+    "lon": -3.445904,
+    "lat": 50.614557
+  },
+  {
+    "wikiId": "Q63229953",
+    "name": "Mirante do Sacopã",
+    "cat": "scenicViewpoint",
+    "lon": -43.20566,
+    "lat": -22.97171
+  },
+  {
+    "wikiId": "Q63819544",
+    "name": "Q63819544",
+    "cat": "scenicViewpoint",
+    "lon": 10.19487,
+    "lat": 49.8455
+  },
+  {
+    "wikiId": "Q63891451",
+    "name": "Mirador de Ortuña",
+    "cat": "scenicViewpoint",
+    "lon": -16.423777777,
+    "lat": 28.405805555
+  },
+  {
+    "wikiId": "Q63891898",
+    "name": "Mirador de Chimague",
+    "cat": "scenicViewpoint",
+    "lon": -16.459527777,
+    "lat": 28.373166666
+  },
+  {
+    "wikiId": "Q63892086",
+    "name": "Mirador de Chipeque",
+    "cat": "scenicViewpoint",
+    "lon": -16.463888888,
+    "lat": 28.374
+  },
+  {
+    "wikiId": "Q63892387",
+    "name": "Mirador de Izana",
+    "cat": "scenicViewpoint",
+    "lon": -16.489611111,
+    "lat": 28.329944444
+  },
+  {
+    "wikiId": "Q64342035",
+    "name": "Mitzpe Ha'masuot",
+    "cat": "scenicViewpoint",
+    "lon": 35.246944444,
+    "lat": 31.788944444
+  },
+  {
+    "wikiId": "Q64711061",
+    "name": "Petr Veliký lookout",
+    "cat": "scenicViewpoint",
+    "lon": 12.8794203,
+    "lat": 50.2227561
+  },
+  {
+    "wikiId": "Q64841048",
+    "name": "Columbia Icefield Skywalk",
+    "cat": "scenicViewpoint",
+    "lon": -117.278055555,
+    "lat": 52.259166666
+  },
+  {
+    "wikiId": "Q64841090",
+    "name": "Gulongxia observation deck",
+    "cat": "scenicViewpoint",
+    "lon": 112.956111111,
+    "lat": 23.778333333
+  },
+  {
+    "wikiId": "Q64847793",
+    "name": "Utsikten",
+    "cat": "scenicViewpoint",
+    "lon": 6.518611111,
+    "lat": 61.351388888
+  },
+  {
+    "wikiId": "Q65016208",
+    "name": "Mirador de San Nicolas, Granada",
+    "cat": "scenicViewpoint",
+    "lon": -3.59266,
+    "lat": 37.18112
+  },
+  {
+    "wikiId": "Q65279903",
+    "name": "Q65279903",
+    "cat": "scenicViewpoint",
+    "lon": 140.258694444,
+    "lat": 38.148277777
+  },
+  {
+    "wikiId": "Q65640450",
+    "name": "Mount Adir Lookout",
+    "cat": "scenicViewpoint",
+    "lon": 35.413141,
+    "lat": 32.997866
+  },
+  {
+    "wikiId": "Q65956393",
+    "name": "Q65956393",
+    "cat": "scenicViewpoint",
+    "lon": 13.254972,
+    "lat": 46.714785
+  },
+  {
+    "wikiId": "Q66384866",
+    "name": "Mirador Roc del Quer",
+    "cat": "scenicViewpoint",
+    "lon": 1.590994,
+    "lat": 42.567253
+  },
+  {
+    "wikiId": "Q66614421",
+    "name": "Kwinana Lookout",
+    "cat": "scenicViewpoint",
+    "lon": 115.796805555,
+    "lat": -32.262472222
+  },
+  {
+    "wikiId": "Q66614460",
+    "name": "Chalk Hill Lookout, Medina",
+    "cat": "scenicViewpoint",
+    "lon": 115.795166666,
+    "lat": -32.237138888
+  },
+  {
+    "wikiId": "Q66692186",
+    "name": "Mirador de Jardina",
+    "cat": "scenicViewpoint",
+    "lon": -16.2882,
+    "lat": 28.52397
+  },
+  {
+    "wikiId": "Q66965689",
+    "name": "Miradouro do Portinho da Arrábida",
+    "cat": "scenicViewpoint",
+    "lon": -8.989333333,
+    "lat": 38.481472222
+  },
+  {
+    "wikiId": "Q66988283",
+    "name": "Spiraltoppen",
+    "cat": "scenicViewpoint",
+    "lon": 10.201764,
+    "lat": 59.753103
+  },
+  {
+    "wikiId": "Q67454961",
+    "name": "Casal de Loivos viewpoint",
+    "cat": "scenicViewpoint",
+    "lon": -7.53168,
+    "lat": 41.19882
+  },
+  {
+    "wikiId": "Q69602834",
+    "name": "Whipple Point",
+    "cat": "scenicViewpoint",
+    "lon": -109.797219299,
+    "lat": 35.066610156
+  },
+  {
+    "wikiId": "Q69621960",
+    "name": "Diablo Lake Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -121.096129,
+    "lat": 48.710295
+  },
+  {
+    "wikiId": "Q69640488",
+    "name": "Skookum Falls Viewpoint",
+    "cat": "scenicViewpoint",
+    "lon": -121.572067,
+    "lat": 47.05279
+  },
+  {
+    "wikiId": "Q70787316",
+    "name": "Steinitzer Treppe",
+    "cat": "scenicViewpoint",
+    "lon": 14.221305555,
+    "lat": 51.622444444
+  },
+  {
+    "wikiId": "Q71664592",
+    "name": "Mount Brown lookout",
+    "cat": "scenicViewpoint",
+    "lon": 115.785863888,
+    "lat": -32.180761111
+  },
+  {
+    "wikiId": "Q71695445",
+    "name": "Bookcliff Shelter",
+    "cat": "scenicViewpoint",
+    "lon": -108.72733,
+    "lat": 39.103971
+  },
+  {
+    "wikiId": "Q72623890",
+    "name": "Mirador de Ismail",
+    "cat": "scenicViewpoint",
+    "lon": -3.585807,
+    "lat": 37.178279
+  },
+  {
+    "wikiId": "Q72873556",
+    "name": "Kaiser's Throne",
+    "cat": "scenicViewpoint",
+    "lon": 19.821388888,
+    "lat": 39.594444444
+  },
+  {
+    "wikiId": "Q73364382",
+    "name": "Aussichtspunkt auf das Saartal",
+    "cat": "scenicViewpoint",
+    "lon": 7.02797,
+    "lat": 49.22322
+  },
+  {
+    "wikiId": "Q74374350",
+    "name": "Teufelskanzel",
+    "cat": "scenicViewpoint",
+    "lon": 7.0506596,
+    "lat": 49.1501197
+  },
+  {
+    "wikiId": "Q74415797",
+    "name": "Bliesgau view",
+    "cat": "scenicViewpoint",
+    "lon": 7.0729138,
+    "lat": 49.1480566
+  },
+  {
+    "wikiId": "Q74425351",
+    "name": "Picnic area Vosges view",
+    "cat": "scenicViewpoint",
+    "lon": 7.06146,
+    "lat": 49.15203
+  },
+  {
+    "wikiId": "Q74426275",
+    "name": "Blick auf Frankreich",
+    "cat": "scenicViewpoint",
+    "lon": 7.0485648,
+    "lat": 49.150967
+  },
+  {
+    "wikiId": "Q75839433",
+    "name": "Miradouro de São João das Arribas",
+    "cat": "scenicViewpoint",
+    "lon": -6.222525,
+    "lat": 41.539878
+  },
+  {
+    "wikiId": "Q75852390",
+    "name": "Miradouro  de la Peinha de l Puio",
+    "cat": "scenicViewpoint",
+    "lon": -6.367473,
+    "lat": 41.397487
+  },
+  {
+    "wikiId": "Q75853179",
+    "name": "Miradouro de Freixiosa",
+    "cat": "scenicViewpoint",
+    "lon": -6.307793,
+    "lat": 41.424609
+  },
+  {
+    "wikiId": "Q75873566",
+    "name": "Q75873566",
+    "cat": "scenicViewpoint",
+    "lon": -70.609505,
+    "lat": -33.40399
+  },
+  {
+    "wikiId": "Q76332389",
+    "name": "Rumcajsova vyhlidka",
+    "cat": "scenicViewpoint",
+    "lon": 15.2961092,
+    "lat": 50.4669742
+  },
+  {
+    "wikiId": "Q76332843",
+    "name": "Křížkovského vyhlídka",
+    "cat": "scenicViewpoint",
+    "lon": 15.2992453,
+    "lat": 50.4663253
+  },
+  {
+    "wikiId": "Q76333512",
+    "name": "Hlaholská vyhlídka",
+    "cat": "scenicViewpoint",
+    "lon": 15.2956022,
+    "lat": 50.4670025
+  },
+  {
+    "wikiId": "Q76403114",
+    "name": "Q76403114",
+    "cat": "scenicViewpoint",
+    "lon": 15.2961808,
+    "lat": 50.4671897
+  },
+  {
+    "wikiId": "Q76406609",
+    "name": "Všetečkova vyhlídka",
+    "cat": "scenicViewpoint",
+    "lon": 15.2907153,
+    "lat": 50.4676989
+  },
+  {
+    "wikiId": "Q76406754",
+    "name": "Q76406754",
+    "cat": "scenicViewpoint",
+    "lon": 15.2904364,
+    "lat": 50.4678922
+  },
+  {
+    "wikiId": "Q76406876",
+    "name": "Q76406876",
+    "cat": "scenicViewpoint",
+    "lon": 15.2911608,
+    "lat": 50.4665789
+  },
+  {
+    "wikiId": "Q76407079",
+    "name": "Q76407079",
+    "cat": "scenicViewpoint",
+    "lon": 15.2896292,
+    "lat": 50.4666989
+  },
+  {
+    "wikiId": "Q76632621",
+    "name": "Q76632621",
+    "cat": "scenicViewpoint",
+    "lon": 12.58413,
+    "lat": 52.13746
+  },
+  {
+    "wikiId": "Q77897448",
+    "name": "Morro da Campina",
+    "cat": "scenicViewpoint",
+    "lon": -46.2516653,
+    "lat": -23.9951895
+  },
+  {
+    "wikiId": "Q78335611",
+    "name": "Hilschbachblick",
+    "cat": "scenicViewpoint",
+    "lon": 6.96041,
+    "lat": 49.317898
+  },
+  {
+    "wikiId": "Q78341010",
+    "name": "Q78341010",
+    "cat": "scenicViewpoint",
+    "lon": 15.2153986,
+    "lat": 50.861195
+  },
+  {
+    "wikiId": "Q78930486",
+    "name": "Hanging Rock Lookout",
+    "cat": "scenicViewpoint",
+    "lon": 150.590436,
+    "lat": -34.872586
+  },
+  {
+    "wikiId": "Q81603066",
+    "name": "Moruya Heads lookout",
+    "cat": "scenicViewpoint",
+    "lon": 150.161,
+    "lat": -35.908636
+  },
+  {
+    "wikiId": "Q81603841",
+    "name": "Sublime Point Lookout",
+    "cat": "scenicViewpoint",
+    "lon": 150.925294,
+    "lat": -34.296801
+  },
+  {
+    "wikiId": "Q84081994",
+    "name": "Goldberg (Hohendorf)",
+    "cat": "scenicViewpoint",
+    "lon": 11.7674,
+    "lat": 50.9557
+  },
+  {
+    "wikiId": "Q84972713",
+    "name": "Mirante da Santana",
+    "cat": "scenicViewpoint",
+    "lon": -48.69785,
+    "lat": -24.53682
+  },
+  {
+    "wikiId": "Q85287025",
+    "name": "Las Teresitas Viewpoint",
+    "cat": "scenicViewpoint",
+    "lon": -16.179027777,
+    "lat": 28.512138888
+  },
+  {
+    "wikiId": "Q85513309",
+    "name": "Mirador del Puertito de Güimar",
+    "cat": "scenicViewpoint",
+    "lon": -16.40173,
+    "lat": 28.28937
+  },
+  {
+    "wikiId": "Q85847511",
+    "name": "Suryachaur",
+    "cat": "scenicViewpoint",
+    "lon": 85.3105702,
+    "lat": 27.8232055
+  },
+  {
+    "wikiId": "Q87196999",
+    "name": "Eltinger Blick",
+    "cat": "scenicViewpoint",
+    "lon": 8.9835,
+    "lat": 48.77605
+  },
+  {
+    "wikiId": "Q87456360",
+    "name": "Mirante Niemeyer (Pampulha)",
+    "cat": "scenicViewpoint",
+    "lon": -43.979941666,
+    "lat": -19.855588888
+  },
+  {
+    "wikiId": "Q91465135",
+    "name": "Patton's Run Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -83.681384,
+    "lat": 35.277554
+  },
+  {
+    "wikiId": "Q91604937",
+    "name": "Bielsteinklippe",
+    "cat": "scenicViewpoint",
+    "lon": 10.925555555,
+    "lat": 51.782777777
+  },
+  {
+    "wikiId": "Q91791385",
+    "name": "Rim of the World Vista",
+    "cat": "scenicViewpoint",
+    "lon": -120.039153,
+    "lat": 37.821949
+  },
+  {
+    "wikiId": "Q92239202",
+    "name": "Fineview Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -80.00423,
+    "lat": 40.46047
+  },
+  {
+    "wikiId": "Q92432250",
+    "name": "Q92432250",
+    "cat": "scenicViewpoint",
+    "lon": 13.8399142,
+    "lat": 49.5842661
+  },
+  {
+    "wikiId": "Q93080403",
+    "name": "Q93080403",
+    "cat": "scenicViewpoint",
+    "lon": 13.8174658,
+    "lat": 49.6551208
+  },
+  {
+    "wikiId": "Q93278475",
+    "name": "Leopoldwarte",
+    "cat": "scenicViewpoint",
+    "lon": 15.4044124,
+    "lat": 48.016901
+  },
+  {
+    "wikiId": "Q93483795",
+    "name": "Q93483795",
+    "cat": "scenicViewpoint",
+    "lon": 13.8567081,
+    "lat": 50.6828797
+  },
+  {
+    "wikiId": "Q95402374",
+    "name": "Therenberg",
+    "cat": "scenicViewpoint",
+    "lon": 9.642894444,
+    "lat": 47.327397222
+  },
+  {
+    "wikiId": "Q95869010",
+    "name": "Sachsens Hiefel",
+    "cat": "scenicViewpoint",
+    "lon": 13.86252,
+    "lat": 51.02638
+  },
+  {
+    "wikiId": "Q96313097",
+    "name": "Q96313097",
+    "cat": "scenicViewpoint",
+    "lon": 14.4043622,
+    "lat": 49.7398242
+  },
+  {
+    "wikiId": "Q96678995",
+    "name": "Mirador de las Minas de San José",
+    "cat": "scenicViewpoint",
+    "lon": -16.588611111,
+    "lat": 28.26575
+  },
+  {
+    "wikiId": "Q96781804",
+    "name": "Q96781804",
+    "cat": "scenicViewpoint",
+    "lon": 16.3070889,
+    "lat": 50.0778203
+  },
+  {
+    "wikiId": "Q96979780",
+    "name": "Roc Suzadou",
+    "cat": "scenicViewpoint",
+    "lon": 2.622222,
+    "lat": 43.419167
+  },
+  {
+    "wikiId": "Q97031998",
+    "name": "Yosemite Creek Footbridge",
+    "cat": "scenicViewpoint",
+    "lon": -119.595672,
+    "lat": 37.749994
+  },
+  {
+    "wikiId": "Q97067081",
+    "name": "Buderhoehe",
+    "cat": "scenicViewpoint",
+    "lon": 9.690508333,
+    "lat": 47.162338888
+  },
+  {
+    "wikiId": "Q97428648",
+    "name": "Bacon Hollow Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.5816819,
+    "lat": 38.3215175
+  },
+  {
+    "wikiId": "Q97429097",
+    "name": "Baldface Mountain Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.5075106,
+    "lat": 38.3970717
+  },
+  {
+    "wikiId": "Q97429356",
+    "name": "Beldor Hollow Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.6197394,
+    "lat": 38.3126287
+  },
+  {
+    "wikiId": "Q97429568",
+    "name": "Big Run Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.6841872,
+    "lat": 38.2537411
+  },
+  {
+    "wikiId": "Q97429813",
+    "name": "Brown Mountain Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.6577969,
+    "lat": 38.2926291
+  },
+  {
+    "wikiId": "Q97430238",
+    "name": "Browntown Valley Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.1977781,
+    "lat": 38.7845609
+  },
+  {
+    "wikiId": "Q97430479",
+    "name": "Buck Hollow Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.3075033,
+    "lat": 38.6453986
+  },
+  {
+    "wikiId": "Q97430667",
+    "name": "Calf Mountain Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.8025223,
+    "lat": 38.0776363
+  },
+  {
+    "wikiId": "Q97431146",
+    "name": "Crescent Rock Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.3827833,
+    "lat": 38.5623454
+  },
+  {
+    "wikiId": "Q97431151",
+    "name": "Crimora Lake Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.7761338,
+    "lat": 38.146245
+  },
+  {
+    "wikiId": "Q97431155",
+    "name": "Doyles River Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.6936321,
+    "lat": 38.2470746
+  },
+  {
+    "wikiId": "Q97451020",
+    "name": "Q97451020",
+    "cat": "scenicViewpoint",
+    "lon": 7.03983,
+    "lat": 49.23082
+  },
+  {
+    "wikiId": "Q97460198",
+    "name": "Emmons Vista Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -121.642093,
+    "lat": 46.912586
+  },
+  {
+    "wikiId": "Q97477750",
+    "name": "Dundo Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.721411,
+    "lat": 38.2342973
+  },
+  {
+    "wikiId": "Q97477775",
+    "name": "Eaton Hollow Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.6036274,
+    "lat": 38.3220729
+  },
+  {
+    "wikiId": "Q97477784",
+    "name": "Franklin Cliffs Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.4191731,
+    "lat": 38.5367907
+  },
+  {
+    "wikiId": "Q97477785",
+    "name": "Gimlet Ridge Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.2455568,
+    "lat": 38.7634508
+  },
+  {
+    "wikiId": "Q97477786",
+    "name": "Gooney Manor Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.2030559,
+    "lat": 38.8365035
+  },
+  {
+    "wikiId": "Q97477787",
+    "name": "Gooney Run Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.2069449,
+    "lat": 38.8423366
+  },
+  {
+    "wikiId": "Q97477788",
+    "name": "Hazel Mountain Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.3094478,
+    "lat": 38.6431765
+  },
+  {
+    "wikiId": "Q98199302",
+    "name": "Tomkins Knob Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -81.465946,
+    "lat": 36.244237
+  },
+  {
+    "wikiId": "Q98199427",
+    "name": "Elk Mountain Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -81.48651,
+    "lat": 36.232766
+  },
+  {
+    "wikiId": "Q98214966",
+    "name": "Rimrock Picnic Area Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -78.946451,
+    "lat": 41.843174
+  },
+  {
+    "wikiId": "Q98215444",
+    "name": "Lilly Bluff Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -84.717621,
+    "lat": 36.100788
+  },
+  {
+    "wikiId": "Q98243822",
+    "name": "Medicine Bow Curve",
+    "cat": "scenicViewpoint",
+    "lon": -105.754327,
+    "lat": 40.447253
+  },
+  {
+    "wikiId": "Q98244342",
+    "name": "Farview Curve",
+    "cat": "scenicViewpoint",
+    "lon": -105.835282,
+    "lat": 40.399266
+  },
+  {
+    "wikiId": "Q98244696",
+    "name": "Many Parks Curve",
+    "cat": "scenicViewpoint",
+    "lon": -105.631255,
+    "lat": 40.387286
+  },
+  {
+    "wikiId": "Q98245292",
+    "name": "Gore Range Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -105.768503,
+    "lat": 40.432641
+  },
+  {
+    "wikiId": "Q98245662",
+    "name": "Lava Cliffs Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -105.753783,
+    "lat": 40.424809
+  },
+  {
+    "wikiId": "Q98245680",
+    "name": "Rainbow Curve",
+    "cat": "scenicViewpoint",
+    "lon": -105.663483,
+    "lat": 40.400381
+  },
+  {
+    "wikiId": "Q98245704",
+    "name": "Hermits Rest Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -107.518478,
+    "lat": 38.463338
+  },
+  {
+    "wikiId": "Q98245706",
+    "name": "Pioneer Point Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -107.413406,
+    "lat": 38.45277
+  },
+  {
+    "wikiId": "Q98245721",
+    "name": "Blue Mesa Dam Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -107.343251,
+    "lat": 38.452639
+  },
+  {
+    "wikiId": "Q98251510",
+    "name": "La Sal Mountains Viewpoint",
+    "cat": "scenicViewpoint",
+    "lon": -109.591284,
+    "lat": 38.626967
+  },
+  {
+    "wikiId": "Q98252037",
+    "name": "Park Avenue Viewpoint",
+    "cat": "scenicViewpoint",
+    "lon": -109.599792,
+    "lat": 38.625292
+  },
+  {
+    "wikiId": "Q98254889",
+    "name": "Courthouse Towers Viewpoint",
+    "cat": "scenicViewpoint",
+    "lon": -109.600219,
+    "lat": 38.637062
+  },
+  {
+    "wikiId": "Q98257849",
+    "name": "Petrified Dunes Viewpoint",
+    "cat": "scenicViewpoint",
+    "lon": -109.587505,
+    "lat": 38.665721
+  },
+  {
+    "wikiId": "Q98259269",
+    "name": "Panorama Point",
+    "cat": "scenicViewpoint",
+    "lon": -109.554125,
+    "lat": 38.719353
+  },
+  {
+    "wikiId": "Q98260778",
+    "name": "Cache Valley Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -109.538919,
+    "lat": 38.726265
+  },
+  {
+    "wikiId": "Q98264893",
+    "name": "Salt Valley Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -109.570761,
+    "lat": 38.740183
+  },
+  {
+    "wikiId": "Q98265579",
+    "name": "Fiery Furnace Viewpoint",
+    "cat": "scenicViewpoint",
+    "lon": -109.564664,
+    "lat": 38.742292
+  },
+  {
+    "wikiId": "Q98265909",
+    "name": "Wooden Shoe Arch Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -109.781642,
+    "lat": 38.150414
+  },
+  {
+    "wikiId": "Q98266324",
+    "name": "Big Spring Canyon Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -109.8172562,
+    "lat": 38.1783471
+  },
+  {
+    "wikiId": "Q98266780",
+    "name": "High Bluff Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -124.079302777,
+    "lat": 41.509475
+  },
+  {
+    "wikiId": "Q98267264",
+    "name": "Narrows View",
+    "cat": "scenicViewpoint",
+    "lon": -107.699376,
+    "lat": 38.577355
+  },
+  {
+    "wikiId": "Q98268711",
+    "name": "Big Island View",
+    "cat": "scenicViewpoint",
+    "lon": -107.694642,
+    "lat": 38.572899
+  },
+  {
+    "wikiId": "Q98270523",
+    "name": "Independence Pass Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -106.563296,
+    "lat": 39.106103
+  },
+  {
+    "wikiId": "Q98270692",
+    "name": "Bunchgrass Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -121.524793,
+    "lat": 41.720523
+  },
+  {
+    "wikiId": "Q98270735",
+    "name": "Devils Homestead Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -121.562043,
+    "lat": 41.792964
+  },
+  {
+    "wikiId": "Q98270809",
+    "name": "Mule Ears Viewpoint",
+    "cat": "scenicViewpoint",
+    "lon": -103.435427,
+    "lat": 29.166334
+  },
+  {
+    "wikiId": "Q98271145",
+    "name": "Boquillas Canyon Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -102.923872,
+    "lat": 29.194236
+  },
+  {
+    "wikiId": "Q98271160",
+    "name": "Rio Grande Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -102.974382,
+    "lat": 29.200325
+  },
+  {
+    "wikiId": "Q98271238",
+    "name": "Walnut Canyon Vista",
+    "cat": "scenicViewpoint",
+    "lon": -104.433946,
+    "lat": 32.183111
+  },
+  {
+    "wikiId": "Q98271265",
+    "name": "Rattlesnake Canyon Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -104.504954,
+    "lat": 32.168264
+  },
+  {
+    "wikiId": "Q98271536",
+    "name": "Tunnel Vista Observation Site",
+    "cat": "scenicViewpoint",
+    "lon": -105.860302,
+    "lat": 32.946286
+  },
+  {
+    "wikiId": "Q98279657",
+    "name": "Elephant Seal Vista Point",
+    "cat": "scenicViewpoint",
+    "lon": -121.258696,
+    "lat": 35.663727
+  },
+  {
+    "wikiId": "Q98338341",
+    "name": "La Crescent Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -91.302533,
+    "lat": 43.829208
+  },
+  {
+    "wikiId": "Q98399367",
+    "name": "Pindarplatz",
+    "cat": "scenicViewpoint",
+    "lon": 10.729,
+    "lat": 47.553
+  },
+  {
+    "wikiId": "Q98550937",
+    "name": "Wilsonova skála",
+    "cat": "scenicViewpoint",
+    "lon": 16.08978,
+    "lat": 49.161528
+  },
+  {
+    "wikiId": "Q98556688",
+    "name": "Lions Lookout",
+    "cat": "scenicViewpoint",
+    "lon": 150.899411,
+    "lat": -33.908339
+  },
+  {
+    "wikiId": "Q98556979",
+    "name": "Mirador de la Desembocadura",
+    "cat": "scenicViewpoint",
+    "lon": 2.131885,
+    "lat": 41.301248
+  },
+  {
+    "wikiId": "Q98556984",
+    "name": "Mirador de Cal Beitas",
+    "cat": "scenicViewpoint",
+    "lon": 2.12798953,
+    "lat": 41.303417375
+  },
+  {
+    "wikiId": "Q98556991",
+    "name": "Mirador de la Fillola Quatre Hores",
+    "cat": "scenicViewpoint",
+    "lon": 2.1192348,
+    "lat": 41.305633773
+  },
+  {
+    "wikiId": "Q98557004",
+    "name": "Mirador de Cal Lluquer",
+    "cat": "scenicViewpoint",
+    "lon": 2.116258,
+    "lat": 41.312734
+  },
+  {
+    "wikiId": "Q98557024",
+    "name": "Mirador de la Bunyola",
+    "cat": "scenicViewpoint",
+    "lon": 2.124679684,
+    "lat": 41.29653397
+  },
+  {
+    "wikiId": "Q98557035",
+    "name": "Mirador de l'Estany de l'Illa",
+    "cat": "scenicViewpoint",
+    "lon": 2.105968594,
+    "lat": 41.288339837
+  },
+  {
+    "wikiId": "Q98557049",
+    "name": "Mirador d'Avions",
+    "cat": "scenicViewpoint",
+    "lon": 2.11001873,
+    "lat": 41.308253056
+  },
+  {
+    "wikiId": "Q98557053",
+    "name": "Mirador d'avions per a spotters",
+    "cat": "scenicViewpoint",
+    "lon": 2.107347,
+    "lat": 41.304461
+  },
+  {
+    "wikiId": "Q98557098",
+    "name": "Mirador de la platja",
+    "cat": "scenicViewpoint",
+    "lon": 2.084408998,
+    "lat": 41.280922716
+  },
+  {
+    "wikiId": "Q98557756",
+    "name": "Kazatelna",
+    "cat": "scenicViewpoint",
+    "lon": 12.8664083,
+    "lat": 50.2118328
+  },
+  {
+    "wikiId": "Q98558249",
+    "name": "Na Skalce",
+    "cat": "scenicViewpoint",
+    "lon": 12.8407117,
+    "lat": 50.2196233
+  },
+  {
+    "wikiId": "Q98565080",
+    "name": "Saddleback Mountain Lookout",
+    "cat": "scenicViewpoint",
+    "lon": 150.79248,
+    "lat": -34.69838
+  },
+  {
+    "wikiId": "Q98588179",
+    "name": "Nad Lomem",
+    "cat": "scenicViewpoint",
+    "lon": 12.8377364,
+    "lat": 50.2080383
+  },
+  {
+    "wikiId": "Q98592829",
+    "name": "Pod Ottovou výšinou",
+    "cat": "scenicViewpoint",
+    "lon": 12.8923694,
+    "lat": 50.2274083
+  },
+  {
+    "wikiId": "Q98611183",
+    "name": "Viewing platform on top of Alexandrovsky building",
+    "cat": "scenicViewpoint",
+    "lon": 30.463526,
+    "lat": 50.423345
+  },
+  {
+    "wikiId": "Q98613652",
+    "name": "Bungoona Lookout",
+    "cat": "scenicViewpoint",
+    "lon": 151.061677,
+    "lat": -34.06261
+  },
+  {
+    "wikiId": "Q98642668",
+    "name": "Govetts Leap lookout",
+    "cat": "scenicViewpoint",
+    "lon": 150.311466,
+    "lat": -33.627989
+  },
+  {
+    "wikiId": "Q98716435",
+    "name": "Great White Throne Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -112.960302,
+    "lat": 37.236658
+  },
+  {
+    "wikiId": "Q98821938",
+    "name": "Pico dos Barcelos",
+    "cat": "scenicViewpoint",
+    "lon": -16.9394542,
+    "lat": 32.6587106
+  },
+  {
+    "wikiId": "Q98904395",
+    "name": "Mirador de Carretera Timibucar",
+    "cat": "scenicViewpoint",
+    "lon": -17.769194444,
+    "lat": 28.685305555
+  },
+  {
+    "wikiId": "Q98906001",
+    "name": "Mirador Barranco de Los Gomeros",
+    "cat": "scenicViewpoint",
+    "lon": -17.755186111,
+    "lat": 28.703511111
+  },
+  {
+    "wikiId": "Q98969812",
+    "name": "Mirante Três Pedras",
+    "cat": "scenicViewpoint",
+    "lon": -44.008166666,
+    "lat": -20.041472222
+  },
+  {
+    "wikiId": "Q99009301",
+    "name": "Mirador de les Guilloteres",
+    "cat": "scenicViewpoint",
+    "lon": 2.732162475,
+    "lat": 41.9219578
+  },
+  {
+    "wikiId": "Q99220011",
+    "name": "Cape Solander Lookout",
+    "cat": "scenicViewpoint",
+    "lon": 151.230896,
+    "lat": -34.016999
+  },
+  {
+    "wikiId": "Q99316620",
+    "name": "Mirador el Higuerón",
+    "cat": "scenicViewpoint",
+    "lon": -5.3505,
+    "lat": 36.221861111
+  },
+  {
+    "wikiId": "Q99397947",
+    "name": "Burns Avenue Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -93.039168,
+    "lat": 44.946691
+  },
+  {
+    "wikiId": "Q99424185",
+    "name": "Miradouro da Garganta Funda",
+    "cat": "scenicViewpoint",
+    "lon": -17.251333333,
+    "lat": 32.820194444
+  },
+  {
+    "wikiId": "Q99435132",
+    "name": "Ochs Memorial Museum",
+    "cat": "scenicViewpoint",
+    "lon": -85.343774,
+    "lat": 35.012541
+  },
+  {
+    "wikiId": "Q99469702",
+    "name": "Watchman Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -122.168642,
+    "lat": 42.945794
+  },
+  {
+    "wikiId": "Q99483129",
+    "name": "History Exhibit Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -83.399307,
+    "lat": 35.589766
+  },
+  {
+    "wikiId": "Q99483612",
+    "name": "Deep Creek Valley Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -83.416593,
+    "lat": 35.594807
+  },
+  {
+    "wikiId": "Q99483796",
+    "name": "Mount Weaver Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -83.437206,
+    "lat": 35.609094
+  },
+  {
+    "wikiId": "Q99517045",
+    "name": "Artist Point",
+    "cat": "scenicViewpoint",
+    "lon": -119.674781,
+    "lat": 37.712305
+  },
+  {
+    "wikiId": "Q99518860",
+    "name": "Fehr's Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -97.269441,
+    "lat": 30.0993
+  },
+  {
+    "wikiId": "Q99521472",
+    "name": "Mendota Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -93.174275,
+    "lat": 44.867345
+  },
+  {
+    "wikiId": "Q99521575",
+    "name": "Glenwood Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -95.382648,
+    "lat": 45.66186
+  },
+  {
+    "wikiId": "Q99559592",
+    "name": "Brink of Upper Falls Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -110.499706,
+    "lat": 44.713007
+  },
+  {
+    "wikiId": "Q99559723",
+    "name": "Grand View Point Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -110.483876,
+    "lat": 44.722624
+  },
+  {
+    "wikiId": "Q99658638",
+    "name": "Ancient Hunters Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -102.227129,
+    "lat": 43.866066
+  },
+  {
+    "wikiId": "Q99658931",
+    "name": "Conata Basin Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -102.190312,
+    "lat": 43.842486
+  },
+  {
+    "wikiId": "Q99658991",
+    "name": "Yellow Mounds Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -102.194563,
+    "lat": 43.843348
+  },
+  {
+    "wikiId": "Q99659286",
+    "name": "Golden Gate Bridge Vista Point",
+    "cat": "scenicViewpoint",
+    "lon": -122.479617,
+    "lat": 37.832309
+  },
+  {
+    "wikiId": "Q99688747",
+    "name": "Tioga Pass Road Valley View",
+    "cat": "scenicViewpoint",
+    "lon": -119.2292,
+    "lat": 37.941808
+  },
+  {
+    "wikiId": "Q99689398",
+    "name": "Tioga Lake Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -119.254577,
+    "lat": 37.921284
+  },
+  {
+    "wikiId": "Q99724024",
+    "name": "Q99724024",
+    "cat": "scenicViewpoint",
+    "lon": 6.414911111,
+    "lat": 50.622469444
+  },
+  {
+    "wikiId": "Q99767621",
+    "name": "The Point",
+    "cat": "scenicViewpoint",
+    "lon": -77.728545,
+    "lat": 39.32295
+  },
+  {
+    "wikiId": "Q99771829",
+    "name": "Goose Creek Valley Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -79.646682,
+    "lat": 37.474547
+  },
+  {
+    "wikiId": "Q99771894",
+    "name": "Porters Mountain Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -79.655032,
+    "lat": 37.479542
+  },
+  {
+    "wikiId": "Q99771895",
+    "name": "Purgatory Mountain Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -79.687995,
+    "lat": 37.477743
+  },
+  {
+    "wikiId": "Q99771939",
+    "name": "Pine Tree Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -79.723567,
+    "lat": 37.44585
+  },
+  {
+    "wikiId": "Q99771942",
+    "name": "Iron Mine Hollow North Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -79.739087,
+    "lat": 37.437722
+  },
+  {
+    "wikiId": "Q99771943",
+    "name": "Quarry Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -79.80723,
+    "lat": 37.405931
+  },
+  {
+    "wikiId": "Q99771945",
+    "name": "Read Mountain Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -79.864402,
+    "lat": 37.309266
+  },
+  {
+    "wikiId": "Q99771946",
+    "name": "Masons Knob Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -80.030749,
+    "lat": 37.195358
+  },
+  {
+    "wikiId": "Q99771950",
+    "name": "Roanoke Valley Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -80.071168,
+    "lat": 37.180335
+  },
+  {
+    "wikiId": "Q99771952",
+    "name": "Bull Run Knob Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -80.097887,
+    "lat": 37.147525
+  },
+  {
+    "wikiId": "Q99771953",
+    "name": "Poor Mountain Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -80.11186,
+    "lat": 37.136801
+  },
+  {
+    "wikiId": "Q99771954",
+    "name": "Cahas Mountain Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -80.111874,
+    "lat": 37.094532
+  },
+  {
+    "wikiId": "Q99771955",
+    "name": "Devils Backbone Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -80.109293,
+    "lat": 37.035946
+  },
+  {
+    "wikiId": "Q99982180",
+    "name": "Redwood Mountain Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -118.918378,
+    "lat": 36.718448
+  },
+  {
+    "wikiId": "Q100152237",
+    "name": "Ironstone Hill, Pingelly",
+    "cat": "scenicViewpoint",
+    "lon": 117.07793,
+    "lat": -32.535828
+  },
+  {
+    "wikiId": "Q100253385",
+    "name": "Nabiya Meri lookout",
+    "cat": "scenicViewpoint",
+    "lon": 34.552166666,
+    "lat": 31.513583333
+  },
+  {
+    "wikiId": "Q100253448",
+    "name": "Assaf Siboni lookout",
+    "cat": "scenicViewpoint",
+    "lon": 34.561916666,
+    "lat": 31.518972222
+  },
+  {
+    "wikiId": "Q100272508",
+    "name": "Don Pedro Vista Point",
+    "cat": "scenicViewpoint",
+    "lon": -120.348917,
+    "lat": 37.832139
+  },
+  {
+    "wikiId": "Q100298323",
+    "name": "Discovery Point",
+    "cat": "scenicViewpoint",
+    "lon": -122.162393,
+    "lat": 42.920393
+  },
+  {
+    "wikiId": "Q100312958",
+    "name": "Pumice Desert Viewpoint",
+    "cat": "scenicViewpoint",
+    "lon": -122.119396,
+    "lat": 43.027966
+  },
+  {
+    "wikiId": "Q100313240",
+    "name": "Devil's Backbone Viewpoint",
+    "cat": "scenicViewpoint",
+    "lon": -122.15689,
+    "lat": 42.961795
+  },
+  {
+    "wikiId": "Q100313903",
+    "name": "Godfrey Glen Viewpoint",
+    "cat": "scenicViewpoint",
+    "lon": -122.153748,
+    "lat": 42.857987
+  },
+  {
+    "wikiId": "Q100773540",
+    "name": "Aussichtspunkt Pavillon",
+    "cat": "scenicViewpoint",
+    "lon": 13.0584483,
+    "lat": 50.9192046
+  },
+  {
+    "wikiId": "Q101416596",
+    "name": "Skalní vyhlídka Ponorka",
+    "cat": "scenicViewpoint",
+    "lon": 14.422075,
+    "lat": 50.8105972
+  },
+  {
+    "wikiId": "Q101520866",
+    "name": "McIntosh Vista",
+    "cat": "scenicViewpoint",
+    "lon": -121.786287,
+    "lat": 41.282583
+  },
+  {
+    "wikiId": "Q101680343",
+    "name": "Calvaire Cross",
+    "cat": "scenicViewpoint",
+    "lon": 2.714735,
+    "lat": 48.419662
+  },
+  {
+    "wikiId": "Q102351188",
+    "name": "Vyhlídka na bývalé sjezdovce ve Wilsonově lese",
+    "cat": "scenicViewpoint",
+    "lon": 16.57311,
+    "lat": 49.20325
+  },
+  {
+    "wikiId": "Q102866518",
+    "name": "Q102866518",
+    "cat": "scenicViewpoint",
+    "lon": 14.8149061,
+    "lat": 50.7984931
+  },
+  {
+    "wikiId": "Q103351725",
+    "name": "Doyel Valley Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -86.092837956,
+    "lat": 37.163695718
+  },
+  {
+    "wikiId": "Q103675342",
+    "name": "Lickstone Ridge Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -83.188817367,
+    "lat": 35.509575185
+  },
+  {
+    "wikiId": "Q103729028",
+    "name": "Vista Point",
+    "cat": "scenicViewpoint",
+    "lon": -124.13900434,
+    "lat": 41.722369458
+  },
+  {
+    "wikiId": "Q103818522",
+    "name": "Battle Rock Scenic View",
+    "cat": "scenicViewpoint",
+    "lon": -124.491727427,
+    "lat": 42.742976994
+  },
+  {
+    "wikiId": "Q103838586",
+    "name": "Q103838586",
+    "cat": "scenicViewpoint",
+    "lon": 14.4884603,
+    "lat": 49.8702419
+  },
+  {
+    "wikiId": "Q103838624",
+    "name": "Q103838624",
+    "cat": "scenicViewpoint",
+    "lon": 14.4577275,
+    "lat": 49.8649192
+  },
+  {
+    "wikiId": "Q104049716",
+    "name": "Fins of Fire Observation Point",
+    "cat": "scenicViewpoint",
+    "lon": -103.368729727,
+    "lat": 29.267562328
+  },
+  {
+    "wikiId": "Q104055545",
+    "name": "Homer Wilson Ranch Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -103.369093404,
+    "lat": 29.216387382
+  },
+  {
+    "wikiId": "Q104185519",
+    "name": "Richland Balsam Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -82.992304327,
+    "lat": 35.362933016
+  },
+  {
+    "wikiId": "Q104185810",
+    "name": "Cowee Mountain Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -82.987930031,
+    "lat": 35.355517861
+  },
+  {
+    "wikiId": "Q104185902",
+    "name": "Beartrap Gap Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -82.965865693,
+    "lat": 35.335293176
+  },
+  {
+    "wikiId": "Q104188372",
+    "name": "Roy Taylor Forest Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -83.014975571,
+    "lat": 35.378818727
+  },
+  {
+    "wikiId": "Q104188428",
+    "name": "Licklog Ridge Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -83.042854045,
+    "lat": 35.398175674
+  },
+  {
+    "wikiId": "Q104189342",
+    "name": "Looking Glass Rock Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -82.827972946,
+    "lat": 35.321742444
+  },
+  {
+    "wikiId": "Q104309538",
+    "name": "Arimura Lava Lookout",
+    "cat": "scenicViewpoint",
+    "lon": 130.679,
+    "lat": 31.5542
+  },
+  {
+    "wikiId": "Q104342138",
+    "name": "Waynesville Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -83.048116716,
+    "lat": 35.436955161
+  },
+  {
+    "wikiId": "Q104360017",
+    "name": "Doubletop Mountain Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -83.037280067,
+    "lat": 35.390781657
+  },
+  {
+    "wikiId": "Q104414491",
+    "name": "Devils Garden Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -81.104296254,
+    "lat": 36.433997267
+  },
+  {
+    "wikiId": "Q104414533",
+    "name": "Big Witch Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -83.222489707,
+    "lat": 35.525036047
+  },
+  {
+    "wikiId": "Q104416075",
+    "name": "Smokey Bear Vista Point",
+    "cat": "scenicViewpoint",
+    "lon": -105.515396962,
+    "lat": 33.53287322
+  },
+  {
+    "wikiId": "Q104416561",
+    "name": "Sandhill Crane Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -104.409544753,
+    "lat": 33.435668129
+  },
+  {
+    "wikiId": "Q104416673",
+    "name": "Dragonfly Trail Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -104.406327037,
+    "lat": 33.443696977
+  },
+  {
+    "wikiId": "Q104427333",
+    "name": "Binger Blick",
+    "cat": "scenicViewpoint",
+    "lon": 7.897833333,
+    "lat": 49.979861111
+  },
+  {
+    "wikiId": "Q104429548",
+    "name": "Mirador de las Nieves",
+    "cat": "scenicViewpoint",
+    "lon": -13.529277777,
+    "lat": 29.10675
+  },
+  {
+    "wikiId": "Q104429713",
+    "name": "Mirador de Valle (Teguise)",
+    "cat": "scenicViewpoint",
+    "lon": -13.512444444,
+    "lat": 29.094666666
+  },
+  {
+    "wikiId": "Q104524665",
+    "name": "Terrapin Mountain Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -79.465355703,
+    "lat": 37.544813602
+  },
+  {
+    "wikiId": "Q104524868",
+    "name": "Mills Gap Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -79.683029979,
+    "lat": 37.479574077
+  },
+  {
+    "wikiId": "Q104525686",
+    "name": "Grandview Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -81.567017556,
+    "lat": 36.22735464
+  },
+  {
+    "wikiId": "Q104525698",
+    "name": "Yonahlossee Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -81.811341421,
+    "lat": 36.097017181
+  },
+  {
+    "wikiId": "Q104525713",
+    "name": "Bear Den Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -81.968779383,
+    "lat": 35.903451141
+  },
+  {
+    "wikiId": "Q104525734",
+    "name": "Heffner Gap Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -81.990216875,
+    "lat": 35.878420426
+  },
+  {
+    "wikiId": "Q104525737",
+    "name": "Black Mountains Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -82.16845119,
+    "lat": 35.78584913
+  },
+  {
+    "wikiId": "Q104525762",
+    "name": "Ridge Junction Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -82.27858743,
+    "lat": 35.717207547
+  },
+  {
+    "wikiId": "Q104525822",
+    "name": "Sherman Tree Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -118.750909159,
+    "lat": 36.582106001
+  },
+  {
+    "wikiId": "Q104527410",
+    "name": "Headforemost Mountain Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -79.56381011,
+    "lat": 37.481570827
+  },
+  {
+    "wikiId": "Q104527432",
+    "name": "Black Rock Hill Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -79.542355317,
+    "lat": 37.494145393
+  },
+  {
+    "wikiId": "Q104527449",
+    "name": "Arnold Valley Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -79.49940957,
+    "lat": 37.535535242
+  },
+  {
+    "wikiId": "Q104527550",
+    "name": "Bluff Mountain Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -81.195562702,
+    "lat": 36.408520414
+  },
+  {
+    "wikiId": "Q104528102",
+    "name": "Grandfather Mountain Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -81.842280041,
+    "lat": 36.068422246
+  },
+  {
+    "wikiId": "Q104530356",
+    "name": "Lane Pinnacle Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -82.442222782,
+    "lat": 35.668082005
+  },
+  {
+    "wikiId": "Q104530429",
+    "name": "Saunook Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -83.039047222,
+    "lat": 35.433688888
+  },
+  {
+    "wikiId": "Q104530768",
+    "name": "Iron Mine Hollow South Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -79.741583327,
+    "lat": 37.43642065
+  },
+  {
+    "wikiId": "Q104539762",
+    "name": "Hayward Long Reach Lookout",
+    "cat": "scenicViewpoint",
+    "lon": -77.071436,
+    "lat": 44.137869
+  },
+  {
+    "wikiId": "Q104539848",
+    "name": "Pedernales Falls Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -98.251562039,
+    "lat": 30.336753478
+  },
+  {
+    "wikiId": "Q104539859",
+    "name": "Headquarters Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -98.256540619,
+    "lat": 30.307822529
+  },
+  {
+    "wikiId": "Q104576591",
+    "name": "Natural Bridges Entrance Viewpoint",
+    "cat": "scenicViewpoint",
+    "lon": -109.96605491,
+    "lat": 37.608109118
+  },
+  {
+    "wikiId": "Q104577009",
+    "name": "Sipapu Bridge View Point",
+    "cat": "scenicViewpoint",
+    "lon": -110.004506997,
+    "lat": 37.614063374
+  },
+  {
+    "wikiId": "Q104578861",
+    "name": "Kachina Bridge View",
+    "cat": "scenicViewpoint",
+    "lon": -110.028359481,
+    "lat": 37.597399189
+  },
+  {
+    "wikiId": "Q104579656",
+    "name": "Owachomo Bridge View",
+    "cat": "scenicViewpoint",
+    "lon": -110.01365774,
+    "lat": 37.584476055
+  },
+  {
+    "wikiId": "Q104585429",
+    "name": "Moki Dugway Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -109.935685467,
+    "lat": 37.276649712
+  },
+  {
+    "wikiId": "Q104588218",
+    "name": "Balanced Rock View",
+    "cat": "scenicViewpoint",
+    "lon": -108.735906419,
+    "lat": 39.107948848
+  },
+  {
+    "wikiId": "Q104594677",
+    "name": "Painted Desert Vista",
+    "cat": "scenicViewpoint",
+    "lon": -111.431534699,
+    "lat": 35.390821643
+  },
+  {
+    "wikiId": "Q104594697",
+    "name": "Jasper Forest Viewpoint",
+    "cat": "scenicViewpoint",
+    "lon": -109.807514233,
+    "lat": 34.888930153
+  },
+  {
+    "wikiId": "Q104595495",
+    "name": "Crystal Lake Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -106.335131646,
+    "lat": 39.191206259
+  },
+  {
+    "wikiId": "Q104630707",
+    "name": "Rabenschüssel",
+    "cat": "scenicViewpoint",
+    "lon": 11.608888888,
+    "lat": 50.867221944
+  },
+  {
+    "wikiId": "Q104635451",
+    "name": "Q104635451",
+    "cat": "scenicViewpoint",
+    "lon": 14.4043622,
+    "lat": 49.7398242
+  },
+  {
+    "wikiId": "Q104700494",
+    "name": "Caprock Canyons State Park and Trailway Scenic Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -101.056864068,
+    "lat": 34.437377242
+  },
+  {
+    "wikiId": "Q104776040",
+    "name": "Q104776040",
+    "cat": "scenicViewpoint",
+    "lon": 14.6398742,
+    "lat": 50.0576808
+  },
+  {
+    "wikiId": "Q104786987",
+    "name": "Leda Lookout",
+    "cat": "scenicViewpoint",
+    "lon": 115.796763839,
+    "lat": -32.262449811
+  },
+  {
+    "wikiId": "Q104800324",
+    "name": "Cypress Point Lookout",
+    "cat": "scenicViewpoint",
+    "lon": -121.974867058,
+    "lat": 36.576962926
+  },
+  {
+    "wikiId": "Q104808386",
+    "name": "Pescadero Point Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -121.9549891,
+    "lat": 36.5621183
+  },
+  {
+    "wikiId": "Q104809068",
+    "name": "Bird Rock Vista Point",
+    "cat": "scenicViewpoint",
+    "lon": -121.964375818,
+    "lat": 36.591456799
+  },
+  {
+    "wikiId": "Q104810138",
+    "name": "Fanshell Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -121.97178102,
+    "lat": 36.583423201
+  },
+  {
+    "wikiId": "Q104811741",
+    "name": "Lone Cypress Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -121.965466776,
+    "lat": 36.569505396
+  },
+  {
+    "wikiId": "Q104813204",
+    "name": "Calaveras Point",
+    "cat": "scenicViewpoint",
+    "lon": -121.69238982,
+    "lat": 37.328737979
+  },
+  {
+    "wikiId": "Q104872190",
+    "name": "Hanging Valley Viewpoint",
+    "cat": "scenicViewpoint",
+    "lon": -119.64990818,
+    "lat": 37.721976711
+  },
+  {
+    "wikiId": "Q104972783",
+    "name": "Vermilion Lakes Viewpoint",
+    "cat": "scenicViewpoint",
+    "lon": -115.603236584,
+    "lat": 51.182277106
+  },
+  {
+    "wikiId": "Q105005483",
+    "name": "Point Peron lookout",
+    "cat": "scenicViewpoint",
+    "lon": 115.68775,
+    "lat": -32.27175
+  },
+  {
+    "wikiId": "Q105069421",
+    "name": "Alpine Visitor Center Viewpoint",
+    "cat": "scenicViewpoint",
+    "lon": -105.754056408,
+    "lat": 40.441061966
+  },
+  {
+    "wikiId": "Q105094673",
+    "name": "The Pinnacle Rock",
+    "cat": "scenicViewpoint",
+    "lon": 30.854166666,
+    "lat": -24.911458333
+  },
+  {
+    "wikiId": "Q105100282",
+    "name": "Paria View Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -112.1696389,
+    "lat": 37.5972053
+  },
+  {
+    "wikiId": "Q105104756",
+    "name": "Fairyland Point Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -112.1474165,
+    "lat": 37.6494273
+  },
+  {
+    "wikiId": "Q105105619",
+    "name": "Sunset Point Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -112.166028,
+    "lat": 37.6227607
+  },
+  {
+    "wikiId": "Q105106976",
+    "name": "Sunrise Point Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -112.1629723,
+    "lat": 37.6283162
+  },
+  {
+    "wikiId": "Q105125685",
+    "name": "Inspiration Point Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -112.1704725,
+    "lat": 37.6149829
+  },
+  {
+    "wikiId": "Q105126290",
+    "name": "Bryce Point Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -112.1568607,
+    "lat": 37.6041498
+  },
+  {
+    "wikiId": "Q105129215",
+    "name": "Swamp Canyon Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -112.2135294,
+    "lat": 37.5874828
+  },
+  {
+    "wikiId": "Q105138963",
+    "name": "El Capitan Lookout",
+    "cat": "scenicViewpoint",
+    "lon": -104.844616841,
+    "lat": 31.85395597
+  },
+  {
+    "wikiId": "Q105224066",
+    "name": "Marlston Hill Lookout",
+    "cat": "scenicViewpoint",
+    "lon": 115.635880745,
+    "lat": -33.318224001
+  },
+  {
+    "wikiId": "Q105330892",
+    "name": "Rainbow Point Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -112.2368624,
+    "lat": 37.4699832
+  },
+  {
+    "wikiId": "Q105456459",
+    "name": "Weston Lake Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -80.817818827,
+    "lat": 33.821788251
+  },
+  {
+    "wikiId": "Q105480613",
+    "name": "Balcón de Alicante",
+    "cat": "scenicViewpoint",
+    "lon": -0.6216871,
+    "lat": 38.5043893
+  },
+  {
+    "wikiId": "Q105504613",
+    "name": "West Horseshoe Park Turnout",
+    "cat": "scenicViewpoint",
+    "lon": -105.627116322,
+    "lat": 40.401634448
+  },
+  {
+    "wikiId": "Q105504835",
+    "name": "Sheep Lakes Turnout",
+    "cat": "scenicViewpoint",
+    "lon": -105.619376997,
+    "lat": 40.404675206
+  },
+  {
+    "wikiId": "Q105605351",
+    "name": "Oheyawahi-Pilot Knob",
+    "cat": "scenicViewpoint",
+    "lon": -93.167277777,
+    "lat": 44.880380555
+  },
+  {
+    "wikiId": "Q105687113",
+    "name": "Memorial Hill Lookout",
+    "cat": "scenicViewpoint",
+    "lon": 148.18252,
+    "lat": -33.13432
+  },
+  {
+    "wikiId": "Q105816003",
+    "name": "Böhmova vyhlídka",
+    "cat": "scenicViewpoint",
+    "lon": 15.3053489,
+    "lat": 50.6206031
+  },
+  {
+    "wikiId": "Q105943563",
+    "name": "Q105943563",
+    "cat": "scenicViewpoint",
+    "lon": -2.777797579,
+    "lat": 37.143560319
+  },
+  {
+    "wikiId": "Q106034019",
+    "name": "Loveridge Lookout",
+    "cat": "scenicViewpoint",
+    "lon": 144.181653,
+    "lat": -38.416447
+  },
+  {
+    "wikiId": "Q106079990",
+    "name": "Coogee Rotary Lookout",
+    "cat": "scenicViewpoint",
+    "lon": 115.769497169,
+    "lat": -32.11075141
+  },
+  {
+    "wikiId": "Q106223492",
+    "name": "Miradouro de Penedo Durão",
+    "cat": "scenicViewpoint",
+    "lon": -6.818678387,
+    "lat": 41.046694778
+  },
+  {
+    "wikiId": "Q106245279",
+    "name": "Cocopa Point",
+    "cat": "scenicViewpoint",
+    "lon": -112.2460061,
+    "lat": 36.0880377
+  },
+  {
+    "wikiId": "Q106351427",
+    "name": "Q106351427",
+    "cat": "scenicViewpoint",
+    "lon": -2.646476957,
+    "lat": 36.833377287
+  },
+  {
+    "wikiId": "Q106406245",
+    "name": "Q106406245",
+    "cat": "scenicViewpoint",
+    "lon": 14.4207364,
+    "lat": 50.8103783
+  },
+  {
+    "wikiId": "Q106462927",
+    "name": "Klimek tower (reconstruction)",
+    "cat": "scenicViewpoint",
+    "lon": 18.749443888,
+    "lat": 53.495583055
+  },
+  {
+    "wikiId": "Q106485525",
+    "name": "Kings Canyon Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -118.897513582,
+    "lat": 36.719567187
+  },
+  {
+    "wikiId": "Q106533700",
+    "name": "Hraběnčina vyhlídka",
+    "cat": "scenicViewpoint",
+    "lon": 17.7858747,
+    "lat": 49.6216489
+  },
+  {
+    "wikiId": "Q106535452",
+    "name": "Reiterlee",
+    "cat": "scenicViewpoint",
+    "lon": 6.06299,
+    "lat": 49.71201
+  },
+  {
+    "wikiId": "Q106603485",
+    "name": "The Tepees North Pullout",
+    "cat": "scenicViewpoint",
+    "lon": -109.776343154,
+    "lat": 34.944805465
+  },
+  {
+    "wikiId": "Q106603497",
+    "name": "The Tepees South Pullout",
+    "cat": "scenicViewpoint",
+    "lon": -109.777800617,
+    "lat": 34.943013797
+  },
+  {
+    "wikiId": "Q106618284",
+    "name": "Tenaya Lake Viewpoint",
+    "cat": "scenicViewpoint",
+    "lon": -119.467870008,
+    "lat": 37.829332658
+  },
+  {
+    "wikiId": "Q106623423",
+    "name": "Badwater Observation Point",
+    "cat": "scenicViewpoint",
+    "lon": -116.767723898,
+    "lat": 36.230019396
+  },
+  {
+    "wikiId": "Q106625706",
+    "name": "Marmot Peak Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -105.990645216,
+    "lat": 38.884797851
+  },
+  {
+    "wikiId": "Q106656261",
+    "name": "South Entrance Sign Viewpoint",
+    "cat": "scenicViewpoint",
+    "lon": -122.061991476,
+    "lat": 42.768783616
+  },
+  {
+    "wikiId": "Q106657186",
+    "name": "Wizard Island Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -122.169430476,
+    "lat": 42.933609524
+  },
+  {
+    "wikiId": "Q106661507",
+    "name": "Last Snow Pullout",
+    "cat": "scenicViewpoint",
+    "lon": -122.165935631,
+    "lat": 42.958581319
+  },
+  {
+    "wikiId": "Q106684635",
+    "name": "Rim Trail South Scenic View",
+    "cat": "scenicViewpoint",
+    "lon": -111.505527989,
+    "lat": 35.169855581
+  },
+  {
+    "wikiId": "Q106684723",
+    "name": "Rim Trail North Scenic View",
+    "cat": "scenicViewpoint",
+    "lon": -111.508477576,
+    "lat": 35.171574894
+  },
+  {
+    "wikiId": "Q106712602",
+    "name": "Damit alles fließt",
+    "cat": "scenicViewpoint",
+    "lon": 11.6443223,
+    "lat": 48.207729
+  },
+  {
+    "wikiId": "Q106727115",
+    "name": "Saartalblick",
+    "cat": "scenicViewpoint",
+    "lon": 6.700931594,
+    "lat": 49.405865071
+  },
+  {
+    "wikiId": "Q106728270",
+    "name": "Aussicht auf Güdingen",
+    "cat": "scenicViewpoint",
+    "lon": 7.0162368,
+    "lat": 49.2057817
+  },
+  {
+    "wikiId": "Q106762923",
+    "name": "Kalbarri Skywalk",
+    "cat": "scenicViewpoint",
+    "lon": 114.434,
+    "lat": -27.5557
+  },
+  {
+    "wikiId": "Q107017561",
+    "name": "Mirador de Ronda",
+    "cat": "scenicViewpoint",
+    "lon": -5.16794413,
+    "lat": 36.741278523
+  },
+  {
+    "wikiId": "Q107152969",
+    "name": "Q107152969",
+    "cat": "scenicViewpoint",
+    "lon": 11.734052777,
+    "lat": 51.153472222
+  },
+  {
+    "wikiId": "Q107173730",
+    "name": "Mauvadi Vayal Bird Watching Point",
+    "cat": "scenicViewpoint",
+    "lon": 75.3679141,
+    "lat": 11.9696498
+  },
+  {
+    "wikiId": "Q107177642",
+    "name": "Aussichtspunkt Vogelfelsen",
+    "cat": "scenicViewpoint",
+    "lon": 6.61373,
+    "lat": 49.52385
+  },
+  {
+    "wikiId": "Q107288605",
+    "name": "Remstalkino-Beutelsbach",
+    "cat": "scenicViewpoint",
+    "lon": 9.40367,
+    "lat": 48.79979
+  },
+  {
+    "wikiId": "Q107445613",
+    "name": "Blue Hole Wildlife Watching Area",
+    "cat": "scenicViewpoint",
+    "lon": -81.380432653,
+    "lat": 24.705588357
+  },
+  {
+    "wikiId": "Q107480951",
+    "name": "Biara lookout",
+    "cat": "scenicViewpoint",
+    "lon": 115.834603015,
+    "lat": -32.214846335
+  },
+  {
+    "wikiId": "Q107580298",
+    "name": "Miradouro da Eira do Serrado",
+    "cat": "scenicViewpoint",
+    "lon": -16.96576,
+    "lat": 32.71035
+  },
+  {
+    "wikiId": "Q107709039",
+    "name": "James M. McKane Memorial Lookout",
+    "cat": "scenicViewpoint",
+    "lon": 152.835944444,
+    "lat": -26.304444444
+  },
+  {
+    "wikiId": "Q107782465",
+    "name": "Cimrman's world's smallest lookout tower",
+    "cat": "scenicViewpoint",
+    "lon": 15.3603492,
+    "lat": 50.612605
+  },
+  {
+    "wikiId": "Q108069883",
+    "name": "Belvédère du Trou de Fer",
+    "cat": "scenicViewpoint",
+    "lon": 55.558536,
+    "lat": -21.043908
+  },
+  {
+    "wikiId": "Q108079140",
+    "name": "Miradouro das Antenas",
+    "cat": "scenicViewpoint",
+    "lon": -8.95611,
+    "lat": 38.4901
+  },
+  {
+    "wikiId": "Q108079896",
+    "name": "Q108079896",
+    "cat": "scenicViewpoint",
+    "lon": -8.99572,
+    "lat": 38.4723
+  },
+  {
+    "wikiId": "Q108098900",
+    "name": "Q108098900",
+    "cat": "scenicViewpoint",
+    "lon": -2.4241379,
+    "lat": 37.3993528
+  },
+  {
+    "wikiId": "Q108098902",
+    "name": "Q108098902",
+    "cat": "scenicViewpoint",
+    "lon": -2.46398,
+    "lat": 37.41409
+  },
+  {
+    "wikiId": "Q108117958",
+    "name": "Gringlee",
+    "cat": "scenicViewpoint",
+    "lon": 6.09176,
+    "lat": 49.91565
+  },
+  {
+    "wikiId": "Q108120320",
+    "name": "Priedegtstull",
+    "cat": "scenicViewpoint",
+    "lon": 6.11869,
+    "lat": 49.89543
+  },
+  {
+    "wikiId": "Q108127486",
+    "name": "Kiekoet",
+    "cat": "scenicViewpoint",
+    "lon": 5.683497,
+    "lat": 50.830653
+  },
+  {
+    "wikiId": "Q108258179",
+    "name": "Miradouro do Cabo Girão",
+    "cat": "scenicViewpoint",
+    "lon": -17.004416666,
+    "lat": 32.6565
+  },
+  {
+    "wikiId": "Q108259734",
+    "name": "Miradouro da Ponta do Rosto",
+    "cat": "scenicViewpoint",
+    "lon": -16.70675,
+    "lat": 32.749222222
+  },
+  {
+    "wikiId": "Q108260229",
+    "name": "Miradouro do Pico do Facho",
+    "cat": "scenicViewpoint",
+    "lon": -16.758777777,
+    "lat": 32.723944444
+  },
+  {
+    "wikiId": "Q108260898",
+    "name": "Miradouro da Vila do Porto Moniz",
+    "cat": "scenicViewpoint",
+    "lon": -17.173305555,
+    "lat": 32.862527777
+  },
+  {
+    "wikiId": "Q108261145",
+    "name": "Dívčí skok",
+    "cat": "scenicViewpoint",
+    "lon": 14.3224147,
+    "lat": 50.1006622
+  },
+  {
+    "wikiId": "Q108261163",
+    "name": "Miradouro da Beira da Quinta",
+    "cat": "scenicViewpoint",
+    "lon": -16.939,
+    "lat": 32.826638888
+  },
+  {
+    "wikiId": "Q108307114",
+    "name": "viewing platform ENCI quarry",
+    "cat": "scenicViewpoint",
+    "lon": 5.6865111,
+    "lat": 50.826371
+  },
+  {
+    "wikiId": "Q108322593",
+    "name": "Q108322593",
+    "cat": "scenicViewpoint",
+    "lon": 14.15501,
+    "lat": 37.85955
+  },
+  {
+    "wikiId": "Q108332223",
+    "name": "Q108332223",
+    "cat": "scenicViewpoint",
+    "lon": -2.371678236,
+    "lat": 37.32367731
+  },
+  {
+    "wikiId": "Q108556789",
+    "name": "Q108556789",
+    "cat": "scenicViewpoint",
+    "lon": -2.8437,
+    "lat": 36.9612
+  },
+  {
+    "wikiId": "Q108556790",
+    "name": "Q108556790",
+    "cat": "scenicViewpoint",
+    "lon": -2.8496,
+    "lat": 37.0727
+  },
+  {
+    "wikiId": "Q108565076",
+    "name": "Q108565076",
+    "cat": "scenicViewpoint",
+    "lon": -2.57322,
+    "lat": 37.20307
+  },
+  {
+    "wikiId": "Q108599897",
+    "name": "Nilgen lookout",
+    "cat": "scenicViewpoint",
+    "lon": 115.362692116,
+    "lat": -30.930709821
+  },
+  {
+    "wikiId": "Q108671986",
+    "name": "Irwin Lookout, Coalseam Conservation Park",
+    "cat": "scenicViewpoint",
+    "lon": 115.54891958,
+    "lat": -28.94632039
+  },
+  {
+    "wikiId": "Q108747433",
+    "name": "Panoramaparkplatz Bernstein",
+    "cat": "scenicViewpoint",
+    "lon": 16.27097,
+    "lat": 47.40836
+  },
+  {
+    "wikiId": "Q108797380",
+    "name": "Polychrome Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -149.828994863,
+    "lat": 63.535617999
+  },
+  {
+    "wikiId": "Q108853218",
+    "name": "Tempelskamp",
+    "cat": "scenicViewpoint",
+    "lon": 5.84424,
+    "lat": 49.90277
+  },
+  {
+    "wikiId": "Q108857406",
+    "name": "Perekop",
+    "cat": "scenicViewpoint",
+    "lon": 6.37598,
+    "lat": 49.81796
+  },
+  {
+    "wikiId": "Q108922768",
+    "name": "Q108922768",
+    "cat": "scenicViewpoint",
+    "lon": -2.51433,
+    "lat": 37.20818
+  },
+  {
+    "wikiId": "Q108925512",
+    "name": "Q108925512",
+    "cat": "scenicViewpoint",
+    "lon": -2.7941,
+    "lat": 37.1064
+  },
+  {
+    "wikiId": "Q109094611",
+    "name": "João Roberto Pilon Filho Municipal Viewpoint",
+    "cat": "scenicViewpoint",
+    "lon": -47.8418401,
+    "lat": -23.0576064
+  },
+  {
+    "wikiId": "Q109418558",
+    "name": "Wart (Haßberge)",
+    "cat": "scenicViewpoint",
+    "lon": 10.569747804,
+    "lat": 50.071996295
+  },
+  {
+    "wikiId": "Q109659556",
+    "name": "Mirador Barranco del Carmen",
+    "cat": "scenicViewpoint",
+    "lon": -17.760547222,
+    "lat": 28.695375
+  },
+  {
+    "wikiId": "Q109659704",
+    "name": "Mirador Jardín de Las Hespérides",
+    "cat": "scenicViewpoint",
+    "lon": -17.766466666,
+    "lat": 28.772333333
+  },
+  {
+    "wikiId": "Q109796942",
+    "name": "Forrest Gump Point",
+    "cat": "scenicViewpoint",
+    "lon": -109.9904561,
+    "lat": 37.101379
+  },
+  {
+    "wikiId": "Q110249882",
+    "name": "Q110249882",
+    "cat": "scenicViewpoint",
+    "lon": 35.238683114,
+    "lat": 31.752160201
+  },
+  {
+    "wikiId": "Q110264661",
+    "name": "Zuckerhut",
+    "cat": "scenicViewpoint",
+    "lon": 13.86622,
+    "lat": 51.0201
+  },
+  {
+    "wikiId": "Q110268240",
+    "name": "Q110268240",
+    "cat": "scenicViewpoint",
+    "lon": 3.2290153,
+    "lat": 44.2204692
+  },
+  {
+    "wikiId": "Q110312193",
+    "name": "Baber Lookout",
+    "cat": "scenicViewpoint",
+    "lon": -123.78983,
+    "lat": 44.62179
+  },
+  {
+    "wikiId": "Q110357195",
+    "name": "Q110357195",
+    "cat": "scenicViewpoint",
+    "lon": 16.0737064,
+    "lat": 49.8943081
+  },
+  {
+    "wikiId": "Q110487440",
+    "name": "Q110487440",
+    "cat": "scenicViewpoint",
+    "lon": 34.561719253,
+    "lat": 31.518789236
+  },
+  {
+    "wikiId": "Q110582222",
+    "name": "Yunohira Observatory",
+    "cat": "scenicViewpoint",
+    "lon": 130.6299,
+    "lat": 31.5915
+  },
+  {
+    "wikiId": "Q110594707",
+    "name": "Kamienna Góra (hill, Gdynia)",
+    "cat": "scenicViewpoint",
+    "lon": 18.5441794,
+    "lat": 54.5154853
+  },
+  {
+    "wikiId": "Q110604620",
+    "name": "Grota Marysieńki",
+    "cat": "scenicViewpoint",
+    "lon": 18.5607194,
+    "lat": 54.4715467
+  },
+  {
+    "wikiId": "Q110652920",
+    "name": "Aussichtspunkt Katzenkopf",
+    "cat": "scenicViewpoint",
+    "lon": 10.20025,
+    "lat": 49.83873
+  },
+  {
+    "wikiId": "Q110693141",
+    "name": "Portas do Sol",
+    "cat": "scenicViewpoint",
+    "lon": -8.676202503,
+    "lat": 39.233802248
+  },
+  {
+    "wikiId": "Q110696483",
+    "name": "Uhlbach-Aussichtpunkt-Kapf",
+    "cat": "scenicViewpoint",
+    "lon": 9.29047,
+    "lat": 48.77399
+  },
+  {
+    "wikiId": "Q110747381",
+    "name": "Galería mirador",
+    "cat": "scenicViewpoint",
+    "lon": -3.715737,
+    "lat": 40.412643
+  },
+  {
+    "wikiId": "Q110747742",
+    "name": "Miradores parque Enrique Tierno Galván",
+    "cat": "scenicViewpoint",
+    "lon": -3.681721,
+    "lat": 40.390326
+  },
+  {
+    "wikiId": "Q110754973",
+    "name": "Großer Mannstein",
+    "cat": "scenicViewpoint",
+    "lon": 8.4185,
+    "lat": 50.14192
+  },
+  {
+    "wikiId": "Q110916366",
+    "name": "Viewpoint in Petřkovice",
+    "cat": "scenicViewpoint",
+    "lon": 18.2591731,
+    "lat": 49.8742169
+  },
+  {
+    "wikiId": "Q110963787",
+    "name": "Q110963787",
+    "cat": "scenicViewpoint",
+    "lon": 7.3288473,
+    "lat": 49.7073483
+  },
+  {
+    "wikiId": "Q110998809",
+    "name": "Q110998809",
+    "cat": "scenicViewpoint",
+    "lon": 138.929444444,
+    "lat": 37.423333333
+  },
+  {
+    "wikiId": "Q111026204",
+    "name": "Bei den drei Linden",
+    "cat": "scenicViewpoint",
+    "lon": 11.4791759,
+    "lat": 48.3093927
+  },
+  {
+    "wikiId": "Q111144463",
+    "name": "Neches Bluff Overlook",
+    "cat": "scenicViewpoint",
+    "lon": -95.163,
+    "lat": 31.5674
+  },
+  {
+    "wikiId": "Q111324546",
+    "name": "Q111324546",
+    "cat": "scenicViewpoint",
+    "lon": -9.158035587,
+    "lat": 39.361442501
+  },
+  {
+    "wikiId": "Q111377219",
+    "name": "Q111377219",
+    "cat": "scenicViewpoint",
+    "lon": 6.99774,
+    "lat": 53.67181
+  },
+  {
+    "wikiId": "Q111442659",
+    "name": "Lookout tower in Sovovy mlýny",
+    "cat": "scenicViewpoint",
+    "lon": 14.4087875,
+    "lat": 50.0839883
+  },
+  {
+    "wikiId": "Q111472171",
+    "name": "Q111472171",
+    "cat": "scenicViewpoint",
+    "lon": 11.4337255,
+    "lat": 48.2583209
+  },
+  {
+    "wikiId": "Q111482115",
+    "name": "Q111482115",
+    "cat": "scenicViewpoint",
+    "lon": 14.5803347,
+    "lat": 50.0862306
+  },
+  {
+    "wikiId": "Q111630477",
+    "name": "Masaryk lookout, Praha",
+    "cat": "scenicViewpoint",
+    "lon": 14.39509,
+    "lat": 50.09168
+  },
+  {
+    "wikiId": "Q111669397",
+    "name": "Boca dos Namorados",
+    "cat": "scenicViewpoint",
+    "lon": -16.97822,
+    "lat": 32.69558
+  },
+  {
+    "wikiId": "Q111675224",
+    "name": "Dundas Peak",
+    "cat": "scenicViewpoint",
+    "lon": -79.9689,
+    "lat": 43.2742
+  },
+  {
+    "wikiId": "Q111699164",
+    "name": "Galit Overlook",
+    "cat": "scenicViewpoint",
+    "lon": 35.01969888,
+    "lat": 32.770277871
+  },
+  {
+    "wikiId": "Q111737104",
+    "name": "Drei-Seen-Blick",
+    "cat": "scenicViewpoint",
+    "lon": 13.964111111,
+    "lat": 47.649916666
+  },
+  {
+    "wikiId": "Q111802076",
+    "name": "Teufelshäuschen",
+    "cat": "scenicViewpoint",
+    "lon": 10.30403,
+    "lat": 49.44127
+  },
+  {
+    "wikiId": "Q24090230",
+    "name": "Sir Anthony's Rest",
+    "cat": "scenicViewpoint",
+    "lon": 152.4296,
+    "lat": -24.8454
+  },
+  {
+    "wikiId": "Q111843954",
+    "name": "Q111843954",
+    "cat": "scenicViewpoint",
+    "lon": 13.62365,
+    "lat": 43.51418
+  },
+  {
+    "wikiId": "Q111848895",
+    "name": "Apex Lookout, Albany",
+    "cat": "scenicViewpoint",
+    "lon": 117.90233225,
+    "lat": -35.026391205
+  },
+  {
+    "wikiId": "Q111936097",
+    "name": "Quatrocchi",
+    "cat": "scenicViewpoint",
+    "lon": 14.92986,
+    "lat": 38.46484
+  },
+  {
+    "wikiId": "Q111968928",
+    "name": "calvary of Remiremont",
+    "cat": "scenicViewpoint",
+    "lon": 6.59141,
+    "lat": 48.01339
+  },
+  {
+    "wikiId": "Q112131011",
+    "name": "Hochbuchetfelsen",
+    "cat": "scenicViewpoint",
+    "lon": 13.97149,
+    "lat": 48.66897
+  },
+  {
+    "wikiId": "Q112134290",
+    "name": "Q112134290",
+    "cat": "scenicViewpoint",
+    "lon": 9.172750814,
+    "lat": 48.755498627
+  },
+  {
+    "wikiId": "Q112134536",
+    "name": "Q112134536",
+    "cat": "scenicViewpoint",
+    "lon": 9.19013064,
+    "lat": 48.777929016
+  },
+  {
+    "wikiId": "Q112154745",
+    "name": "L'Écho",
+    "cat": "scenicViewpoint",
+    "lon": 55.665690889,
+    "lat": -21.103338088
+  },
+  {
+    "wikiId": "Q112236985",
+    "name": "Q112236985",
+    "cat": "scenicViewpoint",
+    "lon": 12.756333333,
+    "lat": 51.326666666
+  },
+  {
+    "wikiId": "Q112265270",
+    "name": "Zapador Austral",
+    "cat": "scenicViewpoint",
+    "lon": -71.0273875,
+    "lat": -53.1527789
+  },
+  {
+    "wikiId": "Q112269830",
+    "name": "Mirador de Cal Malet",
+    "cat": "scenicViewpoint",
+    "lon": 2.123333,
+    "lat": 41.307778
+  },
+  {
+    "wikiId": "Q112582160",
+    "name": "Q112582160",
+    "cat": "scenicViewpoint",
+    "lon": 24.9703227,
+    "lat": 60.2198299
+  },
+  {
+    "wikiId": "Q112596480",
+    "name": "Q112596480",
+    "cat": "scenicViewpoint",
+    "lon": -2.434900822,
+    "lat": 36.884622327
+  },
+  {
+    "wikiId": "Q112596530",
+    "name": "Q112596530",
+    "cat": "scenicViewpoint",
+    "lon": -2.450860425,
+    "lat": 36.886275967
+  },
+  {
+    "wikiId": "Q112623430",
+    "name": "Henderson Cliffs lookout",
+    "cat": "scenicViewpoint",
+    "lon": 115.772132405,
+    "lat": -32.173357536
+  },
+  {
+    "wikiId": "Q112670931",
+    "name": "Bird Observatory Kotvice",
+    "cat": "scenicViewpoint",
+    "lon": 18.0799292,
+    "lat": 49.7048131
+  },
+  {
+    "wikiId": "Q112692686",
+    "name": "Q112692686",
+    "cat": "scenicViewpoint",
+    "lon": 14.5010586,
+    "lat": 50.0964169
+  },
+  {
+    "wikiId": "Q112810828",
+    "name": "Lung Cheung Road Lookout",
+    "cat": "scenicViewpoint",
+    "lon": 114.17142429,
+    "lat": 22.34284928
+  },
+  {
+    "wikiId": "Q112835550",
+    "name": "Watchtower nad Hrabovým",
+    "cat": "scenicViewpoint",
+    "lon": 18.5593231,
+    "lat": 49.2022522
+  },
+  {
+    "wikiId": "Q112874043",
+    "name": "Irimahuwhero Lookout",
+    "cat": "scenicViewpoint",
+    "lon": 171.356378,
+    "lat": -42.076024
+  },
+  {
+    "wikiId": "Q113004244",
+    "name": "Mirador del Sendero Azúl",
+    "cat": "scenicViewpoint",
+    "lon": -15.462666666,
+    "lat": 28.127638888
+  },
+  {
+    "wikiId": "Q113111341",
+    "name": "Mirador de La Tosca",
+    "cat": "scenicViewpoint",
+    "lon": -17.814583333,
+    "lat": 28.827416666
+  },
+  {
+    "wikiId": "Q113144816",
+    "name": "Q113144816",
+    "cat": "scenicViewpoint",
+    "lon": 14.6398742,
+    "lat": 50.0576808
+  },
+  {
+    "wikiId": "Q113164179",
+    "name": "Orjaku northern observation platform",
+    "cat": "scenicViewpoint",
+    "lon": 22.7674817,
+    "lat": 58.800285
+  },
+  {
+    "wikiId": "Q113164239",
+    "name": "Southern Bird Observatory in Orjaku",
+    "cat": "scenicViewpoint",
+    "lon": 22.7763689,
+    "lat": 58.7953639
+  },
+  {
+    "wikiId": "Q113193233",
+    "name": "Plateliai Lake Lookout",
+    "cat": "scenicViewpoint",
+    "lon": 21.8282697,
+    "lat": 56.0469542
+  },
+  {
+    "wikiId": "Q113352434",
+    "name": "Q113352434",
+    "cat": "scenicViewpoint",
+    "lon": -39.072554824,
+    "lat": -16.489283502
+  },
+  {
+    "wikiId": "Q113363264",
+    "name": "Q113363264",
+    "cat": "scenicViewpoint",
+    "lon": -2.42065,
+    "lat": 37.00747
+  },
+  {
+    "wikiId": "Q113363269",
+    "name": "Q113363269",
+    "cat": "scenicViewpoint",
+    "lon": -2.12574,
+    "lat": 37.09666
+  },
+  {
+    "wikiId": "Q113363270",
+    "name": "Q113363270",
+    "cat": "scenicViewpoint",
+    "lon": -2.1265,
+    "lat": 37.09658
+  },
+  {
+    "wikiId": "Q113363272",
+    "name": "Q113363272",
+    "cat": "scenicViewpoint",
+    "lon": -2.08623,
+    "lat": 37.09536
+  },
+  {
+    "wikiId": "Q113363273",
+    "name": "Q113363273",
+    "cat": "scenicViewpoint",
+    "lon": -2.07334,
+    "lat": 37.08849
+  },
+  {
+    "wikiId": "Q113363280",
+    "name": "Q113363280",
+    "cat": "scenicViewpoint",
+    "lon": -2.61888,
+    "lat": 36.95476
+  },
+  {
+    "wikiId": "Q113363282",
+    "name": "Q113363282",
+    "cat": "scenicViewpoint",
+    "lon": -2.29957,
+    "lat": 37.3355
+  },
+  {
+    "wikiId": "Q113363291",
+    "name": "Q113363291",
+    "cat": "scenicViewpoint",
+    "lon": -2.22286,
+    "lat": 36.98397
+  },
+  {
+    "wikiId": "Q113363295",
+    "name": "Q113363295",
+    "cat": "scenicViewpoint",
+    "lon": -2.26499,
+    "lat": 37.03019
+  },
+  {
+    "wikiId": "Q113363296",
+    "name": "Q113363296",
+    "cat": "scenicViewpoint",
+    "lon": -2.46707,
+    "lat": 36.83026
+  },
+  {
+    "wikiId": "Q113366346",
+    "name": "Q113366346",
+    "cat": "scenicViewpoint",
+    "lon": -3.76756,
+    "lat": 36.73443
+  },
+  {
+    "wikiId": "Q113366348",
+    "name": "Q113366348",
+    "cat": "scenicViewpoint",
+    "lon": -3.58925,
+    "lat": 36.74107
+  },
+  {
+    "wikiId": "Q113366351",
+    "name": "Q113366351",
+    "cat": "scenicViewpoint",
+    "lon": -3.54149,
+    "lat": 37.17092
+  },
+  {
+    "wikiId": "Q113366353",
+    "name": "Q113366353",
+    "cat": "scenicViewpoint",
+    "lon": -3.42886,
+    "lat": 37.15474
+  },
+  {
+    "wikiId": "Q113366355",
+    "name": "Q113366355",
+    "cat": "scenicViewpoint",
+    "lon": -3.14056,
+    "lat": 37.30104
+  },
+  {
+    "wikiId": "Q113366356",
+    "name": "Q113366356",
+    "cat": "scenicViewpoint",
+    "lon": -3.13772,
+    "lat": 37.29296
+  },
+  {
+    "wikiId": "Q113366357",
+    "name": "Q113366357",
+    "cat": "scenicViewpoint",
+    "lon": -4.15395,
+    "lat": 37.16558
+  },
+  {
+    "wikiId": "Q113366358",
+    "name": "Q113366358",
+    "cat": "scenicViewpoint",
+    "lon": -4.15899,
+    "lat": 37.16838
+  },
+  {
+    "wikiId": "Q113366360",
+    "name": "Q113366360",
+    "cat": "scenicViewpoint",
+    "lon": -3.48521,
+    "lat": 36.70011
+  },
+  {
+    "wikiId": "Q113366361",
+    "name": "Q113366361",
+    "cat": "scenicViewpoint",
+    "lon": -3.46745,
+    "lat": 36.71038
+  },
+  {
+    "wikiId": "Q113366362",
+    "name": "Q113366362",
+    "cat": "scenicViewpoint",
+    "lon": -3.46477,
+    "lat": 36.70638
+  },
+  {
+    "wikiId": "Q113366364",
+    "name": "Q113366364",
+    "cat": "scenicViewpoint",
+    "lon": -3.72804,
+    "lat": 36.72922
+  },
+  {
+    "wikiId": "Q113368102",
+    "name": "Q113368102",
+    "cat": "scenicViewpoint",
+    "lon": -5.50565,
+    "lat": 36.05031
+  },
+  {
+    "wikiId": "Q113368105",
+    "name": "Q113368105",
+    "cat": "scenicViewpoint",
+    "lon": -0.70676,
+    "lat": 42.33607
+  },
+  {
+    "wikiId": "Q113368121",
+    "name": "Q113368121",
+    "cat": "scenicViewpoint",
+    "lon": -5.44069,
+    "lat": 36.67632
+  },
+  {
+    "wikiId": "Q113368140",
+    "name": "Q113368140",
+    "cat": "scenicViewpoint",
+    "lon": -5.79887,
+    "lat": 36.7452
+  },
+  {
+    "wikiId": "Q113368142",
+    "name": "Q113368142",
+    "cat": "scenicViewpoint",
+    "lon": -5.80109,
+    "lat": 36.745
+  },
+  {
+    "wikiId": "Q113368143",
+    "name": "Q113368143",
+    "cat": "scenicViewpoint",
+    "lon": -5.8025,
+    "lat": 36.74694
+  },
+  {
+    "wikiId": "Q113368147",
+    "name": "Q113368147",
+    "cat": "scenicViewpoint",
+    "lon": -5.80667,
+    "lat": 36.74778
+  },
+  {
+    "wikiId": "Q113485279",
+    "name": "viewing platform of Pärnu coastal meadow hiking trail",
+    "cat": "scenicViewpoint",
+    "lon": 24.5120461,
+    "lat": 58.3711528
+  },
+  {
+    "wikiId": "Q113529055",
+    "name": "Belvedere Castelli Francesco",
+    "cat": "scenicViewpoint",
+    "lon": 9.2310842,
+    "lat": 46.0142523
+  },
+  {
+    "wikiId": "Q113564065",
+    "name": "Mirador del Time",
+    "cat": "scenicViewpoint",
+    "lon": -17.942352777,
+    "lat": 28.663522222
+  },
+  {
+    "wikiId": "Q113631033",
+    "name": "Peace Lookout",
+    "cat": "scenicViewpoint",
+    "lon": -17.947711611,
+    "lat": 28.822544858
+  },
+  {
+    "wikiId": "Q113631145",
+    "name": "Tanausú Viewpoint",
+    "cat": "scenicViewpoint",
+    "lon": -17.941155555,
+    "lat": 28.820058333
+  },
+  {
+    "wikiId": "Q113633262",
+    "name": "Ayoso Viewpoint",
+    "cat": "scenicViewpoint",
+    "lon": -16.468069916,
+    "lat": 28.356056898
+  },
+  {
+    "wikiId": "Q113638588",
+    "name": "Airport Viewpoint",
+    "cat": "scenicViewpoint",
+    "lon": -17.758175,
+    "lat": 28.638786111
+  },
+  {
+    "wikiId": "Q113638934",
+    "name": "Mirador del Risco Alto",
+    "cat": "scenicViewpoint",
+    "lon": -17.76035373,
+    "lat": 28.643344436
+  },
+  {
+    "wikiId": "Q113660975",
+    "name": "Mirador de Carles Sentís",
+    "cat": "scenicViewpoint",
+    "lon": 3.189345002,
+    "lat": 41.888505638
+  },
+  {
+    "wikiId": "Q113691646",
+    "name": "Morant's Curve",
+    "cat": "scenicViewpoint",
+    "lon": -116.12757,
+    "lat": 51.39922
+  },
+  {
+    "wikiId": "Q113861208",
+    "name": "Q113861208",
+    "cat": "scenicViewpoint",
+    "lon": 6.125741,
+    "lat": 46.077371
+  },
+  {
+    "wikiId": "Q113883264",
+    "name": "Mirador de l'Estrella",
+    "cat": "scenicViewpoint",
+    "lon": 2.165803313,
+    "lat": 41.469482362
+  }
+]
