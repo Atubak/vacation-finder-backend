@@ -1,0 +1,2074 @@
+[
+  {
+    "wikiId": "Q32276",
+    "name": "SS Thistlegorm",
+    "cat": "diveSpot",
+    "lon": 33.92,
+    "lat": 27.814166666
+  },
+  {
+    "wikiId": "Q335216",
+    "name": "Sha‘ab Abū Nuhās",
+    "cat": "diveSpot",
+    "lon": 33.93,
+    "lat": 27.575
+  },
+  {
+    "wikiId": "Q576959",
+    "name": "MS Antilla",
+    "cat": "diveSpot",
+    "lon": -70.05777778,
+    "lat": 12.60194444
+  },
+  {
+    "wikiId": "Q990992",
+    "name": "Brouwersdam",
+    "cat": "diveSpot",
+    "lon": 3.86,
+    "lat": 51.766667
+  },
+  {
+    "wikiId": "Q1266243",
+    "name": "SS Dunraven",
+    "cat": "diveSpot",
+    "lon": 34.121669444,
+    "lat": 27.703330555
+  },
+  {
+    "wikiId": "Q1783786",
+    "name": "Two Oceans Aquarium",
+    "cat": "diveSpot",
+    "lon": 18.417666666,
+    "lat": -33.908055555
+  },
+  {
+    "wikiId": "Q2877353",
+    "name": "SS Oakburn and Bos 400",
+    "cat": "diveSpot",
+    "lon": 18.308836,
+    "lat": -34.0369
+  },
+  {
+    "wikiId": "Q5139931",
+    "name": "Cod Hole",
+    "cat": "diveSpot",
+    "lon": 145.66361111,
+    "lat": -14.66416667
+  },
+  {
+    "wikiId": "Q5633722",
+    "name": "HMS Pelorus",
+    "cat": "diveSpot",
+    "lon": 18.47,
+    "lat": -34.22
+  },
+  {
+    "wikiId": "Q7393983",
+    "name": "SS Lusitania",
+    "cat": "diveSpot",
+    "lon": 18.494167,
+    "lat": -34.39
+  },
+  {
+    "wikiId": "Q7394006",
+    "name": "SS Maori",
+    "cat": "diveSpot",
+    "lon": 18.313217,
+    "lat": -34.034367
+  },
+  {
+    "wikiId": "Q7394451",
+    "name": "SS Thomas T. Tucker",
+    "cat": "diveSpot",
+    "lon": 18.38009167,
+    "lat": -34.27323889
+  },
+  {
+    "wikiId": "Q7440296",
+    "name": "Seacrest cove 2",
+    "cat": "diveSpot",
+    "lon": -122.38,
+    "lat": 47.589
+  },
+  {
+    "wikiId": "Q7941924",
+    "name": "Vortex Spring",
+    "cat": "diveSpot",
+    "lon": -85.9481,
+    "lat": 30.7715
+  },
+  {
+    "wikiId": "Q9304163",
+    "name": "Ras Zatar",
+    "cat": "diveSpot",
+    "lon": 34.255161111,
+    "lat": 27.7656
+  },
+  {
+    "wikiId": "Q11661070",
+    "name": "Blue Cave",
+    "cat": "diveSpot",
+    "lon": 127.77333333,
+    "lat": 26.4425
+  },
+  {
+    "wikiId": "Q14201842",
+    "name": "The Alternatives",
+    "cat": "diveSpot",
+    "lon": 34.19725,
+    "lat": 27.729261111
+  },
+  {
+    "wikiId": "Q14208294",
+    "name": "Eel Garden",
+    "cat": "diveSpot",
+    "lon": 34.257011111,
+    "lat": 27.738211111
+  },
+  {
+    "wikiId": "Q14210166",
+    "name": "Gordon Reef",
+    "cat": "diveSpot",
+    "lon": 34.453511111,
+    "lat": 27.987519444
+  },
+  {
+    "wikiId": "Q14212222",
+    "name": "Jackfish Alley, Fisherman’s Bank",
+    "cat": "diveSpot",
+    "lon": 34.255180555,
+    "lat": 27.745330555
+  },
+  {
+    "wikiId": "Q14212223",
+    "name": "Jackson Reef",
+    "cat": "diveSpot",
+    "lon": 34.47325,
+    "lat": 28.008830555
+  },
+  {
+    "wikiId": "Q14213677",
+    "name": "13th Apostle",
+    "cat": "diveSpot",
+    "lon": 18.332033,
+    "lat": -33.991433
+  },
+  {
+    "wikiId": "Q14213678",
+    "name": "A-Frame",
+    "cat": "diveSpot",
+    "lon": 18.461033,
+    "lat": -34.208067
+  },
+  {
+    "wikiId": "Q14213680",
+    "name": "Albatross Rock",
+    "cat": "diveSpot",
+    "lon": 18.370167,
+    "lat": -34.27545
+  },
+  {
+    "wikiId": "Q14213683",
+    "name": "Alpha Reef",
+    "cat": "diveSpot",
+    "lon": 18.469733,
+    "lat": -34.21645
+  },
+  {
+    "wikiId": "Q14213684",
+    "name": "Ammunition Barges",
+    "cat": "diveSpot",
+    "lon": 18.44975,
+    "lat": -34.190133
+  },
+  {
+    "wikiId": "Q14213685",
+    "name": "Andre se Gat",
+    "cat": "diveSpot",
+    "lon": 18.812667,
+    "lat": -34.304167
+  },
+  {
+    "wikiId": "Q14213686",
+    "name": "Ankers",
+    "cat": "diveSpot",
+    "lon": 18.813583,
+    "lat": -34.308767
+  },
+  {
+    "wikiId": "Q14213689",
+    "name": "Atlantis Reef",
+    "cat": "diveSpot",
+    "lon": 18.483783,
+    "lat": -34.25125
+  },
+  {
+    "wikiId": "Q14213692",
+    "name": "Bakoven Rock",
+    "cat": "diveSpot",
+    "lon": 18.370067,
+    "lat": -33.95925
+  },
+  {
+    "wikiId": "Q14213694",
+    "name": "Laguna Reef",
+    "cat": "diveSpot",
+    "lon": 34.483961111,
+    "lat": 27.99745
+  },
+  {
+    "wikiId": "Q14213696",
+    "name": "Balcony",
+    "cat": "diveSpot",
+    "lon": 18.815183,
+    "lat": -34.307567
+  },
+  {
+    "wikiId": "Q14213697",
+    "name": "Bantry Bay",
+    "cat": "diveSpot",
+    "lon": 18.3775,
+    "lat": -33.926
+  },
+  {
+    "wikiId": "Q14213700",
+    "name": "Batsata Rock",
+    "cat": "diveSpot",
+    "lon": 18.481,
+    "lat": -34.2767
+  },
+  {
+    "wikiId": "Q14213701",
+    "name": "Bikini Beach",
+    "cat": "diveSpot",
+    "lon": 18.8582,
+    "lat": -34.165383
+  },
+  {
+    "wikiId": "Q14213704",
+    "name": "Blouklip",
+    "cat": "diveSpot",
+    "lon": 18.83605,
+    "lat": -34.273983
+  },
+  {
+    "wikiId": "Q14213706",
+    "name": "Blousteen Ridge",
+    "cat": "diveSpot",
+    "lon": 18.832067,
+    "lat": -34.27495
+  },
+  {
+    "wikiId": "Q14213708",
+    "name": "Blue Rock Quarry",
+    "cat": "diveSpot",
+    "lon": 18.902131,
+    "lat": -34.127169
+  },
+  {
+    "wikiId": "Q14213709",
+    "name": "Boat Rock",
+    "cat": "diveSpot",
+    "lon": 18.483333,
+    "lat": -34.2345
+  },
+  {
+    "wikiId": "Q14213712",
+    "name": "Bordjiesrif",
+    "cat": "diveSpot",
+    "lon": 18.464333,
+    "lat": -34.3165
+  },
+  {
+    "wikiId": "Q14213713",
+    "name": "Brunswick",
+    "cat": "diveSpot",
+    "lon": 18.426783,
+    "lat": -34.181333
+  },
+  {
+    "wikiId": "Q14213714",
+    "name": "Buffels Bay",
+    "cat": "diveSpot",
+    "lon": 18.462167,
+    "lat": -34.320283
+  },
+  {
+    "wikiId": "Q14213715",
+    "name": "Canyon",
+    "cat": "diveSpot",
+    "lon": 18.301937,
+    "lat": -34.04325
+  },
+  {
+    "wikiId": "Q14213721",
+    "name": "Castor Rock reef",
+    "cat": "diveSpot",
+    "lon": 18.46042,
+    "lat": -34.17917
+  },
+  {
+    "wikiId": "Q14213722",
+    "name": "Cleeve's Tunnel",
+    "cat": "diveSpot",
+    "lon": 18.3649,
+    "lat": -33.94233
+  },
+  {
+    "wikiId": "Q14213725",
+    "name": "Clifton Rocks",
+    "cat": "diveSpot",
+    "lon": 18.370367,
+    "lat": -33.9391
+  },
+  {
+    "wikiId": "Q14213726",
+    "name": "Container Bay",
+    "cat": "diveSpot",
+    "lon": 18.8175,
+    "lat": -34.3125
+  },
+  {
+    "wikiId": "Q14213727",
+    "name": "Coral Gardens (Oudekraal)",
+    "cat": "diveSpot",
+    "lon": 18.346367,
+    "lat": -33.987833
+  },
+  {
+    "wikiId": "Q14213728",
+    "name": "Coral Gardens (Rooi-els)",
+    "cat": "diveSpot",
+    "lon": 18.81325,
+    "lat": -34.3024
+  },
+  {
+    "wikiId": "Q14213732",
+    "name": "Cow and Calf",
+    "cat": "diveSpot",
+    "lon": 18.837717,
+    "lat": -34.171833
+  },
+  {
+    "wikiId": "Q14213734",
+    "name": "D-Frame",
+    "cat": "diveSpot",
+    "lon": 18.4666,
+    "lat": -34.2063
+  },
+  {
+    "wikiId": "Q14213735",
+    "name": "Dale Brook",
+    "cat": "diveSpot",
+    "lon": 18.453133,
+    "lat": -34.124583
+  },
+  {
+    "wikiId": "Q14213740",
+    "name": "Die Josie",
+    "cat": "diveSpot",
+    "lon": 18.354267,
+    "lat": -34.07495
+  },
+  {
+    "wikiId": "Q14213742",
+    "name": "Die Perd",
+    "cat": "diveSpot",
+    "lon": 18.305333,
+    "lat": -34.038
+  },
+  {
+    "wikiId": "Q14213744",
+    "name": "Dreadlocks Reef",
+    "cat": "diveSpot",
+    "lon": 18.361831,
+    "lat": -33.972792
+  },
+  {
+    "wikiId": "Q14213746",
+    "name": "Duiker Island",
+    "cat": "diveSpot",
+    "lon": 18.326033,
+    "lat": -34.057633
+  },
+  {
+    "wikiId": "Q14213747",
+    "name": "East Shoal",
+    "cat": "diveSpot",
+    "lon": 18.646383,
+    "lat": -34.148333
+  },
+  {
+    "wikiId": "Q14213748",
+    "name": "Fan Reef",
+    "cat": "diveSpot",
+    "lon": 18.487667,
+    "lat": -34.236083
+  },
+  {
+    "wikiId": "Q14213750",
+    "name": "Finlay's Deep",
+    "cat": "diveSpot",
+    "lon": 18.486567,
+    "lat": -34.250083
+  },
+  {
+    "wikiId": "Q14213754",
+    "name": "Fish Hoek Reef",
+    "cat": "diveSpot",
+    "lon": 18.4446,
+    "lat": -34.1382
+  },
+  {
+    "wikiId": "Q14213755",
+    "name": "Fisherman’s Beach",
+    "cat": "diveSpot",
+    "lon": 18.458283,
+    "lat": -34.20595
+  },
+  {
+    "wikiId": "Q14213757",
+    "name": "Friskies Pinnacle",
+    "cat": "diveSpot",
+    "lon": 18.4637,
+    "lat": -34.179633
+  },
+  {
+    "wikiId": "Q14213758",
+    "name": "Froggy Pond",
+    "cat": "diveSpot",
+    "lon": 18.456667,
+    "lat": -34.203667
+  },
+  {
+    "wikiId": "Q14213760",
+    "name": "Geldkis",
+    "cat": "diveSpot",
+    "lon": 18.360217,
+    "lat": -33.978833
+  },
+  {
+    "wikiId": "Q14213762",
+    "name": "Geldkis Blinder",
+    "cat": "diveSpot",
+    "lon": 18.360333,
+    "lat": -33.977833
+  },
+  {
+    "wikiId": "Q14213763",
+    "name": "Glencairn Barge",
+    "cat": "diveSpot",
+    "lon": 18.441283,
+    "lat": -34.156583
+  },
+  {
+    "wikiId": "Q14213765",
+    "name": "Good Hope Reef",
+    "cat": "diveSpot",
+    "lon": 18.48155,
+    "lat": -34.267483
+  },
+  {
+    "wikiId": "Q14213768",
+    "name": "Groot Pannekoek",
+    "cat": "diveSpot",
+    "lon": 18.345833,
+    "lat": -33.9855
+  },
+  {
+    "wikiId": "Q14213770",
+    "name": "HNMS Bato",
+    "cat": "diveSpot",
+    "lon": 18.426,
+    "lat": -34.1833
+  },
+  {
+    "wikiId": "Q14213772",
+    "name": "Hakka Reef",
+    "cat": "diveSpot",
+    "lon": 18.305467,
+    "lat": -34.029117
+  },
+  {
+    "wikiId": "Q14213775",
+    "name": "Het Huis te Kraaiestein",
+    "cat": "diveSpot",
+    "lon": 18.360833,
+    "lat": -33.980833
+  },
+  {
+    "wikiId": "Q14213776",
+    "name": "Highfields",
+    "cat": "diveSpot",
+    "lon": 18.430167,
+    "lat": -33.885917
+  },
+  {
+    "wikiId": "Q14213779",
+    "name": "Insanity Reef",
+    "cat": "diveSpot",
+    "lon": 18.4674,
+    "lat": -34.213617
+  },
+  {
+    "wikiId": "Q14213783",
+    "name": "Klein Pannekoek",
+    "cat": "diveSpot",
+    "lon": 18.3515,
+    "lat": -33.981833
+  },
+  {
+    "wikiId": "Q14213784",
+    "name": "Klein Tafelberg",
+    "cat": "diveSpot",
+    "lon": 18.31985,
+    "lat": -34.074033
+  },
+  {
+    "wikiId": "Q14213786",
+    "name": "Kruis",
+    "cat": "diveSpot",
+    "lon": 18.821733,
+    "lat": -34.290517
+  },
+  {
+    "wikiId": "Q14213787",
+    "name": "Ledges",
+    "cat": "diveSpot",
+    "lon": 18.845433,
+    "lat": -34.169883
+  },
+  {
+    "wikiId": "Q14213789",
+    "name": "Livingstone Reef",
+    "cat": "diveSpot",
+    "lon": 18.4595,
+    "lat": -34.17675
+  },
+  {
+    "wikiId": "Q14213790",
+    "name": "Logies Bay",
+    "cat": "diveSpot",
+    "lon": 18.342167,
+    "lat": -34.004167
+  },
+  {
+    "wikiId": "Q14213792",
+    "name": "Long Beach Simon's Town",
+    "cat": "diveSpot",
+    "lon": 18.426233,
+    "lat": -34.187317
+  },
+  {
+    "wikiId": "Q14213795",
+    "name": "Lorry Bay",
+    "cat": "diveSpot",
+    "lon": 18.821867,
+    "lat": -34.182583
+  },
+  {
+    "wikiId": "Q14213797",
+    "name": "MFV Orotava",
+    "cat": "diveSpot",
+    "lon": 18.479933,
+    "lat": -34.26705
+  },
+  {
+    "wikiId": "Q14213799",
+    "name": "MFV Princess Elizabeth",
+    "cat": "diveSpot",
+    "lon": 18.480266,
+    "lat": -34.267667
+  },
+  {
+    "wikiId": "Q14213801",
+    "name": "MV Antipolis",
+    "cat": "diveSpot",
+    "lon": 18.356167,
+    "lat": -33.984333
+  },
+  {
+    "wikiId": "Q14213803",
+    "name": "MV Aster",
+    "cat": "diveSpot",
+    "lon": 18.34945,
+    "lat": -34.065017
+  },
+  {
+    "wikiId": "Q14213805",
+    "name": "MV Daeyang Family",
+    "cat": "diveSpot",
+    "lon": 18.38556,
+    "lat": -33.83986
+  },
+  {
+    "wikiId": "Q14213808",
+    "name": "MV Katsu Maru",
+    "cat": "diveSpot",
+    "lon": 18.349033,
+    "lat": -34.065167
+  },
+  {
+    "wikiId": "Q14213810",
+    "name": "MV Ker Yar Vor and the Jo May",
+    "cat": "diveSpot",
+    "lon": 18.310517,
+    "lat": -34.034217
+  },
+  {
+    "wikiId": "Q14213811",
+    "name": "MV Rockeater",
+    "cat": "diveSpot",
+    "lon": 18.480917,
+    "lat": -34.268917
+  },
+  {
+    "wikiId": "Q14213812",
+    "name": "MV Romelia",
+    "cat": "diveSpot",
+    "lon": 18.330183,
+    "lat": -34.0122
+  },
+  {
+    "wikiId": "Q14213815",
+    "name": "MV Treasure",
+    "cat": "diveSpot",
+    "lon": 18.330267,
+    "lat": -33.669767
+  },
+  {
+    "wikiId": "Q14213816",
+    "name": "Maidstone Rock",
+    "cat": "diveSpot",
+    "lon": 18.4579,
+    "lat": -34.19295
+  },
+  {
+    "wikiId": "Q14213818",
+    "name": "Mike’s Point",
+    "cat": "diveSpot",
+    "lon": 18.812,
+    "lat": -34.3125
+  },
+  {
+    "wikiId": "Q14213823",
+    "name": "Mushroom Pinnacle",
+    "cat": "diveSpot",
+    "lon": 18.358683,
+    "lat": -33.979683
+  },
+  {
+    "wikiId": "Q14213826",
+    "name": "North Paw main reef",
+    "cat": "diveSpot",
+    "lon": 18.36415,
+    "lat": -33.9309
+  },
+  {
+    "wikiId": "Q14213840",
+    "name": "Percy's Hole",
+    "cat": "diveSpot",
+    "lon": 18.82295,
+    "lat": -34.289167
+  },
+  {
+    "wikiId": "Q14213842",
+    "name": "Phil’s Bay",
+    "cat": "diveSpot",
+    "lon": 18.818883,
+    "lat": -34.18665
+  },
+  {
+    "wikiId": "Q14213843",
+    "name": "Phoenix Shoal",
+    "cat": "diveSpot",
+    "lon": 18.4483,
+    "lat": -34.1898
+  },
+  {
+    "wikiId": "Q14213845",
+    "name": "Photographer's Reef",
+    "cat": "diveSpot",
+    "lon": 18.457283,
+    "lat": -34.19745
+  },
+  {
+    "wikiId": "Q14213847",
+    "name": "Pinnacle",
+    "cat": "diveSpot",
+    "lon": 18.833017,
+    "lat": -34.174467
+  },
+  {
+    "wikiId": "Q14213851",
+    "name": "Pyramid Rock",
+    "cat": "diveSpot",
+    "lon": 18.478333,
+    "lat": -34.237083
+  },
+  {
+    "wikiId": "Q14213852",
+    "name": "Quarry",
+    "cat": "diveSpot",
+    "lon": 18.43595,
+    "lat": -34.1565
+  },
+  {
+    "wikiId": "Q14213853",
+    "name": "RMS Athens",
+    "cat": "diveSpot",
+    "lon": 18.4095,
+    "lat": -33.8975
+  },
+  {
+    "wikiId": "Q14213857",
+    "name": "Rocklands blinder",
+    "cat": "diveSpot",
+    "lon": 18.466667,
+    "lat": -34.215
+  },
+  {
+    "wikiId": "Q14213858",
+    "name": "Rocky Bank",
+    "cat": "diveSpot",
+    "lon": 18.591667,
+    "lat": -34.4155
+  },
+  {
+    "wikiId": "Q14213859",
+    "name": "Rocky Bay",
+    "cat": "diveSpot",
+    "lon": 18.81855,
+    "lat": -34.193083
+  },
+  {
+    "wikiId": "Q14213862",
+    "name": "Roman Rock",
+    "cat": "diveSpot",
+    "lon": 18.46,
+    "lat": -34.181167
+  },
+  {
+    "wikiId": "Q14213863",
+    "name": "Rooi-els Point",
+    "cat": "diveSpot",
+    "lon": 18.813333,
+    "lat": -34.296667
+  },
+  {
+    "wikiId": "Q14213864",
+    "name": "SAS Bloemfontein",
+    "cat": "diveSpot",
+    "lon": 18.665867,
+    "lat": -34.24425
+  },
+  {
+    "wikiId": "Q14213867",
+    "name": "SAS Fleur",
+    "cat": "diveSpot",
+    "lon": 18.564917,
+    "lat": -34.180533
+  },
+  {
+    "wikiId": "Q14213869",
+    "name": "SAS Gelderland",
+    "cat": "diveSpot",
+    "lon": 18.303,
+    "lat": -34.0345
+  },
+  {
+    "wikiId": "Q14213870",
+    "name": "SAS Good Hope",
+    "cat": "diveSpot",
+    "lon": 18.48085,
+    "lat": -34.268416
+  },
+  {
+    "wikiId": "Q14213871",
+    "name": "SAS Transvaal",
+    "cat": "diveSpot",
+    "lon": 18.47935,
+    "lat": -34.26675
+  },
+  {
+    "wikiId": "Q14213874",
+    "name": "SATS General Botha",
+    "cat": "diveSpot",
+    "lon": 18.638167,
+    "lat": -34.227983
+  },
+  {
+    "wikiId": "Q14213875",
+    "name": "SS Bia",
+    "cat": "diveSpot",
+    "lon": 18.3773,
+    "lat": -34.270283
+  },
+  {
+    "wikiId": "Q14213876",
+    "name": "SS Cape Matapan",
+    "cat": "diveSpot",
+    "lon": 18.408883,
+    "lat": -33.887217
+  },
+  {
+    "wikiId": "Q14213877",
+    "name": "SS Clan Monroe",
+    "cat": "diveSpot",
+    "lon": 18.315817,
+    "lat": -34.14695
+  },
+  {
+    "wikiId": "Q14213880",
+    "name": "SS Clan Stuart",
+    "cat": "diveSpot",
+    "lon": 18.4307,
+    "lat": -34.171717
+  },
+  {
+    "wikiId": "Q14213881",
+    "name": "SS Hypatia",
+    "cat": "diveSpot",
+    "lon": 18.379167,
+    "lat": -33.835167
+  },
+  {
+    "wikiId": "Q14213884",
+    "name": "SS SA Seafarer",
+    "cat": "diveSpot",
+    "lon": 18.396667,
+    "lat": -33.896667
+  },
+  {
+    "wikiId": "Q14213885",
+    "name": "SS Star of Africa",
+    "cat": "diveSpot",
+    "lon": 18.36425,
+    "lat": -34.271583
+  },
+  {
+    "wikiId": "Q14213888",
+    "name": "SS Umhlali",
+    "cat": "diveSpot",
+    "lon": 18.374783,
+    "lat": -34.273917
+  },
+  {
+    "wikiId": "Q14213889",
+    "name": "Sandy Cove",
+    "cat": "diveSpot",
+    "lon": 18.360833,
+    "lat": -33.981667
+  },
+  {
+    "wikiId": "Q14213891",
+    "name": "Sea Point Ridge Pinnacles",
+    "cat": "diveSpot",
+    "lon": 18.357017,
+    "lat": -33.915083
+  },
+  {
+    "wikiId": "Q14213893",
+    "name": "Seal Island",
+    "cat": "diveSpot",
+    "lon": 18.5825,
+    "lat": -34.1375
+  },
+  {
+    "wikiId": "Q14213894",
+    "name": "Sentinel",
+    "cat": "diveSpot",
+    "lon": 18.347,
+    "lat": -34.059
+  },
+  {
+    "wikiId": "Q14213895",
+    "name": "Shark Alley",
+    "cat": "diveSpot",
+    "lon": 18.476667,
+    "lat": -34.236833
+  },
+  {
+    "wikiId": "Q14213896",
+    "name": "Sherwood Forest",
+    "cat": "diveSpot",
+    "lon": 18.4835,
+    "lat": -34.253167
+  },
+  {
+    "wikiId": "Q14213898",
+    "name": "Smits Cliff",
+    "cat": "diveSpot",
+    "lon": 18.4735,
+    "lat": -34.274667
+  },
+  {
+    "wikiId": "Q14213899",
+    "name": "Smits Reef",
+    "cat": "diveSpot",
+    "lon": 18.48215,
+    "lat": -34.274767
+  },
+  {
+    "wikiId": "Q14213903",
+    "name": "South Paw",
+    "cat": "diveSpot",
+    "lon": 18.364833,
+    "lat": -33.938467
+  },
+  {
+    "wikiId": "Q14213905",
+    "name": "Spaniard Rock",
+    "cat": "diveSpot",
+    "lon": 18.467167,
+    "lat": -34.217167
+  },
+  {
+    "wikiId": "Q14213913",
+    "name": "Steps",
+    "cat": "diveSpot",
+    "lon": 18.31,
+    "lat": -34.022167
+  },
+  {
+    "wikiId": "Q14213914",
+    "name": "Stern Reef",
+    "cat": "diveSpot",
+    "lon": 18.4672,
+    "lat": -34.2194
+  },
+  {
+    "wikiId": "Q14213917",
+    "name": "Strawberry Rocks",
+    "cat": "diveSpot",
+    "lon": 18.360967,
+    "lat": -33.97865
+  },
+  {
+    "wikiId": "Q14213919",
+    "name": "Sunfish Pinnacle",
+    "cat": "diveSpot",
+    "lon": 18.304833,
+    "lat": -34.04125
+  },
+  {
+    "wikiId": "Q14213921",
+    "name": "Sunny Cove",
+    "cat": "diveSpot",
+    "lon": 18.438333,
+    "lat": -34.144667
+  },
+  {
+    "wikiId": "Q14213924",
+    "name": "Tafelberg Deep",
+    "cat": "diveSpot",
+    "lon": 18.317203,
+    "lat": -34.078934
+  },
+  {
+    "wikiId": "Q14213927",
+    "name": "Target Reef",
+    "cat": "diveSpot",
+    "lon": 18.453767,
+    "lat": -34.176983
+  },
+  {
+    "wikiId": "Q14213929",
+    "name": "Three Anchor Bay",
+    "cat": "diveSpot",
+    "lon": 18.3975,
+    "lat": -33.906
+  },
+  {
+    "wikiId": "Q14213931",
+    "name": "Tivoli Pinnacles",
+    "cat": "diveSpot",
+    "lon": 18.46275,
+    "lat": -34.181533
+  },
+  {
+    "wikiId": "Q14213932",
+    "name": "Tony’s Reef",
+    "cat": "diveSpot",
+    "lon": 18.829083,
+    "lat": -34.178083
+  },
+  {
+    "wikiId": "Q14213933",
+    "name": "Torch Reef",
+    "cat": "diveSpot",
+    "lon": 18.466,
+    "lat": -34.195
+  },
+  {
+    "wikiId": "Q14213935",
+    "name": "Troglodyte’s Cove",
+    "cat": "diveSpot",
+    "lon": 18.82515,
+    "lat": -34.180467
+  },
+  {
+    "wikiId": "Q14213936",
+    "name": "Vogelsteen",
+    "cat": "diveSpot",
+    "lon": 18.83925,
+    "lat": -34.1717
+  },
+  {
+    "wikiId": "Q14213939",
+    "name": "Vulcan Rock",
+    "cat": "diveSpot",
+    "lon": 18.3097,
+    "lat": -34.066117
+  },
+  {
+    "wikiId": "Q14213940",
+    "name": "Whale Rock",
+    "cat": "diveSpot",
+    "lon": 18.380967,
+    "lat": -33.8352
+  },
+  {
+    "wikiId": "Q14213941",
+    "name": "Whirlpool cove",
+    "cat": "diveSpot",
+    "lon": 18.825833,
+    "lat": -34.282833
+  },
+  {
+    "wikiId": "Q14213943",
+    "name": "Whittle Rock",
+    "cat": "diveSpot",
+    "lon": 18.5619,
+    "lat": -34.247433
+  },
+  {
+    "wikiId": "Q14213945",
+    "name": "Windmill Beach",
+    "cat": "diveSpot",
+    "lon": 18.456667,
+    "lat": -34.201
+  },
+  {
+    "wikiId": "Q14213948",
+    "name": "York Shoal",
+    "cat": "diveSpot",
+    "lon": 18.59305,
+    "lat": -34.156117
+  },
+  {
+    "wikiId": "Q14218651",
+    "name": "Ras el-Ghazlani, Ras Ghozlani",
+    "cat": "diveSpot",
+    "lon": 34.25915,
+    "lat": 27.790338888
+  },
+  {
+    "wikiId": "Q14219878",
+    "name": "Sha'ab Mahmud",
+    "cat": "diveSpot",
+    "lon": 34.094438888,
+    "lat": 27.738611111
+  },
+  {
+    "wikiId": "Q14220255",
+    "name": "Shag Rock",
+    "cat": "diveSpot",
+    "lon": 33.881019444,
+    "lat": 27.7766
+  },
+  {
+    "wikiId": "Q14220276",
+    "name": "Shark Observatory",
+    "cat": "diveSpot",
+    "lon": 34.259980555,
+    "lat": 27.732119444
+  },
+  {
+    "wikiId": "Q14221722",
+    "name": "Thomas Reef",
+    "cat": "diveSpot",
+    "lon": 34.46031,
+    "lat": 27.9927
+  },
+  {
+    "wikiId": "Q14223403",
+    "name": "Woodhouse Reef",
+    "cat": "diveSpot",
+    "lon": 34.465480555,
+    "lat": 28.001538888
+  },
+  {
+    "wikiId": "Q14300517",
+    "name": "Anemone City, Shark Reef and Jolanda Reef",
+    "cat": "diveSpot",
+    "lon": 34.258688888,
+    "lat": 27.725738888
+  },
+  {
+    "wikiId": "Q14913567",
+    "name": "Glencairn Fan Garden",
+    "cat": "diveSpot",
+    "lon": 18.4402,
+    "lat": -34.156967
+  },
+  {
+    "wikiId": "Q14913568",
+    "name": "Justins Caves",
+    "cat": "diveSpot",
+    "lon": 18.357883,
+    "lat": -33.9808
+  },
+  {
+    "wikiId": "Q14913576",
+    "name": "Kanobi's Wall",
+    "cat": "diveSpot",
+    "lon": 18.3023,
+    "lat": -34.039417
+  },
+  {
+    "wikiId": "Q14913577",
+    "name": "Diving the Cape Peninsula and False Bay/Muizenberg Trawlers",
+    "cat": "diveSpot",
+    "lon": 18.5203,
+    "lat": -34.1168
+  },
+  {
+    "wikiId": "Q14913578",
+    "name": "Omega Reef",
+    "cat": "diveSpot",
+    "lon": 18.474583,
+    "lat": -34.214783
+  },
+  {
+    "wikiId": "Q15266796",
+    "name": "SURG Pinnacles",
+    "cat": "diveSpot",
+    "lon": 18.30025,
+    "lat": -34.039583
+  },
+  {
+    "wikiId": "Q17325484",
+    "name": "Nordhusia",
+    "cat": "diveSpot",
+    "lon": 10.80971,
+    "lat": 51.480495
+  },
+  {
+    "wikiId": "Q18218441",
+    "name": "Countess of Erne",
+    "cat": "diveSpot",
+    "lon": -2.419666666,
+    "lat": 50.586333333
+  },
+  {
+    "wikiId": "Q18347285",
+    "name": "Dome Rock",
+    "cat": "diveSpot",
+    "lon": 18.462933,
+    "lat": -34.185317
+  },
+  {
+    "wikiId": "Q20892015",
+    "name": "Drop Zone",
+    "cat": "diveSpot",
+    "lon": 18.763817,
+    "lat": -34.142683
+  },
+  {
+    "wikiId": "Q20892050",
+    "name": "Murphy's",
+    "cat": "diveSpot",
+    "lon": 18.4831,
+    "lat": -34.2326
+  },
+  {
+    "wikiId": "Q24560694",
+    "name": "put van ekeren",
+    "cat": "diveSpot",
+    "lon": 4.390277777,
+    "lat": 51.2825
+  },
+  {
+    "wikiId": "Q24561263",
+    "name": "Oesterdam",
+    "cat": "diveSpot",
+    "lon": 4.1725,
+    "lat": 51.516666666
+  },
+  {
+    "wikiId": "Q24561592",
+    "name": "Galleon without money",
+    "cat": "diveSpot",
+    "lon": 3.987777777,
+    "lat": 51.523611111
+  },
+  {
+    "wikiId": "Q24561745",
+    "name": "Dreischor",
+    "cat": "diveSpot",
+    "lon": 3.994722222,
+    "lat": 51.710833333
+  },
+  {
+    "wikiId": "Q24561913",
+    "name": "Twiske pavilion",
+    "cat": "diveSpot",
+    "lon": 4.886166666,
+    "lat": 52.450733333
+  },
+  {
+    "wikiId": "Q24566177",
+    "name": "'t koepeltje",
+    "cat": "diveSpot",
+    "lon": 3.828055555,
+    "lat": 51.739166666
+  },
+  {
+    "wikiId": "Q41735995",
+    "name": "Robben Island steamer wreck",
+    "cat": "diveSpot",
+    "lon": 18.358733,
+    "lat": -33.831433
+  },
+  {
+    "wikiId": "Q41741217",
+    "name": "North Paw Cave Rock",
+    "cat": "diveSpot",
+    "lon": 18.36315,
+    "lat": -33.930783
+  },
+  {
+    "wikiId": "Q41742107",
+    "name": "Monty's Pinnacles",
+    "cat": "diveSpot",
+    "lon": 18.363467,
+    "lat": -33.92995
+  },
+  {
+    "wikiId": "Q41742252",
+    "name": "North Paw Northern Pinnacles",
+    "cat": "diveSpot",
+    "lon": 18.36465,
+    "lat": -33.929083
+  },
+  {
+    "wikiId": "Q41742339",
+    "name": "Eastern Pinnacle",
+    "cat": "diveSpot",
+    "lon": 18.366983,
+    "lat": -33.930117
+  },
+  {
+    "wikiId": "Q41742533",
+    "name": "Barry's Pinnacles",
+    "cat": "diveSpot",
+    "lon": 18.360783,
+    "lat": -33.930683
+  },
+  {
+    "wikiId": "Q41770358",
+    "name": "Coral Gardens Offshore Pinnacle",
+    "cat": "diveSpot",
+    "lon": 18.341922,
+    "lat": -33.985353
+  },
+  {
+    "wikiId": "Q41771616",
+    "name": "MFV Harvest Capella",
+    "cat": "diveSpot",
+    "lon": 18.3125,
+    "lat": -34.026667
+  },
+  {
+    "wikiId": "Q41771752",
+    "name": "Rachel's Reef",
+    "cat": "diveSpot",
+    "lon": 18.302517,
+    "lat": -34.02385
+  },
+  {
+    "wikiId": "Q41773101",
+    "name": "Humpback Ridge",
+    "cat": "diveSpot",
+    "lon": 18.302367,
+    "lat": -34.0258
+  },
+  {
+    "wikiId": "Q41773379",
+    "name": "Wilhelm's Wall",
+    "cat": "diveSpot",
+    "lon": 18.29885,
+    "lat": -34.025033
+  },
+  {
+    "wikiId": "Q110835120",
+    "name": "Diving the south coast of South Africa/Alphard Banks",
+    "cat": "diveSpot",
+    "lon": 20.883333,
+    "lat": -35.05
+  },
+  {
+    "wikiId": "Q110835163",
+    "name": "Diving the south coast of South Africa/Dalgleish Bank",
+    "cat": "diveSpot",
+    "lon": 22.957,
+    "lat": -34.193
+  },
+  {
+    "wikiId": "Q110835274",
+    "name": "Diving the south coast of South Africa/Twelve Mile Bank",
+    "cat": "diveSpot",
+    "lon": 19.916667,
+    "lat": -35.016667
+  },
+  {
+    "wikiId": "Q110835328",
+    "name": "Diving the Cape Peninsula and False Bay/Josh's Reef",
+    "cat": "diveSpot",
+    "lon": 18.53725,
+    "lat": -34.272233
+  },
+  {
+    "wikiId": "Q110835343",
+    "name": "Diving the Cape Peninsula and False Bay/Blue Flame Pinnacles",
+    "cat": "diveSpot",
+    "lon": 18.555933,
+    "lat": -34.210617
+  },
+  {
+    "wikiId": "Q14213830",
+    "name": "Outer Castle",
+    "cat": "diveSpot",
+    "lon": 18.483233,
+    "lat": -34.238683
+  },
+  {
+    "wikiId": "Q14213831",
+    "name": "Outer Photographer's Reef",
+    "cat": "diveSpot",
+    "lon": 18.464967,
+    "lat": -34.1963
+  },
+  {
+    "wikiId": "Q14213832",
+    "name": "P87",
+    "cat": "diveSpot",
+    "lon": 18.440333,
+    "lat": -34.1595
+  },
+  {
+    "wikiId": "Q14213839",
+    "name": "Penguin Point",
+    "cat": "diveSpot",
+    "lon": 18.454233,
+    "lat": -34.19815
+  },
+  {
+    "wikiId": "Q41773717",
+    "name": "Sven's Caves",
+    "cat": "diveSpot",
+    "lon": 18.307,
+    "lat": -34.029333
+  },
+  {
+    "wikiId": "Q41773780",
+    "name": "Southeast pinnacles",
+    "cat": "diveSpot",
+    "lon": 18.306333,
+    "lat": -34.029667
+  },
+  {
+    "wikiId": "Q41777420",
+    "name": "Twin Towers",
+    "cat": "diveSpot",
+    "lon": 18.3055,
+    "lat": -34.032
+  },
+  {
+    "wikiId": "Q41779947",
+    "name": "Star Wall",
+    "cat": "diveSpot",
+    "lon": 18.30145,
+    "lat": -34.0411
+  },
+  {
+    "wikiId": "Q41781161",
+    "name": "M&M Cave",
+    "cat": "diveSpot",
+    "lon": 18.30318,
+    "lat": -34.04043
+  },
+  {
+    "wikiId": "Q41781341",
+    "name": "Lollipop Pinnacle",
+    "cat": "diveSpot",
+    "lon": 18.3031,
+    "lat": -34.04176
+  },
+  {
+    "wikiId": "Q41792161",
+    "name": "Dusky Pinnacles",
+    "cat": "diveSpot",
+    "lon": 18.304136,
+    "lat": -34.043167
+  },
+  {
+    "wikiId": "Q41792169",
+    "name": "Stonehenge North",
+    "cat": "diveSpot",
+    "lon": 18.305,
+    "lat": -34.043708
+  },
+  {
+    "wikiId": "Q41792174",
+    "name": "A-340 Pinnacle",
+    "cat": "diveSpot",
+    "lon": 18.303333,
+    "lat": -34.045667
+  },
+  {
+    "wikiId": "Q41792177",
+    "name": "Stonehenge Central",
+    "cat": "diveSpot",
+    "lon": 18.305,
+    "lat": -34.045833
+  },
+  {
+    "wikiId": "Q41792183",
+    "name": "Stonehenge South",
+    "cat": "diveSpot",
+    "lon": 18.306083,
+    "lat": -34.04725
+  },
+  {
+    "wikiId": "Q41792186",
+    "name": "Stonehenge Wreck",
+    "cat": "diveSpot",
+    "lon": 18.305583,
+    "lat": -34.048083
+  },
+  {
+    "wikiId": "Q41792189",
+    "name": "Stonehenge Blinder",
+    "cat": "diveSpot",
+    "lon": 18.305267,
+    "lat": -34.0473
+  },
+  {
+    "wikiId": "Q41792216",
+    "name": "Di's Cracks Pinnacle 1",
+    "cat": "diveSpot",
+    "lon": 18.3069,
+    "lat": -34.064583
+  },
+  {
+    "wikiId": "Q41792225",
+    "name": "Di's Cracks Pinnacle 2",
+    "cat": "diveSpot",
+    "lon": 18.30665,
+    "lat": -34.064467
+  },
+  {
+    "wikiId": "Q41792232",
+    "name": "Di's Cracks Arch",
+    "cat": "diveSpot",
+    "lon": 18.307017,
+    "lat": -34.064633
+  },
+  {
+    "wikiId": "Q41793326",
+    "name": "Tafelberg Reef West",
+    "cat": "diveSpot",
+    "lon": 18.313533,
+    "lat": -34.069917
+  },
+  {
+    "wikiId": "Q41793357",
+    "name": "Tafelberg Reef North",
+    "cat": "diveSpot",
+    "lon": 18.315967,
+    "lat": -34.066433
+  },
+  {
+    "wikiId": "Q41793435",
+    "name": "Klein Tafelberg Pinnacle",
+    "cat": "diveSpot",
+    "lon": 18.31985,
+    "lat": -34.074033
+  },
+  {
+    "wikiId": "Q41793601",
+    "name": "Table Top Pinnacle",
+    "cat": "diveSpot",
+    "lon": 18.319633,
+    "lat": -34.07405
+  },
+  {
+    "wikiId": "Q41793646",
+    "name": "Tafelberg Deep Pinnacle",
+    "cat": "diveSpot",
+    "lon": 18.316183,
+    "lat": -34.07746
+  },
+  {
+    "wikiId": "Q41799138",
+    "name": "SS Oakburn",
+    "cat": "diveSpot",
+    "lon": 18.30955,
+    "lat": -34.036933
+  },
+  {
+    "wikiId": "Q41799149",
+    "name": "Bos 400",
+    "cat": "diveSpot",
+    "lon": 18.30955,
+    "lat": -34.036933
+  },
+  {
+    "wikiId": "Q41896466",
+    "name": "Castor Rock Northern Pinnacle",
+    "cat": "diveSpot",
+    "lon": 18.459833,
+    "lat": -34.178
+  },
+  {
+    "wikiId": "Q41896715",
+    "name": "Castor Rock Central Pinnacle",
+    "cat": "diveSpot",
+    "lon": 18.4635,
+    "lat": -34.179
+  },
+  {
+    "wikiId": "Q41896913",
+    "name": "Wonders Pinnacle",
+    "cat": "diveSpot",
+    "lon": 18.460833,
+    "lat": -34.180167
+  },
+  {
+    "wikiId": "Q41897292",
+    "name": "Roman's Rest",
+    "cat": "diveSpot",
+    "lon": 18.463367,
+    "lat": -34.180517
+  },
+  {
+    "wikiId": "Q41898774",
+    "name": "North Friskies Pinnacle",
+    "cat": "diveSpot",
+    "lon": 18.463833055,
+    "lat": -34.178666944
+  },
+  {
+    "wikiId": "Q41950917",
+    "name": "Rambler Rock North-west Pinnacle",
+    "cat": "diveSpot",
+    "lon": 18.464983,
+    "lat": -34.182067
+  },
+  {
+    "wikiId": "Q41951201",
+    "name": "Rambler Rock North-east Reefs",
+    "cat": "diveSpot",
+    "lon": 18.4666,
+    "lat": -34.181933
+  },
+  {
+    "wikiId": "Q41951457",
+    "name": "Rambler Rock Southern Pinnacle",
+    "cat": "diveSpot",
+    "lon": 18.4653,
+    "lat": -34.183517
+  },
+  {
+    "wikiId": "Q41951755",
+    "name": "Hotlips Pinnacle",
+    "cat": "diveSpot",
+    "lon": 18.468183,
+    "lat": -34.185767
+  },
+  {
+    "wikiId": "Q41955098",
+    "name": "Noah’s Ark Rock",
+    "cat": "diveSpot",
+    "lon": 18.453867,
+    "lat": -34.192217
+  },
+  {
+    "wikiId": "Q41955467",
+    "name": "Ark Rock Barge wreck",
+    "cat": "diveSpot",
+    "lon": 18.4533,
+    "lat": -34.193833
+  },
+  {
+    "wikiId": "Q41955916",
+    "name": "Boiler wreck #1",
+    "cat": "diveSpot",
+    "lon": 18.452883,
+    "lat": -34.192417
+  },
+  {
+    "wikiId": "Q41956369",
+    "name": "Boiler wreck #2",
+    "cat": "diveSpot",
+    "lon": 18.453267,
+    "lat": -34.1945
+  },
+  {
+    "wikiId": "Q41956730",
+    "name": "Boiler wreck #3",
+    "cat": "diveSpot",
+    "lon": 18.455817,
+    "lat": -34.193867
+  },
+  {
+    "wikiId": "Q41966765",
+    "name": "Parana wreck",
+    "cat": "diveSpot",
+    "lon": 18.452383,
+    "lat": -34.191617
+  },
+  {
+    "wikiId": "Q41967126",
+    "name": "Degaussing range",
+    "cat": "diveSpot",
+    "lon": 18.453667,
+    "lat": -34.19415
+  },
+  {
+    "wikiId": "Q41967506",
+    "name": "Eastern wreck",
+    "cat": "diveSpot",
+    "lon": 18.4551,
+    "lat": -34.192167
+  },
+  {
+    "wikiId": "Q41967800",
+    "name": "Twin barges",
+    "cat": "diveSpot",
+    "lon": 18.452083,
+    "lat": -34.189583
+  },
+  {
+    "wikiId": "Q42049332",
+    "name": "Anchor Reef",
+    "cat": "diveSpot",
+    "lon": 18.46,
+    "lat": -34.192917
+  },
+  {
+    "wikiId": "Q42049589",
+    "name": "Ammo Reef",
+    "cat": "diveSpot",
+    "lon": 18.462567,
+    "lat": -34.192733
+  },
+  {
+    "wikiId": "Q42051891",
+    "name": "Dangerous Doug Reef",
+    "cat": "diveSpot",
+    "lon": 18.460833,
+    "lat": -34.199167
+  },
+  {
+    "wikiId": "Q42052136",
+    "name": "Lace Reef",
+    "cat": "diveSpot",
+    "lon": 18.46875,
+    "lat": -34.199333
+  },
+  {
+    "wikiId": "Q42052396",
+    "name": "Windmill Offshore Reef",
+    "cat": "diveSpot",
+    "lon": 18.463333,
+    "lat": -34.200833
+  },
+  {
+    "wikiId": "Q42052599",
+    "name": "Outer Windmill",
+    "cat": "diveSpot",
+    "lon": 18.460167,
+    "lat": -34.2015
+  },
+  {
+    "wikiId": "Q42165426",
+    "name": "Caravan Central north pinnacle",
+    "cat": "diveSpot",
+    "lon": 18.47545,
+    "lat": -34.223617
+  },
+  {
+    "wikiId": "Q42165766",
+    "name": "Caravan Central east pinnacle",
+    "cat": "diveSpot",
+    "lon": 18.475833,
+    "lat": -34.223883
+  },
+  {
+    "wikiId": "Q42200246",
+    "name": "North Caravan",
+    "cat": "diveSpot",
+    "lon": 18.478883,
+    "lat": -34.222533
+  },
+  {
+    "wikiId": "Q42200514",
+    "name": "South Caravan",
+    "cat": "diveSpot",
+    "lon": 18.478683,
+    "lat": -34.225217
+  },
+  {
+    "wikiId": "Q42200764",
+    "name": "PMB Pinnacles",
+    "cat": "diveSpot",
+    "lon": 18.476067,
+    "lat": -34.22185
+  },
+  {
+    "wikiId": "Q42200994",
+    "name": "Inner Caravan",
+    "cat": "diveSpot",
+    "lon": 18.474167,
+    "lat": -34.225
+  },
+  {
+    "wikiId": "Q42208911",
+    "name": "Miller's Point slipway",
+    "cat": "diveSpot",
+    "lon": 18.473897,
+    "lat": -34.230483
+  },
+  {
+    "wikiId": "Q42209276",
+    "name": "Rumbly Bay slipway",
+    "cat": "diveSpot",
+    "lon": 18.474908,
+    "lat": -34.234314
+  },
+  {
+    "wikiId": "Q42209525",
+    "name": "Miller's Point tidal pool",
+    "cat": "diveSpot",
+    "lon": 18.475978,
+    "lat": -34.231319
+  },
+  {
+    "wikiId": "Q42265312",
+    "name": "Festival Pinnacle",
+    "cat": "diveSpot",
+    "lon": 18.483583,
+    "lat": -34.235667
+  },
+  {
+    "wikiId": "Q42294043",
+    "name": "Castle Pinnacles",
+    "cat": "diveSpot",
+    "lon": 18.480433,
+    "lat": -34.239267
+  },
+  {
+    "wikiId": "Q42328064",
+    "name": "Castle Rocks Point Reef",
+    "cat": "diveSpot",
+    "lon": 18.48,
+    "lat": -34.24
+  },
+  {
+    "wikiId": "Q42328072",
+    "name": "North Castle",
+    "cat": "diveSpot",
+    "lon": 18.4775,
+    "lat": -34.2387
+  },
+  {
+    "wikiId": "Q42328078",
+    "name": "Inner Castle",
+    "cat": "diveSpot",
+    "lon": 18.4779,
+    "lat": -34.241
+  },
+  {
+    "wikiId": "Q42328702",
+    "name": "Giant's Castle",
+    "cat": "diveSpot",
+    "lon": 18.487083,
+    "lat": -34.239367
+  },
+  {
+    "wikiId": "Q42328809",
+    "name": "Phone Reef",
+    "cat": "diveSpot",
+    "lon": 18.4867,
+    "lat": -34.237083
+  },
+  {
+    "wikiId": "Q42328905",
+    "name": "North Pie Rock",
+    "cat": "diveSpot",
+    "lon": 18.484583,
+    "lat": -34.239583
+  },
+  {
+    "wikiId": "Q42328959",
+    "name": "West Pie Rock Reef",
+    "cat": "diveSpot",
+    "lon": 18.481667,
+    "lat": -34.24
+  },
+  {
+    "wikiId": "Q42329027",
+    "name": "South Pie Rock Reef pinnacles",
+    "cat": "diveSpot",
+    "lon": 18.483083,
+    "lat": -34.24075
+  },
+  {
+    "wikiId": "Q42350889",
+    "name": "Finlay's Point offshore pinnacles",
+    "cat": "diveSpot",
+    "lon": 18.4817,
+    "lat": -34.2493
+  },
+  {
+    "wikiId": "Q42351048",
+    "name": "Graeme's Spot",
+    "cat": "diveSpot",
+    "lon": 18.48195,
+    "lat": -34.248383
+  },
+  {
+    "wikiId": "Q42351155",
+    "name": "The Jambles",
+    "cat": "diveSpot",
+    "lon": 18.4815,
+    "lat": -34.248083
+  },
+  {
+    "wikiId": "Q42351218",
+    "name": "Carnaby Street",
+    "cat": "diveSpot",
+    "lon": 18.482,
+    "lat": -34.24975
+  },
+  {
+    "wikiId": "Q42351333",
+    "name": "Finlay's Pinnacle",
+    "cat": "diveSpot",
+    "lon": 18.479667,
+    "lat": -34.2495
+  },
+  {
+    "wikiId": "Q42363084",
+    "name": "Santorini pinnacles",
+    "cat": "diveSpot",
+    "lon": 18.482133,
+    "lat": -34.250616
+  },
+  {
+    "wikiId": "Q42363511",
+    "name": "Big Rock",
+    "cat": "diveSpot",
+    "lon": 18.4798,
+    "lat": -34.25775
+  },
+  {
+    "wikiId": "Q42363616",
+    "name": "Seal Rock",
+    "cat": "diveSpot",
+    "lon": 18.481533,
+    "lat": -34.255617
+  },
+  {
+    "wikiId": "Q42363901",
+    "name": "Peter's Pinnacles",
+    "cat": "diveSpot",
+    "lon": 18.478117,
+    "lat": -34.258583
+  },
+  {
+    "wikiId": "Q42364025",
+    "name": "Deep Partridge",
+    "cat": "diveSpot",
+    "lon": 18.483333,
+    "lat": -34.255833
+  },
+  {
+    "wikiId": "Q42364154",
+    "name": "Dave's Caves",
+    "cat": "diveSpot",
+    "lon": 18.4784,
+    "lat": -34.2563
+  },
+  {
+    "wikiId": "Q42364262",
+    "name": "Fish Tank",
+    "cat": "diveSpot",
+    "lon": 18.482167,
+    "lat": -34.253833
+  },
+  {
+    "wikiId": "Q42369541",
+    "name": "Batsata Maze",
+    "cat": "diveSpot",
+    "lon": 18.483617,
+    "lat": -34.275283
+  },
+  {
+    "wikiId": "Q42369683",
+    "name": "Maze Cave",
+    "cat": "diveSpot",
+    "lon": 18.483767,
+    "lat": -34.275283
+  },
+  {
+    "wikiId": "Q42369843",
+    "name": "Western Pinnacle",
+    "cat": "diveSpot",
+    "lon": 18.48105,
+    "lat": -34.274917
+  },
+  {
+    "wikiId": "Q42369981",
+    "name": "Horseshoe Reef",
+    "cat": "diveSpot",
+    "lon": 18.482333,
+    "lat": -34.2735
+  },
+  {
+    "wikiId": "Q42370055",
+    "name": "Kreef Reef",
+    "cat": "diveSpot",
+    "lon": 18.479667,
+    "lat": -34.272667
+  },
+  {
+    "wikiId": "Q42372508",
+    "name": "Batsata Blinder",
+    "cat": "diveSpot",
+    "lon": 18.48067,
+    "lat": -34.27589
+  },
+  {
+    "wikiId": "Q42414095",
+    "name": "Moddergat",
+    "cat": "diveSpot",
+    "lon": 18.8275,
+    "lat": -34.1525
+  },
+  {
+    "wikiId": "Q42414251",
+    "name": "Steenbras Deep North Pinnacle",
+    "cat": "diveSpot",
+    "lon": 18.7595,
+    "lat": -34.2025
+  },
+  {
+    "wikiId": "Q42414306",
+    "name": "Steenbras Deep South Pinnacle",
+    "cat": "diveSpot",
+    "lon": 18.7583,
+    "lat": -34.2107
+  },
+  {
+    "wikiId": "Q42415740",
+    "name": "Whittle Rock South-east Pinnacle",
+    "cat": "diveSpot",
+    "lon": 18.562917,
+    "lat": -34.248117
+  },
+  {
+    "wikiId": "Q42415792",
+    "name": "Whittle Rock West Pinnacle",
+    "cat": "diveSpot",
+    "lon": 18.561367,
+    "lat": -34.2474
+  },
+  {
+    "wikiId": "Q42415849",
+    "name": "Whittle Rock North-west Pinnacle",
+    "cat": "diveSpot",
+    "lon": 18.560367,
+    "lat": -34.246083
+  },
+  {
+    "wikiId": "Q42415894",
+    "name": "''Euphrates'' anchors",
+    "cat": "diveSpot",
+    "lon": 18.56325,
+    "lat": -34.246383
+  },
+  {
+    "wikiId": "Q42415958",
+    "name": "JJ's anchor",
+    "cat": "diveSpot",
+    "lon": 18.562,
+    "lat": -34.245933
+  },
+  {
+    "wikiId": "Q42416008",
+    "name": "Riaan and Sven's anchor",
+    "cat": "diveSpot",
+    "lon": 18.559833,
+    "lat": -34.245583
+  },
+  {
+    "wikiId": "Q42416051",
+    "name": "September anchor",
+    "cat": "diveSpot",
+    "lon": 18.559583,
+    "lat": -34.246033
+  },
+  {
+    "wikiId": "Q42416166",
+    "name": "Little anchor",
+    "cat": "diveSpot",
+    "lon": 18.5611,
+    "lat": -34.246417
+  },
+  {
+    "wikiId": "Q42416257",
+    "name": "South-east Pinnacle chain",
+    "cat": "diveSpot",
+    "lon": 18.56255,
+    "lat": -34.248617
+  },
+  {
+    "wikiId": "Q42426388",
+    "name": "Bellows Rock",
+    "cat": "diveSpot",
+    "lon": 18.490553,
+    "lat": -34.389652
+  },
+  {
+    "wikiId": "Q42427595",
+    "name": "Stone Dog",
+    "cat": "diveSpot",
+    "lon": 18.836378,
+    "lat": -34.174306
+  },
+  {
+    "wikiId": "Q42427935",
+    "name": "Noble Reef",
+    "cat": "diveSpot",
+    "lon": 18.815567,
+    "lat": -34.188867
+  },
+  {
+    "wikiId": "Q45324017",
+    "name": "Moddergat",
+    "cat": "diveSpot",
+    "lon": 18.8275,
+    "lat": -34.1525
+  },
+  {
+    "wikiId": "Q47465745",
+    "name": "The \"Eitana\" tow boat",
+    "cat": "diveSpot",
+    "lon": 35.076427,
+    "lat": 33.03968
+  }
+]

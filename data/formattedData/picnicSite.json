@@ -1,0 +1,415 @@
+[
+  {
+    "wikiId": "Q12342051",
+    "name": "Ørnereden",
+    "cat": "picnicSite",
+    "lon": 10.2369,
+    "lat": 56.1012
+  },
+  {
+    "wikiId": "Q12757825",
+    "name": "Preslica",
+    "cat": "picnicSite",
+    "lon": 18.1368508,
+    "lat": 44.6918673
+  },
+  {
+    "wikiId": "Q49487848",
+    "name": "Ez-Kim-In-Zin Picnic Area",
+    "cat": "picnicSite",
+    "lon": -111.169166666,
+    "lat": 32.286111111
+  },
+  {
+    "wikiId": "Q49537032",
+    "name": "Painted Desert Vista Picnic Area",
+    "cat": "picnicSite",
+    "lon": -111.432222222,
+    "lat": 35.390555555
+  },
+  {
+    "wikiId": "Q49563655",
+    "name": "South River Picnic Area",
+    "cat": "picnicSite",
+    "lon": -78.5180668,
+    "lat": 38.3812387
+  },
+  {
+    "wikiId": "Q49564960",
+    "name": "Spruce Mountain Lookout Family Picnic Area",
+    "cat": "picnicSite",
+    "lon": -112.403611111,
+    "lat": 34.462222222
+  },
+  {
+    "wikiId": "Q49568142",
+    "name": "Sus Picnic Area",
+    "cat": "picnicSite",
+    "lon": -111.211388888,
+    "lat": 32.271944444
+  },
+  {
+    "wikiId": "Q53672838",
+    "name": "Q53672838",
+    "cat": "picnicSite",
+    "lon": 13.581827777,
+    "lat": 53.919952777
+  },
+  {
+    "wikiId": "Q54915217",
+    "name": "Q54915217",
+    "cat": "picnicSite",
+    "lon": 13.57167,
+    "lat": 53.89608
+  },
+  {
+    "wikiId": "Q61361172",
+    "name": "Konjarka picnic spot",
+    "cat": "picnicSite",
+    "lon": 21.662333333,
+    "lat": 40.981777777
+  },
+  {
+    "wikiId": "Q70363162",
+    "name": "Shingle Mill Flat Picnic Site",
+    "cat": "picnicSite",
+    "lon": -119.45672,
+    "lat": 38.448415
+  },
+  {
+    "wikiId": "Q74425351",
+    "name": "Picnic area Vosges view",
+    "cat": "picnicSite",
+    "lon": 7.06146,
+    "lat": 49.15203
+  },
+  {
+    "wikiId": "Q97451020",
+    "name": "Q97451020",
+    "cat": "picnicSite",
+    "lon": 7.03983,
+    "lat": 49.23082
+  },
+  {
+    "wikiId": "Q98074864",
+    "name": "Devils Kitchen Picnic Area",
+    "cat": "picnicSite",
+    "lon": -108.633931,
+    "lat": 39.03288
+  },
+  {
+    "wikiId": "Q98138163",
+    "name": "Chatcolet CCC Picnic and Camping Area",
+    "cat": "picnicSite",
+    "lon": -116.763001,
+    "lat": 47.374796
+  },
+  {
+    "wikiId": "Q98874785",
+    "name": "Elkwallow Picnic Grounds",
+    "cat": "picnicSite",
+    "lon": -78.313,
+    "lat": 38.739263
+  },
+  {
+    "wikiId": "Q98915539",
+    "name": "Dundo Picnic Grounds",
+    "cat": "picnicSite",
+    "lon": -78.718487,
+    "lat": 38.234533
+  },
+  {
+    "wikiId": "Q99193600",
+    "name": "Boulder Park",
+    "cat": "picnicSite",
+    "lon": -72.9177,
+    "lat": 42.244155555
+  },
+  {
+    "wikiId": "Q99555280",
+    "name": "Fort Necessity's CCC Picnic Area",
+    "cat": "picnicSite",
+    "lon": -79.598386,
+    "lat": 39.809099
+  },
+  {
+    "wikiId": "Q99658435",
+    "name": "Beaver Ponds Picnic Area",
+    "cat": "picnicSite",
+    "lon": -105.848099,
+    "lat": 40.387026
+  },
+  {
+    "wikiId": "Q100278733",
+    "name": "Kings Creek Picnic Area",
+    "cat": "picnicSite",
+    "lon": -121.474783333,
+    "lat": 40.460216666
+  },
+  {
+    "wikiId": "Q100314108",
+    "name": "Ponderosa Picnic Area",
+    "cat": "picnicSite",
+    "lon": -122.0651563,
+    "lat": 42.7759716
+  },
+  {
+    "wikiId": "Q101657383",
+    "name": "Sunrise Picnic Area",
+    "cat": "picnicSite",
+    "lon": -121.644477,
+    "lat": 46.915203
+  },
+  {
+    "wikiId": "Q101795687",
+    "name": "Sutter Creek Rest Area",
+    "cat": "picnicSite",
+    "lon": -121.541974,
+    "lat": 48.494227
+  },
+  {
+    "wikiId": "Q103080336",
+    "name": "Chaparral Picnic Area",
+    "cat": "picnicSite",
+    "lon": -121.209895773,
+    "lat": 36.493245837
+  },
+  {
+    "wikiId": "Q103112681",
+    "name": "Sleepy Grass Picnic Area",
+    "cat": "picnicSite",
+    "lon": -105.71744883,
+    "lat": 32.957775675
+  },
+  {
+    "wikiId": "Q104054175",
+    "name": "Dugout Wells Picnic Area",
+    "cat": "picnicSite",
+    "lon": -103.136091,
+    "lat": 29.2721877
+  },
+  {
+    "wikiId": "Q104055775",
+    "name": "Daniels Ranch Picnic Area",
+    "cat": "picnicSite",
+    "lon": -102.971429344,
+    "lat": 29.185872095
+  },
+  {
+    "wikiId": "Q104804840",
+    "name": "Moss Beach Picnic Area",
+    "cat": "picnicSite",
+    "lon": -121.946981769,
+    "lat": 36.610908266
+  },
+  {
+    "wikiId": "Q104809048",
+    "name": "Bird Rock Picnic Area",
+    "cat": "picnicSite",
+    "lon": -121.964449211,
+    "lat": 36.590765122
+  },
+  {
+    "wikiId": "Q104870576",
+    "name": "Swinging Bridge Picnic Area",
+    "cat": "picnicSite",
+    "lon": -119.5994522,
+    "lat": 37.736295
+  },
+  {
+    "wikiId": "Q104875923",
+    "name": "Upper Beaver Meadows Picnic Area",
+    "cat": "picnicSite",
+    "lon": -105.606058097,
+    "lat": 40.372377301
+  },
+  {
+    "wikiId": "Q105061217",
+    "name": "Sprague Lake Picnic Area",
+    "cat": "picnicSite",
+    "lon": -105.608329044,
+    "lat": 40.320599086
+  },
+  {
+    "wikiId": "Q105061443",
+    "name": "Endovalley Picnic Area",
+    "cat": "picnicSite",
+    "lon": -105.658622877,
+    "lat": 40.413657844
+  },
+  {
+    "wikiId": "Q105061505",
+    "name": "Harbison Picnic Area",
+    "cat": "picnicSite",
+    "lon": -105.838606254,
+    "lat": 40.282078027
+  },
+  {
+    "wikiId": "Q105061605",
+    "name": "Coyote Valley Picnic Area",
+    "cat": "picnicSite",
+    "lon": -105.860278199,
+    "lat": 40.344631202
+  },
+  {
+    "wikiId": "Q105067269",
+    "name": "Wild Basin Picnic Area",
+    "cat": "picnicSite",
+    "lon": -105.566826485,
+    "lat": 40.208184585
+  },
+  {
+    "wikiId": "Q105069169",
+    "name": "Lake Irene Picnic Area",
+    "cat": "picnicSite",
+    "lon": -105.819097707,
+    "lat": 40.413640966
+  },
+  {
+    "wikiId": "Q105069178",
+    "name": "Bowen/Baker Picnic Area",
+    "cat": "picnicSite",
+    "lon": -105.857694188,
+    "lat": 40.354980564
+  },
+  {
+    "wikiId": "Q105069196",
+    "name": "Timber Lake Picnic Area",
+    "cat": "picnicSite",
+    "lon": -105.846942705,
+    "lat": 40.399565195
+  },
+  {
+    "wikiId": "Q105069229",
+    "name": "Pine Beach Picnic Ground",
+    "cat": "picnicSite",
+    "lon": -105.855451518,
+    "lat": 40.219502825
+  },
+  {
+    "wikiId": "Q105069336",
+    "name": "Hidden Valley Picnic Area",
+    "cat": "picnicSite",
+    "lon": -105.655854241,
+    "lat": 40.393335705
+  },
+  {
+    "wikiId": "Q105140993",
+    "name": "Frijole Ranch Picnic Area",
+    "cat": "picnicSite",
+    "lon": -104.801832726,
+    "lat": 31.906336906
+  },
+  {
+    "wikiId": "Q105141395",
+    "name": "Rattlesnake Springs Picnic Area",
+    "cat": "picnicSite",
+    "lon": -104.465563671,
+    "lat": 32.111166316
+  },
+  {
+    "wikiId": "Q105142997",
+    "name": "Cottonwood Day Use Area",
+    "cat": "picnicSite",
+    "lon": -104.469328922,
+    "lat": 32.095515912
+  },
+  {
+    "wikiId": "Q105143554",
+    "name": "Chesnut Picnic Area",
+    "cat": "picnicSite",
+    "lon": -77.478108,
+    "lat": 39.6485494
+  },
+  {
+    "wikiId": "Q105386001",
+    "name": "Wetherill Mesa Picnic Area",
+    "cat": "picnicSite",
+    "lon": -108.538277655,
+    "lat": 37.195339643
+  },
+  {
+    "wikiId": "Q106405391",
+    "name": "Pecos River Picnic Area",
+    "cat": "picnicSite",
+    "lon": -101.367058096,
+    "lat": 29.701282412
+  },
+  {
+    "wikiId": "Q106517788",
+    "name": "Tshokwane Trading Post & Picnic Site",
+    "cat": "picnicSite",
+    "lon": 31.858888888,
+    "lat": -24.785833333
+  },
+  {
+    "wikiId": "Q106625082",
+    "name": "Barksdale Picnic Area",
+    "cat": "picnicSite",
+    "lon": -105.256562234,
+    "lat": 38.912021349
+  },
+  {
+    "wikiId": "Q106674075",
+    "name": "Pinnacles Picnic Area",
+    "cat": "picnicSite",
+    "lon": -121.145231907,
+    "lat": 36.494965646
+  },
+  {
+    "wikiId": "Q106674965",
+    "name": "Bear Gulch Picnic Area",
+    "cat": "picnicSite",
+    "lon": -121.181754907,
+    "lat": 36.481285545
+  },
+  {
+    "wikiId": "Q106684770",
+    "name": "Walnut Canyon Picnic Area",
+    "cat": "picnicSite",
+    "lon": -111.508806605,
+    "lat": 35.171891285
+  },
+  {
+    "wikiId": "Q107244716",
+    "name": "Afsaal",
+    "cat": "picnicSite",
+    "lon": 31.531944444,
+    "lat": -25.286388888
+  },
+  {
+    "wikiId": "Q107329371",
+    "name": "Shoshone Park Picnic Area",
+    "cat": "picnicSite",
+    "lon": -115.728849189,
+    "lat": 47.464857582
+  },
+  {
+    "wikiId": "Q107709039",
+    "name": "James M. McKane Memorial Lookout",
+    "cat": "picnicSite",
+    "lon": 152.835944444,
+    "lat": -26.304444444
+  },
+  {
+    "wikiId": "Q108765684",
+    "name": "Q108765684",
+    "cat": "picnicSite",
+    "lon": 22.228055555,
+    "lat": 41.366944444
+  },
+  {
+    "wikiId": "Q108847526",
+    "name": "Q108847526",
+    "cat": "picnicSite",
+    "lon": 22.410555555,
+    "lat": 41.298888888
+  },
+  {
+    "wikiId": "Q110696483",
+    "name": "Uhlbach-Aussichtpunkt-Kapf",
+    "cat": "picnicSite",
+    "lon": 9.29047,
+    "lat": 48.77399
+  }
+]

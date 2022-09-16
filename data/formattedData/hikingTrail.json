@@ -1,0 +1,4377 @@
+[
+  {
+    "wikiId": "Q3478776",
+    "name": "Q3478776",
+    "cat": "hikingTrail",
+    "lon": 55.6853,
+    "lat": -21.2251
+  },
+  {
+    "wikiId": "Q3498361",
+    "name": "Wonderland Trail",
+    "cat": "hikingTrail",
+    "lon": -121.6592,
+    "lat": 46.8689
+  },
+  {
+    "wikiId": "Q3644685",
+    "name": "Bright Angel Trail",
+    "cat": "hikingTrail",
+    "lon": -112.143,
+    "lat": 36.0574
+  },
+  {
+    "wikiId": "Q3775591",
+    "name": "Q3775591",
+    "cat": "hikingTrail",
+    "lon": 7.67111004,
+    "lat": 45.010435258
+  },
+  {
+    "wikiId": "Q4010784",
+    "name": "Via degli Dei",
+    "cat": "hikingTrail",
+    "lon": 11.25444444,
+    "lat": 44.39527778
+  },
+  {
+    "wikiId": "Q4669413",
+    "name": "Abrams Falls Trail",
+    "cat": "hikingTrail",
+    "lon": -83.85,
+    "lat": 35.59
+  },
+  {
+    "wikiId": "Q4697388",
+    "name": "ʻĀinapō Trail",
+    "cat": "hikingTrail",
+    "lon": -155.5775,
+    "lat": 19.460833
+  },
+  {
+    "wikiId": "Q4737327",
+    "name": "Alum Cave Trail",
+    "cat": "hikingTrail",
+    "lon": -83.4462,
+    "lat": 35.6385
+  },
+  {
+    "wikiId": "Q4849223",
+    "name": "Baker Trail",
+    "cat": "hikingTrail",
+    "lon": -79.209,
+    "lat": 41.333
+  },
+  {
+    "wikiId": "Q4873950",
+    "name": "Bay Circuit Trail",
+    "cat": "hikingTrail",
+    "lon": -71.0684,
+    "lat": 42.6278
+  },
+  {
+    "wikiId": "Q4912612",
+    "name": "Billy Goat Trail",
+    "cat": "hikingTrail",
+    "lon": -77.2458,
+    "lat": 38.9938
+  },
+  {
+    "wikiId": "Q4920787",
+    "name": "Black Forest Trail",
+    "cat": "hikingTrail",
+    "lon": -77.4969,
+    "lat": 41.5086
+  },
+  {
+    "wikiId": "Q4983542",
+    "name": "Bucktail Path",
+    "cat": "hikingTrail",
+    "lon": -78.121046,
+    "lat": 41.503324
+  },
+  {
+    "wikiId": "Q4996901",
+    "name": "Bullhead Trail",
+    "cat": "hikingTrail",
+    "lon": -83.501,
+    "lat": 35.7117
+  },
+  {
+    "wikiId": "Q4998920",
+    "name": "Burke-Gilman Trail",
+    "cat": "hikingTrail",
+    "lon": -122.278055555,
+    "lat": 47.695555555
+  },
+  {
+    "wikiId": "Q5016656",
+    "name": "Cady Way Trail",
+    "cat": "hikingTrail",
+    "lon": -81.2887,
+    "lat": 28.6074
+  },
+  {
+    "wikiId": "Q5026764",
+    "name": "Caminho Real do Paul do Mar",
+    "cat": "hikingTrail",
+    "lon": -17.21744,
+    "lat": 32.752377
+  },
+  {
+    "wikiId": "Q5035168",
+    "name": "Cape Wrath Trail",
+    "cat": "hikingTrail",
+    "lon": -5.3034,
+    "lat": 57.6045
+  },
+  {
+    "wikiId": "Q5103370",
+    "name": "Cho La",
+    "cat": "hikingTrail",
+    "lon": 86.7516374,
+    "lat": 27.9617246
+  },
+  {
+    "wikiId": "Q5115558",
+    "name": "Chuck Keiper Trail",
+    "cat": "hikingTrail",
+    "lon": -77.6953,
+    "lat": 41.2406
+  },
+  {
+    "wikiId": "Q5149878",
+    "name": "Columbia Trail",
+    "cat": "hikingTrail",
+    "lon": -74.826111111,
+    "lat": 40.747222222
+  },
+  {
+    "wikiId": "Q5159537",
+    "name": "Conestoga Trail",
+    "cat": "hikingTrail",
+    "lon": -76.3311,
+    "lat": 39.8142
+  },
+  {
+    "wikiId": "Q5173627",
+    "name": "Cory Pass Loop",
+    "cat": "hikingTrail",
+    "lon": -115.654611111,
+    "lat": 51.174222222
+  },
+  {
+    "wikiId": "Q5188413",
+    "name": "Cross Seminole Trail",
+    "cat": "hikingTrail",
+    "lon": -81.29456,
+    "lat": 28.70508
+  },
+  {
+    "wikiId": "Q5210793",
+    "name": "Dales Way",
+    "cat": "hikingTrail",
+    "lon": -1.8324,
+    "lat": 53.9289
+  },
+  {
+    "wikiId": "Q5224009",
+    "name": "Darlington Trail",
+    "cat": "hikingTrail",
+    "lon": -77.0748,
+    "lat": 40.3027
+  },
+  {
+    "wikiId": "Q5253431",
+    "name": "Delaware and Hudson Rail Trail",
+    "cat": "hikingTrail",
+    "lon": -73.2289,
+    "lat": 43.5509
+  },
+  {
+    "wikiId": "Q5296919",
+    "name": "Donut Hole Trail",
+    "cat": "hikingTrail",
+    "lon": -77.8064,
+    "lat": 41.3044
+  },
+  {
+    "wikiId": "Q5311767",
+    "name": "Dudipatsar Trail",
+    "cat": "hikingTrail",
+    "lon": 73.9361,
+    "lat": 35.052203
+  },
+  {
+    "wikiId": "Q5328644",
+    "name": "East Inlet Trail",
+    "cat": "hikingTrail",
+    "lon": -105.799889,
+    "lat": 40.239421
+  },
+  {
+    "wikiId": "Q5328875",
+    "name": "East Longs Peak Trail – Longs Peak Trail – Keyhole Route – Shelf Trail",
+    "cat": "hikingTrail",
+    "lon": -105.601,
+    "lat": 40.2722
+  },
+  {
+    "wikiId": "Q5444464",
+    "name": "Fern Lake Trail",
+    "cat": "hikingTrail",
+    "lon": -105.630278,
+    "lat": 40.354917
+  },
+  {
+    "wikiId": "Q5447291",
+    "name": "Fiery Gizzard Trail",
+    "cat": "hikingTrail",
+    "lon": -85.715,
+    "lat": 35.202
+  },
+  {
+    "wikiId": "Q5456144",
+    "name": "Five Star Trail",
+    "cat": "hikingTrail",
+    "lon": -79.532,
+    "lat": 40.309
+  },
+  {
+    "wikiId": "Q5457995",
+    "name": "Flattop Mountain Trail",
+    "cat": "hikingTrail",
+    "lon": -105.6783387,
+    "lat": 40.3138734
+  },
+  {
+    "wikiId": "Q5575420",
+    "name": "Gobbins path",
+    "cat": "hikingTrail",
+    "lon": -5.69,
+    "lat": 54.801
+  },
+  {
+    "wikiId": "Q5579359",
+    "name": "Golden Eagle Trail",
+    "cat": "hikingTrail",
+    "lon": -77.51029,
+    "lat": 41.43823
+  },
+  {
+    "wikiId": "Q5585976",
+    "name": "Gordon Way",
+    "cat": "hikingTrail",
+    "lon": -2.6506,
+    "lat": 57.2834
+  },
+  {
+    "wikiId": "Q5599121",
+    "name": "Great Esker Park",
+    "cat": "hikingTrail",
+    "lon": -70.9297,
+    "lat": 42.2367
+  },
+  {
+    "wikiId": "Q5603152",
+    "name": "Green River Trail",
+    "cat": "hikingTrail",
+    "lon": -122.301,
+    "lat": 47.5086
+  },
+  {
+    "wikiId": "Q5603871",
+    "name": "Greene River Trail",
+    "cat": "hikingTrail",
+    "lon": -79.981319,
+    "lat": 39.950558
+  },
+  {
+    "wikiId": "Q5604582",
+    "name": "Greenstone Ridge Trail",
+    "cat": "hikingTrail",
+    "lon": -88.8086,
+    "lat": 48.0353
+  },
+  {
+    "wikiId": "Q5627668",
+    "name": "Główny Szlak Sudecki",
+    "cat": "hikingTrail",
+    "lon": 15.3399,
+    "lat": 50.9131
+  },
+  {
+    "wikiId": "Q5647944",
+    "name": "Hangers Way",
+    "cat": "hikingTrail",
+    "lon": -0.967,
+    "lat": 51.152
+  },
+  {
+    "wikiId": "Q5882381",
+    "name": "Hollyford Track",
+    "cat": "hikingTrail",
+    "lon": 168.12583333,
+    "lat": -44.69277778
+  },
+  {
+    "wikiId": "Q5905349",
+    "name": "Horse-Shoe Trail",
+    "cat": "hikingTrail",
+    "lon": -76.2847,
+    "lat": 40.2544
+  },
+  {
+    "wikiId": "Q6114450",
+    "name": "Cares Trail",
+    "cat": "hikingTrail",
+    "lon": -4.8903,
+    "lat": 43.2394
+  },
+  {
+    "wikiId": "Q6116840",
+    "name": "Jacks Knob Trail",
+    "cat": "hikingTrail",
+    "lon": -83.8,
+    "lat": 34.8494
+  },
+  {
+    "wikiId": "Q6251695",
+    "name": "John P. Saylor Trail",
+    "cat": "hikingTrail",
+    "lon": -78.7528,
+    "lat": 40.2161
+  },
+  {
+    "wikiId": "Q6422737",
+    "name": "Knobstone Trail",
+    "cat": "hikingTrail",
+    "lon": -85.850146027,
+    "lat": 38.464914383
+  },
+  {
+    "wikiId": "Q6463543",
+    "name": "La Luz Trail",
+    "cat": "hikingTrail",
+    "lon": -106.466,
+    "lat": 35.2111
+  },
+  {
+    "wikiId": "Q6499787",
+    "name": "Laurel Falls Trail",
+    "cat": "hikingTrail",
+    "lon": -83.5805,
+    "lat": 35.672
+  },
+  {
+    "wikiId": "Q24777",
+    "name": "Tour du Mont Blanc",
+    "cat": "hikingTrail",
+    "lon": 6.966666666,
+    "lat": 45.783333333
+  },
+  {
+    "wikiId": "Q114258",
+    "name": "Q114258",
+    "cat": "hikingTrail",
+    "lon": 7.41549,
+    "lat": 51.38698
+  },
+  {
+    "wikiId": "Q151268",
+    "name": "Laugavegur",
+    "cat": "hikingTrail",
+    "lon": -19.24,
+    "lat": 63.85
+  },
+  {
+    "wikiId": "Q191401",
+    "name": "Zeppelin-Pfad",
+    "cat": "hikingTrail",
+    "lon": 9.394416666,
+    "lat": 47.670305555
+  },
+  {
+    "wikiId": "Q255090",
+    "name": "Ämtlerwäg",
+    "cat": "hikingTrail",
+    "lon": 8.46863,
+    "lat": 47.3261
+  },
+  {
+    "wikiId": "Q318499",
+    "name": "Abel Tasman Inland Track",
+    "cat": "hikingTrail",
+    "lon": 172.936,
+    "lat": -40.938
+  },
+  {
+    "wikiId": "Q318501",
+    "name": "Abel Tasman Coast Track",
+    "cat": "hikingTrail",
+    "lon": 173.0486,
+    "lat": -40.9288
+  },
+  {
+    "wikiId": "Q358390",
+    "name": "Trail of the Eagles' Nests",
+    "cat": "hikingTrail",
+    "lon": 19.5532842,
+    "lat": 50.4787642
+  },
+  {
+    "wikiId": "Q381683",
+    "name": "Annapurna Circuit",
+    "cat": "hikingTrail",
+    "lon": 83.937368,
+    "lat": 28.794671
+  },
+  {
+    "wikiId": "Q435390",
+    "name": "Q435390",
+    "cat": "hikingTrail",
+    "lon": 10.6479,
+    "lat": 51.7791
+  },
+  {
+    "wikiId": "Q442308",
+    "name": "Karhunkierros",
+    "cat": "hikingTrail",
+    "lon": 29.12355389,
+    "lat": 66.16342389
+  },
+  {
+    "wikiId": "Q502969",
+    "name": "Glyndŵr's Way",
+    "cat": "hikingTrail",
+    "lon": -3.7303,
+    "lat": 52.6259
+  },
+  {
+    "wikiId": "Q524597",
+    "name": "Hermannsweg",
+    "cat": "hikingTrail",
+    "lon": 8.84627,
+    "lat": 51.9111
+  },
+  {
+    "wikiId": "Q583897",
+    "name": "Israel National Trail",
+    "cat": "hikingTrail",
+    "lon": 34.861507,
+    "lat": 31.397751
+  },
+  {
+    "wikiId": "Q605323",
+    "name": "South Kaibab Trail",
+    "cat": "hikingTrail",
+    "lon": -112.083,
+    "lat": 36.0529
+  },
+  {
+    "wikiId": "Q638049",
+    "name": "Arctic Circle Trail",
+    "cat": "hikingTrail",
+    "lon": -52.172,
+    "lat": 66.989
+  },
+  {
+    "wikiId": "Q699595",
+    "name": "Strada of 52 Gallerie",
+    "cat": "hikingTrail",
+    "lon": 11.228,
+    "lat": 45.779
+  },
+  {
+    "wikiId": "Q723089",
+    "name": "Tatranska Magistrala",
+    "cat": "hikingTrail",
+    "lon": 20.080572,
+    "lat": 49.155083
+  },
+  {
+    "wikiId": "Q747317",
+    "name": "Q747317",
+    "cat": "hikingTrail",
+    "lon": 8.35416,
+    "lat": 51.44274
+  },
+  {
+    "wikiId": "Q764344",
+    "name": "Thorong La",
+    "cat": "hikingTrail",
+    "lon": 83.938888888,
+    "lat": 28.793611111
+  },
+  {
+    "wikiId": "Q783074",
+    "name": "Orla Perć",
+    "cat": "hikingTrail",
+    "lon": 20.02861111,
+    "lat": 49.21833333
+  },
+  {
+    "wikiId": "Q850152",
+    "name": "Bettlerpfad",
+    "cat": "hikingTrail",
+    "lon": 7.74452,
+    "lat": 47.88892
+  },
+  {
+    "wikiId": "Q852150",
+    "name": "Bewegte Steine",
+    "cat": "hikingTrail",
+    "lon": 9.69028,
+    "lat": 52.5728
+  },
+  {
+    "wikiId": "Q857763",
+    "name": "Caminito del Rey",
+    "cat": "hikingTrail",
+    "lon": -4.772778,
+    "lat": 36.915833
+  },
+  {
+    "wikiId": "Q884085",
+    "name": "Blieswanderweg",
+    "cat": "hikingTrail",
+    "lon": 7.226,
+    "lat": 49.1746
+  },
+  {
+    "wikiId": "Q965998",
+    "name": "West Highland Way",
+    "cat": "hikingTrail",
+    "lon": -4.6344,
+    "lat": 56.3877
+  },
+  {
+    "wikiId": "Q978344",
+    "name": "Q978344",
+    "cat": "hikingTrail",
+    "lon": 6.871,
+    "lat": 49.663
+  },
+  {
+    "wikiId": "Q991831",
+    "name": "Bruce Trail",
+    "cat": "hikingTrail",
+    "lon": -79.928888888,
+    "lat": 43.507222222
+  },
+  {
+    "wikiId": "Q995446",
+    "name": "Frankenweg",
+    "cat": "hikingTrail",
+    "lon": 10.6978,
+    "lat": 48.7795
+  },
+  {
+    "wikiId": "Q1027876",
+    "name": "Calà del Sasso",
+    "cat": "hikingTrail",
+    "lon": 11.6302,
+    "lat": 45.8635
+  },
+  {
+    "wikiId": "Q1076358",
+    "name": "Chorbrünnel-Rundweg",
+    "cat": "hikingTrail",
+    "lon": 8.2475,
+    "lat": 49.5633
+  },
+  {
+    "wikiId": "Q1083358",
+    "name": "Q1083358",
+    "cat": "hikingTrail",
+    "lon": 7.79265,
+    "lat": 51.43573
+  },
+  {
+    "wikiId": "Q1113950",
+    "name": "Q1113950",
+    "cat": "hikingTrail",
+    "lon": 7.088837,
+    "lat": 44.6679
+  },
+  {
+    "wikiId": "Q1115952",
+    "name": "Hansjakob Way I",
+    "cat": "hikingTrail",
+    "lon": 8.2914602,
+    "lat": 48.3778635
+  },
+  {
+    "wikiId": "Q1149449",
+    "name": "Jesus Trail",
+    "cat": "hikingTrail",
+    "lon": 35.28111111,
+    "lat": 32.75222222
+  },
+  {
+    "wikiId": "Q1270022",
+    "name": "Q1270022",
+    "cat": "hikingTrail",
+    "lon": 8.10429,
+    "lat": 51.57807
+  },
+  {
+    "wikiId": "Q1283659",
+    "name": "Q1283659",
+    "cat": "hikingTrail",
+    "lon": 8.20998,
+    "lat": 50.93523
+  },
+  {
+    "wikiId": "Q1299765",
+    "name": "Q1299765",
+    "cat": "hikingTrail",
+    "lon": 8.06419,
+    "lat": 51.3972
+  },
+  {
+    "wikiId": "Q1728044",
+    "name": "Residenzweg",
+    "cat": "hikingTrail",
+    "lon": 8.80576,
+    "lat": 51.9274
+  },
+  {
+    "wikiId": "Q1731039",
+    "name": "Lycian Way",
+    "cat": "hikingTrail",
+    "lon": 29.13942,
+    "lat": 36.56677
+  },
+  {
+    "wikiId": "Q1736850",
+    "name": "Katy Trail State Park",
+    "cat": "hikingTrail",
+    "lon": -90.3314,
+    "lat": 38.9035
+  },
+  {
+    "wikiId": "Q1739608",
+    "name": "Kerry Way",
+    "cat": "hikingTrail",
+    "lon": -9.50861111,
+    "lat": 52.05888889
+  },
+  {
+    "wikiId": "Q1759937",
+    "name": "Nahe-Felsen-Weg",
+    "cat": "hikingTrail",
+    "lon": 7.32717,
+    "lat": 49.7049
+  },
+  {
+    "wikiId": "Q1780100",
+    "name": "Red Wine Trail",
+    "cat": "hikingTrail",
+    "lon": 7.21744,
+    "lat": 50.5565
+  },
+  {
+    "wikiId": "Q1791804",
+    "name": "Kulturpfad Porz",
+    "cat": "hikingTrail",
+    "lon": 7.052932,
+    "lat": 50.888023
+  },
+  {
+    "wikiId": "Q1792133",
+    "name": "Via Spluga",
+    "cat": "hikingTrail",
+    "lon": 9.33183,
+    "lat": 46.5163
+  },
+  {
+    "wikiId": "Q1795175",
+    "name": "Kyrillpfad Kastellaun",
+    "cat": "hikingTrail",
+    "lon": 7.45328,
+    "lat": 50.0637
+  },
+  {
+    "wikiId": "Q1795890",
+    "name": "Kölnpfad",
+    "cat": "hikingTrail",
+    "lon": 6.98467,
+    "lat": 50.9003
+  },
+  {
+    "wikiId": "Q1818006",
+    "name": "Q1818006",
+    "cat": "hikingTrail",
+    "lon": 7.86931,
+    "lat": 51.23212
+  },
+  {
+    "wikiId": "Q1842204",
+    "name": "Zuiderzeepad",
+    "cat": "hikingTrail",
+    "lon": 5.396444444,
+    "lat": 52.943083333
+  },
+  {
+    "wikiId": "Q1871067",
+    "name": "Lothar Path",
+    "cat": "hikingTrail",
+    "lon": 8.2223,
+    "lat": 48.506
+  },
+  {
+    "wikiId": "Q1877500",
+    "name": "Lungomare, Opatija Riviera",
+    "cat": "hikingTrail",
+    "lon": 14.30305556,
+    "lat": 45.33194444
+  },
+  {
+    "wikiId": "Q1879728",
+    "name": "Lönspfad",
+    "cat": "hikingTrail",
+    "lon": 8.97093,
+    "lat": 51.84433
+  },
+  {
+    "wikiId": "Q1924738",
+    "name": "Metacomet-Monadnock Trail",
+    "cat": "hikingTrail",
+    "lon": -72.45,
+    "lat": 42.55
+  },
+  {
+    "wikiId": "Q1957394",
+    "name": "Q1957394",
+    "cat": "hikingTrail",
+    "lon": 9.45122222,
+    "lat": 51.64244444
+  },
+  {
+    "wikiId": "Q1970379",
+    "name": "Naturlehrpfad an der Ruhr",
+    "cat": "hikingTrail",
+    "lon": 6.8638,
+    "lat": 51.4383
+  },
+  {
+    "wikiId": "Q1973088",
+    "name": "Q1973088",
+    "cat": "hikingTrail",
+    "lon": 6.8043,
+    "lat": 51.4331
+  },
+  {
+    "wikiId": "Q2097921",
+    "name": "Q2097921",
+    "cat": "hikingTrail",
+    "lon": 7.51168013,
+    "lat": 51.34049988
+  },
+  {
+    "wikiId": "Q2129081",
+    "name": "Rakiura Track",
+    "cat": "hikingTrail",
+    "lon": 168.123436111,
+    "lat": -46.862891666
+  },
+  {
+    "wikiId": "Q2147822",
+    "name": "Q2147822",
+    "cat": "hikingTrail",
+    "lon": 7.57202,
+    "lat": 51.00292
+  },
+  {
+    "wikiId": "Q2148880",
+    "name": "Richard-Schirrmann-Weg",
+    "cat": "hikingTrail",
+    "lon": 7.75879,
+    "lat": 51.25937
+  },
+  {
+    "wikiId": "Q2152088",
+    "name": "Q2152088",
+    "cat": "hikingTrail",
+    "lon": 4.633333,
+    "lat": 52.066667
+  },
+  {
+    "wikiId": "Q2168580",
+    "name": "Q2168580",
+    "cat": "hikingTrail",
+    "lon": 8.56788,
+    "lat": 51.3955
+  },
+  {
+    "wikiId": "Q2176395",
+    "name": "Runenweg",
+    "cat": "hikingTrail",
+    "lon": 8.920619,
+    "lat": 52.243201
+  },
+  {
+    "wikiId": "Q2227179",
+    "name": "Sauerland-Höhenflug",
+    "cat": "hikingTrail",
+    "lon": 7.65268,
+    "lat": 51.09992
+  },
+  {
+    "wikiId": "Q2234489",
+    "name": "Q2234489",
+    "cat": "hikingTrail",
+    "lon": 8.27964,
+    "lat": 51.34907
+  },
+  {
+    "wikiId": "Q2249778",
+    "name": "Via dell'Amore",
+    "cat": "hikingTrail",
+    "lon": 9.73333,
+    "lat": 44.1017
+  },
+  {
+    "wikiId": "Q1335396",
+    "name": "Emerald Necklace",
+    "cat": "hikingTrail",
+    "lon": -71.1144,
+    "lat": 42.3261
+  },
+  {
+    "wikiId": "Q1339652",
+    "name": "Q1339652",
+    "cat": "hikingTrail",
+    "lon": 7.66055,
+    "lat": 51.58544
+  },
+  {
+    "wikiId": "Q1342910",
+    "name": "Petersberger Bittweg",
+    "cat": "hikingTrail",
+    "lon": 7.197969,
+    "lat": 50.680228
+  },
+  {
+    "wikiId": "Q1359989",
+    "name": "Rilke trail",
+    "cat": "hikingTrail",
+    "lon": 13.61277778,
+    "lat": 45.77194444
+  },
+  {
+    "wikiId": "Q1377493",
+    "name": "Hansjakob Way II",
+    "cat": "hikingTrail",
+    "lon": 8.0860189,
+    "lat": 48.2760336
+  },
+  {
+    "wikiId": "Q1377713",
+    "name": "E8 European long distance path",
+    "cat": "hikingTrail",
+    "lon": 19.86931,
+    "lat": 48.90629
+  },
+  {
+    "wikiId": "Q1377728",
+    "name": "E9 European long distance path",
+    "cat": "hikingTrail",
+    "lon": -8.99444444,
+    "lat": 37.025
+  },
+  {
+    "wikiId": "Q1382513",
+    "name": "Felsenpfad",
+    "cat": "hikingTrail",
+    "lon": 7.241,
+    "lat": 49.28525
+  },
+  {
+    "wikiId": "Q1404300",
+    "name": "Q1404300",
+    "cat": "hikingTrail",
+    "lon": 9.33689,
+    "lat": 50.5712
+  },
+  {
+    "wikiId": "Q1421686",
+    "name": "Ponale road",
+    "cat": "hikingTrail",
+    "lon": 10.831075,
+    "lat": 45.862178
+  },
+  {
+    "wikiId": "Q1430925",
+    "name": "Q1430925",
+    "cat": "hikingTrail",
+    "lon": 8.07215,
+    "lat": 51.10435
+  },
+  {
+    "wikiId": "Q1456590",
+    "name": "Q1456590",
+    "cat": "hikingTrail",
+    "lon": 6.73218,
+    "lat": 51.29897
+  },
+  {
+    "wikiId": "Q1471236",
+    "name": "Fränkischer Marienweg",
+    "cat": "hikingTrail",
+    "lon": 9.929583333,
+    "lat": 49.794777777
+  },
+  {
+    "wikiId": "Q1483351",
+    "name": "Fürstensteig",
+    "cat": "hikingTrail",
+    "lon": 9.547967,
+    "lat": 47.145329
+  },
+  {
+    "wikiId": "Q1488476",
+    "name": "Great Ocean Walk",
+    "cat": "hikingTrail",
+    "lon": 143.651,
+    "lat": -38.7883
+  },
+  {
+    "wikiId": "Q1491279",
+    "name": "Gailtaler Höhenweg",
+    "cat": "hikingTrail",
+    "lon": 13.1458,
+    "lat": 46.6861
+  },
+  {
+    "wikiId": "Q1500895",
+    "name": "Q1500895",
+    "cat": "hikingTrail",
+    "lon": 8.06198,
+    "lat": 51.49173
+  },
+  {
+    "wikiId": "Q1517400",
+    "name": "Uplandweg",
+    "cat": "hikingTrail",
+    "lon": 8.60117,
+    "lat": 51.67214
+  },
+  {
+    "wikiId": "Q1520888",
+    "name": "Waterway trail on the Moosalbe",
+    "cat": "hikingTrail",
+    "lon": 7.75175,
+    "lat": 49.3546
+  },
+  {
+    "wikiId": "Q1522490",
+    "name": "Q1522490",
+    "cat": "hikingTrail",
+    "lon": 7.96147,
+    "lat": 51.45316
+  },
+  {
+    "wikiId": "Q1531025",
+    "name": "Q1531025",
+    "cat": "hikingTrail",
+    "lon": 7.90583,
+    "lat": 51.4882
+  },
+  {
+    "wikiId": "Q1541356",
+    "name": "Q1541356",
+    "cat": "hikingTrail",
+    "lon": 7.18058,
+    "lat": 51.3971
+  },
+  {
+    "wikiId": "Q1544104",
+    "name": "Nibelungensteig",
+    "cat": "hikingTrail",
+    "lon": 8.60955,
+    "lat": 49.72586
+  },
+  {
+    "wikiId": "Q1552112",
+    "name": "Grüner Pfad",
+    "cat": "hikingTrail",
+    "lon": 6.82818,
+    "lat": 51.49774
+  },
+  {
+    "wikiId": "Q1560003",
+    "name": "Q1560003",
+    "cat": "hikingTrail",
+    "lon": 7.55128,
+    "lat": 49.2596
+  },
+  {
+    "wikiId": "Q1564560",
+    "name": "Alpine Path",
+    "cat": "hikingTrail",
+    "lon": 7.9679157,
+    "lat": 47.8704347
+  },
+  {
+    "wikiId": "Q1567054",
+    "name": "Havelhöhenweg",
+    "cat": "hikingTrail",
+    "lon": 13.1923,
+    "lat": 52.4915
+  },
+  {
+    "wikiId": "Q1588024",
+    "name": "Harzer Naturistenstieg",
+    "cat": "hikingTrail",
+    "lon": 11.2025,
+    "lat": 51.56417
+  },
+  {
+    "wikiId": "Q1615163",
+    "name": "Q1615163",
+    "cat": "hikingTrail",
+    "lon": 7.20194,
+    "lat": 51.3247
+  },
+  {
+    "wikiId": "Q1637354",
+    "name": "Q1637354",
+    "cat": "hikingTrail",
+    "lon": 7.96539,
+    "lat": 51.17321
+  },
+  {
+    "wikiId": "Q1651873",
+    "name": "Q1651873",
+    "cat": "hikingTrail",
+    "lon": 7.69232,
+    "lat": 51.37277
+  },
+  {
+    "wikiId": "Q1665335",
+    "name": "Q1665335",
+    "cat": "hikingTrail",
+    "lon": 8.35416,
+    "lat": 51.44277
+  },
+  {
+    "wikiId": "Q1666564",
+    "name": "Weiltalweg",
+    "cat": "hikingTrail",
+    "lon": 8.43647,
+    "lat": 50.2258
+  },
+  {
+    "wikiId": "Q1668460",
+    "name": "Q1668460",
+    "cat": "hikingTrail",
+    "lon": 7.35667,
+    "lat": 50.0667
+  },
+  {
+    "wikiId": "Q1679457",
+    "name": "Wormser Hoehenweg",
+    "cat": "hikingTrail",
+    "lon": 10.058352777,
+    "lat": 47.017922222
+  },
+  {
+    "wikiId": "Q1699288",
+    "name": "Q1699288",
+    "cat": "hikingTrail",
+    "lon": 14.464694444,
+    "lat": 58.017694444
+  },
+  {
+    "wikiId": "Q1721539",
+    "name": "Q1721539",
+    "cat": "hikingTrail",
+    "lon": 8.28184,
+    "lat": 51.34859
+  },
+  {
+    "wikiId": "Q2271406",
+    "name": "Sentier des Roches",
+    "cat": "hikingTrail",
+    "lon": 7.023,
+    "lat": 48.0532
+  },
+  {
+    "wikiId": "Q2390995",
+    "name": "Q2390995",
+    "cat": "hikingTrail",
+    "lon": 7.47002,
+    "lat": 51.35614
+  },
+  {
+    "wikiId": "Q2409537",
+    "name": "Q2409537",
+    "cat": "hikingTrail",
+    "lon": 3.775897222,
+    "lat": 50.818497222
+  },
+  {
+    "wikiId": "Q2464461",
+    "name": "Türkeiweg",
+    "cat": "hikingTrail",
+    "lon": 13.93386389,
+    "lat": 46.59370556
+  },
+  {
+    "wikiId": "Q2521627",
+    "name": "Via Albula Bernina",
+    "cat": "hikingTrail",
+    "lon": 9.7529,
+    "lat": 46.6257
+  },
+  {
+    "wikiId": "Q2521637",
+    "name": "Q2521637",
+    "cat": "hikingTrail",
+    "lon": 8.74876,
+    "lat": 46.39575
+  },
+  {
+    "wikiId": "Q2532798",
+    "name": "Volme-Höhen-Weg",
+    "cat": "hikingTrail",
+    "lon": 7.33028,
+    "lat": 51.43584
+  },
+  {
+    "wikiId": "Q2548109",
+    "name": "Q2548109",
+    "cat": "hikingTrail",
+    "lon": 9.00593,
+    "lat": 51.7323
+  },
+  {
+    "wikiId": "Q2550381",
+    "name": "Washington & Old Dominion Railroad Regional Park",
+    "cat": "hikingTrail",
+    "lon": -77.086944444,
+    "lat": 38.842222222
+  },
+  {
+    "wikiId": "Q2558322",
+    "name": "Trans Pennine Trail",
+    "cat": "hikingTrail",
+    "lon": -1.3689,
+    "lat": 53.5152
+  },
+  {
+    "wikiId": "Q2565147",
+    "name": "Westfalenwanderweg",
+    "cat": "hikingTrail",
+    "lon": 8.94337,
+    "lat": 51.766
+  },
+  {
+    "wikiId": "Q2586678",
+    "name": "Wittekindsweg",
+    "cat": "hikingTrail",
+    "lon": 8.845882,
+    "lat": 52.254078
+  },
+  {
+    "wikiId": "Q2586742",
+    "name": "Wittener Rundweg",
+    "cat": "hikingTrail",
+    "lon": 7.33333333,
+    "lat": 51.43333333
+  },
+  {
+    "wikiId": "Q2658889",
+    "name": "Q2658889",
+    "cat": "hikingTrail",
+    "lon": 3.69203,
+    "lat": 50.83694
+  },
+  {
+    "wikiId": "Q2685999",
+    "name": "Pieterburen",
+    "cat": "hikingTrail",
+    "lon": 6.4531,
+    "lat": 53.4
+  },
+  {
+    "wikiId": "Q2921364",
+    "name": "Haytor Granite Tramway",
+    "cat": "hikingTrail",
+    "lon": -3.76556,
+    "lat": 50.5864
+  },
+  {
+    "wikiId": "Q2932411",
+    "name": "Historical buildings and structures of Zion National Park",
+    "cat": "hikingTrail",
+    "lon": -112.9618848,
+    "lat": 37.2577598
+  },
+  {
+    "wikiId": "Q3180724",
+    "name": "Lake Solitude Trail",
+    "cat": "hikingTrail",
+    "lon": -110.828,
+    "lat": 43.7799
+  },
+  {
+    "wikiId": "Q3307201",
+    "name": "Metacomet Trail",
+    "cat": "hikingTrail",
+    "lon": -72.7989,
+    "lat": 41.7761
+  },
+  {
+    "wikiId": "Q3335872",
+    "name": "Nāpau Crater Trail",
+    "cat": "hikingTrail",
+    "lon": -155.160277777,
+    "lat": 19.370277777
+  },
+  {
+    "wikiId": "Q3402701",
+    "name": "Anglesey Coastal Path",
+    "cat": "hikingTrail",
+    "lon": -4.4147,
+    "lat": 53.1348
+  },
+  {
+    "wikiId": "Q3478669",
+    "name": "Sentier Martel",
+    "cat": "hikingTrail",
+    "lon": 6.34529,
+    "lat": 43.74646
+  },
+  {
+    "wikiId": "Q96884728",
+    "name": "Q96884728",
+    "cat": "hikingTrail",
+    "lon": 18.151805555,
+    "lat": 59.243388888
+  },
+  {
+    "wikiId": "Q96972147",
+    "name": "Q96972147",
+    "cat": "hikingTrail",
+    "lon": 17.830833333,
+    "lat": 59.220833333
+  },
+  {
+    "wikiId": "Q97143598",
+    "name": "Sentier de L'Imbut",
+    "cat": "hikingTrail",
+    "lon": 6.34462,
+    "lat": 43.73776
+  },
+  {
+    "wikiId": "Q97202290",
+    "name": "Q97202290",
+    "cat": "hikingTrail",
+    "lon": 7.9708,
+    "lat": 58.301
+  },
+  {
+    "wikiId": "Q97496965",
+    "name": "Taranaki Falls Walk",
+    "cat": "hikingTrail",
+    "lon": 175.564656,
+    "lat": -39.197507
+  },
+  {
+    "wikiId": "Q97500570",
+    "name": "Judarskogens naturstig",
+    "cat": "hikingTrail",
+    "lon": 17.913888888,
+    "lat": 59.337222222
+  },
+  {
+    "wikiId": "Q97768056",
+    "name": "Combe des Bourguignons",
+    "cat": "hikingTrail",
+    "lon": 4.42974,
+    "lat": 43.87558
+  },
+  {
+    "wikiId": "Q97942296",
+    "name": "Deer Leap Trail",
+    "cat": "hikingTrail",
+    "lon": -93.832352777,
+    "lat": 36.591119444
+  },
+  {
+    "wikiId": "Q98116744",
+    "name": "Silica Rapids Walk",
+    "cat": "hikingTrail",
+    "lon": 175.53054,
+    "lat": -39.22013
+  },
+  {
+    "wikiId": "Q98415003",
+    "name": "Q98415003",
+    "cat": "hikingTrail",
+    "lon": 17.830277777,
+    "lat": 59.222777777
+  },
+  {
+    "wikiId": "Q98594951",
+    "name": "Kornweg",
+    "cat": "hikingTrail",
+    "lon": 16.07544,
+    "lat": 46.88339
+  },
+  {
+    "wikiId": "Q98609208",
+    "name": "Northwest Branch Trail",
+    "cat": "hikingTrail",
+    "lon": -76.941944444,
+    "lat": 38.945555555
+  },
+  {
+    "wikiId": "Q98613116",
+    "name": "Bungoona Path",
+    "cat": "hikingTrail",
+    "lon": 151.057432,
+    "lat": -34.062971
+  },
+  {
+    "wikiId": "Q98635952",
+    "name": "The Esplanade",
+    "cat": "hikingTrail",
+    "lon": 151.155581,
+    "lat": -34.056532
+  },
+  {
+    "wikiId": "Q98642642",
+    "name": "Golden Stairs",
+    "cat": "hikingTrail",
+    "lon": 150.282453,
+    "lat": -33.734487
+  },
+  {
+    "wikiId": "Q98642663",
+    "name": "Scenic Walkway",
+    "cat": "hikingTrail",
+    "lon": 150.301429,
+    "lat": -33.73129
+  },
+  {
+    "wikiId": "Q98687951",
+    "name": "Q98687951",
+    "cat": "hikingTrail",
+    "lon": 16.0617526,
+    "lat": 40.5210913
+  },
+  {
+    "wikiId": "Q98696115",
+    "name": "Angels Landing Trail",
+    "cat": "hikingTrail",
+    "lon": -112.949462,
+    "lat": 37.270506
+  },
+  {
+    "wikiId": "Q98709488",
+    "name": "Q98709488",
+    "cat": "hikingTrail",
+    "lon": 17.909861111,
+    "lat": 59.253861111
+  },
+  {
+    "wikiId": "Q98768657",
+    "name": "Voletinský okruh",
+    "cat": "hikingTrail",
+    "lon": 15.9444278,
+    "lat": 50.57999
+  },
+  {
+    "wikiId": "Q98834212",
+    "name": "West Rim Trail",
+    "cat": "hikingTrail",
+    "lon": -112.9891085,
+    "lat": 37.2949811
+  },
+  {
+    "wikiId": "Q98931749",
+    "name": "Sportovní a vycházkový okruh Sovinec",
+    "cat": "hikingTrail",
+    "lon": 15.5983394,
+    "lat": 50.6306106
+  },
+  {
+    "wikiId": "Q99308965",
+    "name": "Point Elizabeth Walkway",
+    "cat": "hikingTrail",
+    "lon": 171.2201,
+    "lat": -42.3883
+  },
+  {
+    "wikiId": "Q99354714",
+    "name": "Shafer Trail",
+    "cat": "hikingTrail",
+    "lon": -109.80068,
+    "lat": 38.44554
+  },
+  {
+    "wikiId": "Q99355946",
+    "name": "Joint Trail",
+    "cat": "hikingTrail",
+    "lon": -109.8590143,
+    "lat": 38.1166537
+  },
+  {
+    "wikiId": "Q99432687",
+    "name": "Appalachian Trail in Shenandoah National Park",
+    "cat": "hikingTrail",
+    "lon": -78.488477,
+    "lat": 38.410347
+  },
+  {
+    "wikiId": "Q99469680",
+    "name": "Watchman Peak Trail",
+    "cat": "hikingTrail",
+    "lon": -122.173771,
+    "lat": 42.942742
+  },
+  {
+    "wikiId": "Q99476592",
+    "name": "Mount Scott Trail",
+    "cat": "hikingTrail",
+    "lon": -122.023658,
+    "lat": 42.918607
+  },
+  {
+    "wikiId": "Q99746651",
+    "name": "Canoe Cove Walk",
+    "cat": "hikingTrail",
+    "lon": 171.151972,
+    "lat": -42.800124
+  },
+  {
+    "wikiId": "Q99767410",
+    "name": "Kennedys Bush Track",
+    "cat": "hikingTrail",
+    "lon": 172.604052777,
+    "lat": -43.609527777
+  },
+  {
+    "wikiId": "Q99767415",
+    "name": "Crater Rim walkway",
+    "cat": "hikingTrail",
+    "lon": 172.635008333,
+    "lat": -43.617216666
+  },
+  {
+    "wikiId": "Q99868490",
+    "name": "Sledge Track",
+    "cat": "hikingTrail",
+    "lon": 175.613,
+    "lat": -40.47
+  },
+  {
+    "wikiId": "Q99889261",
+    "name": "Jum Michel Walk",
+    "cat": "hikingTrail",
+    "lon": 170.900059,
+    "lat": -42.791622
+  },
+  {
+    "wikiId": "Q99889273",
+    "name": "Mananui Bush Walk",
+    "cat": "hikingTrail",
+    "lon": 170.901089,
+    "lat": -42.779842
+  },
+  {
+    "wikiId": "Q99960841",
+    "name": "Coastal Cliffs Walkway",
+    "cat": "hikingTrail",
+    "lon": 172.744497222,
+    "lat": -43.633611111
+  },
+  {
+    "wikiId": "Q99982075",
+    "name": "Bocksbergweg",
+    "cat": "hikingTrail",
+    "lon": 9.757497222,
+    "lat": 47.360647222
+  },
+  {
+    "wikiId": "Q100047618",
+    "name": "Ōkārito Wetland Walk",
+    "cat": "hikingTrail",
+    "lon": 170.162007,
+    "lat": -43.225556
+  },
+  {
+    "wikiId": "Q100235265",
+    "name": "Three Mile Pack Track",
+    "cat": "hikingTrail",
+    "lon": 170.138655,
+    "lat": -43.230696
+  },
+  {
+    "wikiId": "Q100252652",
+    "name": "Pakihi Walk",
+    "cat": "hikingTrail",
+    "lon": 170.206203,
+    "lat": -43.249173
+  },
+  {
+    "wikiId": "Q100265123",
+    "name": "Obstruction Point-Deer Park Trail",
+    "cat": "hikingTrail",
+    "lon": -123.38223,
+    "lat": 47.91835
+  },
+  {
+    "wikiId": "Q100397034",
+    "name": "Lake Matheson Walk",
+    "cat": "hikingTrail",
+    "lon": 169.968967,
+    "lat": -43.443229
+  },
+  {
+    "wikiId": "Q100522911",
+    "name": "Minnehaha Walk",
+    "cat": "hikingTrail",
+    "lon": 170.018663,
+    "lat": -43.468556
+  },
+  {
+    "wikiId": "Q100927268",
+    "name": "Cockayne Nature Walk",
+    "cat": "hikingTrail",
+    "lon": 171.574001,
+    "lat": -42.802832
+  },
+  {
+    "wikiId": "Q101210618",
+    "name": "Annavale Circuit",
+    "cat": "hikingTrail",
+    "lon": 171.779269444,
+    "lat": -43.370897222
+  },
+  {
+    "wikiId": "Q101210630",
+    "name": "Benmore Track",
+    "cat": "hikingTrail",
+    "lon": 171.761888888,
+    "lat": -43.367091666
+  },
+  {
+    "wikiId": "Q101210999",
+    "name": "Helicopter Hill Track",
+    "cat": "hikingTrail",
+    "lon": 171.727,
+    "lat": -43.139480555
+  },
+  {
+    "wikiId": "Q101239594",
+    "name": "Simmental house way",
+    "cat": "hikingTrail",
+    "lon": 7.635549,
+    "lat": 46.675688
+  },
+  {
+    "wikiId": "Q101536712",
+    "name": "LBJ Ranch Nature Trail",
+    "cat": "hikingTrail",
+    "lon": -98.625188,
+    "lat": 30.238224
+  },
+  {
+    "wikiId": "Q101902394",
+    "name": "Lake Wombat Walk",
+    "cat": "hikingTrail",
+    "lon": 170.173502,
+    "lat": -43.407105
+  },
+  {
+    "wikiId": "Q102180598",
+    "name": "Q102180598",
+    "cat": "hikingTrail",
+    "lon": 7.686298,
+    "lat": 46.750145
+  },
+  {
+    "wikiId": "Q102291251",
+    "name": "Q102291251",
+    "cat": "hikingTrail",
+    "lon": 13.8700608,
+    "lat": 50.0356028
+  },
+  {
+    "wikiId": "Q102426036",
+    "name": "Q102426036",
+    "cat": "hikingTrail",
+    "lon": 9.16892,
+    "lat": 46.91726
+  },
+  {
+    "wikiId": "Q102699917",
+    "name": "Hokitika Gorge Walk",
+    "cat": "hikingTrail",
+    "lon": 171.017132,
+    "lat": -42.955041
+  },
+  {
+    "wikiId": "Q104054455",
+    "name": "Boquillas Canyon Trail",
+    "cat": "hikingTrail",
+    "lon": -102.915007686,
+    "lat": 29.200829559
+  },
+  {
+    "wikiId": "Q104069014",
+    "name": "Wendelinus Pilgerweg",
+    "cat": "hikingTrail",
+    "lon": 7.10989,
+    "lat": 49.47972
+  },
+  {
+    "wikiId": "Q6502186",
+    "name": "Lava Falls Trail",
+    "cat": "hikingTrail",
+    "lon": -113.09,
+    "lat": 36.22
+  },
+  {
+    "wikiId": "Q6506483",
+    "name": "LeTort Spring Run Nature Trail",
+    "cat": "hikingTrail",
+    "lon": -77.1872,
+    "lat": 40.183
+  },
+  {
+    "wikiId": "Q6649882",
+    "name": "Little Econ Greenway",
+    "cat": "hikingTrail",
+    "lon": -81.26111,
+    "lat": 28.57561
+  },
+  {
+    "wikiId": "Q6650935",
+    "name": "Little Miami Scenic Trail",
+    "cat": "hikingTrail",
+    "lon": -83.8879,
+    "lat": 39.8072
+  },
+  {
+    "wikiId": "Q6673044",
+    "name": "Long Path",
+    "cat": "hikingTrail",
+    "lon": -74.1584,
+    "lat": 41.1005
+  },
+  {
+    "wikiId": "Q6684118",
+    "name": "Lost Lake Trail",
+    "cat": "hikingTrail",
+    "lon": -105.567222,
+    "lat": 40.505539
+  },
+  {
+    "wikiId": "Q6684291",
+    "name": "Lost Turkey Trail",
+    "cat": "hikingTrail",
+    "lon": -78.7119,
+    "lat": 40.2179
+  },
+  {
+    "wikiId": "Q6692156",
+    "name": "Loveland Bike Trail",
+    "cat": "hikingTrail",
+    "lon": -84.258472222,
+    "lat": 39.268055555
+  },
+  {
+    "wikiId": "Q6693642",
+    "name": "Lower Mount Cammerer Trail",
+    "cat": "hikingTrail",
+    "lon": -83.2049,
+    "lat": 35.752
+  },
+  {
+    "wikiId": "Q6694465",
+    "name": "Loyalsock Trail",
+    "cat": "hikingTrail",
+    "lon": -76.6108,
+    "lat": 41.4175
+  },
+  {
+    "wikiId": "Q6726655",
+    "name": "Maddron Bald Trail",
+    "cat": "hikingTrail",
+    "lon": -83.2669,
+    "lat": 35.7694
+  },
+  {
+    "wikiId": "Q6737209",
+    "name": "Maits Rest",
+    "cat": "hikingTrail",
+    "lon": 143.554,
+    "lat": -38.7558
+  },
+  {
+    "wikiId": "Q6783524",
+    "name": "Mason-Dixon Trail",
+    "cat": "hikingTrail",
+    "lon": -75.6673,
+    "lat": 39.539
+  },
+  {
+    "wikiId": "Q6810022",
+    "name": "Meigs Mountain Trail",
+    "cat": "hikingTrail",
+    "lon": -83.6101,
+    "lat": 35.6478
+  },
+  {
+    "wikiId": "Q6837676",
+    "name": "Michigan Shore-to-Shore Trail",
+    "cat": "hikingTrail",
+    "lon": -83.83904,
+    "lat": 44.59886
+  },
+  {
+    "wikiId": "Q6841011",
+    "name": "Mid State Trail",
+    "cat": "hikingTrail",
+    "lon": -78.54675,
+    "lat": 39.79337
+  },
+  {
+    "wikiId": "Q6879984",
+    "name": "Mist Trail",
+    "cat": "hikingTrail",
+    "lon": -119.544,
+    "lat": 37.7269
+  },
+  {
+    "wikiId": "Q6939029",
+    "name": "Murphy Trail and Bridge",
+    "cat": "hikingTrail",
+    "lon": -109.870833,
+    "lat": 38.343611
+  },
+  {
+    "wikiId": "Q7055703",
+    "name": "North Inlet Trail",
+    "cat": "hikingTrail",
+    "lon": -105.81463,
+    "lat": 40.256568
+  },
+  {
+    "wikiId": "Q7055746",
+    "name": "North Kaibab Trail",
+    "cat": "hikingTrail",
+    "lon": -112.056,
+    "lat": 36.2171
+  },
+  {
+    "wikiId": "Q7155427",
+    "name": "Paumanok Path",
+    "cat": "hikingTrail",
+    "lon": -72.948611111,
+    "lat": 40.944444444
+  },
+  {
+    "wikiId": "Q7159811",
+    "name": "Pedro Mountain Road",
+    "cat": "hikingTrail",
+    "lon": -122.494888,
+    "lat": 37.582534
+  },
+  {
+    "wikiId": "Q7206565",
+    "name": "Pocumtuck Ridge Trail",
+    "cat": "hikingTrail",
+    "lon": -72.5914,
+    "lat": 42.5239
+  },
+  {
+    "wikiId": "Q7279194",
+    "name": "Rachel Carson Trail",
+    "cat": "hikingTrail",
+    "lon": -79.699203,
+    "lat": 40.662127
+  },
+  {
+    "wikiId": "Q7333433",
+    "name": "Riggs Spring Fire Trail",
+    "cat": "hikingTrail",
+    "lon": -112.231389,
+    "lat": 37.464306
+  },
+  {
+    "wikiId": "Q7337896",
+    "name": "River Trail",
+    "cat": "hikingTrail",
+    "lon": -112.111,
+    "lat": 36.0981
+  },
+  {
+    "wikiId": "Q7344556",
+    "name": "Robert Frost Trail",
+    "cat": "hikingTrail",
+    "lon": -72.5375,
+    "lat": 42.487777777
+  },
+  {
+    "wikiId": "Q7376300",
+    "name": "Ruby Crest National Recreation Trail",
+    "cat": "hikingTrail",
+    "lon": -115.405,
+    "lat": 40.548
+  },
+  {
+    "wikiId": "Q7407905",
+    "name": "Sam Merrill Trail",
+    "cat": "hikingTrail",
+    "lon": -118.121,
+    "lat": 34.2197
+  },
+  {
+    "wikiId": "Q7455137",
+    "name": "Serpents Trail",
+    "cat": "hikingTrail",
+    "lon": -108.636389,
+    "lat": 39.031389
+  },
+  {
+    "wikiId": "Q7457491",
+    "name": "Seven Tubs Natural Area",
+    "cat": "hikingTrail",
+    "lon": -75.8139,
+    "lat": 41.235
+  },
+  {
+    "wikiId": "Q7460564",
+    "name": "Shadow Mountain Trail",
+    "cat": "hikingTrail",
+    "lon": -105.825903,
+    "lat": 40.240354
+  },
+  {
+    "wikiId": "Q7492473",
+    "name": "Sheepskin Trail",
+    "cat": "hikingTrail",
+    "lon": -79.7276,
+    "lat": 39.9008
+  },
+  {
+    "wikiId": "Q7532743",
+    "name": "Six Foot Track",
+    "cat": "hikingTrail",
+    "lon": 150.287937,
+    "lat": -33.70471
+  },
+  {
+    "wikiId": "Q7537926",
+    "name": "Skyline Trail",
+    "cat": "hikingTrail",
+    "lon": -60.881,
+    "lat": 46.742
+  },
+  {
+    "wikiId": "Q7566866",
+    "name": "South Coast Track",
+    "cat": "hikingTrail",
+    "lon": 146.157,
+    "lat": -43.419
+  },
+  {
+    "wikiId": "Q7568608",
+    "name": "South Taconic Trail",
+    "cat": "hikingTrail",
+    "lon": -73.4925,
+    "lat": 42.044166666
+  },
+  {
+    "wikiId": "Q7570434",
+    "name": "Southern Ridges",
+    "cat": "hikingTrail",
+    "lon": 103.8165,
+    "lat": 1.2753
+  },
+  {
+    "wikiId": "Q7598576",
+    "name": "Standing Stone Trail",
+    "cat": "hikingTrail",
+    "lon": -77.780739,
+    "lat": 40.614545
+  },
+  {
+    "wikiId": "Q7620577",
+    "name": "Stour Valley Walk",
+    "cat": "hikingTrail",
+    "lon": 0.975278,
+    "lat": 51.2117
+  },
+  {
+    "wikiId": "Q7634993",
+    "name": "Sugarland Mountain Trail",
+    "cat": "hikingTrail",
+    "lon": -83.4742,
+    "lat": 35.5906
+  },
+  {
+    "wikiId": "Q7649357",
+    "name": "Susquehanna Warrior Trail",
+    "cat": "hikingTrail",
+    "lon": -76.09,
+    "lat": 41.18
+  },
+  {
+    "wikiId": "Q7674039",
+    "name": "Taconic Skyline Trail",
+    "cat": "hikingTrail",
+    "lon": -73.31,
+    "lat": 42.51
+  },
+  {
+    "wikiId": "Q7682349",
+    "name": "Tanbark Trail",
+    "cat": "hikingTrail",
+    "lon": -79.227,
+    "lat": 41.675576
+  },
+  {
+    "wikiId": "Q7709884",
+    "name": "Thames Down Link",
+    "cat": "hikingTrail",
+    "lon": -0.2919,
+    "lat": 51.3418
+  },
+  {
+    "wikiId": "Q7737927",
+    "name": "The Great Saunter",
+    "cat": "hikingTrail",
+    "lon": -74.003333,
+    "lat": 40.706111
+  },
+  {
+    "wikiId": "Q7797374",
+    "name": "Three Castles Path",
+    "cat": "hikingTrail",
+    "lon": -0.638,
+    "lat": 51.56
+  },
+  {
+    "wikiId": "Q7799018",
+    "name": "Thunder River Trail",
+    "cat": "hikingTrail",
+    "lon": -112.451,
+    "lat": 36.3919
+  },
+  {
+    "wikiId": "Q7852257",
+    "name": "Tully Trail",
+    "cat": "hikingTrail",
+    "lon": -72.2122,
+    "lat": 42.6517
+  },
+  {
+    "wikiId": "Q7883055",
+    "name": "Under-the-Rim Trail",
+    "cat": "hikingTrail",
+    "lon": -112.163611,
+    "lat": 37.585278
+  },
+  {
+    "wikiId": "Q7942486",
+    "name": "Voyageur Hiking Trail",
+    "cat": "hikingTrail",
+    "lon": -86.1768,
+    "lat": 48.3489
+  },
+  {
+    "wikiId": "Q7969771",
+    "name": "Warner Trail",
+    "cat": "hikingTrail",
+    "lon": -71.203,
+    "lat": 42.124
+  },
+  {
+    "wikiId": "Q7986124",
+    "name": "West Orange Trail",
+    "cat": "hikingTrail",
+    "lon": -81.567861111,
+    "lat": 28.582416666
+  },
+  {
+    "wikiId": "Q7988439",
+    "name": "Western Way",
+    "cat": "hikingTrail",
+    "lon": -9.454,
+    "lat": 53.487
+  },
+  {
+    "wikiId": "Q8001506",
+    "name": "Wildside",
+    "cat": "hikingTrail",
+    "lon": -126.0748,
+    "lat": 49.2599
+  },
+  {
+    "wikiId": "Q8002497",
+    "name": "Wilkie Sugarloaf trail",
+    "cat": "hikingTrail",
+    "lon": -60.461,
+    "lat": 46.9533
+  },
+  {
+    "wikiId": "Q8027703",
+    "name": "Wissahickon Trail",
+    "cat": "hikingTrail",
+    "lon": -75.2059,
+    "lat": 40.0164
+  },
+  {
+    "wikiId": "Q8057752",
+    "name": "Youghiogheny River Trail",
+    "cat": "hikingTrail",
+    "lon": -79.759,
+    "lat": 40.161
+  },
+  {
+    "wikiId": "Q8066266",
+    "name": "Chadar Trek",
+    "cat": "hikingTrail",
+    "lon": 77.2105,
+    "lat": 34.0025
+  },
+  {
+    "wikiId": "Q9351772",
+    "name": "Q9351772",
+    "cat": "hikingTrail",
+    "lon": 16.4542647,
+    "lat": 50.2418397
+  },
+  {
+    "wikiId": "Q9351775",
+    "name": "Q9351775",
+    "cat": "hikingTrail",
+    "lon": 20.711944,
+    "lat": 50.469167
+  },
+  {
+    "wikiId": "Q9351783",
+    "name": "Q9351783",
+    "cat": "hikingTrail",
+    "lon": 14.20807,
+    "lat": 52.87829
+  },
+  {
+    "wikiId": "Q9351796",
+    "name": "Upper Silesian Mining History hiking trail",
+    "cat": "hikingTrail",
+    "lon": 18.5468637,
+    "lat": 50.0893494
+  },
+  {
+    "wikiId": "Q9351855",
+    "name": "Q9351855",
+    "cat": "hikingTrail",
+    "lon": 18.543136111,
+    "lat": 50.096905555
+  },
+  {
+    "wikiId": "Q9351864",
+    "name": "Szlak Warowni Jurajskich",
+    "cat": "hikingTrail",
+    "lon": 19.5827583,
+    "lat": 50.4471342
+  },
+  {
+    "wikiId": "Q10317702",
+    "name": "Levada das 25 Fontes",
+    "cat": "hikingTrail",
+    "lon": -17.126388888,
+    "lat": 32.765
+  },
+  {
+    "wikiId": "Q10465852",
+    "name": "Dag Hammarskjöldsleden",
+    "cat": "hikingTrail",
+    "lon": 18.778333,
+    "lat": 68.35788
+  },
+  {
+    "wikiId": "Q10477789",
+    "name": "Q10477789",
+    "cat": "hikingTrail",
+    "lon": 18.316,
+    "lat": 67.850702
+  },
+  {
+    "wikiId": "Q10495551",
+    "name": "Q10495551",
+    "cat": "hikingTrail",
+    "lon": 12.24115,
+    "lat": 59.93076
+  },
+  {
+    "wikiId": "Q10613163",
+    "name": "Ostkustleden",
+    "cat": "hikingTrail",
+    "lon": 16.382375,
+    "lat": 57.276073
+  },
+  {
+    "wikiId": "Q10670464",
+    "name": "Q10670464",
+    "cat": "hikingTrail",
+    "lon": 18.06277778,
+    "lat": 59.21444444
+  },
+  {
+    "wikiId": "Q11151529",
+    "name": "Jinshuiying Historical Trail",
+    "cat": "hikingTrail",
+    "lon": 120.7563066,
+    "lat": 22.4073241
+  },
+  {
+    "wikiId": "Q11358296",
+    "name": "Tourist footpath nr. 0431",
+    "cat": "hikingTrail",
+    "lon": 15.5061175,
+    "lat": 50.6087597
+  },
+  {
+    "wikiId": "Q11722914",
+    "name": "Q11722914",
+    "cat": "hikingTrail",
+    "lon": 15.8172,
+    "lat": 50.4292
+  },
+  {
+    "wikiId": "Q11912624",
+    "name": "App Carros de Foc",
+    "cat": "hikingTrail",
+    "lon": 0.981006,
+    "lat": 42.59976
+  },
+  {
+    "wikiId": "Q12003340",
+    "name": "Stoltzekleiven",
+    "cat": "hikingTrail",
+    "lon": 5.34013889,
+    "lat": 60.40947222
+  },
+  {
+    "wikiId": "Q12039136",
+    "name": "Q12039136",
+    "cat": "hikingTrail",
+    "lon": 14.4756,
+    "lat": 50.3517
+  },
+  {
+    "wikiId": "Q12046519",
+    "name": "Posázavská stezka",
+    "cat": "hikingTrail",
+    "lon": 14.4572,
+    "lat": 49.8644
+  },
+  {
+    "wikiId": "Q12056475",
+    "name": "Stopy pod Smrkem",
+    "cat": "hikingTrail",
+    "lon": 15.236,
+    "lat": 50.9146
+  },
+  {
+    "wikiId": "Q12059959",
+    "name": "Q12059959",
+    "cat": "hikingTrail",
+    "lon": 14.7064,
+    "lat": 50.6178
+  },
+  {
+    "wikiId": "Q12060776",
+    "name": "Interurban Trail South",
+    "cat": "hikingTrail",
+    "lon": -122.245,
+    "lat": 47.4636
+  },
+  {
+    "wikiId": "Q12341954",
+    "name": "Øhavsstien",
+    "cat": "hikingTrail",
+    "lon": 10.5333,
+    "lat": 55.0667
+  },
+  {
+    "wikiId": "Q12343398",
+    "name": "Q12343398",
+    "cat": "hikingTrail",
+    "lon": 9.67041,
+    "lat": 56.23416
+  },
+  {
+    "wikiId": "Q14205117",
+    "name": "Ban Nalan Trail",
+    "cat": "hikingTrail",
+    "lon": 101.56444,
+    "lat": 21.05
+  },
+  {
+    "wikiId": "Q14216151",
+    "name": "GR 92",
+    "cat": "hikingTrail",
+    "lon": 0.23158,
+    "lat": 38.73186
+  },
+  {
+    "wikiId": "Q14518935",
+    "name": "Q14518935",
+    "cat": "hikingTrail",
+    "lon": 4.78626,
+    "lat": 52.08225
+  },
+  {
+    "wikiId": "Q14686479",
+    "name": "Venetian Waterway Park",
+    "cat": "hikingTrail",
+    "lon": -82.4446,
+    "lat": 27.1029
+  },
+  {
+    "wikiId": "Q14688313",
+    "name": "Calumet Trail",
+    "cat": "hikingTrail",
+    "lon": -87.0794,
+    "lat": 41.6393
+  },
+  {
+    "wikiId": "Q14705409",
+    "name": "Wapack Trail",
+    "cat": "hikingTrail",
+    "lon": -71.8917,
+    "lat": 42.815
+  },
+  {
+    "wikiId": "Q14711862",
+    "name": "Rim Trail",
+    "cat": "hikingTrail",
+    "lon": -112.145902267,
+    "lat": 36.067730361
+  },
+  {
+    "wikiId": "Q14714746",
+    "name": "Jenny Lake Trail",
+    "cat": "hikingTrail",
+    "lon": -110.717,
+    "lat": 43.7702
+  },
+  {
+    "wikiId": "Q14875085",
+    "name": "Beltline Trail",
+    "cat": "hikingTrail",
+    "lon": -79.3984,
+    "lat": 43.696
+  },
+  {
+    "wikiId": "Q14875290",
+    "name": "Martin Goodman Trail",
+    "cat": "hikingTrail",
+    "lon": -79.4044,
+    "lat": 43.6334
+  },
+  {
+    "wikiId": "Q14912317",
+    "name": "Via Suworow",
+    "cat": "hikingTrail",
+    "lon": 8.916665,
+    "lat": 46.066662
+  },
+  {
+    "wikiId": "Q15101728",
+    "name": "Santa Cruz Trek",
+    "cat": "hikingTrail",
+    "lon": -77.63266,
+    "lat": -8.92204
+  },
+  {
+    "wikiId": "Q106098998",
+    "name": "Preservation Park Loop",
+    "cat": "hikingTrail",
+    "lon": -80.224048039,
+    "lat": 43.51118476
+  },
+  {
+    "wikiId": "Q106099019",
+    "name": "Hanlon Creek Trail",
+    "cat": "hikingTrail",
+    "lon": -80.229623311,
+    "lat": 43.514423572
+  },
+  {
+    "wikiId": "Q106361092",
+    "name": "Miners' Tunnel Track",
+    "cat": "hikingTrail",
+    "lon": 169.85005,
+    "lat": -43.396735
+  },
+  {
+    "wikiId": "Q106407340",
+    "name": "Creef Cut Trail",
+    "cat": "hikingTrail",
+    "lon": -75.853408287,
+    "lat": 35.861123487
+  },
+  {
+    "wikiId": "Q106415763",
+    "name": "Morning Glory Pool Trail",
+    "cat": "hikingTrail",
+    "lon": -110.841957037,
+    "lat": 44.467343877
+  },
+  {
+    "wikiId": "Q106485293",
+    "name": "Indian Head River Trail",
+    "cat": "hikingTrail",
+    "lon": -118.836256255,
+    "lat": 36.487212746
+  },
+  {
+    "wikiId": "Q106600038",
+    "name": "Via Sbrinz",
+    "cat": "hikingTrail",
+    "lon": 8.338892,
+    "lat": 46.980542
+  },
+  {
+    "wikiId": "Q106618763",
+    "name": "West Fork Humptulips Trail",
+    "cat": "hikingTrail",
+    "lon": -123.7945,
+    "lat": 47.3782
+  },
+  {
+    "wikiId": "Q106674903",
+    "name": "Moses Spring Trail",
+    "cat": "hikingTrail",
+    "lon": -121.185045516,
+    "lat": 36.476300224
+  },
+  {
+    "wikiId": "Q106684976",
+    "name": "Q106684976",
+    "cat": "hikingTrail",
+    "lon": 6.71183,
+    "lat": 49.72473
+  },
+  {
+    "wikiId": "Q106706530",
+    "name": "Historic Trail and Cave Entrance",
+    "cat": "hikingTrail",
+    "lon": -103.842342822,
+    "lat": 43.732580679
+  },
+  {
+    "wikiId": "Q106718346",
+    "name": "Grenzsteinweg",
+    "cat": "hikingTrail",
+    "lon": 6.6937,
+    "lat": 49.4074
+  },
+  {
+    "wikiId": "Q106725407",
+    "name": "Blackberry Trail",
+    "cat": "hikingTrail",
+    "lon": -103.456226946,
+    "lat": 43.872163991
+  },
+  {
+    "wikiId": "Q106727044",
+    "name": "Beckinger Saarblicke",
+    "cat": "hikingTrail",
+    "lon": 6.68948,
+    "lat": 49.38637
+  },
+  {
+    "wikiId": "Q106765591",
+    "name": "Alpine Ridge Trail",
+    "cat": "hikingTrail",
+    "lon": -105.751902707,
+    "lat": 40.443163007
+  },
+  {
+    "wikiId": "Q106779398",
+    "name": "Hapuka Estuary Walk",
+    "cat": "hikingTrail",
+    "lon": 168.900375,
+    "lat": -43.910137
+  },
+  {
+    "wikiId": "Q107012539",
+    "name": "Q107012539",
+    "cat": "hikingTrail",
+    "lon": 18.031222222,
+    "lat": 59.30975
+  },
+  {
+    "wikiId": "Q107105360",
+    "name": "Lake Kaniere Walkway",
+    "cat": "hikingTrail",
+    "lon": 171.135492,
+    "lat": -42.85275
+  },
+  {
+    "wikiId": "Q107185725",
+    "name": "Ōkārito Trig Walk",
+    "cat": "hikingTrail",
+    "lon": 170.152731,
+    "lat": -43.229195
+  },
+  {
+    "wikiId": "Q107247416",
+    "name": "Struinpad",
+    "cat": "hikingTrail",
+    "lon": 4.72169401,
+    "lat": 52.007079364
+  },
+  {
+    "wikiId": "Q107338453",
+    "name": "Q107338453",
+    "cat": "hikingTrail",
+    "lon": -3.513842,
+    "lat": 40.510812
+  },
+  {
+    "wikiId": "Q107363892",
+    "name": "Orchideenpfad",
+    "cat": "hikingTrail",
+    "lon": 7.2036,
+    "lat": 49.15822
+  },
+  {
+    "wikiId": "Q107438857",
+    "name": "Jägersteig",
+    "cat": "hikingTrail",
+    "lon": 11.4274,
+    "lat": 49.74335
+  },
+  {
+    "wikiId": "Q107584783",
+    "name": "Stufenweg",
+    "cat": "hikingTrail",
+    "lon": 14.267195463,
+    "lat": 51.070445904
+  },
+  {
+    "wikiId": "Q107631387",
+    "name": "Tunnel Terrace Walk",
+    "cat": "hikingTrail",
+    "lon": 171.106553,
+    "lat": -42.669514
+  },
+  {
+    "wikiId": "Q107652701",
+    "name": "Saarhölzbachpfad",
+    "cat": "hikingTrail",
+    "lon": 6.61332,
+    "lat": 49.51297
+  },
+  {
+    "wikiId": "Q107697629",
+    "name": "Q107697629",
+    "cat": "hikingTrail",
+    "lon": 9.528,
+    "lat": 52.19985
+  },
+  {
+    "wikiId": "Q107746113",
+    "name": "Sundance Trail",
+    "cat": "hikingTrail",
+    "lon": -110.191101,
+    "lat": 37.847473
+  },
+  {
+    "wikiId": "Q107920705",
+    "name": "Sentiero dei Grandi Alberi",
+    "cat": "hikingTrail",
+    "lon": 11.2249,
+    "lat": 45.6833
+  },
+  {
+    "wikiId": "Q107968813",
+    "name": "Q107968813",
+    "cat": "hikingTrail",
+    "lon": 2.091355617,
+    "lat": 45.596594518
+  },
+  {
+    "wikiId": "Q108341118",
+    "name": "Krakonošova Muchomůrka",
+    "cat": "hikingTrail",
+    "lon": 15.8075019,
+    "lat": 50.6302619
+  },
+  {
+    "wikiId": "Q108457780",
+    "name": "Urschner Höhenweg",
+    "cat": "hikingTrail",
+    "lon": 8.348604,
+    "lat": 46.533605
+  },
+  {
+    "wikiId": "Q108526444",
+    "name": "Rampart Ridge Trail",
+    "cat": "hikingTrail",
+    "lon": -121.816,
+    "lat": 46.7503
+  },
+  {
+    "wikiId": "Q108594100",
+    "name": "Goverwellepad",
+    "cat": "hikingTrail",
+    "lon": 4.743721582,
+    "lat": 52.005301192
+  },
+  {
+    "wikiId": "Q108651224",
+    "name": "Plateau Loop Trail, Coalseam Conservation Park",
+    "cat": "hikingTrail",
+    "lon": 115.551095782,
+    "lat": -28.961340784
+  },
+  {
+    "wikiId": "Q108810620",
+    "name": "Alborns Coalmine Walk",
+    "cat": "hikingTrail",
+    "lon": 171.878342222,
+    "lat": -42.180593888
+  },
+  {
+    "wikiId": "Q109351233",
+    "name": "Witch Lake",
+    "cat": "hikingTrail",
+    "lon": 49.64015,
+    "lat": 53.396502
+  },
+  {
+    "wikiId": "Q109375329",
+    "name": "Q109375329",
+    "cat": "hikingTrail",
+    "lon": 4.876638443,
+    "lat": 52.017263115
+  },
+  {
+    "wikiId": "Q110191611",
+    "name": "High Rock Trail",
+    "cat": "hikingTrail",
+    "lon": -121.8914,
+    "lat": 46.6664
+  },
+  {
+    "wikiId": "Q110192479",
+    "name": "Greenwood Lake Trail",
+    "cat": "hikingTrail",
+    "lon": -121.9161,
+    "lat": 46.6619
+  },
+  {
+    "wikiId": "Q110192684",
+    "name": "Osborne Mountain Trail",
+    "cat": "hikingTrail",
+    "lon": -121.937,
+    "lat": 46.7026
+  },
+  {
+    "wikiId": "Q110207164",
+    "name": "Teeley Creek Trail",
+    "cat": "hikingTrail",
+    "lon": -121.9319,
+    "lat": 46.7049
+  },
+  {
+    "wikiId": "Q110207238",
+    "name": "Big Creek Trail",
+    "cat": "hikingTrail",
+    "lon": -121.8947,
+    "lat": 46.6778
+  },
+  {
+    "wikiId": "Q110214419",
+    "name": "Lake Christine Trail",
+    "cat": "hikingTrail",
+    "lon": -121.9444,
+    "lat": 46.7736
+  },
+  {
+    "wikiId": "Q110215264",
+    "name": "Puyallup Trail",
+    "cat": "hikingTrail",
+    "lon": -121.9477,
+    "lat": 46.7962
+  },
+  {
+    "wikiId": "Q110216291",
+    "name": "Glacier View Trail",
+    "cat": "hikingTrail",
+    "lon": -121.9477,
+    "lat": 46.7962
+  },
+  {
+    "wikiId": "Q110221370",
+    "name": "Silver Creek Trail",
+    "cat": "hikingTrail",
+    "lon": -121.8306,
+    "lat": 46.6722
+  },
+  {
+    "wikiId": "Q110225984",
+    "name": "Allen Mountain Trail",
+    "cat": "hikingTrail",
+    "lon": -121.8858,
+    "lat": 46.6538
+  },
+  {
+    "wikiId": "Q110233881",
+    "name": "Dennistoun Bush Walk",
+    "cat": "hikingTrail",
+    "lon": 171.24029,
+    "lat": -43.90652
+  },
+  {
+    "wikiId": "Q110267682",
+    "name": "Kapfweg",
+    "cat": "hikingTrail",
+    "lon": 9.675388888,
+    "lat": 47.335341666
+  },
+  {
+    "wikiId": "Q110462925",
+    "name": "Peak Two Trail",
+    "cat": "hikingTrail",
+    "lon": -121.9474,
+    "lat": 46.8185
+  },
+  {
+    "wikiId": "Q110545960",
+    "name": "Q110545960",
+    "cat": "hikingTrail",
+    "lon": 8.52696,
+    "lat": 52.01962
+  },
+  {
+    "wikiId": "Q110647936",
+    "name": "Q110647936",
+    "cat": "hikingTrail",
+    "lon": -5.798522395,
+    "lat": 36.741188556
+  },
+  {
+    "wikiId": "Q110943215",
+    "name": "Mount Kosciuszko summit walk",
+    "cat": "hikingTrail",
+    "lon": 148.280575,
+    "lat": -36.450221
+  },
+  {
+    "wikiId": "Q111019869",
+    "name": "Tunnel Creek Track",
+    "cat": "hikingTrail",
+    "lon": 170.395031,
+    "lat": -43.100231
+  },
+  {
+    "wikiId": "Q111154590",
+    "name": "Q111154590",
+    "cat": "hikingTrail",
+    "lon": -6.08788887,
+    "lat": 36.653229857
+  },
+  {
+    "wikiId": "Q111172741",
+    "name": "Gräfinthaler Weg",
+    "cat": "hikingTrail",
+    "lon": 7.12074,
+    "lat": 49.15959
+  },
+  {
+    "wikiId": "Q111303411",
+    "name": "Devils Punchbowl Walking Track",
+    "cat": "hikingTrail",
+    "lon": 171.564817,
+    "lat": -42.93349
+  },
+  {
+    "wikiId": "Q111303557",
+    "name": "Millennium Walk",
+    "cat": "hikingTrail",
+    "lon": 171.561203,
+    "lat": -42.940442
+  },
+  {
+    "wikiId": "Q111327857",
+    "name": "Angel's Rest Trailhead",
+    "cat": "hikingTrail",
+    "lon": -80.7516,
+    "lat": 37.3293
+  },
+  {
+    "wikiId": "Q111529030",
+    "name": "Q111529030",
+    "cat": "hikingTrail",
+    "lon": 8.33636,
+    "lat": 47.27359
+  },
+  {
+    "wikiId": "Q111802631",
+    "name": "Q111802631",
+    "cat": "hikingTrail",
+    "lon": 20.03734,
+    "lat": 50.07208
+  },
+  {
+    "wikiId": "Q112117076",
+    "name": "Q112117076",
+    "cat": "hikingTrail",
+    "lon": 7.04987,
+    "lat": 47.76029
+  },
+  {
+    "wikiId": "Q112658127",
+    "name": "Truman Track",
+    "cat": "hikingTrail",
+    "lon": 171.343288,
+    "lat": -42.094146
+  },
+  {
+    "wikiId": "Q112683200",
+    "name": "Inland Pack Track",
+    "cat": "hikingTrail",
+    "lon": 171.345555555,
+    "lat": -42.126111111
+  },
+  {
+    "wikiId": "Q112704541",
+    "name": "Pororari River Track",
+    "cat": "hikingTrail",
+    "lon": 171.38056,
+    "lat": -42.12339
+  },
+  {
+    "wikiId": "Q112966873",
+    "name": "Copland Track",
+    "cat": "hikingTrail",
+    "lon": 169.819,
+    "lat": -43.575
+  },
+  {
+    "wikiId": "Q112978272",
+    "name": "Croesus Track",
+    "cat": "hikingTrail",
+    "lon": 171.3629,
+    "lat": -42.2592
+  },
+  {
+    "wikiId": "Q113036550",
+    "name": "Rakaitane Walk",
+    "cat": "hikingTrail",
+    "lon": 171.468,
+    "lat": -42.57154
+  },
+  {
+    "wikiId": "Q113042524",
+    "name": "Velenski Walk",
+    "cat": "hikingTrail",
+    "lon": 171.473494,
+    "lat": -42.573089
+  },
+  {
+    "wikiId": "Q113296953",
+    "name": "Fenian Track",
+    "cat": "hikingTrail",
+    "lon": 172.154444444,
+    "lat": -41.21
+  },
+  {
+    "wikiId": "Q113313352",
+    "name": "Big Rimu Walk",
+    "cat": "hikingTrail",
+    "lon": 172.192777777,
+    "lat": -41.248333333
+  },
+  {
+    "wikiId": "Q113314688",
+    "name": "Nīkau Walk",
+    "cat": "hikingTrail",
+    "lon": 172.10606,
+    "lat": -41.10907
+  },
+  {
+    "wikiId": "Q113463005",
+    "name": "Waldgeisterweg",
+    "cat": "hikingTrail",
+    "lon": 12.952277777,
+    "lat": 50.649244444
+  },
+  {
+    "wikiId": "Q113510281",
+    "name": "Blue Pools Track",
+    "cat": "hikingTrail",
+    "lon": 169.274254,
+    "lat": -44.162443
+  },
+  {
+    "wikiId": "Q113531321",
+    "name": "Haast to Paringa Cattle Track",
+    "cat": "hikingTrail",
+    "lon": 169.1871,
+    "lat": -43.8371
+  },
+  {
+    "wikiId": "Q113587879",
+    "name": "Frog Pond Loop",
+    "cat": "hikingTrail",
+    "lon": -85.16208,
+    "lat": 41.10732
+  },
+  {
+    "wikiId": "Q113620685",
+    "name": "Swamp Forest Walk",
+    "cat": "hikingTrail",
+    "lon": 169.149456,
+    "lat": -43.760618
+  },
+  {
+    "wikiId": "Q113620705",
+    "name": "Dune Lake Walk",
+    "cat": "hikingTrail",
+    "lon": 169.145594,
+    "lat": -43.761238
+  },
+  {
+    "wikiId": "Q113626939",
+    "name": "Q113626939",
+    "cat": "hikingTrail",
+    "lon": 9.0732749,
+    "lat": 45.9130724
+  },
+  {
+    "wikiId": "Q15107502",
+    "name": "Q15107502",
+    "cat": "hikingTrail",
+    "lon": 7.42108,
+    "lat": 50.99633
+  },
+  {
+    "wikiId": "Q15222652",
+    "name": "Hamble Rail Trail",
+    "cat": "hikingTrail",
+    "lon": -1.3246,
+    "lat": 50.8644
+  },
+  {
+    "wikiId": "Q15252668",
+    "name": "Mediterranean Steps",
+    "cat": "hikingTrail",
+    "lon": -5.343172,
+    "lat": 36.125034
+  },
+  {
+    "wikiId": "Q15263816",
+    "name": "Old Loggers Path",
+    "cat": "hikingTrail",
+    "lon": -76.89638889,
+    "lat": 41.52166667
+  },
+  {
+    "wikiId": "Q15694853",
+    "name": "Mühlenbach Schluchtentour",
+    "cat": "hikingTrail",
+    "lon": 6.83305556,
+    "lat": 49.36472222
+  },
+  {
+    "wikiId": "Q15696314",
+    "name": "Kaltensteinpfad",
+    "cat": "hikingTrail",
+    "lon": 6.88972222,
+    "lat": 49.40263889
+  },
+  {
+    "wikiId": "Q15789145",
+    "name": "Boden-Geo-Pfad (Landkreis Teltow-Fläming)",
+    "cat": "hikingTrail",
+    "lon": 13.381536,
+    "lat": 52.137241
+  },
+  {
+    "wikiId": "Q15792059",
+    "name": "Archäologisch-naturkundlicher Wanderweg Lübeck",
+    "cat": "hikingTrail",
+    "lon": 10.8125,
+    "lat": 53.9311
+  },
+  {
+    "wikiId": "Q15835380",
+    "name": "Q15835380",
+    "cat": "hikingTrail",
+    "lon": 7.33833333,
+    "lat": 49.78138889
+  },
+  {
+    "wikiId": "Q15958768",
+    "name": "The italian path",
+    "cat": "hikingTrail",
+    "lon": 10.5732,
+    "lat": 56.2278
+  },
+  {
+    "wikiId": "Q16410484",
+    "name": "Hiking trail of the Piusa River",
+    "cat": "hikingTrail",
+    "lon": 27.3633,
+    "lat": 57.7942
+  },
+  {
+    "wikiId": "Q16630166",
+    "name": "Q16630166",
+    "cat": "hikingTrail",
+    "lon": -0.946944444,
+    "lat": 38.085555555
+  },
+  {
+    "wikiId": "Q16916616",
+    "name": "Druidenpfad",
+    "cat": "hikingTrail",
+    "lon": 6.57569444,
+    "lat": 49.34586111
+  },
+  {
+    "wikiId": "Q16931289",
+    "name": "Hernández–Capron Trail",
+    "cat": "hikingTrail",
+    "lon": -80.73343333,
+    "lat": 28.35583333
+  },
+  {
+    "wikiId": "Q16980816",
+    "name": "John Yarbrough Linear Park",
+    "cat": "hikingTrail",
+    "lon": -81.85539,
+    "lat": 26.56897
+  },
+  {
+    "wikiId": "Q16983705",
+    "name": "Power Line Trail",
+    "cat": "hikingTrail",
+    "lon": -75.1625,
+    "lat": 40.1878
+  },
+  {
+    "wikiId": "Q17353396",
+    "name": "Barnim Villages Walk",
+    "cat": "hikingTrail",
+    "lon": 13.273335,
+    "lat": 52.588938
+  },
+  {
+    "wikiId": "Q17353647",
+    "name": "Havel Lakes Walk",
+    "cat": "hikingTrail",
+    "lon": 13.208689,
+    "lat": 52.536213
+  },
+  {
+    "wikiId": "Q17353673",
+    "name": "Humboldt Walk",
+    "cat": "hikingTrail",
+    "lon": 13.581628,
+    "lat": 52.559624
+  },
+  {
+    "wikiId": "Q17353685",
+    "name": "Inner Park Ring Walk",
+    "cat": "hikingTrail",
+    "lon": 13.282829,
+    "lat": 52.535165
+  },
+  {
+    "wikiId": "Q17354108",
+    "name": "River Spree/Berlin Glacial Valley Walk",
+    "cat": "hikingTrail",
+    "lon": 13.208689,
+    "lat": 52.536213
+  },
+  {
+    "wikiId": "Q17354171",
+    "name": "Teltow Villages Walk",
+    "cat": "hikingTrail",
+    "lon": 13.240519,
+    "lat": 52.454724
+  },
+  {
+    "wikiId": "Q17354173",
+    "name": "Teltow Canal Walk",
+    "cat": "hikingTrail",
+    "lon": 13.574171111,
+    "lat": 52.428466944
+  },
+  {
+    "wikiId": "Q17354181",
+    "name": "Tiergarten Ring Walk",
+    "cat": "hikingTrail",
+    "lon": 13.410726,
+    "lat": 52.496106
+  },
+  {
+    "wikiId": "Q17354264",
+    "name": "Wannsee Walk",
+    "cat": "hikingTrail",
+    "lon": 13.098574,
+    "lat": 52.4104837
+  },
+  {
+    "wikiId": "Q17538783",
+    "name": "GR 37",
+    "cat": "hikingTrail",
+    "lon": -1.084963888,
+    "lat": 39.867958333
+  },
+  {
+    "wikiId": "Q17764667",
+    "name": "Damefallet",
+    "cat": "hikingTrail",
+    "lon": 10.735830555,
+    "lat": 59.959552777
+  },
+  {
+    "wikiId": "Q18006490",
+    "name": "Q18006490",
+    "cat": "hikingTrail",
+    "lon": 1.65911,
+    "lat": 42.2379
+  },
+  {
+    "wikiId": "Q18126327",
+    "name": "John Buchan Way",
+    "cat": "hikingTrail",
+    "lon": -3.21101,
+    "lat": 55.6352
+  },
+  {
+    "wikiId": "Q18630248",
+    "name": "Q18630248",
+    "cat": "hikingTrail",
+    "lon": 7.6425,
+    "lat": 49.239722222
+  },
+  {
+    "wikiId": "Q19867700",
+    "name": "Harborwalk",
+    "cat": "hikingTrail",
+    "lon": -82.053774,
+    "lat": 26.938021
+  },
+  {
+    "wikiId": "Q19877059",
+    "name": "Moon Lake Park",
+    "cat": "hikingTrail",
+    "lon": -76.0478,
+    "lat": 41.2533
+  },
+  {
+    "wikiId": "Q20103692",
+    "name": "Q20103692",
+    "cat": "hikingTrail",
+    "lon": -0.489454,
+    "lat": 39.424913
+  },
+  {
+    "wikiId": "Q20113336",
+    "name": "Grünes Meer",
+    "cat": "hikingTrail",
+    "lon": 9.071887,
+    "lat": 50.526057
+  },
+  {
+    "wikiId": "Q20955794",
+    "name": "Passadiços do Paiva",
+    "cat": "hikingTrail",
+    "lon": -8.1769,
+    "lat": 40.9489
+  },
+  {
+    "wikiId": "Q21501378",
+    "name": "Weinwanderweg Obertürkheim – Uhlbach – Rotenberg – Untertürkheim",
+    "cat": "hikingTrail",
+    "lon": 9.268749,
+    "lat": 48.778272
+  },
+  {
+    "wikiId": "Q22665719",
+    "name": "Olympus",
+    "cat": "hikingTrail",
+    "lon": 22.407,
+    "lat": 40.085
+  },
+  {
+    "wikiId": "Q22669861",
+    "name": "Eckerlochstieg",
+    "cat": "hikingTrail",
+    "lon": 10.618955,
+    "lat": 51.788791
+  },
+  {
+    "wikiId": "Q23787947",
+    "name": "Q23787947",
+    "cat": "hikingTrail",
+    "lon": 10.5282,
+    "lat": 51.79519
+  },
+  {
+    "wikiId": "Q24033958",
+    "name": "Q24033958",
+    "cat": "hikingTrail",
+    "lon": 9.8797064,
+    "lat": 54.9471028
+  },
+  {
+    "wikiId": "Q24082656",
+    "name": "Schlossberg-Tour",
+    "cat": "hikingTrail",
+    "lon": 7.34302,
+    "lat": 49.32092
+  },
+  {
+    "wikiId": "Q24185554",
+    "name": "Lady Carrington Drive",
+    "cat": "hikingTrail",
+    "lon": 151.04663889,
+    "lat": -34.11430556
+  },
+  {
+    "wikiId": "Q24206650",
+    "name": "Schauinslandweg",
+    "cat": "hikingTrail",
+    "lon": 7.17833333,
+    "lat": 49.38583333
+  },
+  {
+    "wikiId": "Q24208083",
+    "name": "Hüttenwanderweg",
+    "cat": "hikingTrail",
+    "lon": 7.145,
+    "lat": 49.243333
+  },
+  {
+    "wikiId": "Q24572855",
+    "name": "Jakobsweg Main-Taubertal",
+    "cat": "hikingTrail",
+    "lon": 10.178889,
+    "lat": 49.3775
+  },
+  {
+    "wikiId": "Q25107817",
+    "name": "Q25107817",
+    "cat": "hikingTrail",
+    "lon": 20.370691,
+    "lat": 48.744707
+  },
+  {
+    "wikiId": "Q25206861",
+    "name": "Hidden Valley",
+    "cat": "hikingTrail",
+    "lon": -116.170508333,
+    "lat": 34.013847222
+  },
+  {
+    "wikiId": "Q25425611",
+    "name": "Q25425611",
+    "cat": "hikingTrail",
+    "lon": 5.338666666,
+    "lat": 60.396472222
+  },
+  {
+    "wikiId": "Q25482025",
+    "name": "Q25482025",
+    "cat": "hikingTrail",
+    "lon": 21.312694444,
+    "lat": 49.449108333
+  },
+  {
+    "wikiId": "Q26710201",
+    "name": "Luisina cesta",
+    "cat": "hikingTrail",
+    "lon": 15.7784064,
+    "lat": 50.63962
+  },
+  {
+    "wikiId": "Q26810493",
+    "name": "Panoramaweg Taubertal",
+    "cat": "hikingTrail",
+    "lon": 10.17626,
+    "lat": 49.38045
+  },
+  {
+    "wikiId": "Q27304943",
+    "name": "Panorama Trail",
+    "cat": "hikingTrail",
+    "lon": -119.573388888,
+    "lat": 37.726888888
+  },
+  {
+    "wikiId": "Q27926420",
+    "name": "Q27926420",
+    "cat": "hikingTrail",
+    "lon": 193,
+    "lat": 52.243542
+  },
+  {
+    "wikiId": "Q27926431",
+    "name": "Via Stockalper",
+    "cat": "hikingTrail",
+    "lon": 7.990231,
+    "lat": 46.315573
+  },
+  {
+    "wikiId": "Q27929069",
+    "name": "Deschutes River Trail",
+    "cat": "hikingTrail",
+    "lon": -121.31806,
+    "lat": 44.09722
+  },
+  {
+    "wikiId": "Q27973347",
+    "name": "Q27973347",
+    "cat": "hikingTrail",
+    "lon": 10.656899,
+    "lat": 51.770225
+  },
+  {
+    "wikiId": "Q28064691",
+    "name": "Cape Alava Trail",
+    "cat": "hikingTrail",
+    "lon": -124.706503,
+    "lat": 48.156133
+  },
+  {
+    "wikiId": "Q28973917",
+    "name": "Q28973917",
+    "cat": "hikingTrail",
+    "lon": 10.51399,
+    "lat": 51.73139
+  },
+  {
+    "wikiId": "Q29641931",
+    "name": "Manistee River Trail",
+    "cat": "hikingTrail",
+    "lon": -85.822058,
+    "lat": 44.362109
+  },
+  {
+    "wikiId": "Q31452023",
+    "name": "Burn Hut Loop",
+    "cat": "hikingTrail",
+    "lon": 175.49608,
+    "lat": -40.60198
+  },
+  {
+    "wikiId": "Q31840665",
+    "name": "Q31840665",
+    "cat": "hikingTrail",
+    "lon": 9.46566,
+    "lat": 47.0661
+  },
+  {
+    "wikiId": "Q35869698",
+    "name": "Flat Top-Fallingwater Cascades Trail",
+    "cat": "hikingTrail",
+    "lon": -79.5819806,
+    "lat": 37.4729147
+  },
+  {
+    "wikiId": "Q37843786",
+    "name": "Mount Timpanogos Trail",
+    "cat": "hikingTrail",
+    "lon": -111.6115861,
+    "lat": 40.4049541
+  },
+  {
+    "wikiId": "Q41601395",
+    "name": "Land art trail on Mt. Učka",
+    "cat": "hikingTrail",
+    "lon": 14.2035,
+    "lat": 45.3129
+  },
+  {
+    "wikiId": "Q41635816",
+    "name": "Christian Point Trail",
+    "cat": "hikingTrail",
+    "lon": -80.911944444,
+    "lat": 25.146111111
+  },
+  {
+    "wikiId": "Q42348734",
+    "name": "Dariva",
+    "cat": "hikingTrail",
+    "lon": 18.4494,
+    "lat": 43.86049
+  },
+  {
+    "wikiId": "Q43255091",
+    "name": "Star Track",
+    "cat": "hikingTrail",
+    "lon": -70.3961,
+    "lat": -24.6336
+  },
+  {
+    "wikiId": "Q43305811",
+    "name": "Q43305811",
+    "cat": "hikingTrail",
+    "lon": 14.132,
+    "lat": 50.53405
+  },
+  {
+    "wikiId": "Q48755300",
+    "name": "Q48755300",
+    "cat": "hikingTrail",
+    "lon": 10.670555555,
+    "lat": 51.774722222
+  },
+  {
+    "wikiId": "Q48757782",
+    "name": "Schubensteinweg",
+    "cat": "hikingTrail",
+    "lon": 10.548055555,
+    "lat": 51.805833333
+  },
+  {
+    "wikiId": "Q50472494",
+    "name": "Krabi Mangrove Walking Trail",
+    "cat": "hikingTrail",
+    "lon": 98.919927777,
+    "lat": 8.078622222
+  },
+  {
+    "wikiId": "Q55236356",
+    "name": "Q55236356",
+    "cat": "hikingTrail",
+    "lon": 99.098976,
+    "lat": 7.471188
+  },
+  {
+    "wikiId": "Q55409179",
+    "name": "Butterflies, Bridges and Birds Loop Walk Trail",
+    "cat": "hikingTrail",
+    "lon": 115.9341973,
+    "lat": -32.0213364
+  },
+  {
+    "wikiId": "Q55409219",
+    "name": "Woodloes Walk Trail",
+    "cat": "hikingTrail",
+    "lon": 115.9341973,
+    "lat": -32.0213364
+  },
+  {
+    "wikiId": "Q55409241",
+    "name": "Banksia Hill Loop Walk Trail",
+    "cat": "hikingTrail",
+    "lon": 115.9200587,
+    "lat": -32.0262277
+  },
+  {
+    "wikiId": "Q55409268",
+    "name": "Lagoon to Living Streams Walk Trail",
+    "cat": "hikingTrail",
+    "lon": 115.9149619,
+    "lat": -32.0345659
+  },
+  {
+    "wikiId": "Q55467634",
+    "name": "Q55467634",
+    "cat": "hikingTrail",
+    "lon": 9.59724,
+    "lat": 54.90699
+  },
+  {
+    "wikiId": "Q55467788",
+    "name": "Q55467788",
+    "cat": "hikingTrail",
+    "lon": 9.44632,
+    "lat": 54.83815
+  },
+  {
+    "wikiId": "Q55467901",
+    "name": "Q55467901",
+    "cat": "hikingTrail",
+    "lon": 9.7252,
+    "lat": 54.84492
+  },
+  {
+    "wikiId": "Q55468258",
+    "name": "Q55468258",
+    "cat": "hikingTrail",
+    "lon": 9.78324,
+    "lat": 54.91101
+  },
+  {
+    "wikiId": "Q55468359",
+    "name": "Q55468359",
+    "cat": "hikingTrail",
+    "lon": 9.94915,
+    "lat": 54.89308
+  },
+  {
+    "wikiId": "Q55636009",
+    "name": "Tonahutu Creek Trail",
+    "cat": "hikingTrail",
+    "lon": -105.816172,
+    "lat": 40.256394
+  },
+  {
+    "wikiId": "Q55758384",
+    "name": "Werwolf-Wanderweg Bedburg",
+    "cat": "hikingTrail",
+    "lon": 6.556269444,
+    "lat": 51.009180555
+  },
+  {
+    "wikiId": "Q55823166",
+    "name": "Grouse Grind",
+    "cat": "hikingTrail",
+    "lon": -123.0979,
+    "lat": 49.37107
+  },
+  {
+    "wikiId": "Q56878426",
+    "name": "Q56878426",
+    "cat": "hikingTrail",
+    "lon": 10.780277777,
+    "lat": 51.826111111
+  },
+  {
+    "wikiId": "Q58212687",
+    "name": "Law Walk",
+    "cat": "hikingTrail",
+    "lon": 115.835395,
+    "lat": -31.9678096
+  },
+  {
+    "wikiId": "Q58213084",
+    "name": "Kokoda Track Memorial Walk",
+    "cat": "hikingTrail",
+    "lon": 115.8427272,
+    "lat": -31.9621736
+  },
+  {
+    "wikiId": "Q58213272",
+    "name": "Bushland Nature Trail",
+    "cat": "hikingTrail",
+    "lon": 115.8357577,
+    "lat": -31.9627091
+  },
+  {
+    "wikiId": "Q58213374",
+    "name": "Cliff Walk",
+    "cat": "hikingTrail",
+    "lon": 115.8424523,
+    "lat": -31.9623559
+  },
+  {
+    "wikiId": "Q58213758",
+    "name": "Maarm Track",
+    "cat": "hikingTrail",
+    "lon": 115.8381296,
+    "lat": -31.9653172
+  },
+  {
+    "wikiId": "Q58213867",
+    "name": "Yorgra Track",
+    "cat": "hikingTrail",
+    "lon": 115.8388056,
+    "lat": -31.9641636
+  },
+  {
+    "wikiId": "Q58213940",
+    "name": "Boodja Gnarning Walk",
+    "cat": "hikingTrail",
+    "lon": 115.8400898,
+    "lat": -31.9633399
+  },
+  {
+    "wikiId": "Q59915395",
+    "name": "Q59915395",
+    "cat": "hikingTrail",
+    "lon": 16.524444,
+    "lat": 59.3875
+  },
+  {
+    "wikiId": "Q60745181",
+    "name": "Bath Skyline",
+    "cat": "hikingTrail",
+    "lon": -2.3454508,
+    "lat": 51.3783
+  },
+  {
+    "wikiId": "Q60761090",
+    "name": "Paparoa Track",
+    "cat": "hikingTrail",
+    "lon": 171.381944444,
+    "lat": -42.318888888
+  },
+  {
+    "wikiId": "Q60839580",
+    "name": "Sentiero delle Ripe",
+    "cat": "hikingTrail",
+    "lon": 15.4879997,
+    "lat": 40.7543972
+  },
+  {
+    "wikiId": "Q61999861",
+    "name": "Hidden Canyon Trail",
+    "cat": "hikingTrail",
+    "lon": -112.9377175,
+    "lat": 37.2635932
+  },
+  {
+    "wikiId": "Q63410218",
+    "name": "Escalada do Costão",
+    "cat": "hikingTrail",
+    "lon": -43.15286,
+    "lat": -22.95014
+  },
+  {
+    "wikiId": "Q104177688",
+    "name": "Hootzemonn-Weg",
+    "cat": "hikingTrail",
+    "lon": 6.90912,
+    "lat": 49.35806
+  },
+  {
+    "wikiId": "Q104433376",
+    "name": "Scrace O' Fat Trail",
+    "cat": "hikingTrail",
+    "lon": -86.341751647,
+    "lat": 39.176658355
+  },
+  {
+    "wikiId": "Q104626715",
+    "name": "Blue Mesa Trail",
+    "cat": "hikingTrail",
+    "lon": -109.759834693,
+    "lat": 34.938757458
+  },
+  {
+    "wikiId": "Q104698507",
+    "name": "Round trail \"The Great Escape\"",
+    "cat": "hikingTrail",
+    "lon": 15.2877375,
+    "lat": 51.6058675
+  },
+  {
+    "wikiId": "Q104761832",
+    "name": "Vycházkový okruh Pastviny",
+    "cat": "hikingTrail",
+    "lon": 15.7367,
+    "lat": 50.5782903
+  },
+  {
+    "wikiId": "Q104766230",
+    "name": "Q104766230",
+    "cat": "hikingTrail",
+    "lon": 13.0932,
+    "lat": 59.261383333
+  },
+  {
+    "wikiId": "Q104863304",
+    "name": "Swimmers Beach Walk",
+    "cat": "hikingTrail",
+    "lon": 170.902955169,
+    "lat": -42.793741308
+  },
+  {
+    "wikiId": "Q104971914",
+    "name": "Bristlecone Loop Trail",
+    "cat": "hikingTrail",
+    "lon": -112.2432516,
+    "lat": 37.4727611
+  },
+  {
+    "wikiId": "Q104975588",
+    "name": "Peekaboo Loop Trail",
+    "cat": "hikingTrail",
+    "lon": -112.158805,
+    "lat": 37.6127609
+  },
+  {
+    "wikiId": "Q104976865",
+    "name": "Navajo Loop Trail",
+    "cat": "hikingTrail",
+    "lon": -112.1624167,
+    "lat": 37.6177608
+  },
+  {
+    "wikiId": "Q104976971",
+    "name": "Queens Garden Trail",
+    "cat": "hikingTrail",
+    "lon": -112.1557498,
+    "lat": 37.6216497
+  },
+  {
+    "wikiId": "Q104977687",
+    "name": "Fairyland Loop Trail",
+    "cat": "hikingTrail",
+    "lon": -112.1432495,
+    "lat": 37.6355386
+  },
+  {
+    "wikiId": "Q104987540",
+    "name": "Rim Trail",
+    "cat": "hikingTrail",
+    "lon": -112.1626945,
+    "lat": 37.6288718
+  },
+  {
+    "wikiId": "Q105047813",
+    "name": "Shark Valley Tram Road",
+    "cat": "hikingTrail",
+    "lon": -80.760810535,
+    "lat": 25.704766916
+  },
+  {
+    "wikiId": "Q105069295",
+    "name": "Bear Lake Nature Trail",
+    "cat": "hikingTrail",
+    "lon": -105.648376319,
+    "lat": 40.314134567
+  },
+  {
+    "wikiId": "Q105099730",
+    "name": "Lower Calf Creek Falls Trail",
+    "cat": "hikingTrail",
+    "lon": -111.4136667,
+    "lat": 37.7960333
+  },
+  {
+    "wikiId": "Q105100094",
+    "name": "Q105100094",
+    "cat": "hikingTrail",
+    "lon": 12.02374,
+    "lat": 50.44367
+  },
+  {
+    "wikiId": "Q105129441",
+    "name": "Swamp Canyon Connecting Trail",
+    "cat": "hikingTrail",
+    "lon": -112.2118626,
+    "lat": 37.5824829
+  },
+  {
+    "wikiId": "Q105296736",
+    "name": "Q105296736",
+    "cat": "hikingTrail",
+    "lon": 8.0379,
+    "lat": 49.7825
+  },
+  {
+    "wikiId": "Q105300958",
+    "name": "Q105300958",
+    "cat": "hikingTrail",
+    "lon": 7.915802777,
+    "lat": 49.799511111
+  },
+  {
+    "wikiId": "Q105300968",
+    "name": "Q105300968",
+    "cat": "hikingTrail",
+    "lon": 7.959444444,
+    "lat": 49.800002777
+  },
+  {
+    "wikiId": "Q105320921",
+    "name": "Sheep Creek Connecting Trail",
+    "cat": "hikingTrail",
+    "lon": -112.2024178,
+    "lat": 37.5791497
+  },
+  {
+    "wikiId": "Q105324495",
+    "name": "Whiteman Connecting Trail",
+    "cat": "hikingTrail",
+    "lon": -112.2349189,
+    "lat": 37.5619273
+  },
+  {
+    "wikiId": "Q105354464",
+    "name": "Spruce Tree House Trail",
+    "cat": "hikingTrail",
+    "lon": -108.487520684,
+    "lat": 37.184026654
+  },
+  {
+    "wikiId": "Q105494977",
+    "name": "Delicate Arch Trail",
+    "cat": "hikingTrail",
+    "lon": -109.508180555,
+    "lat": 38.74055
+  },
+  {
+    "wikiId": "Q105672233",
+    "name": "Mananui Tramline",
+    "cat": "hikingTrail",
+    "lon": 170.933189,
+    "lat": -42.783685
+  },
+  {
+    "wikiId": "Q105672463",
+    "name": "Picnic Point Track",
+    "cat": "hikingTrail",
+    "lon": 170.936193,
+    "lat": -42.795464
+  },
+  {
+    "wikiId": "Q105693535",
+    "name": "Boeser Tritt",
+    "cat": "hikingTrail",
+    "lon": 9.749411111,
+    "lat": 47.061877777
+  },
+  {
+    "wikiId": "Q105708171",
+    "name": "Hickman Bridge Trail",
+    "cat": "hikingTrail",
+    "lon": -111.227711,
+    "lat": 38.288725
+  },
+  {
+    "wikiId": "Q105715612",
+    "name": "Low Gap Trail",
+    "cat": "hikingTrail",
+    "lon": -86.424975128,
+    "lat": 39.311002941
+  },
+  {
+    "wikiId": "Q105749368",
+    "name": "Timber Creek Overlook Trail",
+    "cat": "hikingTrail",
+    "lon": -113.201831,
+    "lat": 37.435436
+  },
+  {
+    "wikiId": "Q105956615",
+    "name": "Alpine Pond Trail",
+    "cat": "hikingTrail",
+    "lon": -112.823831,
+    "lat": 37.6355334
+  },
+  {
+    "wikiId": "Q105977472",
+    "name": "Kawatiri Walk Westport",
+    "cat": "hikingTrail",
+    "lon": 171.597625,
+    "lat": -41.744311
+  },
+  {
+    "wikiId": "Q106071275",
+    "name": "Ross Water Race Walkway",
+    "cat": "hikingTrail",
+    "lon": 170.8065883,
+    "lat": -42.9056974
+  },
+  {
+    "wikiId": "Q63440921",
+    "name": "The Prehistoric Trail",
+    "cat": "hikingTrail",
+    "lon": 10.2386,
+    "lat": 56.086
+  },
+  {
+    "wikiId": "Q64049111",
+    "name": "Q64049111",
+    "cat": "hikingTrail",
+    "lon": 15.9807106,
+    "lat": 48.8238728
+  },
+  {
+    "wikiId": "Q65555007",
+    "name": "Owachomo Bridge Trail",
+    "cat": "hikingTrail",
+    "lon": -110.013611111,
+    "lat": 37.580277777
+  },
+  {
+    "wikiId": "Q65580433",
+    "name": "Q65580433",
+    "cat": "hikingTrail",
+    "lon": 14.7457327,
+    "lat": 40.9517952
+  },
+  {
+    "wikiId": "Q65783368",
+    "name": "Knife Edge Trail",
+    "cat": "hikingTrail",
+    "lon": -108.4313889,
+    "lat": 37.3058333
+  },
+  {
+    "wikiId": "Q65920603",
+    "name": "Lava Flow Trail",
+    "cat": "hikingTrail",
+    "lon": -111.515435,
+    "lat": 35.3622307
+  },
+  {
+    "wikiId": "Q65924445",
+    "name": "Giant Logs Trail",
+    "cat": "hikingTrail",
+    "lon": -109.866817,
+    "lat": 34.815509
+  },
+  {
+    "wikiId": "Q65935819",
+    "name": "Chasm View Nature Trail",
+    "cat": "hikingTrail",
+    "lon": -107.710826,
+    "lat": 38.583964
+  },
+  {
+    "wikiId": "Q65953333",
+    "name": "East Rim Trail",
+    "cat": "hikingTrail",
+    "lon": -112.93244,
+    "lat": 37.2785929
+  },
+  {
+    "wikiId": "Q65953693",
+    "name": "Petroglyph Point Trail",
+    "cat": "hikingTrail",
+    "lon": -108.4914773,
+    "lat": 37.1747179
+  },
+  {
+    "wikiId": "Q65954011",
+    "name": "Spruce Canyon Trail",
+    "cat": "hikingTrail",
+    "lon": -108.4894444,
+    "lat": 37.1958333
+  },
+  {
+    "wikiId": "Q66023622",
+    "name": "Prater Ridge Trail",
+    "cat": "hikingTrail",
+    "lon": -108.4327778,
+    "lat": 37.2925
+  },
+  {
+    "wikiId": "Q66023768",
+    "name": "Point Lookout Trail",
+    "cat": "hikingTrail",
+    "lon": -108.42,
+    "lat": 37.3122222
+  },
+  {
+    "wikiId": "Q66023804",
+    "name": "Soda Canyon Overlook Trail",
+    "cat": "hikingTrail",
+    "lon": -108.4663889,
+    "lat": 37.1683333
+  },
+  {
+    "wikiId": "Q66085154",
+    "name": "Doney Trail",
+    "cat": "hikingTrail",
+    "lon": -111.4045,
+    "lat": 35.531722222
+  },
+  {
+    "wikiId": "Q66092293",
+    "name": "Roadside Ruin Trail",
+    "cat": "hikingTrail",
+    "lon": -109.76256,
+    "lat": 38.163162
+  },
+  {
+    "wikiId": "Q66311532",
+    "name": "Smith Spring Trail",
+    "cat": "hikingTrail",
+    "lon": -104.802902,
+    "lat": 31.917726
+  },
+  {
+    "wikiId": "Q66314520",
+    "name": "Santa Elena Canyon Trail",
+    "cat": "hikingTrail",
+    "lon": -103.6110173,
+    "lat": 29.1674235
+  },
+  {
+    "wikiId": "Q66314548",
+    "name": "Chihuahuan Desert Nature Trail",
+    "cat": "hikingTrail",
+    "lon": -103.1360033,
+    "lat": 29.2713126
+  },
+  {
+    "wikiId": "Q66322717",
+    "name": "Kirby Nature Trail",
+    "cat": "hikingTrail",
+    "lon": -94.3443583,
+    "lat": 30.4677073
+  },
+  {
+    "wikiId": "Q66466887",
+    "name": "Crawford Path",
+    "cat": "hikingTrail",
+    "lon": -71.397777777,
+    "lat": 44.222777777
+  },
+  {
+    "wikiId": "Q66486255",
+    "name": "Q66486255",
+    "cat": "hikingTrail",
+    "lon": 9.51197,
+    "lat": 47.056785
+  },
+  {
+    "wikiId": "Q66518876",
+    "name": "Hot Springs Canyon Trail",
+    "cat": "hikingTrail",
+    "lon": -102.999312901,
+    "lat": 29.177498786
+  },
+  {
+    "wikiId": "Q66520694",
+    "name": "Permian Reef Trail",
+    "cat": "hikingTrail",
+    "lon": -104.7493922,
+    "lat": 31.9934485
+  },
+  {
+    "wikiId": "Q66531504",
+    "name": "Cave Spring Trail",
+    "cat": "hikingTrail",
+    "lon": -109.7517883,
+    "lat": 38.1555433
+  },
+  {
+    "wikiId": "Q66545472",
+    "name": "Juniper Canyon Trail",
+    "cat": "hikingTrail",
+    "lon": -121.2018678,
+    "lat": 36.4827429
+  },
+  {
+    "wikiId": "Q66545545",
+    "name": "Balconies Trail",
+    "cat": "hikingTrail",
+    "lon": -121.2052015,
+    "lat": 36.4952429
+  },
+  {
+    "wikiId": "Q66615629",
+    "name": "Hugh Norris Trail",
+    "cat": "hikingTrail",
+    "lon": -111.1781556,
+    "lat": 32.2664645
+  },
+  {
+    "wikiId": "Q66660324",
+    "name": "Paseo del Morro",
+    "cat": "hikingTrail",
+    "lon": -66.122636111,
+    "lat": 18.467316666
+  },
+  {
+    "wikiId": "Q66684260",
+    "name": "Western Overlook Trail",
+    "cat": "hikingTrail",
+    "lon": -78.906393,
+    "lat": 40.054142
+  },
+  {
+    "wikiId": "Q66691826",
+    "name": "Thomas Hariot Trail",
+    "cat": "hikingTrail",
+    "lon": -75.7104542,
+    "lat": 35.9390571
+  },
+  {
+    "wikiId": "Q66692380",
+    "name": "Summit Trail",
+    "cat": "hikingTrail",
+    "lon": -98.818375,
+    "lat": 30.5060233
+  },
+  {
+    "wikiId": "Q66713048",
+    "name": "Rimrock Trail",
+    "cat": "hikingTrail",
+    "lon": -78.945556,
+    "lat": 41.844444
+  },
+  {
+    "wikiId": "Q66828224",
+    "name": "Fort Circle Park Hiker-Biker Trail",
+    "cat": "hikingTrail",
+    "lon": -76.94597,
+    "lat": 38.88648
+  },
+  {
+    "wikiId": "Q67123899",
+    "name": "Hospital Rock Trail",
+    "cat": "hikingTrail",
+    "lon": -121.469849,
+    "lat": 41.833353
+  },
+  {
+    "wikiId": "Q67124345",
+    "name": "North Pond Wildlife Trail",
+    "cat": "hikingTrail",
+    "lon": -75.493223,
+    "lat": 35.715912
+  },
+  {
+    "wikiId": "Q67130288",
+    "name": "Lighthouse Trail",
+    "cat": "hikingTrail",
+    "lon": -75.353789,
+    "lat": 37.910495
+  },
+  {
+    "wikiId": "Q67154418",
+    "name": "Trayfoot Mountain Trail",
+    "cat": "hikingTrail",
+    "lon": -78.783357,
+    "lat": 38.2092981
+  },
+  {
+    "wikiId": "Q67165429",
+    "name": "Spruce Burl Trail",
+    "cat": "hikingTrail",
+    "lon": -124.3643597,
+    "lat": 47.5778579
+  },
+  {
+    "wikiId": "Q67175574",
+    "name": "Mushpot Trail",
+    "cat": "hikingTrail",
+    "lon": -121.509578,
+    "lat": 41.714129
+  },
+  {
+    "wikiId": "Q67178685",
+    "name": "Canyon Loop Trail",
+    "cat": "hikingTrail",
+    "lon": -101.082313,
+    "lat": 34.446948
+  },
+  {
+    "wikiId": "Q67186126",
+    "name": "Sunday Gulch Trail",
+    "cat": "hikingTrail",
+    "lon": -103.5704713,
+    "lat": 43.8485963
+  },
+  {
+    "wikiId": "Q67353208",
+    "name": "Nate Avery Loop Trail",
+    "cat": "hikingTrail",
+    "lon": -111.632775,
+    "lat": 35.218261
+  },
+  {
+    "wikiId": "Q67487820",
+    "name": "Step House Trail",
+    "cat": "hikingTrail",
+    "lon": -108.535514916,
+    "lat": 37.197960441
+  },
+  {
+    "wikiId": "Q67500816",
+    "name": "Cedar Point Nature Trail",
+    "cat": "hikingTrail",
+    "lon": -107.72053,
+    "lat": 38.576353
+  },
+  {
+    "wikiId": "Q67565362",
+    "name": "Balanced Rock Loop Trail",
+    "cat": "hikingTrail",
+    "lon": -109.565995,
+    "lat": 38.70174
+  },
+  {
+    "wikiId": "Q69755854",
+    "name": "Obsidian Flow Trail",
+    "cat": "hikingTrail",
+    "lon": -121.235869,
+    "lat": 43.706354
+  },
+  {
+    "wikiId": "Q70345065",
+    "name": "Q70345065",
+    "cat": "hikingTrail",
+    "lon": 8.78187,
+    "lat": 46.19071
+  },
+  {
+    "wikiId": "Q71445723",
+    "name": "Via Alta Idra",
+    "cat": "hikingTrail",
+    "lon": 8.86913,
+    "lat": 46.19707
+  },
+  {
+    "wikiId": "Q72571354",
+    "name": "Rundweg Historischer Halberg",
+    "cat": "hikingTrail",
+    "lon": 7.032178,
+    "lat": 49.220817
+  },
+  {
+    "wikiId": "Q72617576",
+    "name": "Blies-Grenz-Weg",
+    "cat": "hikingTrail",
+    "lon": 7.070444,
+    "lat": 49.13125
+  },
+  {
+    "wikiId": "Q72844442",
+    "name": "Spaziergang Ludwigspark",
+    "cat": "hikingTrail",
+    "lon": 6.98164,
+    "lat": 49.24328
+  },
+  {
+    "wikiId": "Q75296275",
+    "name": "Ensheim Wells Path",
+    "cat": "hikingTrail",
+    "lon": 7.11165,
+    "lat": 49.22992
+  },
+  {
+    "wikiId": "Q78161742",
+    "name": "Frohn-Wald-Weg",
+    "cat": "hikingTrail",
+    "lon": 6.95241,
+    "lat": 49.30424
+  },
+  {
+    "wikiId": "Q78329075",
+    "name": "las piedrotas de Tapalpa",
+    "cat": "hikingTrail",
+    "lon": -103.781055555,
+    "lat": 19.979944444
+  },
+  {
+    "wikiId": "Q78499876",
+    "name": "Litermont-Peak-Tour",
+    "cat": "hikingTrail",
+    "lon": 6.78692,
+    "lat": 49.39916
+  },
+  {
+    "wikiId": "Q78852489",
+    "name": "Q78852489",
+    "cat": "hikingTrail",
+    "lon": 17.981888888,
+    "lat": 59.174513888
+  },
+  {
+    "wikiId": "Q79409180",
+    "name": "Stewarts Cascades Trail",
+    "cat": "hikingTrail",
+    "lon": -111.605333,
+    "lat": 40.404184
+  },
+  {
+    "wikiId": "Q81525086",
+    "name": "Cloef Path",
+    "cat": "hikingTrail",
+    "lon": 6.53456,
+    "lat": 49.50403
+  },
+  {
+    "wikiId": "Q83366714",
+    "name": "Vaubansteig",
+    "cat": "hikingTrail",
+    "lon": 6.67279,
+    "lat": 49.31382
+  },
+  {
+    "wikiId": "Q83703066",
+    "name": "Ölschleifenweg",
+    "cat": "hikingTrail",
+    "lon": 7.06325,
+    "lat": 49.17303
+  },
+  {
+    "wikiId": "Q85309794",
+    "name": "Camino de Candaleria de la Orotava",
+    "cat": "hikingTrail",
+    "lon": -16.511861111,
+    "lat": 28.380333333
+  },
+  {
+    "wikiId": "Q85684828",
+    "name": "Grenzerfahrungsweg Bildein",
+    "cat": "hikingTrail",
+    "lon": 16.466966,
+    "lat": 47.131136
+  },
+  {
+    "wikiId": "Q87111913",
+    "name": "Q87111913",
+    "cat": "hikingTrail",
+    "lon": 4.259338,
+    "lat": 43.7808626
+  },
+  {
+    "wikiId": "Q87805436",
+    "name": "Sandbeach Lake Trail",
+    "cat": "hikingTrail",
+    "lon": -105.534381,
+    "lat": 40.219816
+  },
+  {
+    "wikiId": "Q87837411",
+    "name": "Tundra Communities Trail",
+    "cat": "hikingTrail",
+    "lon": -105.725886412,
+    "lat": 40.413898918
+  },
+  {
+    "wikiId": "Q89781869",
+    "name": "Q89781869",
+    "cat": "hikingTrail",
+    "lon": 50,
+    "lat": 52.132346
+  },
+  {
+    "wikiId": "Q89809174",
+    "name": "Q89809174",
+    "cat": "hikingTrail",
+    "lon": 7.58074,
+    "lat": 52.2725
+  },
+  {
+    "wikiId": "Q89975159",
+    "name": "Hiking in Makhtesh Ramon",
+    "cat": "hikingTrail",
+    "lon": 34.871,
+    "lat": 30.601
+  },
+  {
+    "wikiId": "Q89975603",
+    "name": "Hiking in Makhtesh Ramom",
+    "cat": "hikingTrail",
+    "lon": 34.871,
+    "lat": 30.601
+  },
+  {
+    "wikiId": "Q89978103",
+    "name": "Q89978103",
+    "cat": "hikingTrail",
+    "lon": 6.898513,
+    "lat": 49.530612
+  },
+  {
+    "wikiId": "Q89988334",
+    "name": "Q89988334",
+    "cat": "hikingTrail",
+    "lon": 8.80232,
+    "lat": 52.19727
+  },
+  {
+    "wikiId": "Q92395241",
+    "name": "Kongeåstien",
+    "cat": "hikingTrail",
+    "lon": 8.9866,
+    "lat": 55.4389
+  },
+  {
+    "wikiId": "Q92995892",
+    "name": "Greenlink Rotary Park Trail System",
+    "cat": "hikingTrail",
+    "lon": -60.181944444,
+    "lat": 46.121666666
+  },
+  {
+    "wikiId": "Q94488917",
+    "name": "Canyon Overlook Trail",
+    "cat": "hikingTrail",
+    "lon": -112.9438281,
+    "lat": 37.2160936
+  },
+  {
+    "wikiId": "Q95985234",
+    "name": "Leiterweg",
+    "cat": "hikingTrail",
+    "lon": 9.689444444,
+    "lat": 47.3488
+  },
+  {
+    "wikiId": "Q96051193",
+    "name": "Q96051193",
+    "cat": "hikingTrail",
+    "lon": 18.159861111,
+    "lat": 59.290444444
+  },
+  {
+    "wikiId": "Q96053096",
+    "name": "Half Dome Cables and Trail",
+    "cat": "hikingTrail",
+    "lon": -119.530881,
+    "lat": 37.746322
+  },
+  {
+    "wikiId": "Q96062336",
+    "name": "Fallenkobelweg",
+    "cat": "hikingTrail",
+    "lon": 9.667630555,
+    "lat": 47.342038888
+  },
+  {
+    "wikiId": "Q96246524",
+    "name": "Yuquan Trail",
+    "cat": "hikingTrail",
+    "lon": 121.307019,
+    "lat": 23.337611
+  },
+  {
+    "wikiId": "Q96465054",
+    "name": "Masellaweg",
+    "cat": "hikingTrail",
+    "lon": 9.683211111,
+    "lat": 47.295672222
+  },
+  {
+    "wikiId": "Q96673899",
+    "name": "South Fork (Big Rock) Trail",
+    "cat": "hikingTrail",
+    "lon": -117.82212,
+    "lat": 34.3974
+  },
+  {
+    "wikiId": "Q96761602",
+    "name": "Q96761602",
+    "cat": "hikingTrail",
+    "lon": 17.717194444,
+    "lat": 59.230638888
+  },
+  {
+    "wikiId": "Q96771693",
+    "name": "Grænsestien",
+    "cat": "hikingTrail",
+    "lon": 8.8707,
+    "lat": 55.2772
+  },
+  {
+    "wikiId": "Q96790196",
+    "name": "Riverside Walk",
+    "cat": "hikingTrail",
+    "lon": -112.94679,
+    "lat": 37.291892
+  }
+]
