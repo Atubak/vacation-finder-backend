@@ -1,0 +1,653 @@
+[
+  {
+    "wikiId": "Q96655930",
+    "name": "Q96655930",
+    "cat": "crypt",
+    "lon": 12.7775054,
+    "lat": 43.4871531
+  },
+  {
+    "wikiId": "Q97400338",
+    "name": "Q97400338",
+    "cat": "crypt",
+    "lon": 14.731596334,
+    "lat": 42.044901273
+  },
+  {
+    "wikiId": "Q105958672",
+    "name": "Sant Llorenç crypt",
+    "cat": "crypt",
+    "lon": 2.643527777,
+    "lat": 39.570527777
+  },
+  {
+    "wikiId": "Q106448446",
+    "name": "Cripta di Santa Maria della Palomba",
+    "cat": "crypt",
+    "lon": 16.606175888,
+    "lat": 40.679325805
+  },
+  {
+    "wikiId": "Q107168734",
+    "name": "crypt of Villa Tevere",
+    "cat": "crypt",
+    "lon": 12.483818,
+    "lat": 41.9218805
+  },
+  {
+    "wikiId": "Q110857622",
+    "name": "Crypt of San José",
+    "cat": "crypt",
+    "lon": -0.978616285,
+    "lat": 37.604081502
+  },
+  {
+    "wikiId": "Q111747477",
+    "name": "Q111747477",
+    "cat": "crypt",
+    "lon": 8.82766,
+    "lat": 45.60894
+  },
+  {
+    "wikiId": "Q112095492",
+    "name": "Q112095492",
+    "cat": "crypt",
+    "lon": 18.18669,
+    "lat": 47.86456
+  },
+  {
+    "wikiId": "Q112095962",
+    "name": "Q112095962",
+    "cat": "crypt",
+    "lon": 18.05888,
+    "lat": 48.35269
+  },
+  {
+    "wikiId": "Q112098870",
+    "name": "Q112098870",
+    "cat": "crypt",
+    "lon": 21.45672,
+    "lat": 49.16872
+  },
+  {
+    "wikiId": "Q112099109",
+    "name": "Q112099109",
+    "cat": "crypt",
+    "lon": 22.153394,
+    "lat": 49.141011
+  },
+  {
+    "wikiId": "Q112101634",
+    "name": "Q112101634",
+    "cat": "crypt",
+    "lon": 21.341059,
+    "lat": 48.916302
+  },
+  {
+    "wikiId": "Q112137995",
+    "name": "Q112137995",
+    "cat": "crypt",
+    "lon": 9.157573,
+    "lat": 45.18625
+  },
+  {
+    "wikiId": "Q112818445",
+    "name": "Q112818445",
+    "cat": "crypt",
+    "lon": 9.238476,
+    "lat": 45.68439
+  },
+  {
+    "wikiId": "Q113256661",
+    "name": "Q113256661",
+    "cat": "crypt",
+    "lon": 1.326658,
+    "lat": 49.174646
+  },
+  {
+    "wikiId": "Q167599",
+    "name": "Martyrium of Saint Denis, Montmartre",
+    "cat": "crypt",
+    "lon": 2.3401389,
+    "lat": 48.8840278
+  },
+  {
+    "wikiId": "Q198591",
+    "name": "Crypt of Merit at Skałka",
+    "cat": "crypt",
+    "lon": 19.9377,
+    "lat": 50.0482
+  },
+  {
+    "wikiId": "Q662652",
+    "name": "Imperial Crypt",
+    "cat": "crypt",
+    "lon": 16.369722222,
+    "lat": 48.205555555
+  },
+  {
+    "wikiId": "Q883641",
+    "name": "Bleikeller",
+    "cat": "crypt",
+    "lon": 8.80861,
+    "lat": 53.0753
+  },
+  {
+    "wikiId": "Q1424085",
+    "name": "Royal Crypt of the Royal Monastery of San Lorenzo de El Escorial",
+    "cat": "crypt",
+    "lon": -4.14684444,
+    "lat": 40.58890556
+  },
+  {
+    "wikiId": "Q1638625",
+    "name": "Pantheon of the House of Braganza",
+    "cat": "crypt",
+    "lon": -9.12694444,
+    "lat": 38.71477778
+  },
+  {
+    "wikiId": "Q1717939",
+    "name": "Vatican Grotto",
+    "cat": "crypt",
+    "lon": 12.45333333,
+    "lat": 41.90222222
+  },
+  {
+    "wikiId": "Q1790370",
+    "name": "Crypt of San Antolín, Cathedral of Palencia",
+    "cat": "crypt",
+    "lon": -4.53786111,
+    "lat": 42.01127778
+  },
+  {
+    "wikiId": "Q2160663",
+    "name": "Church of Colònia Güell",
+    "cat": "crypt",
+    "lon": 2.027847,
+    "lat": 41.363797
+  },
+  {
+    "wikiId": "Q2239532",
+    "name": "Royal Crypt",
+    "cat": "crypt",
+    "lon": 4.3553768,
+    "lat": 50.8792226
+  },
+  {
+    "wikiId": "Q2752015",
+    "name": "Sint-Hermescrypte",
+    "cat": "crypt",
+    "lon": 3.599538888,
+    "lat": 50.748983333
+  },
+  {
+    "wikiId": "Q2974823",
+    "name": "sanctuary of Rocamadour",
+    "cat": "crypt",
+    "lon": 1.6177,
+    "lat": 44.7994
+  },
+  {
+    "wikiId": "Q3005755",
+    "name": "Q3005755",
+    "cat": "crypt",
+    "lon": 1.06025,
+    "lat": 46.628424
+  },
+  {
+    "wikiId": "Q3005759",
+    "name": "Crypte Saint-Girons",
+    "cat": "crypt",
+    "lon": -0.601722222,
+    "lat": 43.660277777
+  },
+  {
+    "wikiId": "Q3005760",
+    "name": "Archeological crypt of the île de la Cité",
+    "cat": "crypt",
+    "lon": 2.3475,
+    "lat": 48.853611111
+  },
+  {
+    "wikiId": "Q3005764",
+    "name": "Cathedral (Siena) - Crypt",
+    "cat": "crypt",
+    "lon": 11.3292,
+    "lat": 43.3178
+  },
+  {
+    "wikiId": "Q3517676",
+    "name": "Temple gallo-romain de Dax",
+    "cat": "crypt",
+    "lon": -1.05222,
+    "lat": 43.7097
+  },
+  {
+    "wikiId": "Q3585401",
+    "name": "Sant'Eusebio",
+    "cat": "crypt",
+    "lon": 9.15722222,
+    "lat": 45.18666667
+  },
+  {
+    "wikiId": "Q3697246",
+    "name": "Cripta del Crocifisso",
+    "cat": "crypt",
+    "lon": 18.159625938,
+    "lat": 39.939934008
+  },
+  {
+    "wikiId": "Q3697247",
+    "name": "Cripta della Madonna del Gonfalone",
+    "cat": "crypt",
+    "lon": 18.338029792,
+    "lat": 39.924096158
+  },
+  {
+    "wikiId": "Q3697248",
+    "name": "Madonna della Grotta",
+    "cat": "crypt",
+    "lon": 18.387462776,
+    "lat": 40.034526371
+  },
+  {
+    "wikiId": "Q3697251",
+    "name": "Q3697251",
+    "cat": "crypt",
+    "lon": 9.11111111,
+    "lat": 39.21555556
+  },
+  {
+    "wikiId": "Q3697252",
+    "name": "Cripta di Sant'Emidio",
+    "cat": "crypt",
+    "lon": 13.57907,
+    "lat": 42.85352
+  },
+  {
+    "wikiId": "Q3785350",
+    "name": "Herzgruft",
+    "cat": "crypt",
+    "lon": 16.36722222,
+    "lat": 48.20572222
+  },
+  {
+    "wikiId": "Q5790996",
+    "name": "Cripta de Santa Leocadia",
+    "cat": "crypt",
+    "lon": -5.84280833,
+    "lat": 43.36240278
+  },
+  {
+    "wikiId": "Q7589531",
+    "name": "St. Leonard's Crypt",
+    "cat": "crypt",
+    "lon": 19.935741666,
+    "lat": 50.054669444
+  },
+  {
+    "wikiId": "Q11748568",
+    "name": "National Bards crypt of the Wawel",
+    "cat": "crypt",
+    "lon": 19.935608,
+    "lat": 50.054731
+  },
+  {
+    "wikiId": "Q11748578",
+    "name": "Crypt of Christ Church, Spitalfields",
+    "cat": "crypt",
+    "lon": -0.074181,
+    "lat": 51.5191
+  },
+  {
+    "wikiId": "Q11916088",
+    "name": "Cripta Arqueològica de Sant Vicent Màrtir",
+    "cat": "crypt",
+    "lon": -0.375089,
+    "lat": 39.475764
+  },
+  {
+    "wikiId": "Q15228576",
+    "name": "Imperial Crypt (Farnborough)",
+    "cat": "crypt",
+    "lon": -0.7495,
+    "lat": 51.2971
+  },
+  {
+    "wikiId": "Q16516714",
+    "name": "Crypt of Wachtler Family",
+    "cat": "crypt",
+    "lon": 17.121119,
+    "lat": 48.148689
+  },
+  {
+    "wikiId": "Q16562072",
+    "name": "Grotta di San Cleto",
+    "cat": "crypt",
+    "lon": 16.486074,
+    "lat": 41.117644
+  },
+  {
+    "wikiId": "Q16854089",
+    "name": "Palatinal Crypt",
+    "cat": "crypt",
+    "lon": 19.03967,
+    "lat": 47.49628
+  },
+  {
+    "wikiId": "Q17742145",
+    "name": "The Crypt",
+    "cat": "crypt",
+    "lon": -4.97133,
+    "lat": 51.8011
+  },
+  {
+    "wikiId": "Q20009652",
+    "name": "Q20009652",
+    "cat": "crypt",
+    "lon": 17.700364,
+    "lat": 40.587011
+  },
+  {
+    "wikiId": "Q20080833",
+    "name": "église d'Hubert Charpentier, crypte et pierre tombale du mont Valérien",
+    "cat": "crypt",
+    "lon": 2.218096,
+    "lat": 48.870922
+  },
+  {
+    "wikiId": "Q20649520",
+    "name": "Vault of Governors",
+    "cat": "crypt",
+    "lon": 2.312584,
+    "lat": 48.855522
+  },
+  {
+    "wikiId": "Q20788974",
+    "name": "Crypte Saint-Paul",
+    "cat": "crypt",
+    "lon": 3.13194,
+    "lat": 48.92667
+  },
+  {
+    "wikiId": "Q22940364",
+    "name": "Q22940364",
+    "cat": "crypt",
+    "lon": 2.40275,
+    "lat": 47.07803
+  },
+  {
+    "wikiId": "Q22942723",
+    "name": "Q22942723",
+    "cat": "crypt",
+    "lon": 1.312396,
+    "lat": 47.580807
+  },
+  {
+    "wikiId": "Q22944203",
+    "name": "Crypte Saint-Avit, Orléans",
+    "cat": "crypt",
+    "lon": 1.912041,
+    "lat": 47.903287
+  },
+  {
+    "wikiId": "Q22953711",
+    "name": "Q22953711",
+    "cat": "crypt",
+    "lon": 4.415657,
+    "lat": 44.021039
+  },
+  {
+    "wikiId": "Q22959654",
+    "name": "Immeuble, 27 rue de la Paix",
+    "cat": "crypt",
+    "lon": 5.37799,
+    "lat": 49.16239
+  },
+  {
+    "wikiId": "Q22961801",
+    "name": "Q22961801",
+    "cat": "crypt",
+    "lon": 1.848911,
+    "lat": 50.958977
+  },
+  {
+    "wikiId": "Q22966003",
+    "name": "Q22966003",
+    "cat": "crypt",
+    "lon": 3.566812276,
+    "lat": 47.797603896
+  },
+  {
+    "wikiId": "Q23067910",
+    "name": "Q23067910",
+    "cat": "crypt",
+    "lon": -70.653374,
+    "lat": -33.445431
+  },
+  {
+    "wikiId": "Q23899645",
+    "name": "Q23899645",
+    "cat": "crypt",
+    "lon": 1.637189,
+    "lat": 44.823556
+  },
+  {
+    "wikiId": "Q24471887",
+    "name": "Crypts of Sint-Servaasbasiliek",
+    "cat": "crypt",
+    "lon": 5.68746389,
+    "lat": 50.84881667
+  },
+  {
+    "wikiId": "Q27478865",
+    "name": "Q27478865",
+    "cat": "crypt",
+    "lon": 7.441009,
+    "lat": 53.22906
+  },
+  {
+    "wikiId": "Q27987481",
+    "name": "San Giuseppe's church and Crypt",
+    "cat": "crypt",
+    "lon": 15.12385,
+    "lat": 37.8803
+  },
+  {
+    "wikiId": "Q28503398",
+    "name": "Crypt of church of Santa María de Roncesvalles",
+    "cat": "crypt",
+    "lon": -1.319153,
+    "lat": 43.009601
+  },
+  {
+    "wikiId": "Q29905120",
+    "name": "Cripta rupestre Cantina Spagnola",
+    "cat": "crypt",
+    "lon": 16.7920013,
+    "lat": 40.6229781
+  },
+  {
+    "wikiId": "Q29905121",
+    "name": "Cripta Madonna Odegitria",
+    "cat": "crypt",
+    "lon": 17.338,
+    "lat": 40.71466
+  },
+  {
+    "wikiId": "Q29905124",
+    "name": "Santa Margherita",
+    "cat": "crypt",
+    "lon": 15.653888,
+    "lat": 40.986146
+  },
+  {
+    "wikiId": "Q29905127",
+    "name": "Q29905127",
+    "cat": "crypt",
+    "lon": 15.647673672,
+    "lat": 40.99769551
+  },
+  {
+    "wikiId": "Q29905130",
+    "name": "Cripta normanna",
+    "cat": "crypt",
+    "lon": 16.1175,
+    "lat": 39.559
+  },
+  {
+    "wikiId": "Q35976067",
+    "name": "Cripta Rasponi",
+    "cat": "crypt",
+    "lon": 12.2007,
+    "lat": 44.415694
+  },
+  {
+    "wikiId": "Q36790222",
+    "name": "Q36790222",
+    "cat": "crypt",
+    "lon": 5.907417,
+    "lat": 45.583796
+  },
+  {
+    "wikiId": "Q36988313",
+    "name": "Crypt of Saint-Léger",
+    "cat": "crypt",
+    "lon": 7.23827,
+    "lat": 45.69971
+  },
+  {
+    "wikiId": "Q41368824",
+    "name": "Ehemalige Krypta",
+    "cat": "crypt",
+    "lon": 10.62749,
+    "lat": 49.3558
+  },
+  {
+    "wikiId": "Q54943539",
+    "name": "Pantheon of Kings of San Juan de la Peña",
+    "cat": "crypt",
+    "lon": -0.672892,
+    "lat": 42.507804
+  },
+  {
+    "wikiId": "Q54969906",
+    "name": "Crypt of the Cathedral-Basilica of Our Lady of the Pillar of Zaragoza",
+    "cat": "crypt",
+    "lon": -0.87818,
+    "lat": 41.656627
+  },
+  {
+    "wikiId": "Q55449847",
+    "name": "Q55449847",
+    "cat": "crypt",
+    "lon": -0.127747,
+    "lat": 42.002228
+  },
+  {
+    "wikiId": "Q56042469",
+    "name": "Crypt of Cathédrale Notre-Dame-du-Bourg de Digne",
+    "cat": "crypt",
+    "lon": 6.24242,
+    "lat": 44.09721
+  },
+  {
+    "wikiId": "Q56146455",
+    "name": "Cripta de la Catedral de Alcalá de Henares",
+    "cat": "crypt",
+    "lon": -3.368749,
+    "lat": 40.480628
+  },
+  {
+    "wikiId": "Q56146516",
+    "name": "Pantheon of the Dukes of Infantado",
+    "cat": "crypt",
+    "lon": -3.15861,
+    "lat": 40.63222
+  },
+  {
+    "wikiId": "Q56604949",
+    "name": "Q56604949",
+    "cat": "crypt",
+    "lon": 9.30545,
+    "lat": 46.14106
+  },
+  {
+    "wikiId": "Q56682432",
+    "name": "crypte Saint-Amadour",
+    "cat": "crypt",
+    "lon": 1.6177,
+    "lat": 44.7995
+  },
+  {
+    "wikiId": "Q57695092",
+    "name": "Crypt of the Basilica of St. Procopius, Trebic",
+    "cat": "crypt",
+    "lon": 15.8732567,
+    "lat": 49.216885
+  },
+  {
+    "wikiId": "Q60147235",
+    "name": "Saints Roch and Sebastian Chapel, Paks",
+    "cat": "crypt",
+    "lon": 18.8756505,
+    "lat": 46.6345017
+  },
+  {
+    "wikiId": "Q60840620",
+    "name": "Mussolini Family Crypt",
+    "cat": "crypt",
+    "lon": 11.979087,
+    "lat": 44.090486
+  },
+  {
+    "wikiId": "Q66363292",
+    "name": "Churches in Ruffano",
+    "cat": "crypt",
+    "lon": 18.1960567,
+    "lat": 39.9942239
+  },
+  {
+    "wikiId": "Q66813755",
+    "name": "Conjunto da Igreja e cripta de São João de Deus",
+    "cat": "crypt",
+    "lon": -8.215882301,
+    "lat": 38.645683288
+  },
+  {
+    "wikiId": "Q67202800",
+    "name": "Cripta dei Vescovi",
+    "cat": "crypt",
+    "lon": 8.422671,
+    "lat": 45.330354
+  },
+  {
+    "wikiId": "Q75722571",
+    "name": "Tomb of Francisco Pizarro",
+    "cat": "crypt",
+    "lon": -77.030277777,
+    "lat": -12.046111111
+  },
+  {
+    "wikiId": "Q84703734",
+    "name": "Crypte du chevalier Firmin van Bree",
+    "cat": "crypt",
+    "lon": -1.660054,
+    "lat": 43.401787
+  },
+  {
+    "wikiId": "Q90310605",
+    "name": "Siloah-Krypta",
+    "cat": "crypt",
+    "lon": 10.569913,
+    "lat": 50.9656382
+  },
+  {
+    "wikiId": "Q96439720",
+    "name": "San Salvatore",
+    "cat": "crypt",
+    "lon": 18.4311,
+    "lat": 40.122
+  }
+]

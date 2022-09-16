@@ -1,0 +1,7149 @@
+[
+  {
+    "wikiId": "Q25589",
+    "name": "Kremlin in Izmailovo",
+    "cat": "amusementPark",
+    "lon": 37.75027778,
+    "lat": 55.79472222
+  },
+  {
+    "wikiId": "Q40677",
+    "name": "Deltapark Neeltje Jans",
+    "cat": "amusementPark",
+    "lon": 3.71342,
+    "lat": 51.63738
+  },
+  {
+    "wikiId": "Q44041",
+    "name": "Belmont Park",
+    "cat": "amusementPark",
+    "lon": -117.252,
+    "lat": 32.7714
+  },
+  {
+    "wikiId": "Q44043",
+    "name": "Adventure City",
+    "cat": "amusementPark",
+    "lon": -117.99234,
+    "lat": 33.815194
+  },
+  {
+    "wikiId": "Q59344",
+    "name": "Pyongyang Folklore Park",
+    "cat": "amusementPark",
+    "lon": 125.825,
+    "lat": 39.06
+  },
+  {
+    "wikiId": "Q74498",
+    "name": "Plopsa Indoor Coevorden",
+    "cat": "amusementPark",
+    "lon": 6.773883,
+    "lat": 52.678646
+  },
+  {
+    "wikiId": "Q110289",
+    "name": "Tivoli Gardens",
+    "cat": "amusementPark",
+    "lon": 12.568333333,
+    "lat": 55.673611111
+  },
+  {
+    "wikiId": "Q125316",
+    "name": "Fårup Summer Park",
+    "cat": "amusementPark",
+    "lon": 9.64777778,
+    "lat": 57.27055556
+  },
+  {
+    "wikiId": "Q126877",
+    "name": "Gorky Park",
+    "cat": "amusementPark",
+    "lon": 37.603197222,
+    "lat": 55.731169444
+  },
+  {
+    "wikiId": "Q130170",
+    "name": "Eram amusement Park",
+    "cat": "amusementPark",
+    "lon": 51.292656,
+    "lat": 35.721431
+  },
+  {
+    "wikiId": "Q135379",
+    "name": "Santa Claus Village",
+    "cat": "amusementPark",
+    "lon": 25.889444444,
+    "lat": 66.550555555
+  },
+  {
+    "wikiId": "Q138475",
+    "name": "Conny-Land",
+    "cat": "amusementPark",
+    "lon": 9.05666667,
+    "lat": 47.61416667
+  },
+  {
+    "wikiId": "Q159144",
+    "name": "Europa-Park",
+    "cat": "amusementPark",
+    "lon": 7.720833,
+    "lat": 48.268333
+  },
+  {
+    "wikiId": "Q168754",
+    "name": "Space World",
+    "cat": "amusementPark",
+    "lon": 130.81215,
+    "lat": 33.87352
+  },
+  {
+    "wikiId": "Q169442",
+    "name": "Adventure Island",
+    "cat": "amusementPark",
+    "lon": 0.715833,
+    "lat": 51.5325
+  },
+  {
+    "wikiId": "Q180878",
+    "name": "Mirabilandia",
+    "cat": "amusementPark",
+    "lon": 12.263333,
+    "lat": 44.337222
+  },
+  {
+    "wikiId": "Q181016",
+    "name": "Jungfrau Park",
+    "cat": "amusementPark",
+    "lon": 7.888056,
+    "lat": 46.682222
+  },
+  {
+    "wikiId": "Q200856",
+    "name": "Wild Wadi Water Park",
+    "cat": "amusementPark",
+    "lon": 55.189166666,
+    "lat": 25.139444444
+  },
+  {
+    "wikiId": "Q206521",
+    "name": "Disneyland Paris",
+    "cat": "amusementPark",
+    "lon": 2.7818,
+    "lat": 48.868719444
+  },
+  {
+    "wikiId": "Q258524",
+    "name": "Walibi Rhône-Alpes",
+    "cat": "amusementPark",
+    "lon": 5.57027778,
+    "lat": 45.62138889
+  },
+  {
+    "wikiId": "Q260304",
+    "name": "Gröna Lund",
+    "cat": "amusementPark",
+    "lon": 18.096111111,
+    "lat": 59.323055555
+  },
+  {
+    "wikiId": "Q261618",
+    "name": "Six Flags St. Louis",
+    "cat": "amusementPark",
+    "lon": -90.67505,
+    "lat": 38.512806
+  },
+  {
+    "wikiId": "Q288325",
+    "name": "uShaka Marine World",
+    "cat": "amusementPark",
+    "lon": 31.04333333,
+    "lat": -29.86666667
+  },
+  {
+    "wikiId": "Q296768",
+    "name": "Öland Zoo and Amusement Park",
+    "cat": "amusementPark",
+    "lon": 16.490277777,
+    "lat": 56.670555555
+  },
+  {
+    "wikiId": "Q302897",
+    "name": "Hirakata Park",
+    "cat": "amusementPark",
+    "lon": 135.63813056,
+    "lat": 34.80577778
+  },
+  {
+    "wikiId": "Q314045",
+    "name": "Spreepark",
+    "cat": "amusementPark",
+    "lon": 13.4878,
+    "lat": 52.4858
+  },
+  {
+    "wikiId": "Q314414",
+    "name": "Movie Park Germany",
+    "cat": "amusementPark",
+    "lon": 6.9725,
+    "lat": 51.62
+  },
+  {
+    "wikiId": "Q369789",
+    "name": "Kentucky Kingdom",
+    "cat": "amusementPark",
+    "lon": -85.7472,
+    "lat": 38.1954
+  },
+  {
+    "wikiId": "Q377592",
+    "name": "Parc Astérix",
+    "cat": "amusementPark",
+    "lon": 2.571666666,
+    "lat": 49.135277777
+  },
+  {
+    "wikiId": "Q379978",
+    "name": "Adventuredome",
+    "cat": "amusementPark",
+    "lon": -115.166,
+    "lat": 36.1378
+  },
+  {
+    "wikiId": "Q391162",
+    "name": "Walibi Holland",
+    "cat": "amusementPark",
+    "lon": 5.7625,
+    "lat": 52.44
+  },
+  {
+    "wikiId": "Q423559",
+    "name": "Toshimaen",
+    "cat": "amusementPark",
+    "lon": 139.64527778,
+    "lat": 35.745
+  },
+  {
+    "wikiId": "Q432237",
+    "name": "Six Flags AstroWorld",
+    "cat": "amusementPark",
+    "lon": -95.4074,
+    "lat": 29.6755
+  },
+  {
+    "wikiId": "Q441647",
+    "name": "Galaxyland",
+    "cat": "amusementPark",
+    "lon": -113.621,
+    "lat": 53.5236
+  },
+  {
+    "wikiId": "Q442538",
+    "name": "Wunderland Kalkar",
+    "cat": "amusementPark",
+    "lon": 6.32611,
+    "lat": 51.76417
+  },
+  {
+    "wikiId": "Q443909",
+    "name": "Alton Towers Resort",
+    "cat": "amusementPark",
+    "lon": -1.8925,
+    "lat": 52.990555555
+  },
+  {
+    "wikiId": "Q464445",
+    "name": "Canevaworld",
+    "cat": "amusementPark",
+    "lon": 10.72639,
+    "lat": 45.47806
+  },
+  {
+    "wikiId": "Q483663",
+    "name": "Seoul Land",
+    "cat": "amusementPark",
+    "lon": 127.019975,
+    "lat": 37.43421389
+  },
+  {
+    "wikiId": "Q489313",
+    "name": "Walibi Belgium",
+    "cat": "amusementPark",
+    "lon": 4.590555555,
+    "lat": 50.698611111
+  },
+  {
+    "wikiId": "Q494668",
+    "name": "Lotte World",
+    "cat": "amusementPark",
+    "lon": 127.09811111,
+    "lat": 37.51119444
+  },
+  {
+    "wikiId": "Q494673",
+    "name": "Everland Resort",
+    "cat": "amusementPark",
+    "lon": 127.20445278,
+    "lat": 37.29517778
+  },
+  {
+    "wikiId": "Q496893",
+    "name": "Dyrehavsbakken",
+    "cat": "amusementPark",
+    "lon": 12.5739,
+    "lat": 55.7761
+  },
+  {
+    "wikiId": "Q509529",
+    "name": "MagicLand",
+    "cat": "amusementPark",
+    "lon": 12.95605833,
+    "lat": 41.76528611
+  },
+  {
+    "wikiId": "Q510648",
+    "name": "Beto Carrero World",
+    "cat": "amusementPark",
+    "lon": -48.61389,
+    "lat": -26.801725
+  },
+  {
+    "wikiId": "Q520675",
+    "name": "Erlebnispark Tripsdrill",
+    "cat": "amusementPark",
+    "lon": 9.0525,
+    "lat": 49.0353
+  },
+  {
+    "wikiId": "Q530744",
+    "name": "Dollywood",
+    "cat": "amusementPark",
+    "lon": -83.5312,
+    "lat": 35.7951
+  },
+  {
+    "wikiId": "Q564646",
+    "name": "Tokyo Dome City Attractions",
+    "cat": "amusementPark",
+    "lon": 139.754,
+    "lat": 35.7053
+  },
+  {
+    "wikiId": "Q565945",
+    "name": "Holiday Park",
+    "cat": "amusementPark",
+    "lon": 8.29472,
+    "lat": 49.3197
+  },
+  {
+    "wikiId": "Q571557",
+    "name": "Hansa Park",
+    "cat": "amusementPark",
+    "lon": 10.7802,
+    "lat": 54.0755
+  },
+  {
+    "wikiId": "Q578703",
+    "name": "Blackpool Pleasure Beach",
+    "cat": "amusementPark",
+    "lon": -3.05556,
+    "lat": 53.7903
+  },
+  {
+    "wikiId": "Q587612",
+    "name": "Parque de Atracciones de Madrid",
+    "cat": "amusementPark",
+    "lon": -3.75083333,
+    "lat": 40.41277778
+  },
+  {
+    "wikiId": "Q593464",
+    "name": "Djurs Sommerland",
+    "cat": "amusementPark",
+    "lon": 10.54992199,
+    "lat": 56.42478475
+  },
+  {
+    "wikiId": "Q595439",
+    "name": "Santa Monica Pier",
+    "cat": "amusementPark",
+    "lon": -118.498611111,
+    "lat": 34.008611111
+  },
+  {
+    "wikiId": "Q611275",
+    "name": "Six Flags Great America",
+    "cat": "amusementPark",
+    "lon": -87.934722222,
+    "lat": 42.368694444
+  },
+  {
+    "wikiId": "Q643201",
+    "name": "Duinrell",
+    "cat": "amusementPark",
+    "lon": 4.381111,
+    "lat": 52.146667
+  },
+  {
+    "wikiId": "Q646122",
+    "name": "Legoland Florida",
+    "cat": "amusementPark",
+    "lon": -81.6899,
+    "lat": 27.9892
+  },
+  {
+    "wikiId": "Q648192",
+    "name": "Six Flags New Orleans",
+    "cat": "amusementPark",
+    "lon": -89.934417,
+    "lat": 30.051111
+  },
+  {
+    "wikiId": "Q667541",
+    "name": "Mirapolis",
+    "cat": "amusementPark",
+    "lon": 1.99916667,
+    "lat": 49.055
+  },
+  {
+    "wikiId": "Q673656",
+    "name": "Ferrari World Abu Dhabi",
+    "cat": "amusementPark",
+    "lon": 54.60704,
+    "lat": 24.48366
+  },
+  {
+    "wikiId": "Q685790",
+    "name": "Taman Mini Indonesia Indah",
+    "cat": "amusementPark",
+    "lon": 106.896667,
+    "lat": -6.301667
+  },
+  {
+    "wikiId": "Q702179",
+    "name": "Heide Park",
+    "cat": "amusementPark",
+    "lon": 9.879,
+    "lat": 53.0253
+  },
+  {
+    "wikiId": "Q723078",
+    "name": "Vidám Park",
+    "cat": "amusementPark",
+    "lon": 19.08284,
+    "lat": 47.51979
+  },
+  {
+    "wikiId": "Q729566",
+    "name": "Q729566",
+    "cat": "amusementPark",
+    "lon": 5.19186,
+    "lat": 52.30544
+  },
+  {
+    "wikiId": "Q733234",
+    "name": "Efteling",
+    "cat": "amusementPark",
+    "lon": 5.048055555,
+    "lat": 51.650277777
+  },
+  {
+    "wikiId": "Q741612",
+    "name": "Steeplechase Park",
+    "cat": "amusementPark",
+    "lon": -73.980555555,
+    "lat": 40.574166666
+  },
+  {
+    "wikiId": "Q744161",
+    "name": "Bayern Park",
+    "cat": "amusementPark",
+    "lon": 12.6356,
+    "lat": 48.5306
+  },
+  {
+    "wikiId": "Q747322",
+    "name": "Madurodam",
+    "cat": "amusementPark",
+    "lon": 4.297558,
+    "lat": 52.099403
+  },
+  {
+    "wikiId": "Q758228",
+    "name": "Attractiepark Slagharen",
+    "cat": "amusementPark",
+    "lon": 6.561944,
+    "lat": 52.624444
+  },
+  {
+    "wikiId": "Q764906",
+    "name": "Walt Disney Studios Park",
+    "cat": "amusementPark",
+    "lon": 2.779008333,
+    "lat": 48.8673
+  },
+  {
+    "wikiId": "Q781609",
+    "name": "The Warner Bros",
+    "cat": "amusementPark",
+    "lon": -3.59429419,
+    "lat": 40.23170824
+  },
+  {
+    "wikiId": "Q787902",
+    "name": "Dubailand",
+    "cat": "amusementPark",
+    "lon": 55.36388889,
+    "lat": 25.075
+  },
+  {
+    "wikiId": "Q804685",
+    "name": "Balboa Fun Zone",
+    "cat": "amusementPark",
+    "lon": -117.899,
+    "lat": 33.6028
+  },
+  {
+    "wikiId": "Q811594",
+    "name": "Baumkronenweg Kopfing",
+    "cat": "amusementPark",
+    "lon": 13.6744,
+    "lat": 48.4486
+  },
+  {
+    "wikiId": "Q814725",
+    "name": "Beijing Shijingshan Amusement Park",
+    "cat": "amusementPark",
+    "lon": 116.2028,
+    "lat": 39.9109
+  },
+  {
+    "wikiId": "Q815261",
+    "name": "Belantis",
+    "cat": "amusementPark",
+    "lon": 12.3153,
+    "lat": 51.2518
+  },
+  {
+    "wikiId": "Q819530",
+    "name": "Phantasialand",
+    "cat": "amusementPark",
+    "lon": 6.879444444,
+    "lat": 50.8
+  },
+  {
+    "wikiId": "Q829491",
+    "name": "Luna Park",
+    "cat": "amusementPark",
+    "lon": 12.321,
+    "lat": 51.37
+  },
+  {
+    "wikiId": "Q845460",
+    "name": "CavallinoMatto",
+    "cat": "amusementPark",
+    "lon": 10.54861111,
+    "lat": 43.18138889
+  },
+  {
+    "wikiId": "Q846548",
+    "name": "Six Flags New England",
+    "cat": "amusementPark",
+    "lon": -72.6157,
+    "lat": 42.0377
+  },
+  {
+    "wikiId": "Q855246",
+    "name": "Happy Valley Shanghai",
+    "cat": "amusementPark",
+    "lon": 121.213778,
+    "lat": 31.098319
+  },
+  {
+    "wikiId": "Q859230",
+    "name": "Cedar Point",
+    "cat": "amusementPark",
+    "lon": -82.681818,
+    "lat": 41.480033
+  },
+  {
+    "wikiId": "Q863153",
+    "name": "Yokohama Hakkeijima Sea Paradise",
+    "cat": "amusementPark",
+    "lon": 139.647333333,
+    "lat": 35.337441666
+  },
+  {
+    "wikiId": "Q863180",
+    "name": "Hanayashiki",
+    "cat": "amusementPark",
+    "lon": 139.794688888,
+    "lat": 35.715497222
+  },
+  {
+    "wikiId": "Q864499",
+    "name": "Shin-Yokohama Raumen Museum",
+    "cat": "amusementPark",
+    "lon": 139.614537,
+    "lat": 35.509874
+  },
+  {
+    "wikiId": "Q878022",
+    "name": "Fort Fun Abenteuerland",
+    "cat": "amusementPark",
+    "lon": 8.4375,
+    "lat": 51.3086
+  },
+  {
+    "wikiId": "Q879469",
+    "name": "Luna Park",
+    "cat": "amusementPark",
+    "lon": 13.282777777,
+    "lat": 52.496944444
+  },
+  {
+    "wikiId": "Q880597",
+    "name": "Schloss Beck",
+    "cat": "amusementPark",
+    "lon": 6.97806,
+    "lat": 51.6133
+  },
+  {
+    "wikiId": "Q880839",
+    "name": "Blackgang Chine",
+    "cat": "amusementPark",
+    "lon": -1.315833333,
+    "lat": 50.583888888
+  },
+  {
+    "wikiId": "Q888402",
+    "name": "Bobbejaanland",
+    "cat": "amusementPark",
+    "lon": 4.905,
+    "lat": 51.201111111
+  },
+  {
+    "wikiId": "Q892017",
+    "name": "BonBon-Land",
+    "cat": "amusementPark",
+    "lon": 11.86333333,
+    "lat": 55.26055556
+  },
+  {
+    "wikiId": "Q895689",
+    "name": "Centro-Park",
+    "cat": "amusementPark",
+    "lon": 6.87667,
+    "lat": 51.4917
+  },
+  {
+    "wikiId": "Q903812",
+    "name": "Astroland",
+    "cat": "amusementPark",
+    "lon": -73.9792,
+    "lat": 40.5743
+  },
+  {
+    "wikiId": "Q924944",
+    "name": "Luna Park",
+    "cat": "amusementPark",
+    "lon": -73.9785,
+    "lat": 40.574
+  },
+  {
+    "wikiId": "Q931256",
+    "name": "Parque de la Costa",
+    "cat": "amusementPark",
+    "lon": -58.57625,
+    "lat": -34.41819444
+  },
+  {
+    "wikiId": "Q940673",
+    "name": "Canada's Wonderland",
+    "cat": "amusementPark",
+    "lon": -79.541944444,
+    "lat": 43.842544444
+  },
+  {
+    "wikiId": "Q942719",
+    "name": "Ghost Town in the Sky",
+    "cat": "amusementPark",
+    "lon": -83.102378,
+    "lat": 35.528769
+  },
+  {
+    "wikiId": "Q947775",
+    "name": "Schwaben Park",
+    "cat": "amusementPark",
+    "lon": 9.65639,
+    "lat": 48.9022
+  },
+  {
+    "wikiId": "Q950545",
+    "name": "Fraispertuis City",
+    "cat": "amusementPark",
+    "lon": 6.728562,
+    "lat": 48.323993
+  },
+  {
+    "wikiId": "Q953752",
+    "name": "Kings Island",
+    "cat": "amusementPark",
+    "lon": -84.2725,
+    "lat": 39.3413
+  },
+  {
+    "wikiId": "Q961917",
+    "name": "Särkänniemi",
+    "cat": "amusementPark",
+    "lon": 23.743888888,
+    "lat": 61.505277777
+  },
+  {
+    "wikiId": "Q971808",
+    "name": "Plopsa Indoor Hasselt",
+    "cat": "amusementPark",
+    "lon": 5.361667,
+    "lat": 50.934167
+  },
+  {
+    "wikiId": "Q987756",
+    "name": "California's Great America",
+    "cat": "amusementPark",
+    "lon": -121.972,
+    "lat": 37.3959
+  },
+  {
+    "wikiId": "Q994229",
+    "name": "Bruparck",
+    "cat": "amusementPark",
+    "lon": 4.339251,
+    "lat": 50.895035
+  },
+  {
+    "wikiId": "Q1016030",
+    "name": "Siam Park City",
+    "cat": "amusementPark",
+    "lon": 100.697229,
+    "lat": 13.805242
+  },
+  {
+    "wikiId": "Q1030352",
+    "name": "Zoo Gyöngyös",
+    "cat": "amusementPark",
+    "lon": 19.9127672,
+    "lat": 47.7906144
+  },
+  {
+    "wikiId": "Q1046970",
+    "name": "Yomiuriland",
+    "cat": "amusementPark",
+    "lon": 139.519,
+    "lat": 35.6258
+  },
+  {
+    "wikiId": "Q1089931",
+    "name": "Q1089931",
+    "cat": "amusementPark",
+    "lon": 12.639,
+    "lat": 49.1699
+  },
+  {
+    "wikiId": "Q1132664",
+    "name": "La Ronde",
+    "cat": "amusementPark",
+    "lon": -73.535,
+    "lat": 45.5225
+  },
+  {
+    "wikiId": "Q1135517",
+    "name": "Universal Studios Dubailand",
+    "cat": "amusementPark",
+    "lon": 55.3833,
+    "lat": 25.0592
+  },
+  {
+    "wikiId": "Q1138985",
+    "name": "Tibidabo",
+    "cat": "amusementPark",
+    "lon": 2.120044,
+    "lat": 41.421751
+  },
+  {
+    "wikiId": "Q1139847",
+    "name": "Nara Dreamland",
+    "cat": "amusementPark",
+    "lon": 135.82416667,
+    "lat": 34.7
+  },
+  {
+    "wikiId": "Q1144922",
+    "name": "Gardaland",
+    "cat": "amusementPark",
+    "lon": 10.71083,
+    "lat": 45.45722
+  },
+  {
+    "wikiId": "Q1148373",
+    "name": "Dinosaur Land",
+    "cat": "amusementPark",
+    "lon": 13.5254,
+    "lat": 54.5636
+  },
+  {
+    "wikiId": "Q1186714",
+    "name": "Universal Studios Singapore",
+    "cat": "amusementPark",
+    "lon": 103.821666666,
+    "lat": 1.255
+  },
+  {
+    "wikiId": "Q1191845",
+    "name": "Huis Ten Bosch",
+    "cat": "amusementPark",
+    "lon": 129.786889,
+    "lat": 33.0865
+  },
+  {
+    "wikiId": "Q1192174",
+    "name": "Fuji-Q Highland",
+    "cat": "amusementPark",
+    "lon": 138.78019,
+    "lat": 35.48749
+  },
+  {
+    "wikiId": "Q1207585",
+    "name": "Knott's Berry Farm",
+    "cat": "amusementPark",
+    "lon": -118.000267,
+    "lat": 33.844178
+  },
+  {
+    "wikiId": "Q1228570",
+    "name": "Discovery Cove",
+    "cat": "amusementPark",
+    "lon": -81.4617,
+    "lat": 28.4054
+  },
+  {
+    "wikiId": "Q1256152",
+    "name": "Dream Park",
+    "cat": "amusementPark",
+    "lon": -16.71916767,
+    "lat": 13.44650021
+  },
+  {
+    "wikiId": "Q1256280",
+    "name": "Dreamworld",
+    "cat": "amusementPark",
+    "lon": 153.316,
+    "lat": -27.864
+  },
+  {
+    "wikiId": "Q1265654",
+    "name": "Kurpfalz-Park",
+    "cat": "amusementPark",
+    "lon": 8.1052,
+    "lat": 49.4134
+  },
+  {
+    "wikiId": "Q1325056",
+    "name": "Elbauenpark",
+    "cat": "amusementPark",
+    "lon": 11.669,
+    "lat": 52.1349
+  },
+  {
+    "wikiId": "Q1350068",
+    "name": "Eins-und-Alles Welzheim",
+    "cat": "amusementPark",
+    "lon": 9.60675,
+    "lat": 48.8819
+  },
+  {
+    "wikiId": "Q1355392",
+    "name": "Erlebnispark Anderswelt",
+    "cat": "amusementPark",
+    "lon": 15.1167,
+    "lat": 48.8833
+  },
+  {
+    "wikiId": "Q1355398",
+    "name": "Erlebnispark Schloss Thurn",
+    "cat": "amusementPark",
+    "lon": 10.9992,
+    "lat": 49.6852
+  },
+  {
+    "wikiId": "Q1355404",
+    "name": "Q1355404",
+    "cat": "amusementPark",
+    "lon": 9.76472,
+    "lat": 51.3708
+  },
+  {
+    "wikiId": "Q1355419",
+    "name": "Q1355419",
+    "cat": "amusementPark",
+    "lon": 9.125,
+    "lat": 52.2158
+  },
+  {
+    "wikiId": "Q1358423",
+    "name": "Toverland",
+    "cat": "amusementPark",
+    "lon": 5.98583,
+    "lat": 51.39583
+  },
+  {
+    "wikiId": "Q1361784",
+    "name": "Q1361784",
+    "cat": "amusementPark",
+    "lon": 10.2311,
+    "lat": 52.4728
+  },
+  {
+    "wikiId": "Q1373447",
+    "name": "Tier- und Freizeitpark Thüle",
+    "cat": "amusementPark",
+    "lon": 7.91912,
+    "lat": 52.9585
+  },
+  {
+    "wikiId": "Q1384663",
+    "name": "Expoland",
+    "cat": "amusementPark",
+    "lon": 135.535,
+    "lat": 34.80555556
+  },
+  {
+    "wikiId": "Q1395407",
+    "name": "Familypark",
+    "cat": "amusementPark",
+    "lon": 16.6461,
+    "lat": 47.8016
+  },
+  {
+    "wikiId": "Q1413270",
+    "name": "Liseberg",
+    "cat": "amusementPark",
+    "lon": 11.99,
+    "lat": 57.695555555
+  },
+  {
+    "wikiId": "Q1414854",
+    "name": "Plopsaland",
+    "cat": "amusementPark",
+    "lon": 2.596944,
+    "lat": 51.079722
+  },
+  {
+    "wikiId": "Q1415173",
+    "name": "Filmpark Babelsberg",
+    "cat": "amusementPark",
+    "lon": 13.1172,
+    "lat": 52.3856
+  },
+  {
+    "wikiId": "Q1417123",
+    "name": "Fränkisches Wunderland",
+    "cat": "amusementPark",
+    "lon": 11.4632,
+    "lat": 49.6571
+  },
+  {
+    "wikiId": "Q1417567",
+    "name": "Warner Bros. Movie World",
+    "cat": "amusementPark",
+    "lon": 153.3125,
+    "lat": -27.9075
+  },
+  {
+    "wikiId": "Q1426470",
+    "name": "Freizeitpark Plohn",
+    "cat": "amusementPark",
+    "lon": 12.39972222,
+    "lat": 50.56583333
+  },
+  {
+    "wikiId": "Q1454963",
+    "name": "Freizeit-Land Geiselwind",
+    "cat": "amusementPark",
+    "lon": 10.4576,
+    "lat": 49.7804
+  },
+  {
+    "wikiId": "Q1454992",
+    "name": "Freizeitpark Lochmühle",
+    "cat": "amusementPark",
+    "lon": 8.58361,
+    "lat": 50.2839
+  },
+  {
+    "wikiId": "Q1454994",
+    "name": "Traumland Bärenhöhle",
+    "cat": "amusementPark",
+    "lon": 9.21556,
+    "lat": 48.3714
+  },
+  {
+    "wikiId": "Q1455092",
+    "name": "Steel Pier",
+    "cat": "amusementPark",
+    "lon": -74.419,
+    "lat": 39.3575
+  },
+  {
+    "wikiId": "Q1474750",
+    "name": "Funny-World",
+    "cat": "amusementPark",
+    "lon": 7.73238,
+    "lat": 48.2938
+  },
+  {
+    "wikiId": "Q1483280",
+    "name": "Gold Reef City",
+    "cat": "amusementPark",
+    "lon": 28.01222222,
+    "lat": -26.23611111
+  },
+  {
+    "wikiId": "Q1498410",
+    "name": "Taunus Wunderland",
+    "cat": "amusementPark",
+    "lon": 8.11028,
+    "lat": 50.115
+  },
+  {
+    "wikiId": "Q1515080",
+    "name": "Six Flags Magic Mountain",
+    "cat": "amusementPark",
+    "lon": -118.597,
+    "lat": 34.4238
+  },
+  {
+    "wikiId": "Q1536315",
+    "name": "Störtebeker Park",
+    "cat": "amusementPark",
+    "lon": 8.1,
+    "lat": 53.5625
+  },
+  {
+    "wikiId": "Q1624689",
+    "name": "Holiday World & Splashin' Safari",
+    "cat": "amusementPark",
+    "lon": -86.916,
+    "lat": 38.119
+  },
+  {
+    "wikiId": "Q1635596",
+    "name": "Linnanmäki",
+    "cat": "amusementPark",
+    "lon": 24.94027778,
+    "lat": 60.18833333
+  },
+  {
+    "wikiId": "Q1650914",
+    "name": "EsselWorld",
+    "cat": "amusementPark",
+    "lon": 72.806,
+    "lat": 19.232
+  },
+  {
+    "wikiId": "Q1658620",
+    "name": "World of Turkmenbashi Tales",
+    "cat": "amusementPark",
+    "lon": 58.372075,
+    "lat": 37.922241666
+  },
+  {
+    "wikiId": "Q1677960",
+    "name": "Q1677960",
+    "cat": "amusementPark",
+    "lon": 8.84306,
+    "lat": 52.2633
+  },
+  {
+    "wikiId": "Q1688118",
+    "name": "Jesperhus",
+    "cat": "amusementPark",
+    "lon": 8.82159,
+    "lat": 56.76131
+  },
+  {
+    "wikiId": "Q1689602",
+    "name": "Tama Tech",
+    "cat": "amusementPark",
+    "lon": 139.391313,
+    "lat": 35.641778
+  },
+  {
+    "wikiId": "Q1695355",
+    "name": "Skyline Park",
+    "cat": "amusementPark",
+    "lon": 10.5914,
+    "lat": 48.0431
+  },
+  {
+    "wikiId": "Q1702769",
+    "name": "Jalavihar",
+    "cat": "amusementPark",
+    "lon": 78.48087,
+    "lat": 17.368989
+  },
+  {
+    "wikiId": "Q1718218",
+    "name": "Erlebnispark Steinau an der Straße",
+    "cat": "amusementPark",
+    "lon": 9.48611,
+    "lat": 50.2961
+  },
+  {
+    "wikiId": "Q1721757",
+    "name": "Walygator Parc",
+    "cat": "amusementPark",
+    "lon": 6.156,
+    "lat": 49.227
+  },
+  {
+    "wikiId": "Q1721935",
+    "name": "Air Zoo",
+    "cat": "amusementPark",
+    "lon": -85.56,
+    "lat": 42.2322
+  },
+  {
+    "wikiId": "Q1723143",
+    "name": "Maximilianpark Hamm",
+    "cat": "amusementPark",
+    "lon": 7.88254,
+    "lat": 51.6802
+  },
+  {
+    "wikiId": "Q1739912",
+    "name": "Ketteler Hof",
+    "cat": "amusementPark",
+    "lon": 7.13083,
+    "lat": 51.7803
+  },
+  {
+    "wikiId": "Q1749186",
+    "name": "Six Flags America",
+    "cat": "amusementPark",
+    "lon": -76.7726,
+    "lat": 38.9062
+  },
+  {
+    "wikiId": "Q1752074",
+    "name": "Q1752074",
+    "cat": "amusementPark",
+    "lon": 16.2956,
+    "lat": 48.186
+  },
+  {
+    "wikiId": "Q1789271",
+    "name": "Kristiansand Zoo and Amusement Park",
+    "cat": "amusementPark",
+    "lon": 8.141406,
+    "lat": 58.18506
+  },
+  {
+    "wikiId": "Q1791757",
+    "name": "Kulturinsel Einsiedel",
+    "cat": "amusementPark",
+    "lon": 15.0225,
+    "lat": 51.29638889
+  },
+  {
+    "wikiId": "Q1807595",
+    "name": "Moomin World",
+    "cat": "amusementPark",
+    "lon": 22.00472223,
+    "lat": 60.47305557
+  },
+  {
+    "wikiId": "Q1811321",
+    "name": "La Feria Chapultepec Mágico",
+    "cat": "amusementPark",
+    "lon": -99.195777777,
+    "lat": 19.415611111
+  },
+  {
+    "wikiId": "Q1827548",
+    "name": "Q1827548",
+    "cat": "amusementPark",
+    "lon": 6.44667,
+    "lat": 52.90833
+  },
+  {
+    "wikiId": "Q1843206",
+    "name": "Siam Park",
+    "cat": "amusementPark",
+    "lon": -16.726573,
+    "lat": 28.071764
+  },
+  {
+    "wikiId": "Q1850562",
+    "name": "Lightwater Valley",
+    "cat": "amusementPark",
+    "lon": -1.57044,
+    "lat": 54.176
+  },
+  {
+    "wikiId": "Q1856259",
+    "name": "Sybrandy's Speelpark",
+    "cat": "amusementPark",
+    "lon": 5.544444444,
+    "lat": 52.834444444
+  },
+  {
+    "wikiId": "Q1884087",
+    "name": "Ritter Rost Magic Park Verden",
+    "cat": "amusementPark",
+    "lon": 9.27111,
+    "lat": 52.9342
+  },
+  {
+    "wikiId": "Q1906703",
+    "name": "Joyland Amusement Park",
+    "cat": "amusementPark",
+    "lon": -101.832072,
+    "lat": 33.591708
+  },
+  {
+    "wikiId": "Q1936832",
+    "name": "Mini Mundi",
+    "cat": "amusementPark",
+    "lon": 3.634722,
+    "lat": 51.480556
+  },
+  {
+    "wikiId": "Q1940476",
+    "name": "PowerPark",
+    "cat": "amusementPark",
+    "lon": 22.859719444,
+    "lat": 63.228330555
+  },
+  {
+    "wikiId": "Q1945336",
+    "name": "Monsterpark Rattelsdorf",
+    "cat": "amusementPark",
+    "lon": 10.8922,
+    "lat": 50.0192
+  },
+  {
+    "wikiId": "Q1956647",
+    "name": "Sprookjeswonderland",
+    "cat": "amusementPark",
+    "lon": 5.29011,
+    "lat": 52.71214
+  },
+  {
+    "wikiId": "Q1957525",
+    "name": "DippieDoe",
+    "cat": "amusementPark",
+    "lon": 5.433922,
+    "lat": 51.499514
+  },
+  {
+    "wikiId": "Q1978990",
+    "name": "Steinerbos",
+    "cat": "amusementPark",
+    "lon": 5.77459,
+    "lat": 50.96908
+  },
+  {
+    "wikiId": "Q1994557",
+    "name": "No Name City",
+    "cat": "amusementPark",
+    "lon": 16.2094,
+    "lat": 47.855
+  },
+  {
+    "wikiId": "Q2000964",
+    "name": "Hunderfossen Familiepark",
+    "cat": "amusementPark",
+    "lon": 10.42825833,
+    "lat": 61.22423889
+  },
+  {
+    "wikiId": "Q2019207",
+    "name": "MGM Grand Adventures Theme Park",
+    "cat": "amusementPark",
+    "lon": -115.165,
+    "lat": 36.1067
+  },
+  {
+    "wikiId": "Q2028841",
+    "name": "Kennywood",
+    "cat": "amusementPark",
+    "lon": -79.863333,
+    "lat": 40.3875
+  },
+  {
+    "wikiId": "Q2029763",
+    "name": "Duinen Zathe Amusement Park",
+    "cat": "amusementPark",
+    "lon": 6.335642,
+    "lat": 52.956624
+  },
+  {
+    "wikiId": "Q2056423",
+    "name": "Dam Sen Cultural Park",
+    "cat": "amusementPark",
+    "lon": 106.63806,
+    "lat": 10.76611
+  },
+  {
+    "wikiId": "Q2058294",
+    "name": "Plaswijckpark",
+    "cat": "amusementPark",
+    "lon": 4.48139,
+    "lat": 51.95611
+  },
+  {
+    "wikiId": "Q2074361",
+    "name": "Six Flags Over Texas",
+    "cat": "amusementPark",
+    "lon": -97.0702,
+    "lat": 32.7551
+  },
+  {
+    "wikiId": "Q2102973",
+    "name": "Westerbouwing",
+    "cat": "amusementPark",
+    "lon": 5.8223,
+    "lat": 51.9755
+  },
+  {
+    "wikiId": "Q2132175",
+    "name": "Rasti-Land",
+    "cat": "amusementPark",
+    "lon": 9.66388889,
+    "lat": 52.09611111
+  },
+  {
+    "wikiId": "Q2133667",
+    "name": "Ravensburger Spieleland",
+    "cat": "amusementPark",
+    "lon": 9.59527778,
+    "lat": 47.71138889
+  },
+  {
+    "wikiId": "Q2147466",
+    "name": "Speelland Beekse Bergen",
+    "cat": "amusementPark",
+    "lon": 5.125,
+    "lat": 51.527
+  },
+  {
+    "wikiId": "Q2197655",
+    "name": "Plopsa Coo",
+    "cat": "amusementPark",
+    "lon": 5.874444,
+    "lat": 50.393889
+  },
+  {
+    "wikiId": "Q2201306",
+    "name": "Q2201306",
+    "cat": "amusementPark",
+    "lon": 6.163877,
+    "lat": 51.339214
+  },
+  {
+    "wikiId": "Q3127204",
+    "name": "Happy Valley Shenzhen",
+    "cat": "amusementPark",
+    "lon": 113.973949,
+    "lat": 22.541574
+  },
+  {
+    "wikiId": "Q3127206",
+    "name": "Happy Valley Beijing",
+    "cat": "amusementPark",
+    "lon": 116.488627,
+    "lat": 39.866418
+  },
+  {
+    "wikiId": "Q3127208",
+    "name": "Happyland",
+    "cat": "amusementPark",
+    "lon": 100.640516,
+    "lat": 13.77961
+  },
+  {
+    "wikiId": "Q3127209",
+    "name": "Happyland",
+    "cat": "amusementPark",
+    "lon": 7.45555556,
+    "lat": 46.26194444
+  },
+  {
+    "wikiId": "Q3147882",
+    "name": "Idlewild and Soak Zone",
+    "cat": "amusementPark",
+    "lon": -79.2814,
+    "lat": 40.2611
+  },
+  {
+    "wikiId": "Q3150104",
+    "name": "Indiana Beach",
+    "cat": "amusementPark",
+    "lon": -86.77,
+    "lat": 40.79
+  },
+  {
+    "wikiId": "Q3161941",
+    "name": "Janfusun Fancyworld",
+    "cat": "amusementPark",
+    "lon": 120.57789444,
+    "lat": 23.62008333
+  },
+  {
+    "wikiId": "Q3179183",
+    "name": "Jinjiang Action Park",
+    "cat": "amusementPark",
+    "lon": 121.40361111,
+    "lat": 31.14111111
+  },
+  {
+    "wikiId": "Q3196370",
+    "name": "Q3196370",
+    "cat": "amusementPark",
+    "lon": -1.10591,
+    "lat": 44.6228
+  },
+  {
+    "wikiId": "Q3196520",
+    "name": "Kijima Kōgen Park",
+    "cat": "amusementPark",
+    "lon": 131.427,
+    "lat": 33.2644
+  },
+  {
+    "wikiId": "Q3197463",
+    "name": "Kishkinta",
+    "cat": "amusementPark",
+    "lon": 80.079088,
+    "lat": 12.938304
+  },
+  {
+    "wikiId": "Q3198042",
+    "name": "Knoebels Amusement Resort",
+    "cat": "amusementPark",
+    "lon": -76.505,
+    "lat": 40.8784
+  },
+  {
+    "wikiId": "Q3210673",
+    "name": "La Mer de sable",
+    "cat": "amusementPark",
+    "lon": 2.67635,
+    "lat": 49.145388888
+  },
+  {
+    "wikiId": "Q3212567",
+    "name": "La Récré des 3 Curés",
+    "cat": "amusementPark",
+    "lon": -4.52579,
+    "lat": 48.4729
+  },
+  {
+    "wikiId": "Q3216196",
+    "name": "Lagoon Amusement Park",
+    "cat": "amusementPark",
+    "lon": -111.894722222,
+    "lat": 40.985555555
+  },
+  {
+    "wikiId": "Q3216454",
+    "name": "Lake Compounce",
+    "cat": "amusementPark",
+    "lon": -72.923333333,
+    "lat": 41.641666666
+  },
+  {
+    "wikiId": "Q3216474",
+    "name": "Lakemont Park",
+    "cat": "amusementPark",
+    "lon": -78.3955,
+    "lat": 40.4718
+  },
+  {
+    "wikiId": "Q3225108",
+    "name": "Le Pal",
+    "cat": "amusementPark",
+    "lon": 3.6305,
+    "lat": 46.5073
+  },
+  {
+    "wikiId": "Q3229621",
+    "name": "Leofoo Village Theme Park",
+    "cat": "amusementPark",
+    "lon": 121.18166667,
+    "lat": 24.82111111
+  },
+  {
+    "wikiId": "Q3234867",
+    "name": "Les Poussins, Parc de la Citadelle",
+    "cat": "amusementPark",
+    "lon": 3.04864,
+    "lat": 50.6391
+  },
+  {
+    "wikiId": "Q3240893",
+    "name": "Lilleputthammer",
+    "cat": "amusementPark",
+    "lon": 10.438557,
+    "lat": 61.241092
+  },
+  {
+    "wikiId": "Q3240914",
+    "name": "Lillom",
+    "cat": "amusementPark",
+    "lon": 2.982975,
+    "lat": 50.65405
+  },
+  {
+    "wikiId": "Q3267418",
+    "name": "Luna Park, Cleveland",
+    "cat": "amusementPark",
+    "lon": -81.6117,
+    "lat": 41.4897
+  },
+  {
+    "wikiId": "Q3267421",
+    "name": "Luna Park",
+    "cat": "amusementPark",
+    "lon": 2.28344,
+    "lat": 48.8795
+  },
+  {
+    "wikiId": "Q3267423",
+    "name": "Luna Park",
+    "cat": "amusementPark",
+    "lon": -122.387551,
+    "lat": 47.595324
+  },
+  {
+    "wikiId": "Q3276891",
+    "name": "Magic Park Land",
+    "cat": "amusementPark",
+    "lon": 5.1876785,
+    "lat": 43.3657041
+  },
+  {
+    "wikiId": "Q3304238",
+    "name": "Mega Speelstad",
+    "cat": "amusementPark",
+    "lon": 4.79506,
+    "lat": 51.2621
+  },
+  {
+    "wikiId": "Q3311504",
+    "name": "Michigan's Adventure",
+    "cat": "amusementPark",
+    "lon": -86.2789,
+    "lat": 43.3474
+  },
+  {
+    "wikiId": "Q3315507",
+    "name": "Leolandia",
+    "cat": "amusementPark",
+    "lon": 9.53864,
+    "lat": 45.60574
+  },
+  {
+    "wikiId": "Q3315800",
+    "name": "Mirabilandia",
+    "cat": "amusementPark",
+    "lon": -34.87398,
+    "lat": -8.032921
+  },
+  {
+    "wikiId": "Q3323943",
+    "name": "Morey's Piers",
+    "cat": "amusementPark",
+    "lon": -74.8093,
+    "lat": 38.9856
+  },
+  {
+    "wikiId": "Q3327295",
+    "name": "Mt. Olympus Water & Theme Park",
+    "cat": "amusementPark",
+    "lon": -89.7894,
+    "lat": 43.6151
+  },
+  {
+    "wikiId": "Q3331644",
+    "name": "Myrtle Beach Pavilion",
+    "cat": "amusementPark",
+    "lon": -78.8816,
+    "lat": 33.6925
+  },
+  {
+    "wikiId": "Q3338999",
+    "name": "Pleasureland Southport",
+    "cat": "amusementPark",
+    "lon": -3.01707,
+    "lat": 53.6492
+  },
+  {
+    "wikiId": "Q3339833",
+    "name": "Nickelodeon Universe",
+    "cat": "amusementPark",
+    "lon": -93.242222222,
+    "lat": 44.854166666
+  },
+  {
+    "wikiId": "Q3341433",
+    "name": "Nigloland",
+    "cat": "amusementPark",
+    "lon": 4.61701944,
+    "lat": 48.264175
+  },
+  {
+    "wikiId": "Q3347870",
+    "name": "Oakwood Theme Park",
+    "cat": "amusementPark",
+    "lon": -4.8048,
+    "lat": 51.7794
+  },
+  {
+    "wikiId": "Q3349991",
+    "name": "OK Corral",
+    "cat": "amusementPark",
+    "lon": 5.729326,
+    "lat": 43.267886
+  },
+  {
+    "wikiId": "Q3354431",
+    "name": "Opryland USA",
+    "cat": "amusementPark",
+    "lon": -86.695277777,
+    "lat": 36.208333333
+  },
+  {
+    "wikiId": "Q3360850",
+    "name": "Crystal Palace Amusement Park",
+    "cat": "amusementPark",
+    "lon": -64.7631,
+    "lat": 46.0988
+  },
+  {
+    "wikiId": "Q3361454",
+    "name": "Palisades Amusement Park",
+    "cat": "amusementPark",
+    "lon": -73.9778,
+    "lat": 40.8281
+  },
+  {
+    "wikiId": "Q3362986",
+    "name": "Papea Parc",
+    "cat": "amusementPark",
+    "lon": 0.253611,
+    "lat": 48.0019
+  },
+  {
+    "wikiId": "Q3363780",
+    "name": "Parc Avenue",
+    "cat": "amusementPark",
+    "lon": 4.36639,
+    "lat": 44.5431
+  },
+  {
+    "wikiId": "Q3363781",
+    "name": "Parc Bagatelle",
+    "cat": "amusementPark",
+    "lon": 1.6028,
+    "lat": 50.43
+  },
+  {
+    "wikiId": "Q3363795",
+    "name": "Belmont Park, Montreal",
+    "cat": "amusementPark",
+    "lon": -73.7247,
+    "lat": 45.5322
+  },
+  {
+    "wikiId": "Q3363808",
+    "name": "Dominion Park",
+    "cat": "amusementPark",
+    "lon": -73.51488889,
+    "lat": 45.57725
+  },
+  {
+    "wikiId": "Q3363841",
+    "name": "Kodomonokuni Theme Park",
+    "cat": "amusementPark",
+    "lon": 139.491424,
+    "lat": 35.562325
+  },
+  {
+    "wikiId": "Q3363902",
+    "name": "Parc Saint-Paul",
+    "cat": "amusementPark",
+    "lon": 1.98122,
+    "lat": 49.4218
+  },
+  {
+    "wikiId": "Q3363911",
+    "name": "Sohmer Park",
+    "cat": "amusementPark",
+    "lon": -73.547567,
+    "lat": 45.517479
+  },
+  {
+    "wikiId": "Q3364125",
+    "name": "Ben Aknoun Park",
+    "cat": "amusementPark",
+    "lon": 3.008333333,
+    "lat": 36.744444444
+  },
+  {
+    "wikiId": "Q3364227",
+    "name": "Parc de la Toison d'or",
+    "cat": "amusementPark",
+    "lon": 5.055016026,
+    "lat": 47.355113546
+  },
+  {
+    "wikiId": "Q3364242",
+    "name": "Arita Porcelain Park",
+    "cat": "amusementPark",
+    "lon": 129.908266,
+    "lat": 33.165792
+  },
+  {
+    "wikiId": "Q3366004",
+    "name": "Zaragoza amusement park",
+    "cat": "amusementPark",
+    "lon": -0.900348,
+    "lat": 41.6204
+  },
+  {
+    "wikiId": "Q3373554",
+    "name": "Le Pays de la Sagouine",
+    "cat": "amusementPark",
+    "lon": -64.7138,
+    "lat": 46.4628
+  },
+  {
+    "wikiId": "Q3392088",
+    "name": "Play City",
+    "cat": "amusementPark",
+    "lon": 44.5574,
+    "lat": 40.2183
+  },
+  {
+    "wikiId": "Q3392121",
+    "name": "Playland",
+    "cat": "amusementPark",
+    "lon": -123.037,
+    "lat": 49.2827
+  },
+  {
+    "wikiId": "Q3392124",
+    "name": "Playland",
+    "cat": "amusementPark",
+    "lon": -73.673889,
+    "lat": 40.965833
+  },
+  {
+    "wikiId": "Q3392187",
+    "name": "Pleasure Island Family Theme Park",
+    "cat": "amusementPark",
+    "lon": -0.00818889,
+    "lat": 53.5434
+  },
+  {
+    "wikiId": "Q3392192",
+    "name": "Pleasurewood Hills",
+    "cat": "amusementPark",
+    "lon": 1.74443,
+    "lat": 52.5071
+  },
+  {
+    "wikiId": "Q3411066",
+    "name": "Puuhamaa",
+    "cat": "amusementPark",
+    "lon": 24.612659,
+    "lat": 60.8094351
+  },
+  {
+    "wikiId": "Q3472599",
+    "name": "Santa Cruz Beach Boardwalk",
+    "cat": "amusementPark",
+    "lon": -122.017777777,
+    "lat": 36.964166666
+  },
+  {
+    "wikiId": "Q3476665",
+    "name": "Sea Lion Park",
+    "cat": "amusementPark",
+    "lon": -73.979,
+    "lat": 40.5775
+  },
+  {
+    "wikiId": "Q3483991",
+    "name": "Silver Dollar City",
+    "cat": "amusementPark",
+    "lon": -93.3389,
+    "lat": 36.6671
+  },
+  {
+    "wikiId": "Q3484028",
+    "name": "Silverwood Theme Park",
+    "cat": "amusementPark",
+    "lon": -116.705,
+    "lat": 47.9085
+  },
+  {
+    "wikiId": "Q3485584",
+    "name": "AutoWorld",
+    "cat": "amusementPark",
+    "lon": -83.69138889,
+    "lat": 43.02083333
+  },
+  {
+    "wikiId": "Q3487269",
+    "name": "Wurstelprater",
+    "cat": "amusementPark",
+    "lon": 16.4022,
+    "lat": 48.2147
+  },
+  {
+    "wikiId": "Q3493652",
+    "name": "Alabama Splash Adventure",
+    "cat": "amusementPark",
+    "lon": -86.9987,
+    "lat": 33.38
+  },
+  {
+    "wikiId": "Q3499899",
+    "name": "Story Land",
+    "cat": "amusementPark",
+    "lon": -71.1828,
+    "lat": 44.1161
+  },
+  {
+    "wikiId": "Q3503945",
+    "name": "Sunnyside Amusement Park",
+    "cat": "amusementPark",
+    "lon": -79.4508,
+    "lat": 43.6379
+  },
+  {
+    "wikiId": "Q3518520",
+    "name": "Terra Encantada",
+    "cat": "amusementPark",
+    "lon": -43.36256,
+    "lat": -22.9841
+  },
+  {
+    "wikiId": "Q3529963",
+    "name": "Tivoli Friheden",
+    "cat": "amusementPark",
+    "lon": 10.198083333,
+    "lat": 56.136416666
+  },
+  {
+    "wikiId": "Q3529967",
+    "name": "Tivoli World",
+    "cat": "amusementPark",
+    "lon": -4.54059,
+    "lat": 36.6008
+  },
+  {
+    "wikiId": "Q3542633",
+    "name": "Ty' Bamboo",
+    "cat": "amusementPark",
+    "lon": 2.62389,
+    "lat": 48.5175
+  },
+  {
+    "wikiId": "Q3553873",
+    "name": "Valleyfair",
+    "cat": "amusementPark",
+    "lon": -93.4514,
+    "lat": 44.7988
+  },
+  {
+    "wikiId": "Q3557754",
+    "name": "Victory Kingdom",
+    "cat": "amusementPark",
+    "lon": 117.01,
+    "lat": 39.3941
+  },
+  {
+    "wikiId": "Q3565299",
+    "name": "Waldameer Park",
+    "cat": "amusementPark",
+    "lon": -80.1555,
+    "lat": 42.1087
+  },
+  {
+    "wikiId": "Q3566486",
+    "name": "Wasalandia",
+    "cat": "amusementPark",
+    "lon": 21.5731215,
+    "lat": 63.0880105
+  },
+  {
+    "wikiId": "Q3567495",
+    "name": "Western Leone",
+    "cat": "amusementPark",
+    "lon": -2.44641,
+    "lat": 37.0322
+  },
+  {
+    "wikiId": "Q3567768",
+    "name": "White City",
+    "cat": "amusementPark",
+    "lon": -71.7525,
+    "lat": 42.2732
+  },
+  {
+    "wikiId": "Q3568104",
+    "name": "Wild Adventures",
+    "cat": "amusementPark",
+    "lon": -83.323333333,
+    "lat": 30.72
+  },
+  {
+    "wikiId": "Q3568128",
+    "name": "Wild Waves Theme Park",
+    "cat": "amusementPark",
+    "lon": -122.312,
+    "lat": 47.2725
+  },
+  {
+    "wikiId": "Q3568134",
+    "name": "Wild West World",
+    "cat": "amusementPark",
+    "lon": -97.3212,
+    "lat": 37.8182
+  },
+  {
+    "wikiId": "Q3569131",
+    "name": "Willow Grove Park",
+    "cat": "amusementPark",
+    "lon": -75.1211,
+    "lat": 40.1392
+  },
+  {
+    "wikiId": "Q3569978",
+    "name": "World Joyland",
+    "cat": "amusementPark",
+    "lon": 119.989,
+    "lat": 31.8133
+  },
+  {
+    "wikiId": "Q3570037",
+    "name": "Worlds of Fun",
+    "cat": "amusementPark",
+    "lon": -94.489,
+    "lat": 39.1773
+  },
+  {
+    "wikiId": "Q3576051",
+    "name": "Zoomarine",
+    "cat": "amusementPark",
+    "lon": 12.4574,
+    "lat": 41.6344
+  },
+  {
+    "wikiId": "Q3576402",
+    "name": "Zygofolis",
+    "cat": "amusementPark",
+    "lon": 7.20778,
+    "lat": 43.71222
+  },
+  {
+    "wikiId": "Q3677153",
+    "name": "Cinecittà World",
+    "cat": "amusementPark",
+    "lon": 12.4467,
+    "lat": 41.709
+  },
+  {
+    "wikiId": "Q3678441",
+    "name": "Città della Domenica",
+    "cat": "amusementPark",
+    "lon": 12.343252777,
+    "lat": 43.113152777
+  },
+  {
+    "wikiId": "Q3678591",
+    "name": "Città Satellite",
+    "cat": "amusementPark",
+    "lon": 9.106876,
+    "lat": 45.591575
+  },
+  {
+    "wikiId": "Q3696356",
+    "name": "Cowboyland",
+    "cat": "amusementPark",
+    "lon": 9.01316643,
+    "lat": 44.96863889
+  },
+  {
+    "wikiId": "Q3734809",
+    "name": "Europark Idroscalo Milano",
+    "cat": "amusementPark",
+    "lon": 9.285105555,
+    "lat": 45.474805555
+  },
+  {
+    "wikiId": "Q3840616",
+    "name": "LunEur",
+    "cat": "amusementPark",
+    "lon": 12.47611977,
+    "lat": 41.837351134
+  },
+  {
+    "wikiId": "Q3851347",
+    "name": "Mangyongdae Funfair",
+    "cat": "amusementPark",
+    "lon": 125.65117778,
+    "lat": 39.00705833
+  },
+  {
+    "wikiId": "Q3881966",
+    "name": "Oltremare",
+    "cat": "amusementPark",
+    "lon": 12.6453,
+    "lat": 43.9887
+  },
+  {
+    "wikiId": "Q3887518",
+    "name": "Kaeson Youth Park",
+    "cat": "amusementPark",
+    "lon": 125.75726,
+    "lat": 39.0484
+  },
+  {
+    "wikiId": "Q2209852",
+    "name": "Q2209852",
+    "cat": "amusementPark",
+    "lon": 6.0596,
+    "lat": 51.47292
+  },
+  {
+    "wikiId": "Q2242821",
+    "name": "De Valkenier",
+    "cat": "amusementPark",
+    "lon": 5.824,
+    "lat": 50.868
+  },
+  {
+    "wikiId": "Q2265402",
+    "name": "Q2265402",
+    "cat": "amusementPark",
+    "lon": 6.47757,
+    "lat": 53.07187
+  },
+  {
+    "wikiId": "Q2276588",
+    "name": "Legoland California",
+    "cat": "amusementPark",
+    "lon": -117.3117,
+    "lat": 33.1282
+  },
+  {
+    "wikiId": "Q2301819",
+    "name": "Thorpe Park",
+    "cat": "amusementPark",
+    "lon": -0.513055555,
+    "lat": 51.404722222
+  },
+  {
+    "wikiId": "Q2330240",
+    "name": "Neeltje Jans",
+    "cat": "amusementPark",
+    "lon": 3.700277777,
+    "lat": 51.626944444
+  },
+  {
+    "wikiId": "Q2341753",
+    "name": "Steinwasen Park",
+    "cat": "amusementPark",
+    "lon": 7.92222222,
+    "lat": 47.89972222
+  },
+  {
+    "wikiId": "Q2367192",
+    "name": "Centrum Edukacji i Promocji Regionu w Szymbarku",
+    "cat": "amusementPark",
+    "lon": 18.107147222,
+    "lat": 54.204738888
+  },
+  {
+    "wikiId": "Q2370456",
+    "name": "Wonderland Park",
+    "cat": "amusementPark",
+    "lon": -101.832,
+    "lat": 35.2408
+  },
+  {
+    "wikiId": "Q2372906",
+    "name": "Magic Springs and Crystal Falls",
+    "cat": "amusementPark",
+    "lon": -93.0169,
+    "lat": 34.5194
+  },
+  {
+    "wikiId": "Q2389341",
+    "name": "Riverview Park (Chicago)",
+    "cat": "amusementPark",
+    "lon": -87.6911674,
+    "lat": 41.942532
+  },
+  {
+    "wikiId": "Q2390592",
+    "name": "Drievliet",
+    "cat": "amusementPark",
+    "lon": 4.34962,
+    "lat": 52.054918
+  },
+  {
+    "wikiId": "Q2392584",
+    "name": "Parc Merveilleux",
+    "cat": "amusementPark",
+    "lon": 6.120715,
+    "lat": 49.511473
+  },
+  {
+    "wikiId": "Q2397019",
+    "name": "Cypress Gardens",
+    "cat": "amusementPark",
+    "lon": -81.69185,
+    "lat": 27.990113888
+  },
+  {
+    "wikiId": "Q2439289",
+    "name": "Tolk-Schau",
+    "cat": "amusementPark",
+    "lon": 9.6271,
+    "lat": 54.5753
+  },
+  {
+    "wikiId": "Q2449813",
+    "name": "Transvaal Park",
+    "cat": "amusementPark",
+    "lon": 37.529444444,
+    "lat": 55.598055555
+  },
+  {
+    "wikiId": "Q2450363",
+    "name": "Traumlandpark",
+    "cat": "amusementPark",
+    "lon": 6.9725,
+    "lat": 51.62
+  },
+  {
+    "wikiId": "Q2457123",
+    "name": "Drouwenerzand",
+    "cat": "amusementPark",
+    "lon": 6.78806,
+    "lat": 52.95639
+  },
+  {
+    "wikiId": "Q2466852",
+    "name": "Q2466852",
+    "cat": "amusementPark",
+    "lon": 5.08496,
+    "lat": 52.10472
+  },
+  {
+    "wikiId": "Q2474979",
+    "name": "Q2474979",
+    "cat": "amusementPark",
+    "lon": 6.53806,
+    "lat": 52.96806
+  },
+  {
+    "wikiId": "Q2496825",
+    "name": "Great Escape",
+    "cat": "amusementPark",
+    "lon": -73.6901,
+    "lat": 43.351
+  },
+  {
+    "wikiId": "Q2512374",
+    "name": "Linnaeushof",
+    "cat": "amusementPark",
+    "lon": 4.59722,
+    "lat": 52.32528
+  },
+  {
+    "wikiId": "Q2521644",
+    "name": "Six Flags Fiesta Texas",
+    "cat": "amusementPark",
+    "lon": -98.6094,
+    "lat": 29.5995
+  },
+  {
+    "wikiId": "Q2539704",
+    "name": "Santa Park",
+    "cat": "amusementPark",
+    "lon": 25.84444444,
+    "lat": 66.54361111
+  },
+  {
+    "wikiId": "Q2562111",
+    "name": "Six Flags México",
+    "cat": "amusementPark",
+    "lon": -99.209,
+    "lat": 19.295
+  },
+  {
+    "wikiId": "Q2570257",
+    "name": "Wild- und Freizeitpark Klotten",
+    "cat": "amusementPark",
+    "lon": 7.165,
+    "lat": 50.1606
+  },
+  {
+    "wikiId": "Q2581206",
+    "name": "Tusenfryd",
+    "cat": "amusementPark",
+    "lon": 10.777019,
+    "lat": 59.748226
+  },
+  {
+    "wikiId": "Q2600530",
+    "name": "Q2600530",
+    "cat": "amusementPark",
+    "lon": 5.925,
+    "lat": 51.81722
+  },
+  {
+    "wikiId": "Q2614334",
+    "name": "Sprookjesbos Valkenburg",
+    "cat": "amusementPark",
+    "lon": 5.833555555,
+    "lat": 50.856916666
+  },
+  {
+    "wikiId": "Q2614520",
+    "name": "Tykkimäki",
+    "cat": "amusementPark",
+    "lon": 26.775556,
+    "lat": 60.884722
+  },
+  {
+    "wikiId": "Q2620204",
+    "name": "Pacific Park",
+    "cat": "amusementPark",
+    "lon": -118.498056,
+    "lat": 34.008333
+  },
+  {
+    "wikiId": "Q2650746",
+    "name": "Alpamare",
+    "cat": "amusementPark",
+    "lon": 8.79083,
+    "lat": 47.1992
+  },
+  {
+    "wikiId": "Q2651140",
+    "name": "Alpincenter Hamburg-Wittenburg",
+    "cat": "amusementPark",
+    "lon": 11.0938,
+    "lat": 53.5082
+  },
+  {
+    "wikiId": "Q2654021",
+    "name": "Q2654021",
+    "cat": "amusementPark",
+    "lon": 5.77985,
+    "lat": 53.0412
+  },
+  {
+    "wikiId": "Q2663388",
+    "name": "Dadipark",
+    "cat": "amusementPark",
+    "lon": 3.09333,
+    "lat": 50.85333
+  },
+  {
+    "wikiId": "Q2677029",
+    "name": "Walibi Sud-Ouest",
+    "cat": "amusementPark",
+    "lon": 0.576317,
+    "lat": 44.186878
+  },
+  {
+    "wikiId": "Q2706557",
+    "name": "Q2706557",
+    "cat": "amusementPark",
+    "lon": 6.80887,
+    "lat": 52.24422
+  },
+  {
+    "wikiId": "Q2720654",
+    "name": "Kings Dominion",
+    "cat": "amusementPark",
+    "lon": -77.445,
+    "lat": 37.84
+  },
+  {
+    "wikiId": "Q2722311",
+    "name": "Appu Ghar",
+    "cat": "amusementPark",
+    "lon": 77.243359,
+    "lat": 28.616813
+  },
+  {
+    "wikiId": "Q2745160",
+    "name": "Brighton Pier",
+    "cat": "amusementPark",
+    "lon": -0.137222,
+    "lat": 50.8164
+  },
+  {
+    "wikiId": "Q2750308",
+    "name": "Luna Park",
+    "cat": "amusementPark",
+    "lon": 144.976,
+    "lat": -37.868
+  },
+  {
+    "wikiId": "Q2775027",
+    "name": "Gilroy Gardens",
+    "cat": "amusementPark",
+    "lon": -121.628,
+    "lat": 37.0053
+  },
+  {
+    "wikiId": "Q2777866",
+    "name": "DisneyQuest",
+    "cat": "amusementPark",
+    "lon": -81.5221,
+    "lat": 28.3703
+  },
+  {
+    "wikiId": "Q2784579",
+    "name": "Mondo Verde, Landgraaf",
+    "cat": "amusementPark",
+    "lon": 6.02861,
+    "lat": 50.88528
+  },
+  {
+    "wikiId": "Q2785435",
+    "name": "BillyBird Park Hemelrijk",
+    "cat": "amusementPark",
+    "lon": 5.672336,
+    "lat": 51.636996
+  },
+  {
+    "wikiId": "Q2787167",
+    "name": "Q2787167",
+    "cat": "amusementPark",
+    "lon": 5.168333,
+    "lat": 51.695278
+  },
+  {
+    "wikiId": "Q2788953",
+    "name": "Ecodrome",
+    "cat": "amusementPark",
+    "lon": 6.07722,
+    "lat": 52.50417
+  },
+  {
+    "wikiId": "Q2800195",
+    "name": "Skara Sommarland",
+    "cat": "amusementPark",
+    "lon": 13.5523,
+    "lat": 58.4042
+  },
+  {
+    "wikiId": "Q2842839",
+    "name": "The American Adventure Theme Park",
+    "cat": "amusementPark",
+    "lon": -1.335,
+    "lat": 52.9947
+  },
+  {
+    "wikiId": "Q2843806",
+    "name": "Lütge Land",
+    "cat": "amusementPark",
+    "lon": 7.786741666,
+    "lat": 53.653811111
+  },
+  {
+    "wikiId": "Q2853136",
+    "name": "Q2853136",
+    "cat": "amusementPark",
+    "lon": 7.122,
+    "lat": 43.613
+  },
+  {
+    "wikiId": "Q2874483",
+    "name": "Avonturenpark Hellendoorn",
+    "cat": "amusementPark",
+    "lon": 6.435833,
+    "lat": 52.389444
+  },
+  {
+    "wikiId": "Q2892945",
+    "name": "Glenwood Caverns",
+    "cat": "amusementPark",
+    "lon": -107.32,
+    "lat": 39.5605
+  },
+  {
+    "wikiId": "Q2893617",
+    "name": "Beech Bend Park",
+    "cat": "amusementPark",
+    "lon": -86.3953,
+    "lat": 37.0242
+  },
+  {
+    "wikiId": "Q2930683",
+    "name": "Suối Tiên Amusement Park",
+    "cat": "amusementPark",
+    "lon": 106.82139,
+    "lat": 10.86889
+  },
+  {
+    "wikiId": "Q2934740",
+    "name": "Camelot Theme Park",
+    "cat": "amusementPark",
+    "lon": -2.6975,
+    "lat": 53.6353
+  },
+  {
+    "wikiId": "Q2936437",
+    "name": "Canobie Lake Park",
+    "cat": "amusementPark",
+    "lon": -71.25089,
+    "lat": 42.79592
+  },
+  {
+    "wikiId": "Q2936946",
+    "name": "Cap'Découverte",
+    "cat": "amusementPark",
+    "lon": 2.143972,
+    "lat": 44.019833
+  },
+  {
+    "wikiId": "Q2940113",
+    "name": "Carowinds",
+    "cat": "amusementPark",
+    "lon": -80.9397,
+    "lat": 35.1043
+  },
+  {
+    "wikiId": "Q2940908",
+    "name": "Casela World of Adventures",
+    "cat": "amusementPark",
+    "lon": 57.411991,
+    "lat": -20.290196
+  },
+  {
+    "wikiId": "Q2941462",
+    "name": "Castle Park",
+    "cat": "amusementPark",
+    "lon": -117.468,
+    "lat": 33.9028
+  },
+  {
+    "wikiId": "Q2943892",
+    "name": "Celebration City",
+    "cat": "amusementPark",
+    "lon": -93.2959,
+    "lat": 36.6477
+  },
+  {
+    "wikiId": "Q2963655",
+    "name": "Chimelong Paradise",
+    "cat": "amusementPark",
+    "lon": 113.326913,
+    "lat": 23.004355
+  },
+  {
+    "wikiId": "Q2963705",
+    "name": "China Dinosaurs Park",
+    "cat": "amusementPark",
+    "lon": 119.99761111,
+    "lat": 31.82616667
+  },
+  {
+    "wikiId": "Q2981127",
+    "name": "Cobac Parc",
+    "cat": "amusementPark",
+    "lon": -1.83163,
+    "lat": 48.4492
+  },
+  {
+    "wikiId": "Q3016111",
+    "name": "Six Flags Darien Lake",
+    "cat": "amusementPark",
+    "lon": -78.3849,
+    "lat": 42.9285
+  },
+  {
+    "wikiId": "Q3023222",
+    "name": "Dennlys Park",
+    "cat": "amusementPark",
+    "lon": 2.15416667,
+    "lat": 50.57055556
+  },
+  {
+    "wikiId": "Q3026653",
+    "name": "Dickens World",
+    "cat": "amusementPark",
+    "lon": 0.5323,
+    "lat": 51.4011
+  },
+  {
+    "wikiId": "Q3026873",
+    "name": "Didi'Land",
+    "cat": "amusementPark",
+    "lon": 7.752748,
+    "lat": 48.913038
+  },
+  {
+    "wikiId": "Q3033769",
+    "name": "Dogpatch USA",
+    "cat": "amusementPark",
+    "lon": -93.1322,
+    "lat": 36.1068
+  },
+  {
+    "wikiId": "Q3037111",
+    "name": "Dorney Park & Wildwater Kingdom",
+    "cat": "amusementPark",
+    "lon": -75.5336,
+    "lat": 40.5799
+  },
+  {
+    "wikiId": "Q3038335",
+    "name": "Pleasure Island",
+    "cat": "amusementPark",
+    "lon": -81.518,
+    "lat": 28.371
+  },
+  {
+    "wikiId": "Q3039270",
+    "name": "Dream World",
+    "cat": "amusementPark",
+    "lon": 100.675,
+    "lat": 13.9875
+  },
+  {
+    "wikiId": "Q3039284",
+    "name": "Dreamland",
+    "cat": "amusementPark",
+    "lon": -73.9749,
+    "lat": 40.5745
+  },
+  {
+    "wikiId": "Q3039291",
+    "name": "Dreamland Margate",
+    "cat": "amusementPark",
+    "lon": 1.3759,
+    "lat": 51.3863
+  },
+  {
+    "wikiId": "Q3041729",
+    "name": "Dutch Wonderland",
+    "cat": "amusementPark",
+    "lon": -76.2184,
+    "lat": 40.0277
+  },
+  {
+    "wikiId": "Q3047891",
+    "name": "Legoland Windsor",
+    "cat": "amusementPark",
+    "lon": -0.65114,
+    "lat": 51.4635
+  },
+  {
+    "wikiId": "Q3051155",
+    "name": "Elitch Gardens Theme Park",
+    "cat": "amusementPark",
+    "lon": -105.011111111,
+    "lat": 39.750555555
+  },
+  {
+    "wikiId": "Q3059351",
+    "name": "Etnaland",
+    "cat": "amusementPark",
+    "lon": 14.932158,
+    "lat": 37.535764
+  },
+  {
+    "wikiId": "Q3059481",
+    "name": "Euclid Beach Park",
+    "cat": "amusementPark",
+    "lon": -81.57,
+    "lat": 41.58
+  },
+  {
+    "wikiId": "Q3060716",
+    "name": "Europark",
+    "cat": "amusementPark",
+    "lon": 3.412457,
+    "lat": 43.301352
+  },
+  {
+    "wikiId": "Q3066554",
+    "name": "Fantasilandia",
+    "cat": "amusementPark",
+    "lon": -70.662783,
+    "lat": -33.459556
+  },
+  {
+    "wikiId": "Q3070877",
+    "name": "Festyland",
+    "cat": "amusementPark",
+    "lon": -0.423056,
+    "lat": 49.182778
+  },
+  {
+    "wikiId": "Q3071082",
+    "name": "Q3071082",
+    "cat": "amusementPark",
+    "lon": 12.60988,
+    "lat": 44.035067
+  },
+  {
+    "wikiId": "Q3077762",
+    "name": "Fort Aventure",
+    "cat": "amusementPark",
+    "lon": 6.09056,
+    "lat": 48.5972
+  },
+  {
+    "wikiId": "Q3087377",
+    "name": "Freestyle Music Park",
+    "cat": "amusementPark",
+    "lon": -78.934,
+    "lat": 33.714
+  },
+  {
+    "wikiId": "Q3088620",
+    "name": "Frontier City",
+    "cat": "amusementPark",
+    "lon": -97.441,
+    "lat": 35.5848
+  },
+  {
+    "wikiId": "Q3088625",
+    "name": "Frontierland, Morecambe",
+    "cat": "amusementPark",
+    "lon": -2.87601,
+    "lat": 54.0687
+  },
+  {
+    "wikiId": "Q3090513",
+    "name": "Jardin d'Acclimatation",
+    "cat": "amusementPark",
+    "lon": 2.26305556,
+    "lat": 48.8775
+  },
+  {
+    "wikiId": "Q3090976",
+    "name": "Funtown Splashtown USA",
+    "cat": "amusementPark",
+    "lon": -70.4276,
+    "lat": 43.5272
+  },
+  {
+    "wikiId": "Q3094882",
+    "name": "Galveston Island Historic Pleasure Pier",
+    "cat": "amusementPark",
+    "lon": -94.78991,
+    "lat": 29.286614
+  },
+  {
+    "wikiId": "Q3100026",
+    "name": "Geauga Lake",
+    "cat": "amusementPark",
+    "lon": -81.369188888,
+    "lat": 41.348388888
+  },
+  {
+    "wikiId": "Q3107826",
+    "name": "Hersheypark",
+    "cat": "amusementPark",
+    "lon": -76.656944444,
+    "lat": 40.288055555
+  },
+  {
+    "wikiId": "Q3115993",
+    "name": "Great Yarmouth Pleasure Beach",
+    "cat": "amusementPark",
+    "lon": 1.73608,
+    "lat": 52.5937
+  },
+  {
+    "wikiId": "Q3120770",
+    "name": "Gulliver's Land Resort",
+    "cat": "amusementPark",
+    "lon": -0.730278,
+    "lat": 52.0511
+  },
+  {
+    "wikiId": "Q3127198",
+    "name": "Happy Valley Chengdu",
+    "cat": "amusementPark",
+    "lon": 104.032824,
+    "lat": 30.723521
+  },
+  {
+    "wikiId": "Q4033431",
+    "name": "Adventureland",
+    "cat": "amusementPark",
+    "lon": -93.4999,
+    "lat": 41.6544
+  },
+  {
+    "wikiId": "Q4033432",
+    "name": "Adventureland",
+    "cat": "amusementPark",
+    "lon": -73.4207,
+    "lat": 40.7524
+  },
+  {
+    "wikiId": "Q4033433",
+    "name": "Adventureland",
+    "cat": "amusementPark",
+    "lon": 55.3723,
+    "lat": 25.2978
+  },
+  {
+    "wikiId": "Q4065269",
+    "name": "Andersengrad",
+    "cat": "amusementPark",
+    "lon": 29.088611111,
+    "lat": 59.895
+  },
+  {
+    "wikiId": "Q4121129",
+    "name": "Italpark",
+    "cat": "amusementPark",
+    "lon": -58.38611111,
+    "lat": -34.58555556
+  },
+  {
+    "wikiId": "Q4126784",
+    "name": "Q4126784",
+    "cat": "amusementPark",
+    "lon": 30.2125,
+    "lat": 59.93833333
+  },
+  {
+    "wikiId": "Q4161277",
+    "name": "Divo-Ostrov",
+    "cat": "amusementPark",
+    "lon": 30.25338,
+    "lat": 59.972818
+  },
+  {
+    "wikiId": "Q4210050",
+    "name": "trans studio bandung",
+    "cat": "amusementPark",
+    "lon": 107.636222222,
+    "lat": -6.926186111
+  },
+  {
+    "wikiId": "Q4345340",
+    "name": "Pripyat amusement park",
+    "cat": "amusementPark",
+    "lon": 30.057125,
+    "lat": 51.408133
+  },
+  {
+    "wikiId": "Q4352488",
+    "name": "Action Park",
+    "cat": "amusementPark",
+    "lon": -74.5075,
+    "lat": 41.1906
+  },
+  {
+    "wikiId": "Q4519503",
+    "name": "Luna Park, Tel Aviv",
+    "cat": "amusementPark",
+    "lon": 34.812026,
+    "lat": 32.106279
+  },
+  {
+    "wikiId": "Q4530694",
+    "name": "Q4530694",
+    "cat": "amusementPark",
+    "lon": 37.55722222,
+    "lat": 47.12194444
+  },
+  {
+    "wikiId": "Q4588838",
+    "name": "Kongeparken",
+    "cat": "amusementPark",
+    "lon": 5.84055556,
+    "lat": 58.77861111
+  },
+  {
+    "wikiId": "Q4646809",
+    "name": "A' Famosa Resort",
+    "cat": "amusementPark",
+    "lon": 102.22051111,
+    "lat": 2.40505278
+  },
+  {
+    "wikiId": "Q4686512",
+    "name": "Adventure Landing",
+    "cat": "amusementPark",
+    "lon": -81.4124,
+    "lat": 30.287
+  },
+  {
+    "wikiId": "Q4686519",
+    "name": "Adventure Park",
+    "cat": "amusementPark",
+    "lon": 144.515,
+    "lat": -38.2092
+  },
+  {
+    "wikiId": "Q4686554",
+    "name": "Adventure Wonderland",
+    "cat": "amusementPark",
+    "lon": -1.845,
+    "lat": 50.776
+  },
+  {
+    "wikiId": "Q4686555",
+    "name": "Adventure World",
+    "cat": "amusementPark",
+    "lon": 115.818099408,
+    "lat": -32.095628701
+  },
+  {
+    "wikiId": "Q4686576",
+    "name": "Adventureland",
+    "cat": "amusementPark",
+    "lon": -88.0517,
+    "lat": 41.956
+  },
+  {
+    "wikiId": "Q4703222",
+    "name": "Al-Shallal Theme Park",
+    "cat": "amusementPark",
+    "lon": 39.1114354,
+    "lat": 21.5676572
+  },
+  {
+    "wikiId": "Q4703297",
+    "name": "Al-Tro Island Park",
+    "cat": "amusementPark",
+    "lon": -73.7273,
+    "lat": 42.6795
+  },
+  {
+    "wikiId": "Q4745556",
+    "name": "LeSourdesville Lake Amusement Park",
+    "cat": "amusementPark",
+    "lon": -84.4336,
+    "lat": 39.4456
+  },
+  {
+    "wikiId": "Q4762525",
+    "name": "Angela Park",
+    "cat": "amusementPark",
+    "lon": -75.951,
+    "lat": 41.035
+  },
+  {
+    "wikiId": "Q4796408",
+    "name": "Arsenal Park Transilvania",
+    "cat": "amusementPark",
+    "lon": 23.1638,
+    "lat": 45.8318
+  },
+  {
+    "wikiId": "Q4798544",
+    "name": "Formosan Aboriginal Culture Village",
+    "cat": "amusementPark",
+    "lon": 120.94777778,
+    "lat": 23.86805556
+  },
+  {
+    "wikiId": "Q4816717",
+    "name": "Atlantis Marine Park",
+    "cat": "amusementPark",
+    "lon": 115.586,
+    "lat": -31.4963
+  },
+  {
+    "wikiId": "Q4822827",
+    "name": "Aussie World",
+    "cat": "amusementPark",
+    "lon": 153.047,
+    "lat": -26.7502
+  },
+  {
+    "wikiId": "Q4837568",
+    "name": "Babb's Beach",
+    "cat": "amusementPark",
+    "lon": -72.751111,
+    "lat": 42.03
+  },
+  {
+    "wikiId": "Q4863939",
+    "name": "Barry's Amusements",
+    "cat": "amusementPark",
+    "lon": -6.654,
+    "lat": 55.203
+  },
+  {
+    "wikiId": "Q4873935",
+    "name": "Bay Beach Amusement Park",
+    "cat": "amusementPark",
+    "lon": -87.980833333,
+    "lat": 44.530916666
+  },
+  {
+    "wikiId": "Q4875684",
+    "name": "Beach Break Bay",
+    "cat": "amusementPark",
+    "lon": 153.425613,
+    "lat": -27.95765
+  },
+  {
+    "wikiId": "Q4875870",
+    "name": "Beachland Amusements",
+    "cat": "amusementPark",
+    "lon": -74.068104,
+    "lat": 40.591603
+  },
+  {
+    "wikiId": "Q4878022",
+    "name": "Beaver Creek",
+    "cat": "amusementPark",
+    "lon": -3.05556,
+    "lat": 53.7903
+  },
+  {
+    "wikiId": "Q4883059",
+    "name": "Bell's Amusement Park",
+    "cat": "amusementPark",
+    "lon": -95.9311,
+    "lat": 36.1344
+  },
+  {
+    "wikiId": "Q4883720",
+    "name": "Belle Vue Zoological Gardens",
+    "cat": "amusementPark",
+    "lon": -2.1875,
+    "lat": 53.4636
+  },
+  {
+    "wikiId": "Q4890226",
+    "name": "Benson's Wild Animal Farm",
+    "cat": "amusementPark",
+    "lon": -71.4056,
+    "lat": 42.7667
+  },
+  {
+    "wikiId": "Q4895872",
+    "name": "Bertrand Island Amusement Park",
+    "cat": "amusementPark",
+    "lon": -74.6598,
+    "lat": 40.9118
+  },
+  {
+    "wikiId": "Q4904998",
+    "name": "Big Banana",
+    "cat": "amusementPark",
+    "lon": 153.133916666,
+    "lat": -30.274805555
+  },
+  {
+    "wikiId": "Q4905881",
+    "name": "Big Island Amusement Park",
+    "cat": "amusementPark",
+    "lon": -93.5558,
+    "lat": 44.9336
+  },
+  {
+    "wikiId": "Q4928861",
+    "name": "Blue Bayou and Dixie Landin'",
+    "cat": "amusementPark",
+    "lon": -91.0265,
+    "lat": 30.3441
+  },
+  {
+    "wikiId": "Q4931452",
+    "name": "Boardwalk Fun Park",
+    "cat": "amusementPark",
+    "lon": -96.997,
+    "lat": 32.761
+  },
+  {
+    "wikiId": "Q4931459",
+    "name": "Boardwalk and Baseball",
+    "cat": "amusementPark",
+    "lon": -81.643234,
+    "lat": 28.23147
+  },
+  {
+    "wikiId": "Q4935834",
+    "name": "Boblo Island Amusement Park",
+    "cat": "amusementPark",
+    "lon": -83.1175,
+    "lat": 42.0939
+  },
+  {
+    "wikiId": "Q4942446",
+    "name": "Bonnie Springs Ranch",
+    "cat": "amusementPark",
+    "lon": -115.454,
+    "lat": 36.0594
+  },
+  {
+    "wikiId": "Q4950720",
+    "name": "Bowcraft Amusement Park",
+    "cat": "amusementPark",
+    "lon": -74.3874,
+    "lat": 40.6654
+  },
+  {
+    "wikiId": "Q4959732",
+    "name": "Brean Leisure Park",
+    "cat": "amusementPark",
+    "lon": -3.00966,
+    "lat": 51.2857
+  },
+  {
+    "wikiId": "Q4983514",
+    "name": "Buckskin Joe",
+    "cat": "amusementPark",
+    "lon": -105.326,
+    "lat": 38.476
+  },
+  {
+    "wikiId": "Q5005209",
+    "name": "Bø Sommarland",
+    "cat": "amusementPark",
+    "lon": 9.072905555,
+    "lat": 59.447955555
+  },
+  {
+    "wikiId": "Q5018638",
+    "name": "Calaway Park",
+    "cat": "amusementPark",
+    "lon": -114.358,
+    "lat": 51.0864
+  },
+  {
+    "wikiId": "Q5025799",
+    "name": "Camden Park",
+    "cat": "amusementPark",
+    "lon": -82.4336,
+    "lat": 38.413
+  },
+  {
+    "wikiId": "Q5045561",
+    "name": "Carousel Gardens Amusement Park",
+    "cat": "amusementPark",
+    "lon": -90.0985,
+    "lat": 29.9875
+  },
+  {
+    "wikiId": "Q5046918",
+    "name": "Carson City and Indian Village",
+    "cat": "amusementPark",
+    "lon": -73.9826,
+    "lat": 42.2416
+  },
+  {
+    "wikiId": "Q5048153",
+    "name": "Cascade Park",
+    "cat": "amusementPark",
+    "lon": -80.322,
+    "lat": 40.9772
+  },
+  {
+    "wikiId": "Q5048868",
+    "name": "Casino Pier",
+    "cat": "amusementPark",
+    "lon": -74.0692,
+    "lat": 39.9426
+  },
+  {
+    "wikiId": "Q5050593",
+    "name": "Castles N' Coasters",
+    "cat": "amusementPark",
+    "lon": -112.119,
+    "lat": 33.5723
+  },
+  {
+    "wikiId": "Q5061600",
+    "name": "Central Park",
+    "cat": "amusementPark",
+    "lon": -75.4208,
+    "lat": 40.6222
+  },
+  {
+    "wikiId": "Q5062718",
+    "name": "Centreville Amusement Park",
+    "cat": "amusementPark",
+    "lon": -79.3737,
+    "lat": 43.6203
+  },
+  {
+    "wikiId": "Q5092379",
+    "name": "Cherry Hill",
+    "cat": "amusementPark",
+    "lon": -111.914,
+    "lat": 41.0137
+  },
+  {
+    "wikiId": "Q5098081",
+    "name": "Children's Fairyland",
+    "cat": "amusementPark",
+    "lon": -122.26,
+    "lat": 37.809
+  },
+  {
+    "wikiId": "Q5100431",
+    "name": "Chinese Culture and Movie Center",
+    "cat": "amusementPark",
+    "lon": 121.54534722,
+    "lat": 25.09697778
+  },
+  {
+    "wikiId": "Q5101669",
+    "name": "Chippewa Lake Park",
+    "cat": "amusementPark",
+    "lon": -81.9017,
+    "lat": 41.0636
+  },
+  {
+    "wikiId": "Q5121839",
+    "name": "Circus World",
+    "cat": "amusementPark",
+    "lon": -81.6432,
+    "lat": 28.2315
+  },
+  {
+    "wikiId": "Q5126706",
+    "name": "Clarence Pier",
+    "cat": "amusementPark",
+    "lon": -1.10113,
+    "lat": 50.7861
+  },
+  {
+    "wikiId": "Q5130965",
+    "name": "Clearwater Water Park Development",
+    "cat": "amusementPark",
+    "lon": -117.227,
+    "lat": 34.0693
+  },
+  {
+    "wikiId": "Q5131502",
+    "name": "Clementon Amusement Park",
+    "cat": "amusementPark",
+    "lon": -74.9847,
+    "lat": 39.8031
+  },
+  {
+    "wikiId": "Q5132509",
+    "name": "Cliff's Amusement Park",
+    "cat": "amusementPark",
+    "lon": -106.589,
+    "lat": 35.1449
+  },
+  {
+    "wikiId": "Q5140329",
+    "name": "Codona's Amusement Park",
+    "cat": "amusementPark",
+    "lon": -2.0775,
+    "lat": 57.1511
+  },
+  {
+    "wikiId": "Q5159577",
+    "name": "Coney Beach Pleasure Park",
+    "cat": "amusementPark",
+    "lon": -3.6967,
+    "lat": 51.4797
+  },
+  {
+    "wikiId": "Q5159586",
+    "name": "Coney Island",
+    "cat": "amusementPark",
+    "lon": -84.42,
+    "lat": 39.0543
+  },
+  {
+    "wikiId": "Q5160318",
+    "name": "Confusion Hill",
+    "cat": "amusementPark",
+    "lon": -123.764944444,
+    "lat": 39.918916666
+  },
+  {
+    "wikiId": "Q5161353",
+    "name": "Conneaut Lake Park",
+    "cat": "amusementPark",
+    "lon": -80.315,
+    "lat": 41.6356
+  },
+  {
+    "wikiId": "Q5165566",
+    "name": "Contoocook River Amusement Park",
+    "cat": "amusementPark",
+    "lon": -71.6111,
+    "lat": 43.2702
+  },
+  {
+    "wikiId": "Q5183338",
+    "name": "Crealy Theme Park & Resort",
+    "cat": "amusementPark",
+    "lon": -3.41608025,
+    "lat": 50.705555941
+  },
+  {
+    "wikiId": "Q5184402",
+    "name": "Crescent Park",
+    "cat": "amusementPark",
+    "lon": -71.3578,
+    "lat": 41.7561
+  },
+  {
+    "wikiId": "Q5196984",
+    "name": "Cutting Edge Haunted House",
+    "cat": "amusementPark",
+    "lon": -97.3103,
+    "lat": 32.7464
+  },
+  {
+    "wikiId": "Q5210918",
+    "name": "Dalian Discovery Kingdom",
+    "cat": "amusementPark",
+    "lon": 121.999269,
+    "lat": 39.081665
+  },
+  {
+    "wikiId": "Q5226563",
+    "name": "Dash n Splash",
+    "cat": "amusementPark",
+    "lon": 80.010831,
+    "lat": 13.027691
+  },
+  {
+    "wikiId": "Q5252847",
+    "name": "DelGrosso's Amusement Park",
+    "cat": "amusementPark",
+    "lon": -78.2961,
+    "lat": 40.6358
+  },
+  {
+    "wikiId": "Q5259266",
+    "name": "Deno's Wonder Wheel Amusement Park",
+    "cat": "amusementPark",
+    "lon": -73.9792,
+    "lat": 40.5743
+  },
+  {
+    "wikiId": "Q5275638",
+    "name": "Diggerland",
+    "cat": "amusementPark",
+    "lon": 0.476667,
+    "lat": 51.3819
+  },
+  {
+    "wikiId": "Q5278659",
+    "name": "Dinosaur World",
+    "cat": "amusementPark",
+    "lon": -93.8422,
+    "lat": 36.442
+  },
+  {
+    "wikiId": "Q5278660",
+    "name": "Dinosaur World",
+    "cat": "amusementPark",
+    "lon": 143.893,
+    "lat": -37.424
+  },
+  {
+    "wikiId": "Q5286984",
+    "name": "Dobwalls Adventure Park",
+    "cat": "amusementPark",
+    "lon": -4.51882,
+    "lat": 50.4655
+  },
+  {
+    "wikiId": "Q5287878",
+    "name": "Dodge Park Playland",
+    "cat": "amusementPark",
+    "lon": -95.916,
+    "lat": 41.262
+  },
+  {
+    "wikiId": "Q5289616",
+    "name": "Dolphin Cove Jamaica",
+    "cat": "amusementPark",
+    "lon": -77.1304,
+    "lat": 18.4171
+  },
+  {
+    "wikiId": "Q5306257",
+    "name": "DreamWorks Experience",
+    "cat": "amusementPark",
+    "lon": 153.317,
+    "lat": -27.8641
+  },
+  {
+    "wikiId": "Q5306652",
+    "name": "Dreamland",
+    "cat": "amusementPark",
+    "lon": 144.976369,
+    "lat": -37.868036
+  },
+  {
+    "wikiId": "Q5335725",
+    "name": "Edaville Railroad",
+    "cat": "amusementPark",
+    "lon": -70.7728,
+    "lat": 41.8459
+  },
+  {
+    "wikiId": "Q5350849",
+    "name": "El Caballo Blanco",
+    "cat": "amusementPark",
+    "lon": 150.775,
+    "lat": -34.0097
+  },
+  {
+    "wikiId": "Q5354080",
+    "name": "Eldora Park",
+    "cat": "amusementPark",
+    "lon": -79.891,
+    "lat": 40.177
+  },
+  {
+    "wikiId": "Q5354182",
+    "name": "Eldridge Park",
+    "cat": "amusementPark",
+    "lon": -76.8168,
+    "lat": 42.1151
+  },
+  {
+    "wikiId": "Q5358677",
+    "name": "KidZania Koshien",
+    "cat": "amusementPark",
+    "lon": 135.363861111,
+    "lat": 34.716861111
+  },
+  {
+    "wikiId": "Q5363436",
+    "name": "Kidzania Tokyo",
+    "cat": "amusementPark",
+    "lon": 139.79194444,
+    "lat": 35.65583333
+  },
+  {
+    "wikiId": "Q5375360",
+    "name": "Enchanted Forest",
+    "cat": "amusementPark",
+    "lon": -87.0658,
+    "lat": 41.6342
+  },
+  {
+    "wikiId": "Q5375361",
+    "name": "Enchanted Forest",
+    "cat": "amusementPark",
+    "lon": -76.8567,
+    "lat": 39.2803
+  },
+  {
+    "wikiId": "Q5375362",
+    "name": "Enchanted Forest",
+    "cat": "amusementPark",
+    "lon": -123.008249,
+    "lat": 44.833085
+  },
+  {
+    "wikiId": "Q5375366",
+    "name": "Enchanted Forest Water Safari",
+    "cat": "amusementPark",
+    "lon": -74.9667,
+    "lat": 43.7
+  },
+  {
+    "wikiId": "Q5375375",
+    "name": "Enchanted Kingdom",
+    "cat": "amusementPark",
+    "lon": 121.0953936,
+    "lat": 14.2819473
+  },
+  {
+    "wikiId": "Q5391259",
+    "name": "Parque de Diversiones",
+    "cat": "amusementPark",
+    "lon": -84.127478,
+    "lat": 9.959951
+  },
+  {
+    "wikiId": "Q5396954",
+    "name": "Escape Theme Park",
+    "cat": "amusementPark",
+    "lon": 103.955,
+    "lat": 1.37972
+  },
+  {
+    "wikiId": "Q5419465",
+    "name": "Excelsior Amusement Park",
+    "cat": "amusementPark",
+    "lon": -93.5625,
+    "lat": 44.903333333
+  },
+  {
+    "wikiId": "Q5430977",
+    "name": "Fairy Park",
+    "cat": "amusementPark",
+    "lon": 144.26,
+    "lat": -37.8917
+  },
+  {
+    "wikiId": "Q5431013",
+    "name": "Fairyland Park",
+    "cat": "amusementPark",
+    "lon": -94.557,
+    "lat": 38.9906
+  },
+  {
+    "wikiId": "Q5433160",
+    "name": "Family Kingdom Amusement Park",
+    "cat": "amusementPark",
+    "lon": -78.89305556,
+    "lat": 33.68166667
+  },
+  {
+    "wikiId": "Q5434298",
+    "name": "Fantasy Gardens",
+    "cat": "amusementPark",
+    "lon": -123.09019444,
+    "lat": 49.13530556
+  },
+  {
+    "wikiId": "Q5434306",
+    "name": "Fantasy Island",
+    "cat": "amusementPark",
+    "lon": 0.347778,
+    "lat": 53.1914
+  },
+  {
+    "wikiId": "Q5459545",
+    "name": "Flint Park",
+    "cat": "amusementPark",
+    "lon": -83.7195,
+    "lat": 43.0565
+  },
+  {
+    "wikiId": "Q5500854",
+    "name": "Freedomland U.S.A.",
+    "cat": "amusementPark",
+    "lon": -73.8276,
+    "lat": 40.8718
+  },
+  {
+    "wikiId": "Q5506044",
+    "name": "Frontier Village",
+    "cat": "amusementPark",
+    "lon": -121.819,
+    "lat": 37.2621
+  },
+  {
+    "wikiId": "Q5508618",
+    "name": "Fun-Plex",
+    "cat": "amusementPark",
+    "lon": -96.0224,
+    "lat": 41.2028
+  },
+  {
+    "wikiId": "Q5508621",
+    "name": "Fun-World",
+    "cat": "amusementPark",
+    "lon": -71.4422,
+    "lat": 42.7161
+  },
+  {
+    "wikiId": "Q5508689",
+    "name": "Fun Spot Amusement Park & Zoo",
+    "cat": "amusementPark",
+    "lon": -85.0298,
+    "lat": 41.6765
+  },
+  {
+    "wikiId": "Q5509137",
+    "name": "Funfields",
+    "cat": "amusementPark",
+    "lon": 145.113,
+    "lat": -37.5208
+  },
+  {
+    "wikiId": "Q5509324",
+    "name": "Funland Amusement Park",
+    "cat": "amusementPark",
+    "lon": -92.303,
+    "lat": 34.8003
+  },
+  {
+    "wikiId": "Q5551101",
+    "name": "German Fest",
+    "cat": "amusementPark",
+    "lon": -87.899,
+    "lat": 43.032
+  },
+  {
+    "wikiId": "Q5562315",
+    "name": "Gillians Wonderland Pier and Island Waterpark",
+    "cat": "amusementPark",
+    "lon": -74.5668,
+    "lat": 39.2774
+  },
+  {
+    "wikiId": "Q5594106",
+    "name": "Granada Studios Tour",
+    "cat": "amusementPark",
+    "lon": -2.2575,
+    "lat": 53.478333333
+  },
+  {
+    "wikiId": "Q5595274",
+    "name": "Grand World Scenic Park",
+    "cat": "amusementPark",
+    "lon": 113.419697,
+    "lat": 23.148716
+  },
+  {
+    "wikiId": "Q5600265",
+    "name": "Great World Amusement Park",
+    "cat": "amusementPark",
+    "lon": 130.831944444,
+    "lat": 1.29375
+  },
+  {
+    "wikiId": "Q5604131",
+    "name": "Greenhills Adventure Park",
+    "cat": "amusementPark",
+    "lon": 138.624082,
+    "lat": -35.528371
+  },
+  {
+    "wikiId": "Q5617789",
+    "name": "Gulliver's Kingdom Resort",
+    "cat": "amusementPark",
+    "lon": -1.56439,
+    "lat": 53.1182
+  },
+  {
+    "wikiId": "Q5617791",
+    "name": "Gulliver's World Resort",
+    "cat": "amusementPark",
+    "lon": -2.618,
+    "lat": 53.406
+  },
+  {
+    "wikiId": "Q5618090",
+    "name": "Gumbuya Park",
+    "cat": "amusementPark",
+    "lon": 145.659,
+    "lat": -38.0692
+  },
+  {
+    "wikiId": "Q5649040",
+    "name": "Hanna–Barbera Land",
+    "cat": "amusementPark",
+    "lon": -95.431935,
+    "lat": 30.070167
+  },
+  {
+    "wikiId": "Q5653221",
+    "name": "Happyland Park",
+    "cat": "amusementPark",
+    "lon": -97.17666667,
+    "lat": 49.88166667
+  },
+  {
+    "wikiId": "Q5685289",
+    "name": "Illa Fantasia",
+    "cat": "amusementPark",
+    "lon": 2.36353056,
+    "lat": 41.50383611
+  },
+  {
+    "wikiId": "Q5739054",
+    "name": "Heritage Square",
+    "cat": "amusementPark",
+    "lon": -105.212,
+    "lat": 39.7135
+  },
+  {
+    "wikiId": "Q5750215",
+    "name": "Hi-Lite Park",
+    "cat": "amusementPark",
+    "lon": 144.367,
+    "lat": -38.146
+  },
+  {
+    "wikiId": "Q5943818",
+    "name": "Hunt's Pier",
+    "cat": "amusementPark",
+    "lon": -74.804,
+    "lat": 38.989
+  },
+  {
+    "wikiId": "Q5967609",
+    "name": "i-City",
+    "cat": "amusementPark",
+    "lon": 101.483355,
+    "lat": 3.065954
+  },
+  {
+    "wikiId": "Q5989520",
+    "name": "Idora Park",
+    "cat": "amusementPark",
+    "lon": -122.26315556,
+    "lat": 37.84239444
+  },
+  {
+    "wikiId": "Q5989523",
+    "name": "Idora Park",
+    "cat": "amusementPark",
+    "lon": -80.685555555,
+    "lat": 41.071111111
+  },
+  {
+    "wikiId": "Q6003536",
+    "name": "Imbiah Lookout",
+    "cat": "amusementPark",
+    "lon": 103.815,
+    "lat": 1.256
+  },
+  {
+    "wikiId": "Q6024020",
+    "name": "Indianola Park",
+    "cat": "amusementPark",
+    "lon": -82.9977,
+    "lat": 40.0029
+  },
+  {
+    "wikiId": "Q6062708",
+    "name": "fairground of Montjuic",
+    "cat": "amusementPark",
+    "lon": 2.16553056,
+    "lat": 41.36803333
+  },
+  {
+    "wikiId": "Q6117317",
+    "name": "Salitre Magico",
+    "cat": "amusementPark",
+    "lon": -74.09096,
+    "lat": 4.668179
+  },
+  {
+    "wikiId": "Q6127793",
+    "name": "Jamberoo Action Park",
+    "cat": "amusementPark",
+    "lon": 150.783,
+    "lat": -34.6168
+  },
+  {
+    "wikiId": "Q6147178",
+    "name": "Sofia Land",
+    "cat": "amusementPark",
+    "lon": 23.33027778,
+    "lat": 42.66777778
+  },
+  {
+    "wikiId": "Q6155617",
+    "name": "Jantzen Beach",
+    "cat": "amusementPark",
+    "lon": -122.682,
+    "lat": 45.613
+  },
+  {
+    "wikiId": "Q6158333",
+    "name": "Japanese Village and Deer Park",
+    "cat": "amusementPark",
+    "lon": -118.01,
+    "lat": 33.8703
+  },
+  {
+    "wikiId": "Q6185044",
+    "name": "Jerudong Park",
+    "cat": "amusementPark",
+    "lon": 114.834504,
+    "lat": 4.936752
+  },
+  {
+    "wikiId": "Q6206829",
+    "name": "Brændesgårdshaven",
+    "cat": "amusementPark",
+    "lon": 15.10361111,
+    "lat": 55.12916667
+  },
+  {
+    "wikiId": "Q6208232",
+    "name": "Joe's Scarecrow Village",
+    "cat": "amusementPark",
+    "lon": -61.0743,
+    "lat": 46.4959
+  },
+  {
+    "wikiId": "Q6297742",
+    "name": "Joyland Amusement Park",
+    "cat": "amusementPark",
+    "lon": -97.3039,
+    "lat": 37.6412
+  },
+  {
+    "wikiId": "Q6312844",
+    "name": "Jungle Jack's Landing",
+    "cat": "amusementPark",
+    "lon": -83.1197,
+    "lat": 40.1558
+  },
+  {
+    "wikiId": "Q6340385",
+    "name": "Adventure World Warsaw",
+    "cat": "amusementPark",
+    "lon": 20.582407,
+    "lat": 52.143523
+  },
+  {
+    "wikiId": "Q6348155",
+    "name": "Kaintuck Territory",
+    "cat": "amusementPark",
+    "lon": -88.331388888,
+    "lat": 36.930555555
+  },
+  {
+    "wikiId": "Q6386811",
+    "name": "Kemah Boardwalk",
+    "cat": "amusementPark",
+    "lon": -95.017222222,
+    "lat": 29.547777777
+  },
+  {
+    "wikiId": "Q6391268",
+    "name": "Kennyland",
+    "cat": "amusementPark",
+    "lon": 153.317,
+    "lat": -27.8639
+  },
+  {
+    "wikiId": "Q6404405",
+    "name": "Kid's World",
+    "cat": "amusementPark",
+    "lon": -73.9795,
+    "lat": 40.3025
+  },
+  {
+    "wikiId": "Q6404698",
+    "name": "Kiddieland Amusement Park",
+    "cat": "amusementPark",
+    "lon": -87.8364,
+    "lat": 41.9094
+  },
+  {
+    "wikiId": "Q6407329",
+    "name": "Killarney Springs",
+    "cat": "amusementPark",
+    "lon": -4.47736,
+    "lat": 50.9096
+  },
+  {
+    "wikiId": "Q6439209",
+    "name": "Krug Park (amusement park)",
+    "cat": "amusementPark",
+    "lon": -95.9964,
+    "lat": 41.2869
+  },
+  {
+    "wikiId": "Q6446511",
+    "name": "Kursaal",
+    "cat": "amusementPark",
+    "lon": 0.724816,
+    "lat": 51.533111
+  },
+  {
+    "wikiId": "Q6475818",
+    "name": "Lake Fairfax Park",
+    "cat": "amusementPark",
+    "lon": -77.3181,
+    "lat": 38.9644
+  },
+  {
+    "wikiId": "Q6478516",
+    "name": "Lake Winnepesaukah",
+    "cat": "amusementPark",
+    "lon": -85.2472,
+    "lat": 34.9764
+  },
+  {
+    "wikiId": "Q6479071",
+    "name": "Lakeside Amusement Park",
+    "cat": "amusementPark",
+    "lon": -105.059444444,
+    "lat": 39.778333333
+  },
+  {
+    "wikiId": "Q6479072",
+    "name": "Lakeside Amusement Park",
+    "cat": "amusementPark",
+    "lon": -80.0289,
+    "lat": 37.2964
+  },
+  {
+    "wikiId": "Q6484164",
+    "name": "Land of Oz",
+    "cat": "amusementPark",
+    "lon": -81.8804,
+    "lat": 36.1853
+  },
+  {
+    "wikiId": "Q6484771",
+    "name": "Landmark Forest Adventure Park",
+    "cat": "amusementPark",
+    "lon": -3.812,
+    "lat": 57.2786
+  },
+  {
+    "wikiId": "Q6492116",
+    "name": "Las Cascadas Water Park",
+    "cat": "amusementPark",
+    "lon": -67.14527778,
+    "lat": 18.43944444
+  },
+  {
+    "wikiId": "Q6530034",
+    "name": "Les Thermes",
+    "cat": "amusementPark",
+    "lon": 6.070687,
+    "lat": 49.61397
+  },
+  {
+    "wikiId": "Q6542212",
+    "name": "Libertyland",
+    "cat": "amusementPark",
+    "lon": -89.9824,
+    "lat": 35.1185
+  },
+  {
+    "wikiId": "Q6550495",
+    "name": "Lincoln Beach amusement park",
+    "cat": "amusementPark",
+    "lon": -89.953076,
+    "lat": 30.069688
+  },
+  {
+    "wikiId": "Q6550914",
+    "name": "Lincoln Park",
+    "cat": "amusementPark",
+    "lon": -71.0422,
+    "lat": 41.6363
+  },
+  {
+    "wikiId": "Q6631464",
+    "name": "Mill River Fun Park",
+    "cat": "amusementPark",
+    "lon": -64.126,
+    "lat": 46.7477
+  },
+  {
+    "wikiId": "Q6648864",
+    "name": "Little Amerricka",
+    "cat": "amusementPark",
+    "lon": -89.0583,
+    "lat": 43.1647
+  },
+  {
+    "wikiId": "Q6685176",
+    "name": "Lotus Isle",
+    "cat": "amusementPark",
+    "lon": -122.674,
+    "lat": 45.6109
+  },
+  {
+    "wikiId": "Q6703555",
+    "name": "Luna Park, Arlington",
+    "cat": "amusementPark",
+    "lon": -77.0556,
+    "lat": 38.8444
+  },
+  {
+    "wikiId": "Q6703568",
+    "name": "Luna Park, Pittsburgh",
+    "cat": "amusementPark",
+    "lon": -79.9512,
+    "lat": 40.4533
+  },
+  {
+    "wikiId": "Q6703646",
+    "name": "Amusement park at Prague Fairground",
+    "cat": "amusementPark",
+    "lon": 14.426331,
+    "lat": 50.109278
+  },
+  {
+    "wikiId": "Q6711809",
+    "name": "M&D's",
+    "cat": "amusementPark",
+    "lon": -4.03966,
+    "lat": 55.8001
+  },
+  {
+    "wikiId": "Q6715732",
+    "name": "MGM Dizzee World",
+    "cat": "amusementPark",
+    "lon": 80.243647,
+    "lat": 12.826458
+  },
+  {
+    "wikiId": "Q6730692",
+    "name": "Magic Forest",
+    "cat": "amusementPark",
+    "lon": -73.7031,
+    "lat": 43.3959
+  },
+  {
+    "wikiId": "Q6730737",
+    "name": "Magic Kingdom",
+    "cat": "amusementPark",
+    "lon": 150.97,
+    "lat": -33.8991
+  },
+  {
+    "wikiId": "Q6730780",
+    "name": "Magic Mountain, Merimbula",
+    "cat": "amusementPark",
+    "lon": 149.902,
+    "lat": -36.8755
+  },
+  {
+    "wikiId": "Q6730781",
+    "name": "Magic Mountain, Nobby Beach",
+    "cat": "amusementPark",
+    "lon": 153.44,
+    "lat": -28.0617
+  },
+  {
+    "wikiId": "Q6736073",
+    "name": "Main Street",
+    "cat": "amusementPark",
+    "lon": 153.316,
+    "lat": -27.8632
+  },
+  {
+    "wikiId": "Q6750613",
+    "name": "Manly Fun Pier",
+    "cat": "amusementPark",
+    "lon": 151.284751,
+    "lat": -33.799265
+  },
+  {
+    "wikiId": "Q6774786",
+    "name": "Niagara Amusement Park and Splash World",
+    "cat": "amusementPark",
+    "lon": -78.9707,
+    "lat": 43.027
+  },
+  {
+    "wikiId": "Q6787459",
+    "name": "Superland",
+    "cat": "amusementPark",
+    "lon": 34.74388889,
+    "lat": 31.97833333
+  },
+  {
+    "wikiId": "Q6806809",
+    "name": "Medieval Faire",
+    "cat": "amusementPark",
+    "lon": -79.5419,
+    "lat": 43.8425
+  },
+  {
+    "wikiId": "Q6815840",
+    "name": "Memphis Kiddie Park",
+    "cat": "amusementPark",
+    "lon": -81.7573,
+    "lat": 41.4405
+  },
+  {
+    "wikiId": "Q6855278",
+    "name": "Kuwait Entertainment City",
+    "cat": "amusementPark",
+    "lon": 47.8166,
+    "lat": 29.348
+  },
+  {
+    "wikiId": "Q6872445",
+    "name": "Miracle Strip Amusement Park",
+    "cat": "amusementPark",
+    "lon": -85.825,
+    "lat": 30.191
+  },
+  {
+    "wikiId": "Q6875079",
+    "name": "Misaki Park",
+    "cat": "amusementPark",
+    "lon": 135.16116111,
+    "lat": 34.32804167
+  },
+  {
+    "wikiId": "Q6911528",
+    "name": "Morgan's Wonderland",
+    "cat": "amusementPark",
+    "lon": -98.392,
+    "lat": 29.539
+  },
+  {
+    "wikiId": "Q6925145",
+    "name": "Mountain Park",
+    "cat": "amusementPark",
+    "lon": -72.6304,
+    "lat": 42.244
+  },
+  {
+    "wikiId": "Q6936957",
+    "name": "Munsu Funfair",
+    "cat": "amusementPark",
+    "lon": 125.78173056,
+    "lat": 39.04022222
+  },
+  {
+    "wikiId": "Q6983013",
+    "name": "Nay Aug Park",
+    "cat": "amusementPark",
+    "lon": -75.6428,
+    "lat": 41.4014
+  },
+  {
+    "wikiId": "Q7024551",
+    "name": "Nicco park",
+    "cat": "amusementPark",
+    "lon": 88.42160833,
+    "lat": 22.57118333
+  },
+  {
+    "wikiId": "Q7028383",
+    "name": "Nickelodeon Land",
+    "cat": "amusementPark",
+    "lon": -3.05556,
+    "lat": 53.7903
+  },
+  {
+    "wikiId": "Q7048071",
+    "name": "Nokkakivi",
+    "cat": "amusementPark",
+    "lon": 26.13862,
+    "lat": 62.245588
+  },
+  {
+    "wikiId": "Q7069845",
+    "name": "Nunley's",
+    "cat": "amusementPark",
+    "lon": -73.6045,
+    "lat": 40.6555
+  },
+  {
+    "wikiId": "Q7074722",
+    "name": "Ober Gatlinburg",
+    "cat": "amusementPark",
+    "lon": -83.55777778,
+    "lat": 35.70305556
+  },
+  {
+    "wikiId": "Q7076032",
+    "name": "Ocean Parade",
+    "cat": "amusementPark",
+    "lon": 153.316,
+    "lat": -27.8645
+  },
+  {
+    "wikiId": "Q7083647",
+    "name": "Old Chicago",
+    "cat": "amusementPark",
+    "lon": -88.071111111,
+    "lat": 41.679166666
+  },
+  {
+    "wikiId": "Q7084273",
+    "name": "Old Indiana Fun Park",
+    "cat": "amusementPark",
+    "lon": -86.5367,
+    "lat": 40.1448
+  },
+  {
+    "wikiId": "Q7085259",
+    "name": "Old Town",
+    "cat": "amusementPark",
+    "lon": -81.5158,
+    "lat": 28.3316
+  },
+  {
+    "wikiId": "Q7086391",
+    "name": "Olentangy Park",
+    "cat": "amusementPark",
+    "lon": -83.0143,
+    "lat": 40.0204
+  },
+  {
+    "wikiId": "Q7126150",
+    "name": "Palace Amusements",
+    "cat": "amusementPark",
+    "lon": -74.003544,
+    "lat": 40.217778
+  },
+  {
+    "wikiId": "Q7126185",
+    "name": "Palace Playland",
+    "cat": "amusementPark",
+    "lon": -70.3744,
+    "lat": 43.5145
+  },
+  {
+    "wikiId": "Q7134302",
+    "name": "Paradise Lake",
+    "cat": "amusementPark",
+    "lon": -81.3379,
+    "lat": 40.0475
+  },
+  {
+    "wikiId": "Q7134599",
+    "name": "Paragon Park",
+    "cat": "amusementPark",
+    "lon": -70.8547,
+    "lat": 42.2685
+  },
+  {
+    "wikiId": "Q7141906",
+    "name": "Paseo Tablado La Guancha",
+    "cat": "amusementPark",
+    "lon": -66.6175,
+    "lat": 17.96666667
+  },
+  {
+    "wikiId": "Q7142225",
+    "name": "Paskuhan Village",
+    "cat": "amusementPark",
+    "lon": 120.692666666,
+    "lat": 15.050388888
+  },
+  {
+    "wikiId": "Q7149591",
+    "name": "Paul Bunyan Land",
+    "cat": "amusementPark",
+    "lon": -94.0317,
+    "lat": 46.352
+  },
+  {
+    "wikiId": "Q7165445",
+    "name": "Peony Park",
+    "cat": "amusementPark",
+    "lon": -96.04,
+    "lat": 41.266666666
+  },
+  {
+    "wikiId": "Q7196665",
+    "name": "Pioneer City",
+    "cat": "amusementPark",
+    "lon": -80.3238,
+    "lat": 26.075
+  },
+  {
+    "wikiId": "Q7197870",
+    "name": "Pirates World",
+    "cat": "amusementPark",
+    "lon": -80.13,
+    "lat": 26.04
+  },
+  {
+    "wikiId": "Q7199740",
+    "name": "Pixieland",
+    "cat": "amusementPark",
+    "lon": -123.965,
+    "lat": 45.0205
+  },
+  {
+    "wikiId": "Q7203447",
+    "name": "Playland",
+    "cat": "amusementPark",
+    "lon": -122.512,
+    "lat": 37.7733
+  },
+  {
+    "wikiId": "Q7203448",
+    "name": "Playland Park",
+    "cat": "amusementPark",
+    "lon": -86.218,
+    "lat": 41.659
+  },
+  {
+    "wikiId": "Q7204279",
+    "name": "Pleasure Island",
+    "cat": "amusementPark",
+    "lon": -71.0453,
+    "lat": 42.5202
+  },
+  {
+    "wikiId": "Q7227608",
+    "name": "Ponce de Leon amusement park",
+    "cat": "amusementPark",
+    "lon": -84.366,
+    "lat": 33.772
+  },
+  {
+    "wikiId": "Q7228085",
+    "name": "Pontchartrain Beach",
+    "cat": "amusementPark",
+    "lon": -90.062,
+    "lat": 30.032
+  },
+  {
+    "wikiId": "Q7270781",
+    "name": "Queens Land",
+    "cat": "amusementPark",
+    "lon": 80.028818,
+    "lat": 13.029374
+  },
+  {
+    "wikiId": "Q7284550",
+    "name": "Rainbow's End",
+    "cat": "amusementPark",
+    "lon": 174.884,
+    "lat": -36.994
+  },
+  {
+    "wikiId": "Q7289927",
+    "name": "Ramona Park",
+    "cat": "amusementPark",
+    "lon": -85.61555556,
+    "lat": 42.95000833
+  },
+  {
+    "wikiId": "Q7310407",
+    "name": "Reino Aventura",
+    "cat": "amusementPark",
+    "lon": -99.209,
+    "lat": 19.295
+  },
+  {
+    "wikiId": "Q7338195",
+    "name": "Riverfront Park",
+    "cat": "amusementPark",
+    "lon": -117.42,
+    "lat": 47.6625
+  },
+  {
+    "wikiId": "Q7338420",
+    "name": "Riverside Amusement Park",
+    "cat": "amusementPark",
+    "lon": -86.192222222,
+    "lat": 39.811111111
+  },
+  {
+    "wikiId": "Q7338688",
+    "name": "Rivertown",
+    "cat": "amusementPark",
+    "lon": 153.317,
+    "lat": -27.8633
+  },
+  {
+    "wikiId": "Q7338762",
+    "name": "Riverview Park (Baltimore)",
+    "cat": "amusementPark",
+    "lon": -76.5439,
+    "lat": 39.2603
+  },
+  {
+    "wikiId": "Q7352467",
+    "name": "Robin Hill",
+    "cat": "amusementPark",
+    "lon": -1.24361,
+    "lat": 50.6878
+  },
+  {
+    "wikiId": "Q7354693",
+    "name": "Rock Springs Park",
+    "cat": "amusementPark",
+    "lon": -80.5628,
+    "lat": 40.6128
+  },
+  {
+    "wikiId": "Q7354964",
+    "name": "Rockaways' Playland",
+    "cat": "amusementPark",
+    "lon": -73.818611111,
+    "lat": 40.583888888
+  },
+  {
+    "wikiId": "Q7355788",
+    "name": "Rocky Glen Park",
+    "cat": "amusementPark",
+    "lon": -75.7084,
+    "lat": 41.3538
+  },
+  {
+    "wikiId": "Q7355818",
+    "name": "Rocky Hollow",
+    "cat": "amusementPark",
+    "lon": 153.316,
+    "lat": -27.8617
+  },
+  {
+    "wikiId": "Q7355970",
+    "name": "Rocky Point Amusement Park",
+    "cat": "amusementPark",
+    "lon": -71.3675,
+    "lat": 41.68916667
+  },
+  {
+    "wikiId": "Q7357566",
+    "name": "Roeding Park",
+    "cat": "amusementPark",
+    "lon": -119.822,
+    "lat": 36.7539
+  },
+  {
+    "wikiId": "Q7367805",
+    "name": "Rose Island",
+    "cat": "amusementPark",
+    "lon": -85.6172,
+    "lat": 38.43
+  },
+  {
+    "wikiId": "Q7368226",
+    "name": "Roseland Park",
+    "cat": "amusementPark",
+    "lon": -77.262075,
+    "lat": 42.874980555
+  },
+  {
+    "wikiId": "Q7379859",
+    "name": "Rungra People's Pleasure Ground",
+    "cat": "amusementPark",
+    "lon": 125.765757699,
+    "lat": 39.040511068
+  },
+  {
+    "wikiId": "Q7382688",
+    "name": "Rusutsu Resort",
+    "cat": "amusementPark",
+    "lon": 140.90329,
+    "lat": 42.74968
+  },
+  {
+    "wikiId": "Q7400110",
+    "name": "Kujukushima Pearl Sea Resort",
+    "cat": "amusementPark",
+    "lon": 129.67944444,
+    "lat": 33.16138889
+  },
+  {
+    "wikiId": "Q7404241",
+    "name": "Salem Willows",
+    "cat": "amusementPark",
+    "lon": -70.869475,
+    "lat": 42.53502222
+  },
+  {
+    "wikiId": "Q7419122",
+    "name": "Santa's Village",
+    "cat": "amusementPark",
+    "lon": -71.4958,
+    "lat": 44.4264
+  },
+  {
+    "wikiId": "Q7419125",
+    "name": "Santa's Village AZoosment Park",
+    "cat": "amusementPark",
+    "lon": -88.2598,
+    "lat": 42.0907
+  },
+  {
+    "wikiId": "Q7419126",
+    "name": "Santa's Village",
+    "cat": "amusementPark",
+    "lon": -117.175,
+    "lat": 34.2341
+  },
+  {
+    "wikiId": "Q7419128",
+    "name": "Santa's Workshop",
+    "cat": "amusementPark",
+    "lon": -73.8506,
+    "lat": 44.4
+  },
+  {
+    "wikiId": "Q7419129",
+    "name": "Santa's Workshop",
+    "cat": "amusementPark",
+    "lon": -104.977,
+    "lat": 38.9047
+  },
+  {
+    "wikiId": "Q7427647",
+    "name": "Sauzer's Kiddieland",
+    "cat": "amusementPark",
+    "lon": -87.4745,
+    "lat": 41.4921
+  },
+  {
+    "wikiId": "Q7439833",
+    "name": "SeaWorld Ohio",
+    "cat": "amusementPark",
+    "lon": -81.3692,
+    "lat": 41.3484
+  },
+  {
+    "wikiId": "Q7440208",
+    "name": "Seabreeze Amusement Park",
+    "cat": "amusementPark",
+    "lon": -77.5435,
+    "lat": 43.233
+  },
+  {
+    "wikiId": "Q7446173",
+    "name": "Sega World Sydney",
+    "cat": "amusementPark",
+    "lon": 151.202,
+    "lat": -33.8746
+  },
+  {
+    "wikiId": "Q7455979",
+    "name": "Sesame Place",
+    "cat": "amusementPark",
+    "lon": -74.871944444,
+    "lat": 40.185
+  },
+  {
+    "wikiId": "Q7457401",
+    "name": "Seven Seas Marine Life Park",
+    "cat": "amusementPark",
+    "lon": -97.0817,
+    "lat": 32.7567
+  },
+  {
+    "wikiId": "Q7460939",
+    "name": "Shady Lake Park",
+    "cat": "amusementPark",
+    "lon": -81.358333055,
+    "lat": 41.247221944
+  },
+  {
+    "wikiId": "Q7514811",
+    "name": "Silesian Amusement Park",
+    "cat": "amusementPark",
+    "lon": 18.990555,
+    "lat": 50.273763
+  },
+  {
+    "wikiId": "Q7515843",
+    "name": "Silver Beach Amusement Park",
+    "cat": "amusementPark",
+    "lon": -86.4875,
+    "lat": 42.1125
+  },
+  {
+    "wikiId": "Q7548363",
+    "name": "Snow World",
+    "cat": "amusementPark",
+    "lon": 78.48087,
+    "lat": 17.514877
+  },
+  {
+    "wikiId": "Q7569061",
+    "name": "South of the Border",
+    "cat": "amusementPark",
+    "lon": -79.3097,
+    "lat": 34.4978
+  },
+  {
+    "wikiId": "Q7569569",
+    "name": "Southern Adventures",
+    "cat": "amusementPark",
+    "lon": -86.5944,
+    "lat": 34.6969
+  },
+  {
+    "wikiId": "Q7572296",
+    "name": "Space City USA",
+    "cat": "amusementPark",
+    "lon": -86.7239,
+    "lat": 34.6658
+  },
+  {
+    "wikiId": "Q7573171",
+    "name": "Spanish City",
+    "cat": "amusementPark",
+    "lon": -1.44747,
+    "lat": 55.0476
+  },
+  {
+    "wikiId": "Q7577024",
+    "name": "Spider Hill",
+    "cat": "amusementPark",
+    "lon": -89.301313,
+    "lat": 40.533633
+  },
+  {
+    "wikiId": "Q7578402",
+    "name": "Splashmins Fun Park",
+    "cat": "amusementPark",
+    "lon": -58.1594,
+    "lat": 6.812080555
+  },
+  {
+    "wikiId": "Q7581147",
+    "name": "Springlake Amusement Park",
+    "cat": "amusementPark",
+    "lon": -97.4786,
+    "lat": 35.5131
+  },
+  {
+    "wikiId": "Q7600665",
+    "name": "Star City, Manila",
+    "cat": "amusementPark",
+    "lon": 120.986,
+    "lat": 14.556
+  },
+  {
+    "wikiId": "Q7602080",
+    "name": "Starlight Park",
+    "cat": "amusementPark",
+    "lon": -73.879,
+    "lat": 40.837
+  },
+  {
+    "wikiId": "Q7620441",
+    "name": "Storybook Land",
+    "cat": "amusementPark",
+    "lon": -74.5918,
+    "lat": 39.4236
+  },
+  {
+    "wikiId": "Q7620452",
+    "name": "Storyland",
+    "cat": "amusementPark",
+    "lon": -76.67,
+    "lat": 45.5592
+  },
+  {
+    "wikiId": "Q7623580",
+    "name": "Stricker's Grove",
+    "cat": "amusementPark",
+    "lon": -84.669167,
+    "lat": 39.295278
+  },
+  {
+    "wikiId": "Q7645710",
+    "name": "Surendrapuri",
+    "cat": "amusementPark",
+    "lon": 78.9444,
+    "lat": 17.565
+  },
+  {
+    "wikiId": "Q7674901",
+    "name": "Taesongsan Funfair",
+    "cat": "amusementPark",
+    "lon": 125.8283333,
+    "lat": 39.07444444
+  },
+  {
+    "wikiId": "Q7687236",
+    "name": "Tashmoo Park",
+    "cat": "amusementPark",
+    "lon": -82.5675,
+    "lat": 42.5795
+  },
+  {
+    "wikiId": "Q7714117",
+    "name": "The Aquatarium",
+    "cat": "amusementPark",
+    "lon": -82.749441,
+    "lat": 27.7347228
+  },
+  {
+    "wikiId": "Q7715977",
+    "name": "The Beachouse",
+    "cat": "amusementPark",
+    "lon": 138.511,
+    "lat": -34.9793
+  },
+  {
+    "wikiId": "Q7734333",
+    "name": "The Flambards Experience",
+    "cat": "amusementPark",
+    "lon": -5.258,
+    "lat": 50.092
+  },
+  {
+    "wikiId": "Q7751430",
+    "name": "The Milky Way Adventure Park",
+    "cat": "amusementPark",
+    "lon": -4.384,
+    "lat": 50.9804
+  },
+  {
+    "wikiId": "Q7754604",
+    "name": "The Oasis Exhibits",
+    "cat": "amusementPark",
+    "lon": -81.5903,
+    "lat": 28.3561
+  },
+  {
+    "wikiId": "Q7757103",
+    "name": "The Pike",
+    "cat": "amusementPark",
+    "lon": -118.189,
+    "lat": 33.7661
+  },
+  {
+    "wikiId": "Q7798170",
+    "name": "Thrill-Ville USA",
+    "cat": "amusementPark",
+    "lon": -123.009,
+    "lat": 44.8331
+  },
+  {
+    "wikiId": "Q7801922",
+    "name": "Tiki Gardens",
+    "cat": "amusementPark",
+    "lon": -82.845333333,
+    "lat": 27.854194444
+  },
+  {
+    "wikiId": "Q7801984",
+    "name": "Tikuji-Ni-Wadi",
+    "cat": "amusementPark",
+    "lon": 72.9695,
+    "lat": 19.237
+  },
+  {
+    "wikiId": "Q7804722",
+    "name": "Timbertown",
+    "cat": "amusementPark",
+    "lon": 152.713107,
+    "lat": -31.470357
+  },
+  {
+    "wikiId": "Q7818730",
+    "name": "Tombstone Junction",
+    "cat": "amusementPark",
+    "lon": -84.358,
+    "lat": 36.8348
+  },
+  {
+    "wikiId": "Q7827877",
+    "name": "Tosselilla Summer Park",
+    "cat": "amusementPark",
+    "lon": 13.906111111,
+    "lat": 55.553055555
+  },
+  {
+    "wikiId": "Q7833687",
+    "name": "Trans Studio Makassar",
+    "cat": "amusementPark",
+    "lon": 119.394,
+    "lat": -5.15968
+  },
+  {
+    "wikiId": "Q7842260",
+    "name": "Trimper's Rides",
+    "cat": "amusementPark",
+    "lon": -75.088,
+    "lat": 38.3267
+  },
+  {
+    "wikiId": "Q7906908",
+    "name": "VGP Universal Kingdom",
+    "cat": "amusementPark",
+    "lon": 80.2506,
+    "lat": 12.9142
+  },
+  {
+    "wikiId": "Q7927217",
+    "name": "Victorian Gardens",
+    "cat": "amusementPark",
+    "lon": -73.9773,
+    "lat": 40.7686
+  },
+  {
+    "wikiId": "Q7943581",
+    "name": "Vulqano Park",
+    "cat": "amusementPark",
+    "lon": -78.5182,
+    "lat": -0.191874
+  },
+  {
+    "wikiId": "Q7974547",
+    "name": "Waterville USA",
+    "cat": "amusementPark",
+    "lon": -87.686,
+    "lat": 30.259
+  },
+  {
+    "wikiId": "Q7979185",
+    "name": "Wedgewood Village Amusement Park",
+    "cat": "amusementPark",
+    "lon": -97.5936,
+    "lat": 35.54
+  },
+  {
+    "wikiId": "Q7986790",
+    "name": "West View Park",
+    "cat": "amusementPark",
+    "lon": -80.0346,
+    "lat": 40.5164
+  },
+  {
+    "wikiId": "Q7988171",
+    "name": "Western Playland",
+    "cat": "amusementPark",
+    "lon": -106.56,
+    "lat": 31.803
+  },
+  {
+    "wikiId": "Q7990579",
+    "name": "Whalom Park",
+    "cat": "amusementPark",
+    "lon": -71.7466,
+    "lat": 42.5756
+  },
+  {
+    "wikiId": "Q7994550",
+    "name": "White City",
+    "cat": "amusementPark",
+    "lon": -87.617,
+    "lat": 41.779
+  },
+  {
+    "wikiId": "Q7998455",
+    "name": "Wicksteed Park",
+    "cat": "amusementPark",
+    "lon": -0.703,
+    "lat": 52.385
+  },
+  {
+    "wikiId": "Q7999618",
+    "name": "ABC Kids World",
+    "cat": "amusementPark",
+    "lon": 153.318,
+    "lat": -27.8638
+  },
+  {
+    "wikiId": "Q8000861",
+    "name": "Wild Wild Wet",
+    "cat": "amusementPark",
+    "lon": 103.954,
+    "lat": 1.37722
+  },
+  {
+    "wikiId": "Q8001558",
+    "name": "Wildwood Amusement Park",
+    "cat": "amusementPark",
+    "lon": -92.959166666,
+    "lat": 45.056944444
+  },
+  {
+    "wikiId": "Q8021034",
+    "name": "Williams Grove Amusement Park",
+    "cat": "amusementPark",
+    "lon": -77.034,
+    "lat": 40.151
+  },
+  {
+    "wikiId": "Q8028953",
+    "name": "Wobbies World",
+    "cat": "amusementPark",
+    "lon": 145.174,
+    "lat": -37.8458
+  },
+  {
+    "wikiId": "Q8031892",
+    "name": "Wonderland Amusement Park",
+    "cat": "amusementPark",
+    "lon": 116.164,
+    "lat": 40.233
+  },
+  {
+    "wikiId": "Q8031893",
+    "name": "Wonderland Amusement Park",
+    "cat": "amusementPark",
+    "lon": -93.22569,
+    "lat": 44.946346
+  },
+  {
+    "wikiId": "Q8031897",
+    "name": "Wonderland City",
+    "cat": "amusementPark",
+    "lon": 151.271,
+    "lat": -33.8999
+  },
+  {
+    "wikiId": "Q8031906",
+    "name": "Wonderland Sydney",
+    "cat": "amusementPark",
+    "lon": 150.848,
+    "lat": -33.8012
+  },
+  {
+    "wikiId": "Q8032938",
+    "name": "Woodlands Family Theme Park",
+    "cat": "amusementPark",
+    "lon": -3.67158,
+    "lat": 50.3563
+  },
+  {
+    "wikiId": "Q8033284",
+    "name": "Woods of Terror",
+    "cat": "amusementPark",
+    "lon": -79.7849,
+    "lat": 36.1961
+  },
+  {
+    "wikiId": "Q8033549",
+    "name": "Woodward's Gardens",
+    "cat": "amusementPark",
+    "lon": -122.421,
+    "lat": 37.768
+  },
+  {
+    "wikiId": "Q8043423",
+    "name": "Xel-Ha Park",
+    "cat": "amusementPark",
+    "lon": -87.3568,
+    "lat": 20.3173
+  },
+  {
+    "wikiId": "Q8054626",
+    "name": "Yokohama Dreamland",
+    "cat": "amusementPark",
+    "lon": 139.495,
+    "lat": 35.383
+  },
+  {
+    "wikiId": "Q8082781",
+    "name": "Šikland",
+    "cat": "amusementPark",
+    "lon": 16.1674,
+    "lat": 49.4749
+  },
+  {
+    "wikiId": "Q8421505",
+    "name": "Lai Chi Kok Amusement Park",
+    "cat": "amusementPark",
+    "lon": 114.137,
+    "lat": 22.3426
+  },
+  {
+    "wikiId": "Q9055884",
+    "name": "Parque de Atracciones de Vizcaya",
+    "cat": "amusementPark",
+    "lon": -2.86638889,
+    "lat": 43.25388889
+  },
+  {
+    "wikiId": "Q10323036",
+    "name": "Magic City",
+    "cat": "amusementPark",
+    "lon": -46.31206111,
+    "lat": -23.70728056
+  },
+  {
+    "wikiId": "Q10330326",
+    "name": "Mini Mundo",
+    "cat": "amusementPark",
+    "lon": -50.87592222,
+    "lat": -29.38424722
+  },
+  {
+    "wikiId": "Q10333197",
+    "name": "Mundo a Vapor",
+    "cat": "amusementPark",
+    "lon": -50.837454,
+    "lat": -29.360572
+  },
+  {
+    "wikiId": "Q10345195",
+    "name": "Parque Mayer",
+    "cat": "amusementPark",
+    "lon": -9.146378,
+    "lat": 38.719324
+  },
+  {
+    "wikiId": "Q10345405",
+    "name": "Washuzan Highland",
+    "cat": "amusementPark",
+    "lon": 133.797917,
+    "lat": 34.446111
+  },
+  {
+    "wikiId": "Q10345444",
+    "name": "Parque da Mônica",
+    "cat": "amusementPark",
+    "lon": -46.69872,
+    "lat": -23.677185
+  },
+  {
+    "wikiId": "Q10500070",
+    "name": "Q10500070",
+    "cat": "amusementPark",
+    "lon": 12.34333333,
+    "lat": 57.06583333
+  },
+  {
+    "wikiId": "Q10500251",
+    "name": "Furuviksparken",
+    "cat": "amusementPark",
+    "lon": 17.33277778,
+    "lat": 60.65138889
+  },
+  {
+    "wikiId": "Q10516500",
+    "name": "Halmstad Adventure Park",
+    "cat": "amusementPark",
+    "lon": 12.81722222,
+    "lat": 56.66638889
+  },
+  {
+    "wikiId": "Q10523918",
+    "name": "High Chaparral Theme Park",
+    "cat": "amusementPark",
+    "lon": 13.82722222,
+    "lat": 57.26333333
+  },
+  {
+    "wikiId": "Q10542340",
+    "name": "Kabe sommarland",
+    "cat": "amusementPark",
+    "lon": 14.142881,
+    "lat": 57.763664
+  },
+  {
+    "wikiId": "Q10915745",
+    "name": "Taiwan Studio City",
+    "cat": "amusementPark",
+    "lon": 120.445,
+    "lat": 23.3156
+  },
+  {
+    "wikiId": "Q10938609",
+    "name": "Taroko Park",
+    "cat": "amusementPark",
+    "lon": 120.329666666,
+    "lat": 22.5835
+  },
+  {
+    "wikiId": "Q11073173",
+    "name": "Woozland",
+    "cat": "amusementPark",
+    "lon": 120.126051,
+    "lat": 23.06805
+  },
+  {
+    "wikiId": "Q11103446",
+    "name": "Q11103446",
+    "cat": "amusementPark",
+    "lon": 113.273911111,
+    "lat": 23.191211111
+  },
+  {
+    "wikiId": "Q11104296",
+    "name": "Tsung Yuen Sin Kwun",
+    "cat": "amusementPark",
+    "lon": 114.15588,
+    "lat": 22.45466
+  },
+  {
+    "wikiId": "Q11124693",
+    "name": "Happy Valley Wuhan",
+    "cat": "amusementPark",
+    "lon": 114.387222,
+    "lat": 30.591944
+  },
+  {
+    "wikiId": "Q11149522",
+    "name": "Waterlands Resort",
+    "cat": "amusementPark",
+    "lon": 113.77,
+    "lat": 22.73
+  },
+  {
+    "wikiId": "Q11175218",
+    "name": "Lihpao Land",
+    "cat": "amusementPark",
+    "lon": 120.695555555,
+    "lat": 24.3225
+  },
+  {
+    "wikiId": "Q11217612",
+    "name": "Boheminium",
+    "cat": "amusementPark",
+    "lon": 12.7208,
+    "lat": 49.9714
+  },
+  {
+    "wikiId": "Q11259842",
+    "name": "Q11259842",
+    "cat": "amusementPark",
+    "lon": 144.353888888,
+    "lat": 43.601944444
+  },
+  {
+    "wikiId": "Q11262875",
+    "name": "Yokohama Cosmo World",
+    "cat": "amusementPark",
+    "lon": 139.636681,
+    "lat": 35.455203
+  },
+  {
+    "wikiId": "Q11265813",
+    "name": "Grinpa",
+    "cat": "amusementPark",
+    "lon": 138.784508,
+    "lat": 35.294353
+  },
+  {
+    "wikiId": "Q11271553",
+    "name": "Dazaifu Amusement Park",
+    "cat": "amusementPark",
+    "lon": 130.536806,
+    "lat": 33.521139
+  },
+  {
+    "wikiId": "Q11273086",
+    "name": "Tokushima Family Land",
+    "cat": "amusementPark",
+    "lon": 134.518888888,
+    "lat": 34.013333333
+  },
+  {
+    "wikiId": "Q11273193",
+    "name": "Tochinoki Family Land",
+    "cat": "amusementPark",
+    "lon": 139.858528,
+    "lat": 36.512389
+  },
+  {
+    "wikiId": "Q11275410",
+    "name": "Q11275410",
+    "cat": "amusementPark",
+    "lon": 141.641527777,
+    "lat": 40.4765
+  },
+  {
+    "wikiId": "Q11279374",
+    "name": "Q11279374",
+    "cat": "amusementPark",
+    "lon": 133.3059444,
+    "lat": 34.42058333
+  },
+  {
+    "wikiId": "Q11279549",
+    "name": "Musashinomura",
+    "cat": "amusementPark",
+    "lon": 139.550444,
+    "lat": 36.137417
+  },
+  {
+    "wikiId": "Q11281524",
+    "name": "Luna Park",
+    "cat": "amusementPark",
+    "lon": 139.063069,
+    "lat": 36.3953
+  },
+  {
+    "wikiId": "Q11284539",
+    "name": "Hong Kong Aviation Discovery Centre",
+    "cat": "amusementPark",
+    "lon": 113.9376,
+    "lat": 22.3172
+  },
+  {
+    "wikiId": "Q11305817",
+    "name": "Q11305817",
+    "cat": "amusementPark",
+    "lon": 139.252833333,
+    "lat": 37.764916666
+  },
+  {
+    "wikiId": "Q11310142",
+    "name": "Q11310142",
+    "cat": "amusementPark",
+    "lon": 130.565,
+    "lat": 31.57
+  },
+  {
+    "wikiId": "Q11318121",
+    "name": "Q11318121",
+    "cat": "amusementPark",
+    "lon": 141.171678,
+    "lat": 38.760747
+  },
+  {
+    "wikiId": "Q11330326",
+    "name": "Hiruzen Kōgen Center",
+    "cat": "amusementPark",
+    "lon": 133.635336,
+    "lat": 35.290889
+  },
+  {
+    "wikiId": "Q11341148",
+    "name": "Marina Hop",
+    "cat": "amusementPark",
+    "lon": 132.415,
+    "lat": 34.360389
+  },
+  {
+    "wikiId": "Q11342840",
+    "name": "Mirage Land",
+    "cat": "amusementPark",
+    "lon": 137.385833333,
+    "lat": 36.8
+  },
+  {
+    "wikiId": "Q11344287",
+    "name": "Mosaic Garden",
+    "cat": "amusementPark",
+    "lon": 135.184944,
+    "lat": 34.678556
+  },
+  {
+    "wikiId": "Q11346676",
+    "name": "Rakutenchi",
+    "cat": "amusementPark",
+    "lon": 131.481333,
+    "lat": 33.275167
+  },
+  {
+    "wikiId": "Q11350364",
+    "name": "Lost River Delta",
+    "cat": "amusementPark",
+    "lon": 139.881388888,
+    "lat": 35.626666666
+  },
+  {
+    "wikiId": "Q11352956",
+    "name": "Q11352956",
+    "cat": "amusementPark",
+    "lon": 132.874028,
+    "lat": 35.493194
+  },
+  {
+    "wikiId": "Q11376349",
+    "name": "Q11376349",
+    "cat": "amusementPark",
+    "lon": 133.644444444,
+    "lat": 34.194166666
+  },
+  {
+    "wikiId": "Q11383085",
+    "name": "Q11383085",
+    "cat": "amusementPark",
+    "lon": 136.269083333,
+    "lat": 35.274555555
+  },
+  {
+    "wikiId": "Q11391333",
+    "name": "Benyland",
+    "cat": "amusementPark",
+    "lon": 140.848611111,
+    "lat": 38.246666666
+  },
+  {
+    "wikiId": "Q11400686",
+    "name": "Kejonuma Leisure Land",
+    "cat": "amusementPark",
+    "lon": 140.966444444,
+    "lat": 38.632277777
+  },
+  {
+    "wikiId": "Q11402472",
+    "name": "Hokkaido Green Land",
+    "cat": "amusementPark",
+    "lon": 141.78,
+    "lat": 43.165833333
+  },
+  {
+    "wikiId": "Q11415200",
+    "name": "Nagoya Port Sea Train Land",
+    "cat": "amusementPark",
+    "lon": 136.878206,
+    "lat": 35.093578
+  },
+  {
+    "wikiId": "Q11415860",
+    "name": "Mukōgaoka-Yūen Amusement Park",
+    "cat": "amusementPark",
+    "lon": 139.571944,
+    "lat": 35.608889
+  },
+  {
+    "wikiId": "Q11435149",
+    "name": "Q11435149",
+    "cat": "amusementPark",
+    "lon": 137.309111111,
+    "lat": 36.606861111
+  },
+  {
+    "wikiId": "Q11474399",
+    "name": "Q11474399",
+    "cat": "amusementPark",
+    "lon": 141.190833333,
+    "lat": 39.701111111
+  },
+  {
+    "wikiId": "Q11492439",
+    "name": "Enakyo Wonderland",
+    "cat": "amusementPark",
+    "lon": 137.405972,
+    "lat": 35.488119
+  },
+  {
+    "wikiId": "Q11496930",
+    "name": "Tedori Fish Land",
+    "cat": "amusementPark",
+    "lon": 136.50925,
+    "lat": 36.459083
+  },
+  {
+    "wikiId": "Q11506471",
+    "name": "Japan Cycle Sports Center",
+    "cat": "amusementPark",
+    "lon": 139.01041667,
+    "lat": 35.00997222
+  },
+  {
+    "wikiId": "Q11506991",
+    "name": "Japan Monkey Park",
+    "cat": "amusementPark",
+    "lon": 136.953908,
+    "lat": 35.391447
+  },
+  {
+    "wikiId": "Q11527526",
+    "name": "Tobu Zoo",
+    "cat": "amusementPark",
+    "lon": 139.719722,
+    "lat": 36.020083
+  },
+  {
+    "wikiId": "Q11537258",
+    "name": "Kiryū-ga-oka Park",
+    "cat": "amusementPark",
+    "lon": 139.341,
+    "lat": 36.42372222
+  },
+  {
+    "wikiId": "Q11557598",
+    "name": "Hamanako Palpal",
+    "cat": "amusementPark",
+    "lon": 137.616708,
+    "lat": 34.763853
+  },
+  {
+    "wikiId": "Q11571173",
+    "name": "Q11571173",
+    "cat": "amusementPark",
+    "lon": 140.853111111,
+    "lat": 35.705333333
+  },
+  {
+    "wikiId": "Q11574916",
+    "name": "Ikoma Sanjō Amusement Park",
+    "cat": "amusementPark",
+    "lon": 135.678861,
+    "lat": 34.679556
+  },
+  {
+    "wikiId": "Q11577981",
+    "name": "Q11577981",
+    "cat": "amusementPark",
+    "lon": 136.108527777,
+    "lat": 34.953
+  },
+  {
+    "wikiId": "Q11628910",
+    "name": "Seibu-en",
+    "cat": "amusementPark",
+    "lon": 139.442194,
+    "lat": 35.768306
+  },
+  {
+    "wikiId": "Q11633027",
+    "name": "Yatsu Yūen",
+    "cat": "amusementPark",
+    "lon": 140.005556,
+    "lat": 35.680861
+  },
+  {
+    "wikiId": "Q11635438",
+    "name": "Q11635438",
+    "cat": "amusementPark",
+    "lon": 133.305111111,
+    "lat": 34.4765
+  },
+  {
+    "wikiId": "Q11641304",
+    "name": "Roadside station Ai-land Yubetsu",
+    "cat": "amusementPark",
+    "lon": 143.719222222,
+    "lat": 44.13075
+  },
+  {
+    "wikiId": "Q11643134",
+    "name": "Kōriyama Culture Park",
+    "cat": "amusementPark",
+    "lon": 140.32886111,
+    "lat": 37.36669444
+  },
+  {
+    "wikiId": "Q11652324",
+    "name": "Nagasaki Holland Village",
+    "cat": "amusementPark",
+    "lon": 129.757467,
+    "lat": 32.997006
+  },
+  {
+    "wikiId": "Q11656208",
+    "name": "Kansai Cycle Sports Center",
+    "cat": "amusementPark",
+    "lon": 135.529806,
+    "lat": 34.413167
+  },
+  {
+    "wikiId": "Q11669123",
+    "name": "Takakanonuma Greenland",
+    "cat": "amusementPark",
+    "lon": 140.519166666,
+    "lat": 37.805
+  },
+  {
+    "wikiId": "Q11764257",
+    "name": "Lunapark, Łódź",
+    "cat": "amusementPark",
+    "lon": 19.41125278,
+    "lat": 51.76993889
+  },
+  {
+    "wikiId": "Q11811636",
+    "name": "Q11811636",
+    "cat": "amusementPark",
+    "lon": 18.2931,
+    "lat": 49.8312
+  },
+  {
+    "wikiId": "Q11860264",
+    "name": "Gagarin Park",
+    "cat": "amusementPark",
+    "lon": 30.335124197,
+    "lat": 59.867763178
+  },
+  {
+    "wikiId": "Q11887861",
+    "name": "Peukkula",
+    "cat": "amusementPark",
+    "lon": 25.813794,
+    "lat": 62.235983
+  },
+  {
+    "wikiId": "Q11889195",
+    "name": "Puuhapuisto Veijari",
+    "cat": "amusementPark",
+    "lon": 25.173611,
+    "lat": 62.740278
+  },
+  {
+    "wikiId": "Q11938462",
+    "name": "Naturland",
+    "cat": "amusementPark",
+    "lon": 1.52833333,
+    "lat": 42.44138889
+  },
+  {
+    "wikiId": "Q12042579",
+    "name": "Olympia Brno",
+    "cat": "amusementPark",
+    "lon": 16.6332,
+    "lat": 49.1377
+  },
+  {
+    "wikiId": "Q12060768",
+    "name": "International Street (Canada's Wonderland)",
+    "cat": "amusementPark",
+    "lon": -79.5419,
+    "lat": 43.8425
+  },
+  {
+    "wikiId": "Q12064464",
+    "name": "Norumbega Park",
+    "cat": "amusementPark",
+    "lon": -71.2602,
+    "lat": 42.3462
+  },
+  {
+    "wikiId": "Q12066678",
+    "name": "Quassy Amusement Park",
+    "cat": "amusementPark",
+    "lon": -73.1504,
+    "lat": 41.5271
+  },
+  {
+    "wikiId": "Q12191277",
+    "name": "Pharaonic Village",
+    "cat": "amusementPark",
+    "lon": 31.215216,
+    "lat": 29.997295
+  },
+  {
+    "wikiId": "Q12205434",
+    "name": "Baghdad Island Park",
+    "cat": "amusementPark",
+    "lon": 44.3435,
+    "lat": 33.4417
+  },
+  {
+    "wikiId": "Q12211738",
+    "name": "Dream Park",
+    "cat": "amusementPark",
+    "lon": 31.0592,
+    "lat": 29.9669
+  },
+  {
+    "wikiId": "Q12301022",
+    "name": "Alhambra Copenhagen",
+    "cat": "amusementPark",
+    "lon": 12.5448,
+    "lat": 55.6745
+  },
+  {
+    "wikiId": "Q12313234",
+    "name": "Q12313234",
+    "cat": "amusementPark",
+    "lon": 10.3714,
+    "lat": 55.3785
+  },
+  {
+    "wikiId": "Q12336409",
+    "name": "Q12336409",
+    "cat": "amusementPark",
+    "lon": 11.6106,
+    "lat": 55.8963
+  },
+  {
+    "wikiId": "Q12336411",
+    "name": "Sommerland Syd",
+    "cat": "amusementPark",
+    "lon": 9.18083,
+    "lat": 54.963
+  },
+  {
+    "wikiId": "Q12583900",
+    "name": "Gyeongju World",
+    "cat": "amusementPark",
+    "lon": 129.2806942,
+    "lat": 35.8355876
+  },
+  {
+    "wikiId": "Q13115104",
+    "name": "Silverstorm Water Theam Park",
+    "cat": "amusementPark",
+    "lon": 76.477001,
+    "lat": 10.294868
+  },
+  {
+    "wikiId": "Q13747154",
+    "name": "Q13747154",
+    "cat": "amusementPark",
+    "lon": 6.784802777,
+    "lat": 52.192586111
+  },
+  {
+    "wikiId": "Q14505646",
+    "name": "Happy Valley Tianjin",
+    "cat": "amusementPark",
+    "lon": 117.460858,
+    "lat": 39.188304
+  },
+  {
+    "wikiId": "Q14680542",
+    "name": "Legend City",
+    "cat": "amusementPark",
+    "lon": -111.958,
+    "lat": 33.447
+  },
+  {
+    "wikiId": "Q14683272",
+    "name": "Marine World/Africa USA",
+    "cat": "amusementPark",
+    "lon": -122.265,
+    "lat": 37.53166667
+  },
+  {
+    "wikiId": "Q14684248",
+    "name": "Waterworld California",
+    "cat": "amusementPark",
+    "lon": -122.052,
+    "lat": 37.9711
+  },
+  {
+    "wikiId": "Q14685852",
+    "name": "Dinosaur World",
+    "cat": "amusementPark",
+    "lon": -82.18949,
+    "lat": 28.02873
+  },
+  {
+    "wikiId": "Q14686684",
+    "name": "Joyland",
+    "cat": "amusementPark",
+    "lon": -84.3964,
+    "lat": 33.712
+  },
+  {
+    "wikiId": "Q14704940",
+    "name": "Levi Carter Park",
+    "cat": "amusementPark",
+    "lon": -95.9264,
+    "lat": 41.3025
+  },
+  {
+    "wikiId": "Q14705697",
+    "name": "Land of Make Believe (amusement park)",
+    "cat": "amusementPark",
+    "lon": -74.959,
+    "lat": 40.902
+  },
+  {
+    "wikiId": "Q14706862",
+    "name": "Magic Towne House",
+    "cat": "amusementPark",
+    "lon": -73.9661,
+    "lat": 40.7627
+  },
+  {
+    "wikiId": "Q14709151",
+    "name": "Oaks Amusement Park",
+    "cat": "amusementPark",
+    "lon": -122.661,
+    "lat": 45.473
+  },
+  {
+    "wikiId": "Q14874458",
+    "name": "NTUC Downtown East",
+    "cat": "amusementPark",
+    "lon": 103.954,
+    "lat": 1.37639
+  },
+  {
+    "wikiId": "Q14935735",
+    "name": "Magic Mountain, Glenelg",
+    "cat": "amusementPark",
+    "lon": 138.511,
+    "lat": -34.9792
+  },
+  {
+    "wikiId": "Q15078111",
+    "name": "Vialand",
+    "cat": "amusementPark",
+    "lon": 28.922099,
+    "lat": 41.070317
+  },
+  {
+    "wikiId": "Q15178220",
+    "name": "Adrenalin Quarry",
+    "cat": "amusementPark",
+    "lon": -4.446,
+    "lat": 50.417
+  },
+  {
+    "wikiId": "Q15196871",
+    "name": "Barry Island Pleasure Park",
+    "cat": "amusementPark",
+    "lon": -3.2753,
+    "lat": 51.3914
+  },
+  {
+    "wikiId": "Q15206076",
+    "name": "Bushkill Park",
+    "cat": "amusementPark",
+    "lon": -75.25407,
+    "lat": 40.70149
+  },
+  {
+    "wikiId": "Q15222992",
+    "name": "Harbour Park",
+    "cat": "amusementPark",
+    "lon": -0.541323,
+    "lat": 50.80346
+  },
+  {
+    "wikiId": "Q15223439",
+    "name": "Heartlands (playground)",
+    "cat": "amusementPark",
+    "lon": -5.27464,
+    "lat": 50.22273
+  },
+  {
+    "wikiId": "Q15229708",
+    "name": "Jolly Roger Amusement Park",
+    "cat": "amusementPark",
+    "lon": -75.07652778,
+    "lat": 38.35994444
+  },
+  {
+    "wikiId": "Q15242976",
+    "name": "Loudoun Castle (theme park)",
+    "cat": "amusementPark",
+    "lon": -4.37279,
+    "lat": 55.61061
+  },
+  {
+    "wikiId": "Q15275165",
+    "name": "Santa's Village (Scotts Valley)",
+    "cat": "amusementPark",
+    "lon": -121.997401,
+    "lat": 37.065433
+  },
+  {
+    "wikiId": "Q15503298",
+    "name": "Pombia Safari Park",
+    "cat": "amusementPark",
+    "lon": 8.63333,
+    "lat": 45.65
+  },
+  {
+    "wikiId": "Q16255793",
+    "name": "The World of Sid and Marty Krofft",
+    "cat": "amusementPark",
+    "lon": -84.3944,
+    "lat": 33.7581
+  },
+  {
+    "wikiId": "Q16258099",
+    "name": "Chimelong Ocean Kingdom",
+    "cat": "amusementPark",
+    "lon": 113.53,
+    "lat": 22.1001
+  },
+  {
+    "wikiId": "Q16259504",
+    "name": "New World Amusement Park",
+    "cat": "amusementPark",
+    "lon": 103.857916666,
+    "lat": 1.310277777
+  },
+  {
+    "wikiId": "Q16668916",
+    "name": "Parc du Bocasse",
+    "cat": "amusementPark",
+    "lon": 1.079,
+    "lat": 49.6018
+  },
+  {
+    "wikiId": "Q16892595",
+    "name": "Ice Wonderland",
+    "cat": "amusementPark",
+    "lon": 96.1666,
+    "lat": 16.7955
+  },
+  {
+    "wikiId": "Q16901922",
+    "name": "Trans Studios Samarinda",
+    "cat": "amusementPark",
+    "lon": 117.144,
+    "lat": -0.491
+  },
+  {
+    "wikiId": "Q16902166",
+    "name": "Twinlakes Theme Park",
+    "cat": "amusementPark",
+    "lon": -0.8582,
+    "lat": 52.7835
+  },
+  {
+    "wikiId": "Q16919785",
+    "name": "Paxtang Park",
+    "cat": "amusementPark",
+    "lon": -76.832,
+    "lat": 40.2562
+  },
+  {
+    "wikiId": "Q16944423",
+    "name": "WaterWorks Park",
+    "cat": "amusementPark",
+    "lon": -122.368423,
+    "lat": 40.612099
+  },
+  {
+    "wikiId": "Q16956652",
+    "name": "White City",
+    "cat": "amusementPark",
+    "lon": -122.4146106,
+    "lat": 48.7667769
+  },
+  {
+    "wikiId": "Q16973337",
+    "name": "Daytona Beach Boardwalk",
+    "cat": "amusementPark",
+    "lon": -81.00774,
+    "lat": 29.22787
+  },
+  {
+    "wikiId": "Q16994390",
+    "name": "Grand Texas Theme Park",
+    "cat": "amusementPark",
+    "lon": -95.200088,
+    "lat": 30.194569
+  },
+  {
+    "wikiId": "Q17020373",
+    "name": "Marshal Scotty's Playland Park",
+    "cat": "amusementPark",
+    "lon": -116.884072,
+    "lat": 32.842267
+  },
+  {
+    "wikiId": "Q17026182",
+    "name": "Summer Waves",
+    "cat": "amusementPark",
+    "lon": -81.420763028,
+    "lat": 31.037659703
+  },
+  {
+    "wikiId": "Q17039985",
+    "name": "Woodside Amusement Park",
+    "cat": "amusementPark",
+    "lon": -75.2115,
+    "lat": 39.9993
+  },
+  {
+    "wikiId": "Q17062738",
+    "name": "Netherworld Haunted House",
+    "cat": "amusementPark",
+    "lon": -84.11867,
+    "lat": 33.81878
+  },
+  {
+    "wikiId": "Q17064913",
+    "name": "White Swan Park",
+    "cat": "amusementPark",
+    "lon": -80.2,
+    "lat": 40.468
+  },
+  {
+    "wikiId": "Q17191904",
+    "name": "Arakawa Amusement Park",
+    "cat": "amusementPark",
+    "lon": 139.758611,
+    "lat": 35.753611
+  },
+  {
+    "wikiId": "Q17216562",
+    "name": "Haikara't Yokocho",
+    "cat": "amusementPark",
+    "lon": 130.941222222,
+    "lat": 33.953083333
+  },
+  {
+    "wikiId": "Q17312081",
+    "name": "Alhambra",
+    "cat": "amusementPark",
+    "lon": 9.46593,
+    "lat": 55.4852
+  },
+  {
+    "wikiId": "Q17333518",
+    "name": "Sochi Park",
+    "cat": "amusementPark",
+    "lon": 39.964354,
+    "lat": 43.404536
+  },
+  {
+    "wikiId": "Q18124894",
+    "name": "Foreigners' Street",
+    "cat": "amusementPark",
+    "lon": 106.598,
+    "lat": 29.613
+  },
+  {
+    "wikiId": "Q18158723",
+    "name": "The Beach",
+    "cat": "amusementPark",
+    "lon": -106.613,
+    "lat": 35.1323
+  },
+  {
+    "wikiId": "Q18162392",
+    "name": "Southport Model Railway Village",
+    "cat": "amusementPark",
+    "lon": -3.0105,
+    "lat": 53.6487
+  },
+  {
+    "wikiId": "Q18206594",
+    "name": "IMG Worlds of Adventure",
+    "cat": "amusementPark",
+    "lon": 55.318055555,
+    "lat": 25.083055555
+  },
+  {
+    "wikiId": "Q18349395",
+    "name": "Hidden Valley Discovery Park",
+    "cat": "amusementPark",
+    "lon": -4.43533,
+    "lat": 50.6369
+  },
+  {
+    "wikiId": "Q18379094",
+    "name": "Brocklands Adventure Park",
+    "cat": "amusementPark",
+    "lon": -4.48785,
+    "lat": 50.8755
+  },
+  {
+    "wikiId": "Q18389254",
+    "name": "The Big Sheep",
+    "cat": "amusementPark",
+    "lon": -4.24402,
+    "lat": 51.0157
+  },
+  {
+    "wikiId": "Q18392862",
+    "name": "Starin's Glen Island",
+    "cat": "amusementPark",
+    "lon": -73.7838,
+    "lat": 40.8852
+  },
+  {
+    "wikiId": "Q18465807",
+    "name": "Cidade da Criança",
+    "cat": "amusementPark",
+    "lon": -46.5572864,
+    "lat": -23.687825
+  },
+  {
+    "wikiId": "Q18589096",
+    "name": "ZDT's Amusement Park",
+    "cat": "amusementPark",
+    "lon": -97.967,
+    "lat": 29.58
+  },
+  {
+    "wikiId": "Q18689686",
+    "name": "Neula",
+    "cat": "amusementPark",
+    "lon": 23.74388889,
+    "lat": 61.50527778
+  },
+  {
+    "wikiId": "Q18712212",
+    "name": "EVP World",
+    "cat": "amusementPark",
+    "lon": 80.047,
+    "lat": 13.0343
+  },
+  {
+    "wikiId": "Q18770717",
+    "name": "Koningin Juliana Toren",
+    "cat": "amusementPark",
+    "lon": 5.91583,
+    "lat": 52.22694
+  },
+  {
+    "wikiId": "Q19298191",
+    "name": "Panarbora Park",
+    "cat": "amusementPark",
+    "lon": 7.6075,
+    "lat": 50.860277777
+  },
+  {
+    "wikiId": "Q19588537",
+    "name": "Fun Park Fyn",
+    "cat": "amusementPark",
+    "lon": 10.0407,
+    "lat": 55.4249
+  },
+  {
+    "wikiId": "Q19726842",
+    "name": "Jawa Timur Park",
+    "cat": "amusementPark",
+    "lon": 112.52491,
+    "lat": -7.88412
+  },
+  {
+    "wikiId": "Q19851614",
+    "name": "Shanghai Haichang Ocean Park",
+    "cat": "amusementPark",
+    "lon": 121.902388888,
+    "lat": 30.915361111
+  },
+  {
+    "wikiId": "Q19864620",
+    "name": "Luna Park",
+    "cat": "amusementPark",
+    "lon": -73.978479,
+    "lat": 40.573968
+  },
+  {
+    "wikiId": "Q19864760",
+    "name": "Cirque du Soleil Theme Park",
+    "cat": "amusementPark",
+    "lon": -105.265,
+    "lat": 20.695
+  },
+  {
+    "wikiId": "Q19874758",
+    "name": "Joyland",
+    "cat": "amusementPark",
+    "lon": 1.74966,
+    "lat": 52.6078
+  },
+  {
+    "wikiId": "Q19875325",
+    "name": "Luna Park Glenelg",
+    "cat": "amusementPark",
+    "lon": 138.511,
+    "lat": -34.9792
+  },
+  {
+    "wikiId": "Q19962434",
+    "name": "Freizeitpark Kirchhorst",
+    "cat": "amusementPark",
+    "lon": 9.925,
+    "lat": 52.45
+  },
+  {
+    "wikiId": "Q20011458",
+    "name": "Savin Rock Amusement Park",
+    "cat": "amusementPark",
+    "lon": -72.95,
+    "lat": 41.257
+  },
+  {
+    "wikiId": "Q20205235",
+    "name": "Mini Magyarország",
+    "cat": "amusementPark",
+    "lon": 20.532527777,
+    "lat": 46.878527777
+  },
+  {
+    "wikiId": "Q20645686",
+    "name": "Wenona Beach Amusement Park",
+    "cat": "amusementPark",
+    "lon": -83.9744,
+    "lat": 43.5841
+  },
+  {
+    "wikiId": "Q20669792",
+    "name": "Q20669792",
+    "cat": "amusementPark",
+    "lon": -2.89262,
+    "lat": 47.8905
+  },
+  {
+    "wikiId": "Q20669824",
+    "name": "Parc Spirou",
+    "cat": "amusementPark",
+    "lon": 4.966632,
+    "lat": 44.022107
+  },
+  {
+    "wikiId": "Q20669825",
+    "name": "Parc des Combes",
+    "cat": "amusementPark",
+    "lon": 4.41166,
+    "lat": 46.8124
+  },
+  {
+    "wikiId": "Q20713704",
+    "name": "GreenWood",
+    "cat": "amusementPark",
+    "lon": -4.19583333,
+    "lat": 53.18055556
+  },
+  {
+    "wikiId": "Q20714544",
+    "name": "Bedrock City",
+    "cat": "amusementPark",
+    "lon": -112.140127,
+    "lat": 35.654056
+  },
+  {
+    "wikiId": "Q20746299",
+    "name": "San Francisco Dungeon",
+    "cat": "amusementPark",
+    "lon": -122.41479,
+    "lat": 37.80823
+  },
+  {
+    "wikiId": "Q20819471",
+    "name": "Romon U-Park",
+    "cat": "amusementPark",
+    "lon": 121.544202,
+    "lat": 29.799412
+  },
+  {
+    "wikiId": "Q20971849",
+    "name": "Tayto Park",
+    "cat": "amusementPark",
+    "lon": -6.459375,
+    "lat": 53.545377
+  },
+  {
+    "wikiId": "Q21139624",
+    "name": "Taipei Children's Amusement Park",
+    "cat": "amusementPark",
+    "lon": 121.515,
+    "lat": 25.0972
+  },
+  {
+    "wikiId": "Q21481332",
+    "name": "Q21481332",
+    "cat": "amusementPark",
+    "lon": -87.125278,
+    "lat": 20.592778
+  },
+  {
+    "wikiId": "Q21490962",
+    "name": "Styrassic Park",
+    "cat": "amusementPark",
+    "lon": 15.8856,
+    "lat": 46.8907
+  },
+  {
+    "wikiId": "Q21993283",
+    "name": "Takamori Spring Tunnel Park",
+    "cat": "amusementPark",
+    "lon": 131.122694444,
+    "lat": 32.813555555
+  },
+  {
+    "wikiId": "Q21995365",
+    "name": "Yas Waterworld Abu Dhabi",
+    "cat": "amusementPark",
+    "lon": 54.599722222,
+    "lat": 24.488055555
+  },
+  {
+    "wikiId": "Q22080800",
+    "name": "Dreamworld Africana",
+    "cat": "amusementPark",
+    "lon": 3.6015207,
+    "lat": 6.4589849
+  },
+  {
+    "wikiId": "Q23058301",
+    "name": "Hi-Impact Planet",
+    "cat": "amusementPark",
+    "lon": 3.419469,
+    "lat": 6.728187
+  },
+  {
+    "wikiId": "Q23805582",
+    "name": "Energylandia",
+    "cat": "amusementPark",
+    "lon": 19.409,
+    "lat": 50
+  },
+  {
+    "wikiId": "Q23823579",
+    "name": "Motiongate",
+    "cat": "amusementPark",
+    "lon": 55.0029,
+    "lat": 24.9214
+  },
+  {
+    "wikiId": "Q23905885",
+    "name": "Orbi",
+    "cat": "amusementPark",
+    "lon": 139.632194444,
+    "lat": 35.45725
+  },
+  {
+    "wikiId": "Q23926547",
+    "name": "Funland",
+    "cat": "amusementPark",
+    "lon": -0.985,
+    "lat": 50.785
+  },
+  {
+    "wikiId": "Q23994724",
+    "name": "Fun Spot",
+    "cat": "amusementPark",
+    "lon": -81.5148,
+    "lat": 28.3306
+  },
+  {
+    "wikiId": "Q23994725",
+    "name": "Fun Sport America-Kissimmee",
+    "cat": "amusementPark",
+    "lon": -81.514558,
+    "lat": 28.330285
+  },
+  {
+    "wikiId": "Q24024536",
+    "name": "Q24024536",
+    "cat": "amusementPark",
+    "lon": -15.70999,
+    "lat": 27.78902
+  },
+  {
+    "wikiId": "Q24534520",
+    "name": "EnterTRAINment Junction",
+    "cat": "amusementPark",
+    "lon": -84.375111111,
+    "lat": 39.351222222
+  },
+  {
+    "wikiId": "Q24886996",
+    "name": "Apapa Amusement Park",
+    "cat": "amusementPark",
+    "lon": 3.36650039,
+    "lat": 6.44377145
+  },
+  {
+    "wikiId": "Q25056751",
+    "name": "Trans Wonderland",
+    "cat": "amusementPark",
+    "lon": 3.947,
+    "lat": 7.3775
+  },
+  {
+    "wikiId": "Q25212072",
+    "name": "Worlds of Wonder",
+    "cat": "amusementPark",
+    "lon": 77.3255,
+    "lat": 28.5633
+  },
+  {
+    "wikiId": "Q25395425",
+    "name": "Dream Island amusement park",
+    "cat": "amusementPark",
+    "lon": 37.668538,
+    "lat": 55.693724
+  },
+  {
+    "wikiId": "Q25454945",
+    "name": "Avalon Park",
+    "cat": "amusementPark",
+    "lon": 20.7322602,
+    "lat": 48.0649334
+  },
+  {
+    "wikiId": "Q26267473",
+    "name": "Precious Moments Park and Chapel",
+    "cat": "amusementPark",
+    "lon": -94.34529,
+    "lat": 37.11184
+  },
+  {
+    "wikiId": "Q26768721",
+    "name": "Miniland Luna Park",
+    "cat": "amusementPark",
+    "lon": 34.960833333,
+    "lat": 29.549444444
+  },
+  {
+    "wikiId": "Q27070226",
+    "name": "Rumah Katu Marine Park",
+    "cat": "amusementPark",
+    "lon": 120.55055556,
+    "lat": -1.35888889
+  },
+  {
+    "wikiId": "Q27963797",
+    "name": "Universal Studios Moscow",
+    "cat": "amusementPark",
+    "lon": 37.593176,
+    "lat": 55.577775
+  },
+  {
+    "wikiId": "Q28004709",
+    "name": "SeaWorld Abu Dhabi",
+    "cat": "amusementPark",
+    "lon": 54.618535,
+    "lat": 24.485668
+  },
+  {
+    "wikiId": "Q28041086",
+    "name": "Legoland Dubai",
+    "cat": "amusementPark",
+    "lon": 55.01007,
+    "lat": 24.91907
+  },
+  {
+    "wikiId": "Q28178720",
+    "name": "Heritage Square",
+    "cat": "amusementPark",
+    "lon": 72.821111111,
+    "lat": 21.196944444
+  },
+  {
+    "wikiId": "Q28224500",
+    "name": "Happy Valley Chongqing",
+    "cat": "amusementPark",
+    "lon": 106.508221,
+    "lat": 29.684553
+  },
+  {
+    "wikiId": "Q28368855",
+    "name": "Dry Gulch, U.S.A.",
+    "cat": "amusementPark",
+    "lon": -95.140366,
+    "lat": 36.38481
+  },
+  {
+    "wikiId": "Q28449757",
+    "name": "Ocean Park Ha Long",
+    "cat": "amusementPark",
+    "lon": 107.049652,
+    "lat": 20.955479
+  },
+  {
+    "wikiId": "Q28687449",
+    "name": "Q28687449",
+    "cat": "amusementPark",
+    "lon": 130.777666666,
+    "lat": 32.774361111
+  },
+  {
+    "wikiId": "Q28859877",
+    "name": "Centrum Eden",
+    "cat": "amusementPark",
+    "lon": 16.247695277,
+    "lat": 49.515694444
+  },
+  {
+    "wikiId": "Q28963407",
+    "name": "Ferrari Land",
+    "cat": "amusementPark",
+    "lon": 1.152287719,
+    "lat": 41.085448888
+  },
+  {
+    "wikiId": "Q29025039",
+    "name": "Gay World Amusement Park",
+    "cat": "amusementPark",
+    "lon": 103.87375,
+    "lat": 1.310583333
+  },
+  {
+    "wikiId": "Q29096592",
+    "name": "Enchanted Island Amusement Park",
+    "cat": "amusementPark",
+    "lon": -112.0887,
+    "lat": 33.4738
+  },
+  {
+    "wikiId": "Q29469142",
+    "name": "Six Flags Zhejiang",
+    "cat": "amusementPark",
+    "lon": 120.985277777,
+    "lat": 30.547777777
+  },
+  {
+    "wikiId": "Q29641514",
+    "name": "Six Gun Territory",
+    "cat": "amusementPark",
+    "lon": -82.068949,
+    "lat": 29.209852
+  },
+  {
+    "wikiId": "Q29870599",
+    "name": "Cardoland",
+    "cat": "amusementPark",
+    "lon": 3.669162,
+    "lat": 47.457936
+  },
+  {
+    "wikiId": "Q30527235",
+    "name": "Q30527235",
+    "cat": "amusementPark",
+    "lon": 34.970555555,
+    "lat": 29.601111111
+  },
+  {
+    "wikiId": "Q30527242",
+    "name": "Q30527242",
+    "cat": "amusementPark",
+    "lon": 34.978055555,
+    "lat": 29.575
+  },
+  {
+    "wikiId": "Q30590075",
+    "name": "Warner Bros. World Abu Dhabi",
+    "cat": "amusementPark",
+    "lon": 54.60002,
+    "lat": 24.49197
+  },
+  {
+    "wikiId": "Q30716992",
+    "name": "Dreamland",
+    "cat": "amusementPark",
+    "lon": -73.9784,
+    "lat": 40.574
+  },
+  {
+    "wikiId": "Q33262691",
+    "name": "Bollywood Parks Dubai",
+    "cat": "amusementPark",
+    "lon": 55.010102,
+    "lat": 24.922107
+  },
+  {
+    "wikiId": "Q34808702",
+    "name": "Aquaboggan Park",
+    "cat": "amusementPark",
+    "lon": -70.425833333,
+    "lat": 43.534722222
+  },
+  {
+    "wikiId": "Q36698368",
+    "name": "Q36698368",
+    "cat": "amusementPark",
+    "lon": 6.576111111,
+    "lat": 43.261111111
+  },
+  {
+    "wikiId": "Q37813516",
+    "name": "Q37813516",
+    "cat": "amusementPark",
+    "lon": 17.145346,
+    "lat": 48.157331
+  },
+  {
+    "wikiId": "Q38250764",
+    "name": "Hydro Adventures",
+    "cat": "amusementPark",
+    "lon": -90.40243778,
+    "lat": 36.73255167
+  },
+  {
+    "wikiId": "Q39058139",
+    "name": "Huck Finn's Playland",
+    "cat": "amusementPark",
+    "lon": -73.738568,
+    "lat": 42.663752
+  },
+  {
+    "wikiId": "Q41776580",
+    "name": "Visulahti",
+    "cat": "amusementPark",
+    "lon": 27.343436111,
+    "lat": 61.700808333
+  },
+  {
+    "wikiId": "Q42347648",
+    "name": "Sunnyland",
+    "cat": "amusementPark",
+    "lon": 18.414802777,
+    "lat": 43.841952777
+  },
+  {
+    "wikiId": "Q48750896",
+    "name": "Babyland-Amiland",
+    "cat": "amusementPark",
+    "lon": 2.515555555,
+    "lat": 48.592222222
+  },
+  {
+    "wikiId": "Q48767387",
+    "name": "Six Flags Power Plant",
+    "cat": "amusementPark",
+    "lon": -76.6075,
+    "lat": 39.286111111
+  },
+  {
+    "wikiId": "Q48778741",
+    "name": "Columbia Gardens",
+    "cat": "amusementPark",
+    "lon": -112.4641851,
+    "lat": 46.0065933
+  },
+  {
+    "wikiId": "Q48780971",
+    "name": "Adventure Park USA",
+    "cat": "amusementPark",
+    "lon": -77.278179,
+    "lat": 39.379388
+  },
+  {
+    "wikiId": "Q49494388",
+    "name": "Golden City Amusement Park",
+    "cat": "amusementPark",
+    "lon": -73.885833333,
+    "lat": 40.63
+  },
+  {
+    "wikiId": "Q49521763",
+    "name": "Marine World",
+    "cat": "amusementPark",
+    "lon": -122.265,
+    "lat": 37.531388888
+  },
+  {
+    "wikiId": "Q49526168",
+    "name": "Q49526168",
+    "cat": "amusementPark",
+    "lon": 138.521944444,
+    "lat": 35.016111111
+  },
+  {
+    "wikiId": "Q49546890",
+    "name": "Puritas Springs Park",
+    "cat": "amusementPark",
+    "lon": -81.83708,
+    "lat": 41.43672
+  },
+  {
+    "wikiId": "Q49583389",
+    "name": "Shangrila Paradise",
+    "cat": "amusementPark",
+    "lon": 120.840277777,
+    "lat": 24.622777777
+  },
+  {
+    "wikiId": "Q51127878",
+    "name": "Camp Adventure",
+    "cat": "amusementPark",
+    "lon": 11.9802,
+    "lat": 55.2587
+  },
+  {
+    "wikiId": "Q51879583",
+    "name": "Attractiepark Sprookjeshof",
+    "cat": "amusementPark",
+    "lon": 6.688528,
+    "lat": 53.099361
+  },
+  {
+    "wikiId": "Q51880358",
+    "name": "Le Fleury",
+    "cat": "amusementPark",
+    "lon": 3.290601,
+    "lat": 50.274913
+  },
+  {
+    "wikiId": "Q53223645",
+    "name": "Riverside Miniature Railway",
+    "cat": "amusementPark",
+    "lon": -0.274902,
+    "lat": 52.224879
+  },
+  {
+    "wikiId": "Q54954056",
+    "name": "Avengers Campus",
+    "cat": "amusementPark",
+    "lon": -117.919,
+    "lat": 33.8121
+  },
+  {
+    "wikiId": "Q55604314",
+    "name": "Askari Amusement Park",
+    "cat": "amusementPark",
+    "lon": 67.06406,
+    "lat": 24.89454
+  },
+  {
+    "wikiId": "Q55604672",
+    "name": "Bada Forest Paradise",
+    "cat": "amusementPark",
+    "lon": 120.5575,
+    "lat": 22.54822222
+  },
+  {
+    "wikiId": "Q55622263",
+    "name": "Marriott's Great America (Maryland–Virginia)",
+    "cat": "amusementPark",
+    "lon": -77.570833333,
+    "lat": 38.805
+  },
+  {
+    "wikiId": "Q55630083",
+    "name": "Pixieland (Dartmoor)",
+    "cat": "amusementPark",
+    "lon": -3.882222222,
+    "lat": 50.546111111
+  },
+  {
+    "wikiId": "Q56277199",
+    "name": "Nayong Pilipino Clark",
+    "cat": "amusementPark",
+    "lon": 120.53,
+    "lat": 15.203
+  },
+  {
+    "wikiId": "Q56300348",
+    "name": "Hainan Ocean Paradise",
+    "cat": "amusementPark",
+    "lon": 110.043805555,
+    "lat": 18.445722222
+  },
+  {
+    "wikiId": "Q56438282",
+    "name": "Sioux Montana Ranch",
+    "cat": "amusementPark",
+    "lon": 6.693333333,
+    "lat": 51.394166666
+  },
+  {
+    "wikiId": "Q56676259",
+    "name": "Merrymeeting Park",
+    "cat": "amusementPark",
+    "lon": -69.9314899,
+    "lat": 43.9077887
+  },
+  {
+    "wikiId": "Q56824864",
+    "name": "Majaland Kownaty",
+    "cat": "amusementPark",
+    "lon": 15.081543,
+    "lat": 52.35
+  },
+  {
+    "wikiId": "Q58051219",
+    "name": "PortAventura Park",
+    "cat": "amusementPark",
+    "lon": 1.157777777,
+    "lat": 41.087777777
+  },
+  {
+    "wikiId": "Q58215249",
+    "name": "Krokodýlek",
+    "cat": "amusementPark",
+    "lon": 17.254356166,
+    "lat": 49.607571166
+  },
+  {
+    "wikiId": "Q60523244",
+    "name": "Vinnyajagat",
+    "cat": "amusementPark",
+    "lon": 89.1090506,
+    "lat": 25.8305871
+  },
+  {
+    "wikiId": "Q60745912",
+    "name": "Old Vegas",
+    "cat": "amusementPark",
+    "lon": -114.928359,
+    "lat": 35.995423
+  },
+  {
+    "wikiId": "Q60767896",
+    "name": "Changying Global 100 Fantasty Park",
+    "cat": "amusementPark",
+    "lon": 110.1947,
+    "lat": 19.9808
+  },
+  {
+    "wikiId": "Q60785738",
+    "name": "Gathering Place",
+    "cat": "amusementPark",
+    "lon": -95.984722222,
+    "lat": 36.124166666
+  },
+  {
+    "wikiId": "Q61427553",
+    "name": "Exalto",
+    "cat": "amusementPark",
+    "lon": 4.896305,
+    "lat": 45.78549
+  },
+  {
+    "wikiId": "Q61988391",
+    "name": "Q61988391",
+    "cat": "amusementPark",
+    "lon": 138.211666666,
+    "lat": 36.948888888
+  },
+  {
+    "wikiId": "Q63170507",
+    "name": "Q63170507",
+    "cat": "amusementPark",
+    "lon": 138.633055555,
+    "lat": 37.210833333
+  },
+  {
+    "wikiId": "Q65064627",
+    "name": "Universal Beijing Resort",
+    "cat": "amusementPark",
+    "lon": 116.6752,
+    "lat": 39.854
+  },
+  {
+    "wikiId": "Q65066849",
+    "name": "Tang Dynasty City",
+    "cat": "amusementPark",
+    "lon": 103.726111111,
+    "lat": 1.326472222
+  },
+  {
+    "wikiId": "Q65084188",
+    "name": "Nellie Bly Park",
+    "cat": "amusementPark",
+    "lon": -73.9946,
+    "lat": 40.5907
+  },
+  {
+    "wikiId": "Q65091795",
+    "name": "Saguna Baug",
+    "cat": "amusementPark",
+    "lon": 73.324359,
+    "lat": 19.041675
+  },
+  {
+    "wikiId": "Q65249005",
+    "name": "Q65249005",
+    "cat": "amusementPark",
+    "lon": 137.198222222,
+    "lat": 36.717694444
+  },
+  {
+    "wikiId": "Q65249749",
+    "name": "Manara cliff",
+    "cat": "amusementPark",
+    "lon": 35.558638888,
+    "lat": 33.19575
+  },
+  {
+    "wikiId": "Q65270961",
+    "name": "Kisarazu Ferris Wheel Park Kisarapia",
+    "cat": "amusementPark",
+    "lon": 139.932861111,
+    "lat": 35.438972222
+  },
+  {
+    "wikiId": "Q66048971",
+    "name": "Trans Studio Cibubur",
+    "cat": "amusementPark",
+    "lon": 106.901736,
+    "lat": -6.375656
+  },
+  {
+    "wikiId": "Q67883010",
+    "name": "Peter Park",
+    "cat": "amusementPark",
+    "lon": 12.695333333,
+    "lat": 43.866888888
+  },
+  {
+    "wikiId": "Q67957369",
+    "name": "Lucky Town",
+    "cat": "amusementPark",
+    "lon": 16.3031,
+    "lat": 47.2454
+  },
+  {
+    "wikiId": "Q68288240",
+    "name": "Mini Magyarország",
+    "cat": "amusementPark",
+    "lon": 18.032786,
+    "lat": 47.494929
+  },
+  {
+    "wikiId": "Q69317783",
+    "name": "Mola Casanova",
+    "cat": "amusementPark",
+    "lon": 12.332403,
+    "lat": 43.295174
+  },
+  {
+    "wikiId": "Q69655987",
+    "name": "Antibes Land",
+    "cat": "amusementPark",
+    "lon": 7.121861111,
+    "lat": 43.612944444
+  },
+  {
+    "wikiId": "Q74567548",
+    "name": "Changchun Movie Wonderland",
+    "cat": "amusementPark",
+    "lon": 125.440846,
+    "lat": 43.769548
+  },
+  {
+    "wikiId": "Q76283534",
+    "name": "Akamatsu amusement park",
+    "cat": "amusementPark",
+    "lon": 132.533694444,
+    "lat": 33.23975
+  },
+  {
+    "wikiId": "Q76410136",
+    "name": "Q76410136",
+    "cat": "amusementPark",
+    "lon": 19.484513,
+    "lat": 51.649692
+  },
+  {
+    "wikiId": "Q76410712",
+    "name": "Q76410712",
+    "cat": "amusementPark",
+    "lon": 18.409861111,
+    "lat": 54.793555555
+  },
+  {
+    "wikiId": "Q79090136",
+    "name": "Kinderstad Heerlen",
+    "cat": "amusementPark",
+    "lon": 5.964399,
+    "lat": 50.892204
+  },
+  {
+    "wikiId": "Q85680836",
+    "name": "Parque Guanabara (Belo Horizonte)",
+    "cat": "amusementPark",
+    "lon": -43.979027777,
+    "lat": -19.859722222
+  },
+  {
+    "wikiId": "Q92327193",
+    "name": "Crystal Beach Park",
+    "cat": "amusementPark",
+    "lon": -79.060287,
+    "lat": 42.863034
+  },
+  {
+    "wikiId": "Q95706649",
+    "name": "Austin Heights Water and Adventure Park",
+    "cat": "amusementPark",
+    "lon": 103.774972222,
+    "lat": 1.561416666
+  },
+  {
+    "wikiId": "Q95975840",
+    "name": "Danga Bay Theme Park",
+    "cat": "amusementPark",
+    "lon": 103.723444444,
+    "lat": 1.477277777
+  },
+  {
+    "wikiId": "Q97168213",
+    "name": "Izu Granpal Amusement Park",
+    "cat": "amusementPark",
+    "lon": 139.121416666,
+    "lat": 34.905638888
+  },
+  {
+    "wikiId": "Q97354061",
+    "name": "Camel Creek Adventure Park",
+    "cat": "amusementPark",
+    "lon": -4.9308183,
+    "lat": 50.4899485
+  },
+  {
+    "wikiId": "Q98371304",
+    "name": "Permonium",
+    "cat": "amusementPark",
+    "lon": 16.3426167,
+    "lat": 49.1258189
+  },
+  {
+    "wikiId": "Q98831176",
+    "name": "Aquapark Senec",
+    "cat": "amusementPark",
+    "lon": 17.415743,
+    "lat": 48.220972
+  },
+  {
+    "wikiId": "Q99528874",
+    "name": "Parc Fenestre",
+    "cat": "amusementPark",
+    "lon": 2.739984,
+    "lat": 45.585642
+  },
+  {
+    "wikiId": "Q102087279",
+    "name": "Ocean Beach Pleasure Park",
+    "cat": "amusementPark",
+    "lon": -1.417583333,
+    "lat": 55.001583333
+  },
+  {
+    "wikiId": "Q102107808",
+    "name": "Green Ville Amusement Park",
+    "cat": "amusementPark",
+    "lon": 114.15585,
+    "lat": 22.45475
+  },
+  {
+    "wikiId": "Q102215665",
+    "name": "Meli Heysel",
+    "cat": "amusementPark",
+    "lon": 4.338603962,
+    "lat": 50.894970786
+  },
+  {
+    "wikiId": "Q104830802",
+    "name": "Clara Lara FunPark",
+    "cat": "amusementPark",
+    "lon": -6.27234,
+    "lat": 52.973909
+  },
+  {
+    "wikiId": "Q105248956",
+    "name": "Magic Land",
+    "cat": "amusementPark",
+    "lon": 31.0249,
+    "lat": 29.9631
+  },
+  {
+    "wikiId": "Q105888062",
+    "name": "Delmar Garden",
+    "cat": "amusementPark",
+    "lon": -90.30712,
+    "lat": 38.65838
+  },
+  {
+    "wikiId": "Q106611250",
+    "name": "Alabama Splash Adventure",
+    "cat": "amusementPark",
+    "lon": -86.9987,
+    "lat": 33.38
+  },
+  {
+    "wikiId": "Q107209321",
+    "name": "Parcours Vita Bamenda",
+    "cat": "amusementPark",
+    "lon": 10.156415437,
+    "lat": 5.971002944
+  },
+  {
+    "wikiId": "Q107363677",
+    "name": "Park Mirakulum",
+    "cat": "amusementPark",
+    "lon": 14.860060214,
+    "lat": 50.239533866
+  },
+  {
+    "wikiId": "Q107640401",
+    "name": "Dzielnica Filmowa in Zalesie Górne",
+    "cat": "amusementPark",
+    "lon": 21.04523,
+    "lat": 52.03131
+  },
+  {
+    "wikiId": "Q107642130",
+    "name": "Luna Luna",
+    "cat": "amusementPark",
+    "lon": 24.787495758,
+    "lat": 59.43686744
+  },
+  {
+    "wikiId": "Q108545050",
+    "name": "Farmapark Muchomůrka",
+    "cat": "amusementPark",
+    "lon": 15.807265,
+    "lat": 50.6299994
+  },
+  {
+    "wikiId": "Q108837380",
+    "name": "Q108837380",
+    "cat": "amusementPark",
+    "lon": 13.993208,
+    "lat": 46.677491
+  },
+  {
+    "wikiId": "Q108908742",
+    "name": "Magic Land Abuja",
+    "cat": "amusementPark",
+    "lon": 7.452256,
+    "lat": 9.043226
+  },
+  {
+    "wikiId": "Q108908767",
+    "name": "Rojenny Tourist Village",
+    "cat": "amusementPark",
+    "lon": 6.811255027,
+    "lat": 6.094841488
+  },
+  {
+    "wikiId": "Q108908773",
+    "name": "Solomon Lar Amusement Park",
+    "cat": "amusementPark",
+    "lon": 8.858274,
+    "lat": 9.871856
+  },
+  {
+    "wikiId": "Q108910345",
+    "name": "Funtopia hills",
+    "cat": "amusementPark",
+    "lon": 3.760912968,
+    "lat": 6.476497453
+  },
+  {
+    "wikiId": "Q108917524",
+    "name": "Roey amusement park",
+    "cat": "amusementPark",
+    "lon": 6.995433798,
+    "lat": 4.838871991
+  },
+  {
+    "wikiId": "Q108929407",
+    "name": "AKWA WONDERLAND",
+    "cat": "amusementPark",
+    "lon": 7.120662112,
+    "lat": 6.232134113
+  },
+  {
+    "wikiId": "Q109255552",
+    "name": "El Caballo Blanco, Wooroloo",
+    "cat": "amusementPark",
+    "lon": 116.3589729,
+    "lat": -31.8074827
+  },
+  {
+    "wikiId": "Q109303171",
+    "name": "Wonderland amusement park and resort, Abuja.",
+    "cat": "amusementPark",
+    "lon": 7.452076555,
+    "lat": 9.043113587
+  },
+  {
+    "wikiId": "Q109310530",
+    "name": "Dream World Africana",
+    "cat": "amusementPark",
+    "lon": 3.542014,
+    "lat": 6.440367
+  },
+  {
+    "wikiId": "Q109310697",
+    "name": "Garden City Amusement Park",
+    "cat": "amusementPark",
+    "lon": 6.997575,
+    "lat": 4.828253
+  },
+  {
+    "wikiId": "Q109320477",
+    "name": "Hi-Impact Planet Amusement Park",
+    "cat": "amusementPark",
+    "lon": 3.418761,
+    "lat": 6.726808
+  },
+  {
+    "wikiId": "Q109366437",
+    "name": "Funplex Resort",
+    "cat": "amusementPark",
+    "lon": 3.369329,
+    "lat": 6.612047
+  },
+  {
+    "wikiId": "Q109366708",
+    "name": "Mickey's World Fun Park",
+    "cat": "amusementPark",
+    "lon": 4.542627,
+    "lat": 7.773302
+  },
+  {
+    "wikiId": "Q109366865",
+    "name": "Fantasy Land",
+    "cat": "amusementPark",
+    "lon": 3.432697,
+    "lat": 6.458588
+  },
+  {
+    "wikiId": "Q109379007",
+    "name": "Angle Court",
+    "cat": "amusementPark",
+    "lon": 3.4268492,
+    "lat": 6.4563976
+  },
+  {
+    "wikiId": "Q109707292",
+    "name": "Erlebnispark Straßwalchen",
+    "cat": "amusementPark",
+    "lon": 13.274712341,
+    "lat": 47.985538404
+  },
+  {
+    "wikiId": "Q110014267",
+    "name": "National Amusement Park",
+    "cat": "amusementPark",
+    "lon": 106.921916666,
+    "lat": 47.909861111
+  },
+  {
+    "wikiId": "Q110419376",
+    "name": "Arnolds Park",
+    "cat": "amusementPark",
+    "lon": -95.1375,
+    "lat": 43.3654
+  },
+  {
+    "wikiId": "Q110536029",
+    "name": "Majaland Praha",
+    "cat": "amusementPark",
+    "lon": 14.28351,
+    "lat": 50.12668
+  },
+  {
+    "wikiId": "Q110544507",
+    "name": "Majaland Warszawa",
+    "cat": "amusementPark",
+    "lon": 21.283876,
+    "lat": 52.182528
+  },
+  {
+    "wikiId": "Q110553707",
+    "name": "Majaland Gdańsk",
+    "cat": "amusementPark",
+    "lon": 18.473627,
+    "lat": 54.408814
+  },
+  {
+    "wikiId": "Q111310216",
+    "name": "Q111310216",
+    "cat": "amusementPark",
+    "lon": 12.2421398,
+    "lat": 45.536274
+  },
+  {
+    "wikiId": "Q111534202",
+    "name": "Kouta Park",
+    "cat": "amusementPark",
+    "lon": 30.0339,
+    "lat": 31.2846
+  },
+  {
+    "wikiId": "Q111569768",
+    "name": "Beothuck Village Park",
+    "cat": "amusementPark",
+    "lon": -53.8038889,
+    "lat": 48.6652778
+  },
+  {
+    "wikiId": "Q111663495",
+    "name": "Hot Gun Town",
+    "cat": "amusementPark",
+    "lon": 11.14516,
+    "lat": 48.13628
+  },
+  {
+    "wikiId": "Q111805063",
+    "name": "The Schwarzwaldbob",
+    "cat": "amusementPark",
+    "lon": 8.20217,
+    "lat": 48.26535
+  },
+  {
+    "wikiId": "Q111904340",
+    "name": "Q111904340",
+    "cat": "amusementPark",
+    "lon": 5.14515,
+    "lat": 50.13034
+  },
+  {
+    "wikiId": "Q112144119",
+    "name": "Böhmerwaldpark",
+    "cat": "amusementPark",
+    "lon": 13.86338,
+    "lat": 48.67806
+  },
+  {
+    "wikiId": "Q112199189",
+    "name": "Horseshoe Junction",
+    "cat": "amusementPark",
+    "lon": -96.42771,
+    "lat": 30.16842
+  },
+  {
+    "wikiId": "Q113009357",
+    "name": "Knights Action Park",
+    "cat": "amusementPark",
+    "lon": -89.683937,
+    "lat": 39.74039
+  },
+  {
+    "wikiId": "Q113371298",
+    "name": "Kidzania Fukuoka",
+    "cat": "amusementPark",
+    "lon": 130.440277777,
+    "lat": 33.565
+  },
+  {
+    "wikiId": "Q113484785",
+    "name": "Hilma Water Fountain and Swimming Pool Company",
+    "cat": "amusementPark",
+    "lon": 3.4252325,
+    "lat": 6.4656731
+  },
+  {
+    "wikiId": "Q113484801",
+    "name": "Hi-Impact Cruise (Office)",
+    "cat": "amusementPark",
+    "lon": 3.3619848,
+    "lat": 6.5498929
+  },
+  {
+    "wikiId": "Q113484820",
+    "name": "Stanley Waters",
+    "cat": "amusementPark",
+    "lon": 3.1842154,
+    "lat": 6.4993381
+  },
+  {
+    "wikiId": "Q113484873",
+    "name": "Giant Affairs Limited",
+    "cat": "amusementPark",
+    "lon": 3.3523342,
+    "lat": 6.5012071
+  },
+  {
+    "wikiId": "Q113486109",
+    "name": "Arts and Crafts Children Club",
+    "cat": "amusementPark",
+    "lon": 3.32263,
+    "lat": 6.523509
+  },
+  {
+    "wikiId": "Q113486557",
+    "name": "Rosellas Amusement parks",
+    "cat": "amusementPark",
+    "lon": 3.25223,
+    "lat": 6.5665042
+  },
+  {
+    "wikiId": "Q113486620",
+    "name": "Play Zone Amusement Parks",
+    "cat": "amusementPark",
+    "lon": 3.357299,
+    "lat": 6.490089
+  },
+  {
+    "wikiId": "Q113486720",
+    "name": "Exceptional Parties",
+    "cat": "amusementPark",
+    "lon": 3.350058,
+    "lat": 6.498389
+  },
+  {
+    "wikiId": "Q113486904",
+    "name": "World Class and Unique Amusement park",
+    "cat": "amusementPark",
+    "lon": 3.325696,
+    "lat": 6.516849
+  },
+  {
+    "wikiId": "Q113489491",
+    "name": "Midas",
+    "cat": "amusementPark",
+    "lon": 3.363596,
+    "lat": 6.485523
+  },
+  {
+    "wikiId": "Q113489544",
+    "name": "Consolidated Hall Ilupeju",
+    "cat": "amusementPark",
+    "lon": 3.3675687,
+    "lat": 6.5511546
+  }
+]
