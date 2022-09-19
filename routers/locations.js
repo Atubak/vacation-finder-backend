@@ -3,12 +3,14 @@ const { Router } = require("express");
 const locationFinder = require("../locationFinder");
 const fs = require("fs");
 const authMiddleWare = require("../auth/middleware");
+const sequelize = require("sequelize");
 
 //models
 const locationModel = require("../models").location;
 const dataPointModel = require("../models").dataPoint;
 const userModel = require("../models").user;
 const userLocationModel = require("../models").userLocation;
+
 
 //reading filenames from datafolder
 const allCategories = fs
@@ -55,7 +57,7 @@ router.get("/", (req, res, next) => {
     if (resultsAmt > 5) {
       let randomLocationsArr = [];
       let choices = [];
-      for (let i = 0; i < 1; i++) {
+      for (let i = 0; i < 5; i++) {
         let newChoiceMade = false;
         while (!newChoiceMade) {
           const randomLocationIndex = Math.floor(
@@ -183,5 +185,16 @@ router.get(`/:locationId/users`, async (req, res, next) => {
     next(e);
   }
 });
+
+//endpoint that retrieves the last  5 locations in db
+router.get('/recent', async (req, res, next) => {
+  try {
+    const allLocs = await locationModel.findAll({include: {all: true, nested: true,  }});
+    const recentLocs = allLocs.slice(-5);
+    res.json(recentLocs);
+  } catch (e) {
+    next(e)
+  }
+})
 
 module.exports = router;
