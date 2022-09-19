@@ -189,7 +189,7 @@ router.get(`/:locationId/users`, async (req, res, next) => {
 //endpoint that retrieves the last  5 locations in db
 router.get('/recent', async (req, res, next) => {
   try {
-    const allLocs = await locationModel.findAll();
+    const allLocs = await locationModel.findAll({include: {all: true, nested: true,  }});
     const recentLocs = allLocs.slice(-5);
     res.json(recentLocs);
   } catch (e) {
