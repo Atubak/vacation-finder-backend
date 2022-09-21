@@ -11,7 +11,6 @@ const dataPointModel = require("../models").dataPoint;
 const userModel = require("../models").user;
 const userLocationModel = require("../models").userLocation;
 
-
 //reading filenames from datafolder
 const allCategories = fs
   .readdirSync("./data/formattedData")
@@ -187,14 +186,17 @@ router.get(`/:locationId/users`, async (req, res, next) => {
 });
 
 //endpoint that retrieves the last  5 locations in db
-router.get('/recent', async (req, res, next) => {
+router.get("/recent", async (req, res, next) => {
   try {
-    const allLocs = await locationModel.findAll({include: {all: true, nested: true,  }});
-    const recentLocs = allLocs.slice(-5);
+    const recentLocs = await locationModel.findAll({
+      order: [["id", "DESC"]],
+      limit: 5,
+      include: { all: true, nested: true },
+    });
     res.json(recentLocs);
   } catch (e) {
-    next(e)
+    next(e);
   }
-})
+});
 
 module.exports = router;
