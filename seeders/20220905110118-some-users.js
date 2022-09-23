@@ -17,38 +17,22 @@ module.exports = {
       "users",
       [
         {
-          name: "John Doe",
-          email: "johndoe@hotmail.com",
-          password: bcrypt.hashSync("john", 10),
+          name: "Mr. Anderson",
+          email: "neo@matrix.com",
+          password: bcrypt.hashSync("neo", 10),
           imgUrl:
-            "https://i.pinimg.com/originals/6a/7b/0b/6a7b0b15659ff7b51efa21ab9d5f49da.jpg",
+            "https://res.cloudinary.com/djsz833wc/image/upload/v1663793927/VacaLoca%20Users/janh62bqjrxrxkgonugi.png",
+          description: "I know Kung-Fu!",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
         {
-          name: "Jane Doe",
-          email: "janedoe@hotmail.com",
-          password: bcrypt.hashSync("jane", 10),
+          name: "Strawberry",
+          email: "strawberry@fields.com",
+          password: bcrypt.hashSync("strawberry", 10),
           imgUrl:
-            "https://i.pinimg.com/originals/6a/7b/0b/6a7b0b15659ff7b51efa21ab9d5f49da.jpg",
-          createdAt: new Date(),
-          updatedAt: new Date(),
-        },
-        {
-          name: "Dom Johnson",
-          email: "domjohnson@hotmail.com",
-          password: bcrypt.hashSync("dom", 10),
-          imgUrl:
-            "https://i.pinimg.com/originals/6a/7b/0b/6a7b0b15659ff7b51efa21ab9d5f49da.jpg",
-          createdAt: new Date(),
-          updatedAt: new Date(),
-        },
-        {
-          name: "Debby Jenkins",
-          email: "debbyjenkins@hotmail.com",
-          password: bcrypt.hashSync("debby", 10),
-          imgUrl:
-            "https://i.pinimg.com/originals/6a/7b/0b/6a7b0b15659ff7b51efa21ab9d5f49da.jpg",
+            "https://res.cloudinary.com/djsz833wc/image/upload/v1663793504/VacaLoca%20Users/ubr3cdwespcd6kmmlia3.png",
+          description: "You are the straw to my berry.",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
