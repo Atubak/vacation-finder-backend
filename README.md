@@ -15,3 +15,5 @@ in this file:
 
 - locationFinder function that manages the order in which the above are to be called. With some messages indicating its progress.
 ---
+
+You can check it out by going to https://vacation-locator-vacaloca.herokuapp.com/locations/example. This will show a sample response with the categories "circus" and "beach".  
