@@ -7,7 +7,7 @@ this file houses the main logic of the entire VacaLoca project: taking all the i
 in this file:
 
 
-- rangeBoxer function to take each datapoint from the category with the least amount of datapoints and calculate a 5x5 range around it by using rangeCalculator.js (located in helperFunctions folder). 
+- rangeBoxer function to take each datapoint from the category with the least amount of datapoints and calculate a 5x5km range around it by using rangeCalculator.js (located in helperFunctions folder). 
 
 - dataPointInserter function that takes the ranges from rangeBoxer and inserts a datapoint if it is within a range, removes the whole range if there is no datapoint that goes into it.
 
